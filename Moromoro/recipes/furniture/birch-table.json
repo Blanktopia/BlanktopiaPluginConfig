@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_BIRCH_LOG"
+   },
+   "result": "birch-table",
+   "shape": [
+      "SSS",
+      "S S",
+      "S S"
+   ],
+   "type": "shaped"
+}

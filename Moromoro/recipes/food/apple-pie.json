@@ -1,0 +1,9 @@
+{
+   "ingredients": [
+      "apple",
+      "sugar",
+      "egg"
+   ],
+   "result": "apple-pie",
+   "type": "shapeless"
+}

@@ -1,0 +1,9 @@
+{
+   "ingredients": [
+      "apple",
+      "apple",
+      "apple"
+   ],
+   "result": "apple-cider",
+   "type": "shapeless"
+}

@@ -1,0 +1,26 @@
+{
+   "custom-model-data": 1,
+   "material": "POTION",
+   "name": "&fApple Cider",
+   "triggers": {
+      "consume": [
+         {
+            "duration": 6000,
+            "effect": "increase_damage",
+            "level": 2,
+            "type": "add-potion-effect"
+         },
+         {
+            "duration": 6000,
+            "effect": "slow",
+            "level": 0,
+            "type": "add-potion-effect"
+         },
+         {
+            "amount": 2,
+            "saturation": 1,
+            "type": "feed"
+         }
+      ]
+   }
+}

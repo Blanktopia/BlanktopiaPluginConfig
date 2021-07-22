@@ -1,0 +1,36 @@
+name: "&5Subspace Bubble&d ⏺"
+material: WOODEN_HOE
+custom-model-data: 1008
+
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &bTeleport wherever you want!
+  
+  &8-------------------------
+  &6INFINITY Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+  infinity: 1
+
+triggers:
+  right-click:
+  - type: if
+    if:
+      type: item-cooldown
+    then:
+    - type: launch-entity
+      entity: ENDER_PEARL
+      magnitude: 1.5
+      pitch: 0
+    - type: play-sound
+      sound: entity.ender_pearl.throw
+      pitch: 0.5
+      volume: 0.5
+    - type: item-cooldown
+      ticks: 10
+  - type: cancel

@@ -1,0 +1,11 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_JUNGLE_LOG"
+   },
+   "result": "jungle-stool",
+   "shape": [
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

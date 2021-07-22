@@ -1,0 +1,36 @@
+name: "&dPaint Brush&5 ⭐"
+material: WOODEN_HOE
+custom-model-data: 1001
+
+unbreakable: true
+
+lore: |-
+  &7Paint: NONE
+  &8-------------------------
+  
+  &bLeft-click&f to pick a colour.
+  &bRight-click&f to paint a block.
+  
+  &fWorks on:
+  &8- &fGlass
+  &8- &fWool
+  &8- &fTerracotta
+  &8- &fConcrete
+  
+  &8-------------------------
+  &6BUILDER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+  infinity: 1
+
+triggers:
+  left-click-block:
+  - type: paint-brush-pick
+  - type: cancel
+  right-click-block:
+  - type: paint-brush-paint
+  - type: cancel
+  right-click-entity:
+  - type: cancel

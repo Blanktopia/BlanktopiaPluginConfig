@@ -1,0 +1,11 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_SPRUCE_LOG"
+   },
+   "result": "spruce-stool",
+   "shape": [
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

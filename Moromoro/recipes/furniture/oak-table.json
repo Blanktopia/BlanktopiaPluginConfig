@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_OAK_LOG"
+   },
+   "result": "oak-table",
+   "shape": [
+      "SSS",
+      "S S",
+      "S S"
+   ],
+   "type": "shaped"
+}

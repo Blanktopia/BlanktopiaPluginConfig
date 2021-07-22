@@ -1,0 +1,12 @@
+pages:
+- |-
+  **QoL Commands**
+  Hover:
+  [/search <item>](color=6 hover=Searches nearby chests for items)
+  [/unload](color=6 hover=Places matching items into nearby chests)
+  [/dump](color=6 hover=Places all items into nearby chests)
+  [/blacklist <item>](color=6 hover=Blacklists item from being picked up)
+  [/besttools](color=6 hover=Automatically use the best tool to break blocks)
+  [/refill](color=6 hover=Automatically refill your hand from your inventory)
+  [/quest](color=6 hover=Display your current quest status)
+  [« Back](underlined dark_blue Back to Commands run_command=/book commands)

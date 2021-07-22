@@ -1,0 +1,19 @@
+name: Beginner's Guide
+material: KNOWLEDGE_BOOK
+
+lore: |-
+  &bRight-click&f or type &b/help&f to learn more
+  &fabout Blanktopia.
+
+enchantments:
+  blanktopia:soulbound: 1
+
+triggers:
+  right-click:
+  - type: player-command
+    command: help
+  - type: cancel
+  right-click-inventory:
+  - type: player-command
+    command: help
+  - type: cancel

@@ -1,0 +1,10 @@
+{
+   "block": {
+      "collision": false,
+      "sit-height": 0.6875,
+      "type": "item"
+   },
+   "custom-model-data": 1015,
+   "material": "LEATHER_HORSE_ARMOR",
+   "name": "&fDark Oak Stool"
+}

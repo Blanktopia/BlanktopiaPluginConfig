@@ -1,0 +1,23 @@
+{
+   "custom-model-data": 1,
+   "enchantments": {
+      "blanktopia:final": 1,
+      "blanktopia:soulbound": 1
+   },
+   "lore": "&8-------------------------\n\n&bRight-click&f to turn an area\n&finto a &x&8&D&B&3&6&0Plains&f biome.\n\n&8-------------------------\n&6NATURE Crate Item",
+   "material": "WOODEN_HOE",
+   "name": "&x&8&D&B&3&6&0Plains Biome Wand",
+   "triggers": {
+      "right-click": [
+         {
+            "biome": "PLAINS",
+            "range": 2,
+            "type": "biome-wand"
+         },
+         {
+            "type": "cancel"
+         }
+      ]
+   },
+   "unbreakable": true
+}

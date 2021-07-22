@@ -1,0 +1,36 @@
+name: "&x&3&3&d&8&f&2Portable Ore Compactor ⏹"
+material: NETHER_STAR
+
+lore: |-
+  &8-------------------------
+  
+  &bRight-click&f from your
+  &finventory to compact items
+  &finto blocks.
+  
+  &8-------------------------
+  &6MINER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  right-click:
+  - type: sudo-command
+    command: condense inventory
+    permissions:
+    - essentials.condense
+  - type: play-sound
+    sound: block.beacon.power.select
+    pitch: 2
+  - type: cancel
+  right-click-inventory:
+  - type: sudo-command
+    command: condense inventory
+    permissions:
+    - essentials.condense
+  - type: play-sound
+    sound: block.beacon.power.select
+    pitch: 2
+  - type: cancel

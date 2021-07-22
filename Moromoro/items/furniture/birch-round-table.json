@@ -1,0 +1,10 @@
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "type": "item"
+   },
+   "custom-model-data": 1052,
+   "material": "LEATHER_HORSE_ARMOR",
+   "name": "&fBirch Round Table"
+}

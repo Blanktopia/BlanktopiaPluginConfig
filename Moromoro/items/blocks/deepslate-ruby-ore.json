@@ -1,0 +1,11 @@
+{
+   "block": {
+      "can-fortune": true,
+      "drops": "ruby",
+      "state": 15,
+      "type": "mushroom"
+   },
+   "custom-model-data": 1015,
+   "material": "PAPER",
+   "name": "&fDeepslate Ruby Ore"
+}

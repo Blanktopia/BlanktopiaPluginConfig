@@ -1,0 +1,9 @@
+type: shaped
+result: santa-hat
+shape: 
+  - " W "
+  - WWW
+  - OOO
+ingredients:
+  W: RED_WOOL
+  O: WHITE_WOOL

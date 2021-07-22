@@ -1,0 +1,11 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_OAK_LOG"
+   },
+   "result": "oak-stool",
+   "shape": [
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

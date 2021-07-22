@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_SPRUCE_LOG"
+   },
+   "result": "spruce-chair",
+   "shape": [
+      "S  ",
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

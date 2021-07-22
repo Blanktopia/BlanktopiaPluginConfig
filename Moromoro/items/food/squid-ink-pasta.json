@@ -1,0 +1,20 @@
+{
+   "custom-model-data": 2,
+   "material": "MUSHROOM_STEW",
+   "name": "&fSquid Ink Pasta",
+   "triggers": {
+      "consume": [
+         {
+            "duration": 1200,
+            "effect": "damage_resistance",
+            "level": 1,
+            "type": "add-potion-effect"
+         },
+         {
+            "amount": 3,
+            "saturation": 5.5999999999999996,
+            "type": "feed"
+         }
+      ]
+   }
+}

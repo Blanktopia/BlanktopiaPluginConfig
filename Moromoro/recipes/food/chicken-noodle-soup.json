@@ -1,0 +1,9 @@
+{
+   "ingredients": [
+      "noodles",
+      "cooked_chicken",
+      "bowl"
+   ],
+   "result": "chicken-noodle-soup",
+   "type": "shapeless"
+}

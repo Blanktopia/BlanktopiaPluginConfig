@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_WARPED_STEM"
+   },
+   "result": "warped-round-table",
+   "shape": [
+      " S ",
+      "SSS",
+      " S "
+   ],
+   "type": "shaped"
+}

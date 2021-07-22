@@ -1,0 +1,15 @@
+{
+   "ingredients": [
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE",
+      "GOLDEN_APPLE"
+   ],
+   "result": "golden-apple-crate",
+   "type": "shapeless"
+}

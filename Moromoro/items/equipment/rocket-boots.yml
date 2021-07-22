@@ -1,0 +1,48 @@
+name: "§dRocket Boots§5 ⭐"
+material: NETHERITE_BOOTS
+custom-model-data: 1
+
+lore: |-
+  &8-------------------------
+
+  &fJump while pressing &bShift&f to
+  &fshoot up like a rocket!
+
+  &8-------------------------
+  &6EXPLORER's Crate Item
+
+unbreakable: true
+
+triggers:
+  sneak:
+  - type: add-permanent-potion-effect
+    key: rocket-boots
+    effects: { jump: 5 }
+  unsneak:
+  - type: remove-permanent-potion-effect
+    key: rocket-boots
+  jump:
+  - type: if
+    if:
+      type: is-sneaking
+    then:
+    - type: repeat
+      count: 3
+      interval: 2
+      actions:
+      - type: spawn-particle
+        count: 2
+        offset-x: 0.3
+        offset-y: 0.3
+        offset-z: 0.3
+        particle: FIREWORKS_SPARK
+      - type: spawn-particle
+        count: 2
+        offset-x: 0.3
+        offset-y: 0.3
+        offset-z: 0.3
+        particle: FLAME
+    - type: play-sound
+      pitch: 1.1
+      sound: entity.firework_rocket.launch
+      volume: 0.5

@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_CRIMSON_STEM"
+   },
+   "result": "crimson-chair",
+   "shape": [
+      "S  ",
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

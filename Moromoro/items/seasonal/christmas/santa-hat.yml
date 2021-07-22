@@ -1,0 +1,23 @@
+name: "§x§a§1§2§7§2§2Santa Hat"
+material: RED_WOOL
+custom-model-data: 1
+
+triggers:
+  right-click:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  right-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  shift-right-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  shift-left-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  place-block:
+  - type: cancel

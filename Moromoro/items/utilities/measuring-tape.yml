@@ -1,0 +1,35 @@
+name: "§r§x§a§4§6§b§f§fMeasuring Tape ᛨ"
+material: WOODEN_HOE
+custom-model-data: 1004
+
+unbreakable: true
+
+lore: |-
+  §8-------------------------
+  
+  §bLeft-click§f to set a
+  §fpoint to measure from.
+  §bRight-click§f to measure the
+  §flength between two blocks.
+  
+  §8-------------------------
+  §6BUILDER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  left-click:
+  - type: raycast
+    range: 20
+    actions:
+    - type: measure-distance
+      is-origin: true
+  - type: cancel
+  right-click:
+  - type: raycast
+    range: 20
+    actions:
+    - type: measure-distance
+  - type: cancel

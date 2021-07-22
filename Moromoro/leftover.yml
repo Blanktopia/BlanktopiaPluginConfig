@@ -1,0 +1,56 @@
+items:
+  switch-pick:
+    enchantments:
+      silk_touch: 1
+      soulbound: 1
+    lore:
+    - "§8-------------------------"
+    - ''
+    - "§bRight-click§f to toggle"
+    - "§fthe §bSilk Touch§f enchantment."
+    - ''
+    - "§8-------------------------"
+    - "§6MINER's Crate Item"
+    material: NETHERITE_PICKAXE
+    name: "§x§d§7§4§4§8§1Switch Pick ⛏"
+    triggers:
+    - actions:
+      - action: toggle-enchantment
+        enchantment: silk_touch
+        level: 1
+        name: Silk Touch
+      trigger: right-click
+
+kits:
+  starter:
+  - custom-item: guidebook
+  - enchantments:
+      soulbound: 1
+      unbreaking: 2
+    material: wooden_sword
+  - enchantments:
+      soulbound: 1
+      unbreaking: 2
+    material: wooden_pickaxe
+  - enchantments:
+      soulbound: 1
+      unbreaking: 2
+    material: wooden_axe
+  - enchantments:
+      soulbound: 1
+      unbreaking: 2
+    material: wooden_shovel
+  - amount: 16
+    custom-item: cotton-candy-pink
+  - enchantments:
+      soulbound: 1
+    material: golden_shovel
+    name: "§rClaim Shovel"
+  - enchantments:
+      soulbound: 1
+      unbreaking: 2
+    material: shield
+    slot: OFF_HAND
+
+resource-pack-hash: 9319d8e5fa45b58fbbbe4ac1376fea3bce9ab128
+resource-pack-url: http://files.blanktopia.com/Blanktopia-9319d8e5fa45b58fbbbe4ac1376fea3bce9ab128.zip

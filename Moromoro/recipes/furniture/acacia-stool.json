@@ -1,0 +1,11 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_ACACIA_LOG"
+   },
+   "result": "acacia-stool",
+   "shape": [
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

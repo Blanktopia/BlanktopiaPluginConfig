@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "P": "CRIMSON_PLANKS",
+      "S": "STRIPPED_CRIMSON_STEM"
+   },
+   "result": "crimson-garden-table",
+   "shape": [
+      "PPP",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

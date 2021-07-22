@@ -1,0 +1,10 @@
+pages:
+- |-
+  **Smelt**
+  ##Smelts the blocks you mine.##
+
+  Rarity: &1Rare&r
+  Found on: Pickaxes
+  Enchantable on: Pickaxes, Axes, Shovels
+
+  [« Back](underlined dark_blue Back to Enchantments run_command=/help enchantments)

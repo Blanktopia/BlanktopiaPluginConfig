@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "P": "OAK_PLANKS",
+      "S": "STRIPPED_OAK_LOG"
+   },
+   "result": "oak-garden-table",
+   "shape": [
+      "PPP",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

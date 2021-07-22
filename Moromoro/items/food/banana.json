@@ -1,0 +1,8 @@
+{
+   "custom-model-data": 1,
+   "material": "APPLE",
+   "name": "&fBanana",
+   "triggers": {
+      "consume": [ ]
+   }
+}

@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "P": "JUNGLE_PLANKS",
+      "S": "STRIPPED_JUNGLE_LOG"
+   },
+   "result": "jungle-garden-table",
+   "shape": [
+      "PPP",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

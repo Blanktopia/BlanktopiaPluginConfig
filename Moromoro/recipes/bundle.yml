@@ -1,0 +1,9 @@
+type: shaped
+result: BUNDLE
+shape:
+- "-#-"
+- "# #"
+- "###"
+ingredients:
+  "#": RABBIT_HIDE
+  "-": STRING

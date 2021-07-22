@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "P": "WARPED_PLANKS",
+      "S": "STRIPPED_WARPED_STEM"
+   },
+   "result": "warped-garden-table",
+   "shape": [
+      "PPP",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

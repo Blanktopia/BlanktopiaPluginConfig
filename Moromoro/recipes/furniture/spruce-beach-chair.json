@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_SPRUCE_LOG",
+      "W": "BLACK_WOOL,RED_WOOL,GREEN_WOOL,BROWN_WOOL,BLUE_WOOL,PURPLE_WOOL,CYAN_WOOL,LIGHT_GRAY_WOOL,GRAY_WOOL,PINK_WOOL,LIME_WOOL,YELLOW_WOOL,LIGHT_BLUE_WOOL,MAGENTA_WOOL,ORANGE_WOOL,WHITE_WOOL"
+   },
+   "result": "spruce-beach-chair",
+   "shape": [
+      "W  ",
+      "SWW",
+      "S S"
+   ],
+   "type": "shaped"
+}

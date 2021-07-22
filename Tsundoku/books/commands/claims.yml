@@ -1,0 +1,15 @@
+pages:
+- |-
+  **Claims Commands**
+  Hover:
+  [/trustlist](color=6 hover=List trusted players in your claim)
+  [/accesstrust <who|public>](color=6 hover=Allows a player or everyone to open doors and use buttons in your claim)
+  [/containertrust <who|public>](color=6 hover=Allows a player or everyone to open containers in your claim)
+  [/trust <who|public>](color=6 hover=Allows a player or everyone to build in your claim)
+  [/untrust <who|public>](color=6 hover=Revokes trust to players or everyone)
+  [/permissiontrust <who|public>](color=6 hover=Allows a player or everyone to change permissions in your claim)
+  [/expandclaim <number>](color=6 hover=Expand your claim in the direction you are looking)
+- |-
+  [/unclaim](color=6 hover=Unclaims the area you are standing in)
+  [/givepet](color=6 hover=Gives a pet to another player)
+  [« Back](underlined dark_blue Back to Commands run_command=/book commands)

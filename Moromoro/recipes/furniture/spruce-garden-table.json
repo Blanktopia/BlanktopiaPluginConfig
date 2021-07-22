@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "P": "SPRUCE_PLANKS",
+      "S": "STRIPPED_SPRUCE_LOG"
+   },
+   "result": "spruce-garden-table",
+   "shape": [
+      "PPP",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

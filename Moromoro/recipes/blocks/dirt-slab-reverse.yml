@@ -1,0 +1,6 @@
+type: shaped
+result: DIRT
+shape:
+- DD
+ingredients:
+  D: PETRIFIED_OAK_SLAB

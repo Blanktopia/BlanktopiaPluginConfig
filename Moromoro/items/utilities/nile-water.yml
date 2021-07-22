@@ -1,0 +1,23 @@
+name: "&9Nile Water&1 ≈"
+material: WOODEN_HOE
+custom-model-data: 1006
+
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &fWater from the Nile.
+  
+  &8-------------------------
+  &6INFINITY Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+  infinity: 1
+
+triggers:
+  right-click:
+  - type: water-bucket
+  - type: cancel

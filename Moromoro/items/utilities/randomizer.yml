@@ -1,0 +1,26 @@
+name: "&r&x&a&4&6&b&f&fRandomizer ?"
+material: WOODEN_HOE
+custom-model-data: 1005
+
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &bRight-click&f to place a random
+  &fblock from your hot bar.
+  
+  &8-------------------------
+  &6BUILDER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  right-click:
+  - type: raycast
+    range: 10
+    actions:
+    - type: place-random-block
+  - type: cancel

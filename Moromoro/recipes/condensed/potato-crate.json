@@ -1,0 +1,15 @@
+{
+   "ingredients": [
+      "POTATO",
+      "POTATO",
+      "POTATO",
+      "POTATO",
+      "POTATO",
+      "POTATO",
+      "POTATO",
+      "POTATO",
+      "POTATO"
+   ],
+   "result": "potato-crate",
+   "type": "shapeless"
+}

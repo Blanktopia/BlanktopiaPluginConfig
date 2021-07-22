@@ -1,0 +1,42 @@
+name: "&6Ra's Protection&c ☲"
+material: GOLDEN_CHESTPLATE
+
+lore: |-
+  &7Fire Resistance
+  &8-------------------------
+  
+  &fGrants immunity to fire and
+  &flava.
+  
+  &8-------------------------
+  &6MINER's Crate Item
+
+unbreakable: true
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+  blast_protection: 4
+
+attributes:
+- amount: 8
+  attribute: GENERIC_ARMOR
+  name: Armor modifier
+  operation: ADD_NUMBER
+  slot: CHEST
+  uuid: 037c7a74-32ed-4e6c-ad8f-06251831e095
+- amount: 2
+  attribute: GENERIC_ARMOR_TOUGHNESS
+  name: Armor toughness
+  operation: ADD_NUMBER
+  slot: CHEST
+  uuid: bec05eba-6fc6-4afe-81fe-2b7e86fda9ff
+
+triggers:
+  equip-chest:
+  - type: add-permanent-potion-effect
+    key: ras-protection
+    effects: { fire_resistance: 0 }
+  unequip-armor:
+  - type: remove-permanent-potion-effect
+    key: ras-protection

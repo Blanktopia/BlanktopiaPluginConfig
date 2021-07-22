@@ -1,0 +1,42 @@
+name: "Hakama"
+material: LEATHER_LEGGINGS
+color: "000000"
+
+lore: |-
+  &8-------------------------
+  
+  &8-------------------------
+  &6COMBAT Crate Item
+
+unbreakable: true
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  sprint:
+  - type: if
+    if:
+      type: is-on-ground
+    then:
+    - type: add-velocity
+      x: 0
+      y: 0
+      z: 0.5
+    - type: repeat
+      count: 3
+      interval: 3
+      actions:
+      - type: spawn-particle
+        count: 2
+        y: 0.9
+        offset-x: 0.3
+        offset-y: 0.3
+        offset-z: 0.3
+        particle: CLOUD
+        extra: 0
+    - type: play-sound
+      pitch: 1.1
+      sound: entity.firework_rocket.launch
+      volume: 0.5

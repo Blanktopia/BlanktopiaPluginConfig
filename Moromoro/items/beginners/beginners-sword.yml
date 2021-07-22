@@ -1,0 +1,9 @@
+name: "&rBeginner's Sword"
+material: WOODEN_SWORD
+
+lore: |-
+  
+  &fSoulbound items stay with you when you die.
+
+enchantments:
+  blanktopia:soulbound: 1

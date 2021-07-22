@@ -1,0 +1,16 @@
+name: "&rClaim Shovel"
+material: GOLDEN_SHOVEL
+
+lore: |-
+  
+  &3Read /claims for more information.
+
+unbreakable: true
+
+enchantments:
+  blanktopia:soulbound: 1
+  blanktopia:final: 1
+
+triggers:
+  break-block:
+  - type: cancel

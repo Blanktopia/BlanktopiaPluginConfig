@@ -1,0 +1,11 @@
+{
+   "block": {
+      "can-fortune": true,
+      "drops": "ruby",
+      "state": 14,
+      "type": "mushroom"
+   },
+   "custom-model-data": 1014,
+   "material": "PAPER",
+   "name": "&fRuby Ore"
+}

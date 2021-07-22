@@ -1,0 +1,10 @@
+{
+   "block": {
+      "collision": false,
+      "sit-height": 0.5625,
+      "type": "item"
+   },
+   "custom-model-data": 1004,
+   "material": "LEATHER_HORSE_ARMOR",
+   "name": "&fAcacia Chair"
+}

@@ -1,0 +1,9 @@
+{
+   "ingredients": [
+      "noodles",
+      "cheese",
+      "bowl"
+   ],
+   "result": "mac-and-cheese",
+   "type": "shapeless"
+}

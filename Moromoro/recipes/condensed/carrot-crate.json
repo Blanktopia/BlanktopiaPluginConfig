@@ -1,0 +1,15 @@
+{
+   "ingredients": [
+      "CARROT",
+      "CARROT",
+      "CARROT",
+      "CARROT",
+      "CARROT",
+      "CARROT",
+      "CARROT",
+      "CARROT",
+      "CARROT"
+   ],
+   "result": "carrot-crate",
+   "type": "shapeless"
+}

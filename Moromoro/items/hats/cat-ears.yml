@@ -1,0 +1,29 @@
+name: "Cat Ears"
+material: LEATHER_HORSE_ARMOR
+custom-model-data: 2002
+
+lore: "&7Dyeable"
+
+color: "BLACK"
+
+dyeable: true
+
+triggers:
+  right-click:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  right-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  shift-right-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  shift-left-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  place-block:
+  - type: cancel

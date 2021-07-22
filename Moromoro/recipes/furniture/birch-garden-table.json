@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "P": "BIRCH_PLANKS",
+      "S": "STRIPPED_BIRCH_LOG"
+   },
+   "result": "birch-garden-table",
+   "shape": [
+      "PPP",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

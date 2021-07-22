@@ -1,0 +1,10 @@
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "type": "item"
+   },
+   "custom-model-data": 1054,
+   "material": "LEATHER_HORSE_ARMOR",
+   "name": "&fAcacia Round Table"
+}

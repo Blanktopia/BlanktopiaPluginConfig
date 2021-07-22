@@ -1,0 +1,28 @@
+name: "&6Wrecking Ball&c ⛏"
+material: IRON_PICKAXE
+custom-model-data: 1
+
+lore: |-
+  &8-------------------------
+  
+  &fMines in a &b3x3&f area.
+  
+  &8-------------------------
+  &6MINER's Crate Item
+
+unbreakable: true
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  break-block:
+  - type: if
+    if:
+      type: not
+      not:
+        type: is-sneaking
+    then:
+    - type: break-block
+      radius: 1

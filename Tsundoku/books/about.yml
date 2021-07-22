@@ -1,0 +1,18 @@
+pages:
+- |-
+  **About**
+  Here are some unique changes we have:
+
+  1. [Teleporting](underlined dark_blue Find out how to teleport! run_command=/book teleport).
+  2. [Enchantments](underlined dark_blue hover=Read about our custom enchantments! run_command=/book enchantments).
+  3. [Player shops](Learn how to set up your own shops! run_command=/book shops).
+  4. Only one person needs to sleep.
+  5. Trees drop instantly when chopped!
+  6. Ender dragon drops an elytra and a dragon egg on death.
+- |-
+  7. Right click with a slime ball to find slime chunks.
+  8. Use crafting tables, ender chests, and shulker boxes from your inventory.
+  9. Ender chests and barrels have 6 rows.
+  10. Villagers can be leashed.
+
+  [« Back](underlined dark_blue Back to Contents run_command=/book)

@@ -1,0 +1,10 @@
+{
+   "block": {
+      "collision": false,
+      "sit-height": 0.5625,
+      "type": "item"
+   },
+   "custom-model-data": 1007,
+   "material": "LEATHER_HORSE_ARMOR",
+   "name": "&fWarped Chair"
+}

@@ -1,0 +1,12 @@
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "type": "item"
+   },
+   "custom-model-data": 1072,
+   "dyeable": true,
+   "lore": "&7Dyeable",
+   "material": "LEATHER_HORSE_ARMOR",
+   "name": "&fBirch Chair"
+}

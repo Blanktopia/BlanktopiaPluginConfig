@@ -1,0 +1,23 @@
+name: "§x§f§b§0§b§2§fWotamelon"
+material: MELON
+custom-model-data: 1
+
+triggers:
+  right-click:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  right-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  shift-right-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  shift-left-click-inventory:
+  - type: equip-item
+    slot: HEAD
+  - type: cancel
+  place-block:
+  - type: cancel

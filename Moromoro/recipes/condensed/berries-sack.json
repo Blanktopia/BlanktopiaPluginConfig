@@ -1,0 +1,15 @@
+{
+   "ingredients": [
+      "SWEET_BERRIES",
+      "SWEET_BERRIES",
+      "SWEET_BERRIES",
+      "SWEET_BERRIES",
+      "SWEET_BERRIES",
+      "SWEET_BERRIES",
+      "SWEET_BERRIES",
+      "SWEET_BERRIES",
+      "SWEET_BERRIES"
+   ],
+   "result": "berries-sack",
+   "type": "shapeless"
+}

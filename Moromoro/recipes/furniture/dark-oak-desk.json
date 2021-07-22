@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_DARK_OAK_LOG"
+   },
+   "result": "dark-oak-desk",
+   "shape": [
+      "SSS",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

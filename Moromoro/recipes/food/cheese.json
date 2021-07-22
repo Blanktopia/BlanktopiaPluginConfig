@@ -1,0 +1,8 @@
+{
+   "ingredients": [
+      "milk_bucket",
+      "vinegar"
+   ],
+   "result": "cheese",
+   "type": "shapeless"
+}

@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "C": "cookie",
+      "S": "sugar"
+   },
+   "result": "oreo",
+   "shape": [
+      "CCC",
+      "SSS",
+      "CCC"
+   ],
+   "type": "shaped"
+}

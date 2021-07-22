@@ -1,0 +1,32 @@
+{
+   "enchantments": {
+      "blanktopia:final": 1,
+      "blanktopia:soulbound": 1
+   },
+   "head": "http://textures.minecraft.net/texture/f9719ec9ee6f53c17b1f6f747866b3121401d35f77a39859f122d472863e48e",
+   "lore": "&8-------------------------\n\n&fDisguises you as a &bBaby Sheep&f.\n\n&8-------------------------\n&6NATURE Crate Item",
+   "material": "PLAYER_HEAD",
+   "name": "&6Baby Sheep Disguise&c ☻",
+   "triggers": {
+      "equip-head": [
+         {
+            "disguise": {
+               "baby": true,
+               "entity": "SHEEP",
+               "type": "mob"
+            },
+            "type": "disguise"
+         }
+      ],
+      "place-block": [
+         {
+            "type": "cancel"
+         }
+      ],
+      "unequip-armor": [
+         {
+            "type": "undisguise"
+         }
+      ]
+   }
+}

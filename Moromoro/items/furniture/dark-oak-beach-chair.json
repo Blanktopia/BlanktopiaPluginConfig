@@ -1,0 +1,11 @@
+{
+   "block": {
+      "collision": false,
+      "sit-height": 0.4375,
+      "type": "item"
+   },
+   "custom-model-data": 1045,
+   "dyeable": true,
+   "material": "LEATHER_HORSE_ARMOR",
+   "name": "&fDark Oak Beach Chair"
+}

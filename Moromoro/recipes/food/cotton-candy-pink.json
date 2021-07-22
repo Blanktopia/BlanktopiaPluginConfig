@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "S": "sugar",
+      "Z": "stick"
+   },
+   "result": "cotton-candy-pink",
+   "shape": [
+      " SS",
+      " SS",
+      "Z  "
+   ],
+   "type": "shaped"
+}

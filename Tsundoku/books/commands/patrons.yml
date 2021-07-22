@@ -1,0 +1,9 @@
+pages:
+- |-
+  **Patron Commands**
+  Hover:
+  [/star](color=6 hover=Toggles star suffix in your name)
+  [/nick <name>](color=6 hover=Sets a colourable nickname)
+  [/colours](color=6 hover=Learn how to format your nickname with colours)
+  [/pet](color=6 hover=Have a permanent pet follow you around!)
+  [« Back](underlined dark_blue Back to Commands run_command=/book commands)

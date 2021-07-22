@@ -1,0 +1,21 @@
+pages:
+- |-
+  **Player Shops**
+  To make a shop, place a sign on a barrel that matches this format:
+
+  &7Line 1:&r [Shop]
+  &7Line 2:&r <description>
+  &7Line 3:&r <cost>
+  &7Line 4:&r <blank>
+
+  Also see: [Spawn Rules](underlined dark_blue Rules for shops in spawn run_command=/book shop rules)
+- |-
+  Make sure your barrel is in a [claimed region](underlined dark_blue How to claim regions run_command=/book claims)!
+
+  For example:
+  &7Line 1:&r [Shop]
+  &7Line 2:&r Golden Apples
+  &7Line 3:&r 3 diamonds
+  &7Line 4:&r 
+
+  [« Back](underlined dark_blue Back to Contents run_command=/book)

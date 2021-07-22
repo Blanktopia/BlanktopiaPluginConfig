@@ -1,0 +1,15 @@
+{
+   "ingredients": [
+      "CACTUS",
+      "CACTUS",
+      "CACTUS",
+      "CACTUS",
+      "CACTUS",
+      "CACTUS",
+      "CACTUS",
+      "CACTUS",
+      "CACTUS"
+   ],
+   "result": "cactus-block",
+   "type": "shapeless"
+}

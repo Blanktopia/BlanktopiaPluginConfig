@@ -1,0 +1,11 @@
+pages:
+- |-
+  **Harvest**
+  ##Automatically replants crops.##
+
+  Rarity: &1Rare&r
+  Max Level: I
+  Found on: Hoes
+  Enchantable on: Hoes
+
+  [« Back](underlined dark_blue Back to Enchantments run_command=/help enchantments)

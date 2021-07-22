@@ -1,0 +1,13 @@
+{
+   "ingredients": {
+      "P": "ACACIA_PLANKS",
+      "S": "STRIPPED_ACACIA_LOG"
+   },
+   "result": "acacia-garden-table",
+   "shape": [
+      "PPP",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

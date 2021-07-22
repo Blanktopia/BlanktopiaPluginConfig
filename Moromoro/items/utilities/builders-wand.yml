@@ -1,0 +1,40 @@
+name: "&dBuilder's Wand&5 ⭐"
+material: WOODEN_HOE
+custom-model-data: 1003
+
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &bRight-click&f on a block
+  &fto place blocks in a &b3x3&f
+  &farea. Requires the block to
+  &fbe in your inventory.
+  
+  &8-------------------------
+  &6BUILDER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  right-click:
+  - type: if
+    if:
+      type: all
+      actions:
+      - type: item-cooldown
+    then:
+    - type: if
+      if: 
+        type: raycast
+        range: 10
+        actions:
+        - type: builders-wand
+          range: 1
+      then:
+      - type: item-cooldown
+        ticks: 2
+    - type: cancel

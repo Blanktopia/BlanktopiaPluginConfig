@@ -1,0 +1,15 @@
+{
+   "ingredients": [
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK",
+      "STICK"
+   ],
+   "result": "stick-block",
+   "type": "shapeless"
+}

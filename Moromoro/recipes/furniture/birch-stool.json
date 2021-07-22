@@ -1,0 +1,11 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_BIRCH_LOG"
+   },
+   "result": "birch-stool",
+   "shape": [
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

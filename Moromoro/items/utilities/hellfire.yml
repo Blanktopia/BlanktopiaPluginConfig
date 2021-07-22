@@ -1,0 +1,23 @@
+name: "&x&f&f&8&0&3&eHellfire ≈"
+material: WOODEN_HOE
+custom-model-data: 1007
+
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &fHot hot hot !
+  
+  &8-------------------------
+  &6INFINITY Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+  infinity: 1
+
+triggers:
+  right-click:
+  - type: lava-bucket
+  - type: cancel

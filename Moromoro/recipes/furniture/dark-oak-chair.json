@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_DARK_OAK_LOG"
+   },
+   "result": "dark-oak-chair",
+   "shape": [
+      "S  ",
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

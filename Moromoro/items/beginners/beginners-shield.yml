@@ -1,0 +1,11 @@
+name: "&rBeginner's Shield"
+material: SHIELD
+
+lore: |-
+  
+  &fSoulbound items stay with you when you die.
+  &fFinal items cannot be enchanted.
+
+enchantments:
+  blanktopia:soulbound: 1
+  blanktopia:final: 1

@@ -1,0 +1,15 @@
+{
+   "ingredients": [
+      "BEETROOT",
+      "BEETROOT",
+      "BEETROOT",
+      "BEETROOT",
+      "BEETROOT",
+      "BEETROOT",
+      "BEETROOT",
+      "BEETROOT",
+      "BEETROOT"
+   ],
+   "result": "beetroot-crate",
+   "type": "shapeless"
+}

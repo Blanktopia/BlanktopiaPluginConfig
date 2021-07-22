@@ -1,0 +1,19 @@
+pages:
+- |-
+  **Technical**
+  &4Per-Player Mob Cap:
+  &r20 hostile, 5 passive
+  &4Per-Type Mob Cap:
+  &r24 in 32 blocks
+  &4Despawn range:
+  &r32 soft, 64 hard
+  &4Activation range:
+  &r32 hostile, 16 else
+  &4Entity cramming limit:
+  &r8 (no drops)
+  &4Portals don't load chunks.
+  &4Beds don't explode.
+- |-
+  &4TNT duping/bedrock breaking patched.
+
+  [« Back](underlined dark_blue Back to Contents run_command=/book)

@@ -1,0 +1,38 @@
+name: "§dWrench §5 ⭐"
+material: WOODEN_HOE
+custom-model-data: 1002
+
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &bRight-click&f to rotate a block
+  &for turn an item frame
+  &finvisible.
+
+  &8-------------------------
+  &6BUILDER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  right-click-block:
+  - type: if
+    if: 
+      type: is-sneaking
+    else:
+    - type: rotate
+    - type: cancel
+    then:
+    - type: rotate
+      reversed: true
+    - type: cancel
+  right-click-entity:
+  - type: if
+    if:
+      type: toggle-item-frame-visibility
+    then:
+    - type: cancel
