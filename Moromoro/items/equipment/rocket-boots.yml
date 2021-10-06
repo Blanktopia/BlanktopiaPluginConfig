@@ -13,6 +13,9 @@ lore: |-
 
 unbreakable: true
 
+slots:
+- FEET
+
 triggers:
   sneak:
   - type: add-permanent-potion-effect

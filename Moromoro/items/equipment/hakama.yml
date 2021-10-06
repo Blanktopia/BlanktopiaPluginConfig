@@ -14,6 +14,9 @@ enchantments:
   blanktopia:final: 1
   blanktopia:soulbound: 1
 
+slots:
+- LEGS
+
 triggers:
   sprint:
   - type: if

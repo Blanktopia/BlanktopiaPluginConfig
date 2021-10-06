@@ -21,6 +21,9 @@ enchantments:
   blanktopia:soulbound: 1
   blanktopia:stride: 5
 
+slots:
+- FEET
+
 attributes:
 - amount: 0.2
   attribute: GENERIC_MOVEMENT_SPEED

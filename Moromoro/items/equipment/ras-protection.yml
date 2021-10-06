@@ -18,6 +18,9 @@ enchantments:
   blanktopia:soulbound: 1
   blast_protection: 4
 
+slots:
+- CHEST
+
 attributes:
 - amount: 8
   attribute: GENERIC_ARMOR

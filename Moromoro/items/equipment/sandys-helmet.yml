@@ -19,6 +19,9 @@ enchantments:
   blanktopia:final: 1
   blanktopia:soulbound: 1
 
+slots:
+- HEAD
+
 attributes:
 - amount: 3
   attribute: GENERIC_ARMOR
@@ -47,3 +50,5 @@ triggers:
   unequip-armor:
   - type: remove-permanent-potion-effect
     key: sandys-helmet
+  right-click:
+  - type: cancel
