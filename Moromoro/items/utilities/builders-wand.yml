@@ -43,4 +43,10 @@ triggers:
       then:
       - type: item-cooldown
         ticks: 2
+    - type: raycast
+      range: 10
+      actions:
+      - type: clear-highlight
+      - type: builders-wand-highlight
+        color: 0x64001000
     - type: cancel
