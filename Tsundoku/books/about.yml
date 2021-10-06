@@ -4,7 +4,7 @@ pages:
   Here are some unique changes we have:
 
   1. [Teleporting](underlined dark_blue Find out how to teleport! run_command=/book teleport).
-  2. [Enchantments](underlined dark_blue hover=Read about our custom enchantments! run_command=/book enchantments).
+  2. [Enchantments](underlined dark_blue Read about our custom enchantments! run_command=/book enchantments).
   3. [Player shops](Learn how to set up your own shops! run_command=/book shops).
   4. Only one person needs to sleep.
   5. Trees drop instantly when chopped!
@@ -14,5 +14,6 @@ pages:
   8. Use crafting tables, ender chests, and shulker boxes from your inventory.
   9. Ender chests and barrels have 6 rows.
   10. Villagers can be leashed.
+  11. Right click two beacons with a nether star to create a teleporter.
 
   [« Back](underlined dark_blue Back to Contents run_command=/book)

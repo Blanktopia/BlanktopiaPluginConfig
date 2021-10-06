@@ -1,9 +1,9 @@
 pages:
 - |-
   **Commands**
-  1. [&1&nTeleport](/help commands teleport hover=Teleportation-related commands)
-  2. [&1&nChat](/help commands chat hover=Communication-related commands)
-  3. [&1&nClaims](/help commands claims hover=Claim-related commands)
-  4. [&1&nQuality of Life](/help commands qol hover=Useful utility commands)
-  5. [&1&nPatrons](/help commands patrons hover=Commands for patrons)
+  1. [&1&nTeleport](Teleportation-related commands run_command=/help commands teleport)
+  2. [&1&nChat](Communication-related commands run_command=/help commands chat)
+  3. [&1&nClaims](Claim-related commands run_command=/help commands claims)
+  4. [&1&nQuality of Life](Useful utility commands run_command=/help commands qol)
+  5. [&1&nPatrons](Commands for patrons run_command=/help commands patrons)
   [« Back](underlined dark_blue Back to Contents run_command=/book)

@@ -3,60 +3,60 @@ pages:
   **Custom Enchantments**
   Use an enchanting table to get one of these enchantments!
 
-  ● [&1&nSoulbound](run_command=/book enchantments soulbound hover=Will not drop on death.
+  ● [&1&nSoulbound](run_command=/book enchantments soulbound Will not drop on death.
   Rarity: &5Legendary&r
   Found on: All
   Enchantable on: All)
-  ● [&1&nNight Vision](/book enchantments nightvision hover=See in the dark.
+  ● [&1&nNight Vision](/book enchantments nightvision See in the dark.
   Rarity: &1Rare&r
   Found on: Helmets
   Enchantable on: Helmets)
-  ● [&1&nSpring](/book enchantments spring hover=Jump higher with every jump!
+  ● [&1&nSpring](/book enchantments spring Jump higher with every jump!
   Rarity: &2Uncommon&r
   Found on: Leggings
   Enchantable on: Leggings)
-  ● [&1&nStride](/book enchantments stride hover=Walk faster!
+  ● [&1&nStride](/book enchantments stride Walk faster!
   Rarity: &2Uncommon&r
   Found on: Boots
   Enchantable on: Boots)
-  ● [&1&nSmelt](/book enchantments smelt hover=Smelts the blocks you mine.
+  ● [&1&nSmelt](/book enchantments smelt Smelts the blocks you mine.
   Rarity: &1Rare&r
   Found on: Pickaxes
   Enchantable on: Pickaxes, Axes, Shovels)
-  ● [&1&nBeheading](/book enchantments beheading hover=Gives a chance of dropping mob heads.
+  ● [&1&nBeheading](/book enchantments beheading Gives a chance of dropping mob heads.
   Rarity: &1Rare&r
   Found on: Axes
   Enchantable on: Axes)
-  ● [&1&nFrost](/book enchantments frost hover=Slows the target
+  ● [&1&nFrost](/book enchantments frost Slows the target
   Rarity: &2Uncommon&r
   Found on: Swords, Axes
   Enchantable on: Swords, Axes)
-  ● [&1&nSting](/book enchantments sting hover=Poisons the target
+  ● [&1&nSting](/book enchantments sting Poisons the target
   Rarity: &2Uncommon&r
   Found on: Swords, Axes
   Enchantable on: Swords, Axes)
 - |
-  ● [&1&nHarvest](/book enchantments harvest hover=Automatically replant crops
+  ● [&1&nHarvest](/book enchantments harvest Automatically replant crops
   Rarity: &1Rare&r
   Found on: Hoes
   Enchantable on: Swords, Axes)
-  ● [&1&nSpectral](/book enchantments spectral hover=Make the target glow
+  ● [&1&nSpectral](/book enchantments spectral Make the target glow
   Rarity: &1Rare&r
   Found on: Swords, Axes
   Enchantable on: Swords, Axes)
-  ● [&1&nSniper](/book enchantments sniper hover=Fire arrows faster and further
+  ● [&1&nSniper](/book enchantments sniper Fire arrows faster and further
   Rarity: &2Uncommon&r
   Found on: Bows, Crossbows
   Enchantable on: Bows, Crossbows)
-  ● [&1&nParry](/book enchantments sniper hover=Grants Strength after blocking a hit
+  ● [&1&nParry](/book enchantments sniper Grants Strength after blocking a hit
   Rarity: &2Uncommon&r
   Found on: Shield
   Enchantable on: Shield)
-  ● [&1&nRush](/book enchantments sniper hover=Grants Speed after blocking a hit
+  ● [&1&nRush](/book enchantments sniper Grants Speed after blocking a hit
   Rarity: &2Uncommon&r
   Found on: Shield
   Enchantable on: Shield)
-  ● [&1&nFinal](/book enchantments final hover=Cannot be modified on an anvil.
+  ● [&1&nFinal](/book enchantments final Cannot be modified on an anvil.
   Rarity: Common
   Found on: Unobtainable
   Enchantable on: All)

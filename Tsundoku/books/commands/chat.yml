@@ -2,13 +2,13 @@ pages:
 - |-
   **Chat Commands**
   Hover:
-  [/afk](color=6 hover=Toggles your AFK status. AFK players cannot move or take damage.)
-  [/g](color=6 hover=Switch to the global channel. Everyone can hear you here.)
-  [/l](color=6 hover=Switch to the local channel. Only players within 200 blocks can hear you.)
-  [/w <who> <msg>](color=6 hover=Whisper to a friend)
-  [/r <msg>](color=6 hover=Reply a whisper)
-  [/mail send <who> <msg>](color=6 hover=Sends a message to an offline player)
-  [/party help](color=6 hover=Create a party group chat)
-  [/sit](color=6 hover=Sit on the floor)
-  [/lay](color=6 hover=Lay on the floor)
+  [/afk](color=6 Toggles your AFK status. AFK players cannot move or take damage.)
+  [/g](color=6 Switch to the global channel. Everyone can hear you here.)
+  [/l](color=6 Switch to the local channel. Only players within 200 blocks can hear you.)
+  [/w <who> <msg>](color=6 Whisper to a friend)
+  [/r <msg>](color=6 Reply a whisper)
+  [/mail send <who> <msg>](color=6 Sends a message to an offline player)
+  [/party help](color=6 Create a party group chat)
+  [/sit](color=6 Sit on the floor)
+  [/lay](color=6 Lay on the floor)
   [« Back](underlined dark_blue Back to Commands run_command=/book commands)

@@ -2,13 +2,13 @@ pages:
 - |-
   **Teleport Commands**
   Hover:
-  [/back](color=6 hover=Teleport to your previous location)
-  [/resource](color=6 hover=Teleport to the resource world which gets reset occasionally. Gather your resources here!)
-  [/nether](color=6 hover=Teleport to the resource nether which gets reset occasionally. Gather your resources here!)
-  [/sethome <name>](color=6 hover=Saves a teleport location)
-  [/home <name>](color=6 hover=Teleport to previously saved location)
-  [/tpa <who>](color=6 hover=Teleport to a friend)
-  [/tpahere <who>](color=6 hover=Teleport a friend here)
-  [/wild](color=6 hover=Teleport to somewhere random)
-  [/warp \[name\]](color=6 hover=Teleport to spawn/shops/crates)
+  [/back](color=6 Teleport to your previous location)
+  [/resource](color=6 Teleport to the resource world which gets reset occasionally. Gather your resources here!)
+  [/nether](color=6 rTeleport to the resource nether which gets reset occasionally. Gather your resources here!)
+  [/sethome <name>](color=6 Saves a teleport location)
+  [/home <name>](color=6 Teleport to previously saved location)
+  [/tpa <who>](color=6 Teleport to a friend)
+  [/tpahere <who>](color=6 Teleport a friend here)
+  [/wild](color=6 Teleport to somewhere random)
+  [/warp \[name\]](color=6 Teleport to spawn/shops/crates)
   [« Back](underlined dark_blue Back to Commands run_command=/book commands)
