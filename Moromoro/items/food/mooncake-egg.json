@@ -1,0 +1,15 @@
+{
+   "custom-model-data": 9,
+   "material": "COOKIE",
+   "name": "&fMooncake with Egg",
+   "triggers": {
+      "consume": [
+         {
+            "duration": 3600,
+            "effect": "luck",
+            "level": 0,
+            "type": "add-potion-effect"
+         }
+      ]
+   }
+}

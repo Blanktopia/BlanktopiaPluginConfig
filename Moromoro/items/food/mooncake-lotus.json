@@ -1,0 +1,15 @@
+{
+   "custom-model-data": 11,
+   "material": "COOKIE",
+   "name": "&fLotus Paste Mooncake",
+   "triggers": {
+      "consume": [
+         {
+            "duration": 3600,
+            "effect": "luck",
+            "level": 0,
+            "type": "add-potion-effect"
+         }
+      ]
+   }
+}

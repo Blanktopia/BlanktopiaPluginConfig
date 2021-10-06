@@ -1,0 +1,15 @@
+{
+   "custom-model-data": 12,
+   "material": "COOKIE",
+   "name": "&fGreen Tea Mooncake",
+   "triggers": {
+      "consume": [
+         {
+            "duration": 3600,
+            "effect": "luck",
+            "level": 0,
+            "type": "add-potion-effect"
+         }
+      ]
+   }
+}

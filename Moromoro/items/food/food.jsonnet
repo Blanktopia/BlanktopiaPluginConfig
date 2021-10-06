@@ -88,6 +88,8 @@ local food(name, material, customModelData, actions) = {
         effect("poison", 200, 2),
     ]),
 
+    'onigiri.json': food("Onigiri", "COOKIE", 8, []),
+
     // Fruits
 
     'banana.json': food("Banana", "APPLE", 1, []),
@@ -99,4 +101,18 @@ local food(name, material, customModelData, actions) = {
     'orange.json': food("Orange", "APPLE", 7, []),
     'peach.json': food("Peach", "APPLE", 8, []),
     'pear.json': food("Pear", "APPLE", 9, []),
+
+    // Mooncake
+    'mooncake-egg.json': food("Mooncake with Egg", "COOKIE", 9, [
+        effect("luck", 3600, 0),
+    ]),
+    'mooncake-red-bean.json': food("Red Bean Paste Mooncake", "COOKIE", 10, [
+        effect("luck", 3600, 0),
+    ]),
+    'mooncake-lotus.json': food("Lotus Paste Mooncake", "COOKIE", 11, [
+        effect("luck", 3600, 0),
+    ]),
+    'mooncake-green-tea.json': food("Green Tea Mooncake", "COOKIE", 12, [
+        effect("luck", 3600, 0),
+    ]),
 }
