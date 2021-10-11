@@ -2,10 +2,12 @@ name: "&6Excavator&c ⛏"
 material: IRON_SHOVEL
 custom-model-data: 1
 
+version: 1
+
 lore: |-
   &8-------------------------
   
-  &fDigs in a &b3x3&f area.
+  &fShovels in a &b3x3&f area.
   
   &8-------------------------
   &6MINER's Crate Item
@@ -13,6 +15,7 @@ lore: |-
 unbreakable: true
 
 enchantments:
+  efficiency: 6
   blanktopia:final: 1
   blanktopia:soulbound: 1
 

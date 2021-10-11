@@ -2,10 +2,12 @@ name: "&6Lumberjack&c ⛏"
 material: IRON_AXE
 custom-model-data: 1
 
+version: 1
+
 lore: |-
   &8-------------------------
   
-  &fChops and strips in a &b3x3&f area.
+  &fChops in a &b3x3&f area.
   
   &8-------------------------
   &6BUILDER's Crate Item
@@ -13,6 +15,7 @@ lore: |-
 unbreakable: true
 
 enchantments:
+  efficiency: 6
   blanktopia:final: 1
   blanktopia:soulbound: 1
 

@@ -2,10 +2,12 @@ name: "&x&2&d&7&a&5&3Scythe"
 material: SHEARS
 custom-model-data: 1
 
+version: 1
+
 lore: |-
   &8-------------------------
   
-  &fBreaks grass in a &b5x5x5&f area.
+  &fShears in a &b5x5x5&f area.
   
   &8-------------------------
   &6NATURE Crate Item
@@ -13,7 +15,7 @@ lore: |-
 unbreakable: true
 
 enchantments:
-  efficiency: 5
+  efficiency: 6
   sharpness: 5
   blanktopia:final: 1
   blanktopia:soulbound: 1

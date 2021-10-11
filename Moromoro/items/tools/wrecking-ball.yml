@@ -2,6 +2,8 @@ name: "&6Wrecking Ball&c ⛏"
 material: IRON_PICKAXE
 custom-model-data: 1
 
+version: 1
+
 lore: |-
   &8-------------------------
   
@@ -13,6 +15,7 @@ lore: |-
 unbreakable: true
 
 enchantments:
+  efficiency: 6
   blanktopia:final: 1
   blanktopia:soulbound: 1
 
