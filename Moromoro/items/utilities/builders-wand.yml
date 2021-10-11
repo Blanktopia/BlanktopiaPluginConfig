@@ -8,7 +8,7 @@ lore: |-
   &8-------------------------
   
   &bRight-click&f on a block
-  &fto place blocks in a &b3x3&f
+  &fto place blocks in a &b7x7&f
   &farea. Requires the block to
   &fbe in your inventory.
   
@@ -22,10 +22,11 @@ enchantments:
 triggers:
   tick-slow:
   - type: raycast
-    range: 10
+    range: 20
     actions:
     - type: builders-wand-highlight
       color: 0x64001000
+      range: 3
   right-click:
   - type: if
     if:
@@ -36,17 +37,18 @@ triggers:
     - type: if
       if: 
         type: raycast
-        range: 10
+        range: 20
         actions:
         - type: builders-wand
-          range: 1
+          range: 3
       then:
       - type: item-cooldown
-        ticks: 2
+        ticks: 1
     - type: raycast
-      range: 10
+      range: 20
       actions:
       - type: clear-highlight
       - type: builders-wand-highlight
         color: 0x64001000
+        range: 3
     - type: cancel

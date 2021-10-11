@@ -18,9 +18,24 @@ enchantments:
   blanktopia:soulbound: 1
 
 triggers:
-  right-click:
+  tick-slow:
   - type: raycast
-    range: 10
+    range: 20
     actions:
-    - type: place-random-block
+    - type: highlight-block
+      color: 0x64001000
+  right-click:
+  - type: if
+    if:
+      type: item-cooldown
+    then:
+    - type: if
+      if:
+        type: raycast
+        range: 20
+        actions:
+        - type: place-random-block
+      then:
+      - type: item-cooldown
+        ticks: 1
   - type: cancel
