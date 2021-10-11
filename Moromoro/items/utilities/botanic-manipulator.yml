@@ -1,0 +1,32 @@
+name: "&#3b875c-#8ec153&Botanic Manipulator"
+material: WOODEN_HOE
+custom-model-data: 1010
+
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &bRight-click&f to cycle a
+  &fblock's variation.
+
+  &fWorks on:
+  &8- &fWood
+  &8- &fFlowers
+  &8- &fMushrooms
+  
+  &8-------------------------
+  &6NATURE Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  right-click-block:
+  - type: cycle-flora
+  - type: cancel
+  left-click-block:
+  - type: cycle-flora
+    reversed: true
+  - type: cancel
