@@ -1,0 +1,33 @@
+name: "&#de7afa-#c800fa&Anti-Gravity Bow"
+material: BOW
+custom-model-data: 1
+
+lore: |-
+  &8-------------------------
+  
+  &fArrows fly in a straight line.
+  &fInflicts &bLevitation&f on targets.
+  
+  &8-------------------------
+  &6INFINITY Crate Item
+
+unbreakable: true
+
+enchantments:
+  blanktopia:soulbound: 1
+  infinity: 1
+  power: 5
+
+
+triggers:
+  projectile-launch:
+  - type: arrow-color
+    color: "de7afa"
+  - type: projectile-gravity
+    gravity: false
+  projectile-hit:
+  - type: null-player
+  - type: add-potion-effect
+    effect: levitation
+    duration: 80
+    level: 1
