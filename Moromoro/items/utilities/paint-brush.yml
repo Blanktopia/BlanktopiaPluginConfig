@@ -1,8 +1,10 @@
-name: "&dPaint Brush&5 ⭐"
+name: "&rainbow&Paint Brush"
 material: WOODEN_HOE
 custom-model-data: 1001
 
 unbreakable: true
+
+version: 1
 
 lore: |-
   &7Paint: NONE
@@ -23,7 +25,6 @@ lore: |-
 enchantments:
   blanktopia:final: 1
   blanktopia:soulbound: 1
-  infinity: 1
 
 triggers:
   left-click-block:

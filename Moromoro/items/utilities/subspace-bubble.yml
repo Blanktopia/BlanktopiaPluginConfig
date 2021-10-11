@@ -1,4 +1,4 @@
-name: "&5Subspace Bubble&d ⏺"
+name: "&#258273-#8af1df&Subspace Bubble"
 material: WOODEN_HOE
 custom-model-data: 1008
 
@@ -7,7 +7,8 @@ unbreakable: true
 lore: |-
   &8-------------------------
   
-  &bTeleport wherever you want!
+  &bRight-click&f to launch an
+  &fender pearl.
   
   &8-------------------------
   &6INFINITY Crate Item

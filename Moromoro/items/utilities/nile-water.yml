@@ -1,13 +1,15 @@
-name: "&9Nile Water&1 ≈"
+name: "&#45b6f7-#c9e7ff&Nile Water"
 material: WOODEN_HOE
 custom-model-data: 1006
 
 unbreakable: true
 
+version: 1
+
 lore: |-
   &8-------------------------
   
-  &fWater from the Nile.
+  &fInfinite water bucket.
   
   &8-------------------------
   &6INFINITY Crate Item

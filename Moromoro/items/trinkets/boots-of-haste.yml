@@ -1,0 +1,68 @@
+name: "&#f4cf8b&Boots of Haste"
+material: LEATHER
+custom-model-data: 1
+
+version: 1
+
+lore: |-
+  &8-------------------------
+  &7Slot: &#ff4e1d&Trinket
+
+  &fAllows you to &bsprint&f faster.
+
+  &8-------------------------
+  &6NATURE Crate Item
+
+unbreakable: true
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+slots:
+- TRINKET
+
+triggers:
+  tick-slow:
+  - type: if
+    if:
+      type: all
+      actions:
+      - type: is-on-ground
+      - type: is-sprinting
+    then:
+    - type: spawn-particle
+      count: 2
+      y: 0.9
+      offset-x: 0.3
+      offset-y: 0.1
+      offset-z: 0.3
+      particle: CLOUD
+      extra: 0
+  sprint:
+  - type: if
+    if:
+      type: is-on-ground
+    then:
+    - type: add-permanent-potion-effect
+      key: boots-of-haste
+      effects: { speed: 2 }
+    - type: add-velocity
+      x: 0
+      y: 0
+      z: 0.7
+    - type: repeat
+      count: 3
+      interval: 3
+      actions:
+      - type: spawn-particle
+        count: 2
+        y: 0.9
+        offset-x: 0.3
+        offset-y: 0.1
+        offset-z: 0.3
+        particle: CLOUD
+        extra: 0
+  unsprint:
+  - type: remove-permanent-potion-effect
+    key: boots-of-haste

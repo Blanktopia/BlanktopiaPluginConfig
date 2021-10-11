@@ -1,4 +1,4 @@
-name: "&fLumos&e ☀"
+name: "&#fffcdb-#ffc272&Lumos"
 material: WOODEN_HOE
 custom-model-data: 1000
 
@@ -7,8 +7,10 @@ unbreakable: true
 lore: |-
   &8-------------------------
   
-  &fNever be afraid of the dark
-  &fagain!
+  &bRight-click&f to place an
+  &finvisible light source.
+  &bLeft-click&f to remove nearby
+  &flights.
   
   &8-------------------------
   &6INFINITY's Crate Item

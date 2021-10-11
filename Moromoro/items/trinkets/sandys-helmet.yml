@@ -1,0 +1,34 @@
+name: "§x§e§5§7§b§b§1Sandy's Helmet ⭐"
+material: WHITE_STAINED_GLASS
+
+version: 1
+
+lore: |-
+  &8-------------------------
+  &7Slot: &#ff4e1d&Trinket
+
+  &fAllows you to breathe
+  &funderwater.
+  
+  &8-------------------------
+  &6INFINITY Crate Item
+
+unbreakable: true
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+slots:
+- TRINKET
+
+triggers:
+  equip-armor:
+  - type: add-permanent-potion-effect
+    key: sandys-helmet
+    effects: { water_breathing: 0 }
+  unequip-armor:
+  - type: remove-permanent-potion-effect
+    key: sandys-helmet
+  right-click:
+  - type: cancel

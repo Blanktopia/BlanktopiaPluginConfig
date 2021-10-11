@@ -1,13 +1,15 @@
-name: "&x&f&f&8&0&3&eHellfire ≈"
+name: "&#e71e02-#ffd729&Hellfire"
 material: WOODEN_HOE
 custom-model-data: 1007
 
 unbreakable: true
 
+version: 1
+
 lore: |-
   &8-------------------------
   
-  &fHot hot hot !
+  &fInfinite lava bucket.
   
   &8-------------------------
   &6INFINITY Crate Item
