@@ -1,0 +1,35 @@
+name: "&#d580fc-#ffbf0d&Horn of Plenty"
+material: BOWL
+custom-model-data: 1
+
+unique: true
+
+lore: |-
+  &8-------------------------
+  &7Slot: &#ff4e1d&Trinket
+  
+  &fAutomatically refills your
+  &fhunger, but keeps your
+  &fsaturation low.
+  
+  &8-------------------------
+  &6EXPLORER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+slots:
+- TRINKET
+
+triggers:
+  tick-slow:
+  - type: set-hunger
+    hunger: 20
+  - type: set-saturation
+    saturation: 0
+  equip-armor:
+  - type: set-hunger
+    hunger: 20
+  - type: set-saturation
+    saturation: 0

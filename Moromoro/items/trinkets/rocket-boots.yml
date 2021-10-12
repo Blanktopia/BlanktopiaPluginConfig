@@ -1,6 +1,8 @@
-name: "§dRocket Boots§5 ⭐"
+name: "&#ea4f4f-#fff56d&Rocket Boots"
 material: FIREWORK_ROCKET
 custom-model-data: 1
+
+unique: true
 
 lore: |-
   &8-------------------------
@@ -12,7 +14,9 @@ lore: |-
   &8-------------------------
   &6EXPLORER's Crate Item
 
-unbreakable: true
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
 
 slots:
 - TRINKET

@@ -1,8 +1,10 @@
-name: "&#ffd747&Miner's Helmet"
+version: 1
+
+name: "&#f7fc92-#fccf8a&Miner's Helmet"
 material: GLOWSTONE_DUST
 custom-model-data: 1
 
-version: 1
+unique: true
 
 lore: |-
   &8-------------------------
@@ -13,13 +15,12 @@ lore: |-
   &8-------------------------
   &6MINER's Crate Item
 
-unbreakable: true
-
 enchantments:
   blanktopia:final: 1
   blanktopia:soulbound: 1
 
 slots:
+- HEAD
 - TRINKET
 
 triggers:

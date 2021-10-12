@@ -1,8 +1,10 @@
+version: 1
+
 name: "&#f76c9d-#b5f9cb&Hummingbird"
 material: FEATHER
 custom-model-data: 1
 
-version: 1
+unique: true
 
 lore: |-
   &8-------------------------
@@ -13,8 +15,6 @@ lore: |-
   
   &8-------------------------
   &6BUILDER's Crate Item
-
-unbreakable: true
 
 enchantments:
   blanktopia:final: 1
@@ -36,7 +36,7 @@ triggers:
       type: is-flying
     then:
     - type: spawn-particle
-      count: 10
+      count: 2
       y: 0.9
       offset-x: 0.3
       offset-y: 0.3

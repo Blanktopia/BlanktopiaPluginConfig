@@ -1,8 +1,10 @@
-name: "&#f4cf8b&Boots of Haste"
-material: LEATHER
-custom-model-data: 1
-
 version: 1
+
+name: "&#f4cf8b-#f79859&Boots of Haste"
+material: LEATHER
+custom-model-data: 5
+
+unique: true
 
 lore: |-
   &8-------------------------
@@ -12,8 +14,6 @@ lore: |-
 
   &8-------------------------
   &6NATURE Crate Item
-
-unbreakable: true
 
 enchantments:
   blanktopia:final: 1
@@ -44,9 +44,13 @@ triggers:
     if:
       type: is-on-ground
     then:
-    - type: add-permanent-potion-effect
-      key: boots-of-haste
-      effects: { speed: 2 }
+    - type: add-attribute-modifier
+      attribute-modifiers:
+      - attribute: GENERIC_MOVEMENT_SPEED
+        uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
+        name: Boots of Haste
+        amount: 1.0
+        operation: ADD_SCALAR
     - type: add-velocity
       x: 0
       y: 0
@@ -64,5 +68,10 @@ triggers:
         particle: CLOUD
         extra: 0
   unsprint:
-  - type: remove-permanent-potion-effect
-    key: boots-of-haste
+  - type: remove-attribute-modifier
+    attribute-modifiers:
+    - attribute: GENERIC_MOVEMENT_SPEED
+      uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
+      name: Boots of Haste
+      amount: 1.0
+      operation: ADD_SCALAR

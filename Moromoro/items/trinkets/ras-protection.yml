@@ -1,8 +1,10 @@
-name: "&6Ra's Protection&c ☲"
+version: 1
+
+name: "&#ff730f-#ffca2d&Ra's Protection"
 material: GOLD_NUGGET
 custom-model-data: 1
 
-version: 1
+unique: true
 
 lore: |-
   &8-------------------------
@@ -13,8 +15,6 @@ lore: |-
   
   &8-------------------------
   &6MINER's Crate Item
-
-unbreakable: true
 
 enchantments:
   blanktopia:final: 1
