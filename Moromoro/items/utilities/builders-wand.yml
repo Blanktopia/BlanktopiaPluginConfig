@@ -1,7 +1,8 @@
-name: "&dBuilder's Wand&5 ⭐"
+name: "&#ffa5ee-#b6a5ff&Builder's Wand"
 material: WOODEN_HOE
 custom-model-data: 1003
 
+unique: true
 unbreakable: true
 
 lore: |-

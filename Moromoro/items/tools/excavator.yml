@@ -1,8 +1,11 @@
+version: 1
+
 name: "&6Excavator&c ⛏"
 material: IRON_SHOVEL
 custom-model-data: 1
 
-version: 1
+unique: true
+unbreakable: true
 
 lore: |-
   &8-------------------------
@@ -11,8 +14,6 @@ lore: |-
   
   &8-------------------------
   &6MINER's Crate Item
-
-unbreakable: true
 
 enchantments:
   efficiency: 6

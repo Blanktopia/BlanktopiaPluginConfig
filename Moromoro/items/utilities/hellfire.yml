@@ -2,6 +2,7 @@ name: "&#e71e02-#ffd729&Hellfire"
 material: WOODEN_HOE
 custom-model-data: 1007
 
+unique: true
 unbreakable: true
 
 version: 1

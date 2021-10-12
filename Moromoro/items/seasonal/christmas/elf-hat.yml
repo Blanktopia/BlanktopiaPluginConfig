@@ -2,6 +2,8 @@ name: "§x§5§4§6§d§1§bElf Hat"
 material: GREEN_WOOL
 custom-model-data: 1
 
+unique: true
+
 triggers:
   right-click:
   - type: equip-item

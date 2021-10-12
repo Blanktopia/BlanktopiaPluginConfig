@@ -2,6 +2,8 @@ name: "Mjolnir"
 material: TRIDENT
 custom-model-data: 1
 
+unique: true
+
 lore: |-
   &7Lightning Immunity
   &8-------------------------

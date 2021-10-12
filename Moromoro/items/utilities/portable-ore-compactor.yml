@@ -1,6 +1,8 @@
 name: "&x&3&3&d&8&f&2Portable Ore Compactor ⏹"
 material: NETHER_STAR
 
+unique: true
+
 lore: |-
   &8-------------------------
   

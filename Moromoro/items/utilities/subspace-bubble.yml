@@ -2,6 +2,7 @@ name: "&#258273-#8af1df&Subspace Bubble"
 material: WOODEN_HOE
 custom-model-data: 1008
 
+unique: true
 unbreakable: true
 
 lore: |-

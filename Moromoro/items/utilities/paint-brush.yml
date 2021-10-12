@@ -2,6 +2,7 @@ name: "&rainbow&Paint Brush"
 material: WOODEN_HOE
 custom-model-data: 1001
 
+unique: true
 unbreakable: true
 
 version: 1

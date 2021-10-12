@@ -1,21 +1,2 @@
-name: "§x§7§3§9§2§d§bPick Shovel ⛏"
 material: NETHERITE_SHOVEL
-
-lore: |-
-  §8-------------------------
-  
-  §fMine both dirt and stone with
-  §fone tool.
-  
-  §8-------------------------
-  §6MINER's Crate Item
-
-enchantments:
-  blanktopia:soulbound: 1
-
-triggers:
-  left-click-block:
-  - type: multi-tool
-    tools:
-    - NETHERITE_PICKAXE
-    - NETHERITE_SHOVEL
+alias: cobalt-drill

@@ -1,6 +1,8 @@
 name: "&x&3&3&8&7&6&dPortable Trash Can ⏹"
 material: STRIPPED_WARPED_HYPHAE
 
+unique: true
+
 lore: |-
   &8-------------------------
   

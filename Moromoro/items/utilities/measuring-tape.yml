@@ -2,6 +2,7 @@ name: "§r§x§a§4§6§b§f§fMeasuring Tape ᛨ"
 material: WOODEN_HOE
 custom-model-data: 1004
 
+unique: true
 unbreakable: true
 
 lore: |-

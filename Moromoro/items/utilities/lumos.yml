@@ -2,6 +2,7 @@ name: "&#fffcdb-#ffc272&Lumos"
 material: WOODEN_HOE
 custom-model-data: 1000
 
+unique: true
 unbreakable: true
 
 lore: |-
@@ -21,12 +22,6 @@ enchantments:
   infinity: 1
 
 triggers:
-  tick-slow:
-  - type: raycast
-    range: 20
-    actions:
-    - type: highlight-block
-      color: 0x64001000
   right-click:
   - type: if
     if:

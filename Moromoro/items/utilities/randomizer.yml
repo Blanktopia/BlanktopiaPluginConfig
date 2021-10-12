@@ -2,6 +2,7 @@ name: "&r&x&a&4&6&b&f&fRandomizer ?"
 material: WOODEN_HOE
 custom-model-data: 1005
 
+unique: true
 unbreakable: true
 
 lore: |-
