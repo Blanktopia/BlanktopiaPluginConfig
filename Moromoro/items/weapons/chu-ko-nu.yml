@@ -1,0 +1,33 @@
+name: "&#ef4faa-#ef4f61&Chu Ko Nu"
+material: CROSSBOW
+custom-model-data: 1
+
+unique: true
+
+lore: |-
+  §8-------------------------
+  
+  §fFires 5 arrows per volley.
+  
+  §8-------------------------
+  §6EXPLORER's Crate Item
+
+unbreakable: true
+
+enchantments:
+  blanktopia:soulbound: 1
+  infinity: 1
+  quick_charge: 3
+
+triggers:
+  projectile-launch:
+  - type: arrow-volley
+    count: 5
+    delay: 2
+  projectile-hit:
+  - type: delay
+    ticks: 1
+    actions:
+    - type: null-player
+    - type: set-no-damage-tick
+      ticks: 0
