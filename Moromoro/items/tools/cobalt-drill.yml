@@ -1,0 +1,71 @@
+name: "&#1363d3-#5eeaf2&Cobalt Drill"
+material: NETHERITE_PICKAXE
+custom-model-data: 1
+
+unique: true
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &fCan be used as:
+  &8- &fPickaxe
+  &8- &fShovel
+  &8- &fAxe
+  &8- &fHoe
+
+  &fHold &bSneak&f to disable
+  &bSilk Touch&f.
+  
+  &8-------------------------
+  &6MINER's Crate Item
+
+enchantments:
+  efficiency: 8
+  silk_touch: 1
+  blanktopia:soulbound: 1
+  blanktopia:final: 1
+
+attributes:
+- amount: 4.0
+  attribute: GENERIC_ATTACK_DAMAGE
+  name: Attack Damage
+  operation: ADD_NUMBER
+  slot: HAND
+  uuid: aa1fcf0e-8d0e-4cc2-b374-bd8ec556eb2d
+- amount: 2.0
+  attribute: GENERIC_ATTACK_SPEED
+  name: Attack Speed
+  operation: ADD_NUMBER
+  slot: HAND
+  uuid: cba0af9c-106f-45c9-b88a-006bd4a01dd0
+
+triggers:
+  damage-entity:
+  - type: play-sound
+    pitch: 0.5
+    sound: ui.stonecutter.take_result
+    volume: 0.3
+  left-click-block:
+  - type: multi-tool
+    tools:
+    - NETHERITE_PICKAXE
+    - NETHERITE_SHOVEL
+    - NETHERITE_AXE
+    - DIAMOND_HOE
+  - type: play-sound
+    pitch: 0.5
+    sound: ui.stonecutter.take_result
+    volume: 0.3
+  sneak:
+  - type: toggle-enchantment
+    enchantment: silk_touch
+    level: 1
+    name: Silk Touch
+    toggled: false
+  unsneak:
+  - type: toggle-enchantment
+    enchantment: silk_touch
+    level: 1
+    name: Silk Touch
+    toggled: true
