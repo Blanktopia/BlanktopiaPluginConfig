@@ -1,0 +1,37 @@
+name: "Grappling Hook"
+material: WOODEN_HOE
+custom-model-data: 1009
+
+unique: true
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  &7Slot: &#ff4e1d&Trinket
+
+  &fAllows you to fire a grappling
+  &fhook by pressing &bF&f.
+  &fPress &bSneak& to release.
+  
+  &7Range: 50 blocks
+  &7Speed: Fast
+  &8-------------------------
+  &6EXPLORER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+slots:
+- TRINKET
+
+triggers:
+  swap-hand:
+  - type: launch-grapple
+    speed: 3.0
+  - type: cancel
+  projectile-tick:
+  - type: grapple-tick
+    acceleration: 0.5
+    max-speed: 1.0
+    range: 50
