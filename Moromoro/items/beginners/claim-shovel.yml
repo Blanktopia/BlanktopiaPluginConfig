@@ -3,7 +3,7 @@ material: GOLDEN_SHOVEL
 
 lore: |-
   
-  &3Read /claims for more information.
+  &fRead &b/claims&f for more information.
 
 unbreakable: true
 

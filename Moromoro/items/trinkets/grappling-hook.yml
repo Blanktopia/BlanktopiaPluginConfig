@@ -1,4 +1,4 @@
-name: "Beginner's Grappling Hook"
+name: "Grappling Hook"
 material: WOODEN_HOE
 custom-model-data: 1009
 
@@ -11,10 +11,10 @@ lore: |-
 
   &fAllows you to fire a grappling
   &fhook by pressing &bF&f.
-  &fPress &bSneak& to release.
+  &fPress &bSneak&f to release.
   
-  &7Range: 10 blocks
-  &7Speed: Slow
+  &7Range: 50 blocks
+  &7Speed: Fast
   &8-------------------------
   &6EXPLORER's Crate Item
 
@@ -26,12 +26,16 @@ slots:
 - TRINKET
 
 triggers:
+  right-click:
+  - type: launch-grapple
+    speed: 3.0
+  - type: cancel
   swap-hand:
   - type: launch-grapple
-    speed: 1.0
+    speed: 3.0
   - type: cancel
   projectile-tick:
   - type: grapple-tick
-    acceleration: 0.1
-    max-speed: 0.3
-    range: 10
+    acceleration: 0.5
+    max-speed: 1.0
+    range: 50

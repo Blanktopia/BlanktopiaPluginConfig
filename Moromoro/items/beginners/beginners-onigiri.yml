@@ -1,0 +1,20 @@
+name: "&fOnigiri"
+material: COOKIE
+custom-model-data: 8
+
+lore: |-
+  
+  &fSoulbound items stay with you when you die.
+
+enchantments:
+  blanktopia:soulbound: 1
+
+triggers:
+  consume:
+  - type: feed
+    amount: 3
+    saturation: 5.6
+  - type: add-potion-effect
+    duration: 1200
+    effect: damage_resistance
+    level: 1
