@@ -53,4 +53,6 @@ local disguise(name, skin, crate, options = null) = {
     'disguise-tropical-fish.json': disguise('Tropical Fish', '12510b301b088638ec5c8747e2d754418cb747a5ce7022c9c712ecbdc5f6f065', 'NATURE'),
     'disguise-fern.json': disguise('Fern', null, 'NATURE', { type: 'block', material: 'FERN' }) + { material: 'FERN' },
     'disguise-sheep.json': disguise('Sheep', 'f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70', '???'),
+    'disguise-axolotl.json': disguise('Axolotl', 'd704254139a0b1a926e7552482dd67679c6ae0dc8335c980dbd1c0d99634a708', "EXPLORER's"),
+    'disguise-baby-goat.json': disguise('Baby Goat', 'a662336d8ae092407e58f7cc80d20f20e7650357a454ce16e3307619a0110648', "EXPLORER's", { type: 'mob', entity: 'GOAT', baby: true }),
 }
