@@ -1,0 +1,46 @@
+version: 1
+
+name: "&#a46bff-#fa6bff&Block Zapper"
+material: WOODEN_HOE
+custom-model-data: 1005
+
+unique: true
+unbreakable: true
+
+lore: |-
+  &8-------------------------
+  
+  &bLeft-click&f to select a
+  &fmaterial to replace with.
+  &bRight-click&f to replace a
+  &fblock with the material.
+  
+  &8-------------------------
+  &6BUILDER's Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+triggers:
+  left-click:
+  - type: raycast
+    range: 20
+    actions:
+    - type: select-material
+  - type: cancel
+  right-click:
+  - type: if
+    if:
+      type: item-cooldown
+    then:
+    - type: if
+      if:
+        type: raycast
+        range: 20
+        actions:
+        - type: replace-block
+      then:
+      - type: item-cooldown
+        ticks: 1
+  - type: cancel

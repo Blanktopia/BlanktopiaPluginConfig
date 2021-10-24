@@ -1,3 +1,5 @@
+version: 1
+
 name: "&#ffa5ee-#b6a5ff&Builder's Wand"
 material: WOODEN_HOE
 custom-model-data: 1003
@@ -9,7 +11,7 @@ lore: |-
   &8-------------------------
   
   &bRight-click&f on a block
-  &fto place blocks in a &b7x7&f
+  &fto place blocks in a &b5x5&f
   &farea. Requires the block to
   &fbe in your inventory.
   
@@ -27,7 +29,7 @@ triggers:
     actions:
     - type: builders-wand-highlight
       color: 0x64001000
-      range: 3
+      range: 2
   right-click:
   - type: if
     if:
@@ -41,7 +43,7 @@ triggers:
         range: 20
         actions:
         - type: builders-wand
-          range: 3
+          range: 2
       then:
       - type: item-cooldown
         ticks: 1
@@ -51,5 +53,5 @@ triggers:
       - type: clear-highlight
       - type: builders-wand-highlight
         color: 0x64001000
-        range: 3
+        range: 2
     - type: cancel

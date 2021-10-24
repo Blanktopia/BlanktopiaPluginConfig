@@ -1,4 +1,6 @@
-name: "§r§x§a§4§6§b§f§fMeasuring Tape ᛨ"
+version: 1
+
+name: "&#6bffb5-#6bfff7&Measuring Tape"
 material: WOODEN_HOE
 custom-model-data: 1004
 
@@ -21,6 +23,8 @@ enchantments:
   blanktopia:soulbound: 1
 
 triggers:
+  tick-slow:
+  - type: measure-distance-tick
   left-click:
   - type: raycast
     range: 20
