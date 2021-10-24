@@ -1,4 +1,4 @@
-version: 1
+version: 2
 
 name: "&#eba5ff-#c800fa&Anti-Gravity Bow"
 material: BOW
@@ -19,6 +19,7 @@ unbreakable: true
 
 enchantments:
   blanktopia:soulbound: 1
+  blanktopia:final: 1
   infinity: 1
   power: 5
 
