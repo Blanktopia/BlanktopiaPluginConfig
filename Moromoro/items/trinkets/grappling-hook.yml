@@ -28,14 +28,15 @@ slots:
 triggers:
   right-click:
   - type: launch-grapple
-    speed: 3.0
+    speed: 5.0
   - type: cancel
   swap-hand:
   - type: launch-grapple
-    speed: 3.0
+    speed: 5.0
   - type: cancel
   projectile-tick:
   - type: grapple-tick
-    acceleration: 0.5
+    acceleration: 1.0
     max-speed: 1.0
     range: 50
+    particle: SOUL_FIRE_FLAME

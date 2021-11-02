@@ -40,4 +40,5 @@ triggers:
   - type: grapple-tick
     acceleration: 0.2
     max-speed: 0.3
+    detach-speed: 0.5
     range: 15
