@@ -29,7 +29,7 @@ triggers:
   - type: cancel
   right-click-inventory:
   - type: sudo-command
-    command: condense inventory
+    command: condense
     permissions:
     - essentials.condense
   - type: play-sound
