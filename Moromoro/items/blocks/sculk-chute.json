@@ -1,5 +1,7 @@
 {
    "block": {
+      "drops": [ ],
+      "experience": 1,
       "state": 21,
       "type": "mushroom"
    },

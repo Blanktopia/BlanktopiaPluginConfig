@@ -1,6 +1,31 @@
 {
    "block": {
+      "hardness": 5,
+      "sounds": {
+         "break": {
+            "pitch": 0.5,
+            "sound": "block.amethyst_block.break",
+            "volume": 1
+         },
+         "hit": {
+            "pitch": 0.5,
+            "sound": "block.amethyst_block.hit",
+            "volume": 0.25
+         },
+         "place": {
+            "pitch": 0.5,
+            "sound": "block.amethyst_block.place",
+            "volume": 1
+         }
+      },
       "state": 13,
+      "tools": [
+         "stone_pickaxe",
+         "iron_pickaxe",
+         "golden_pickaxe",
+         "diamond_pickaxe",
+         "netherite_pickaxe"
+      ],
       "type": "mushroom"
    },
    "custom-model-data": 1013,
