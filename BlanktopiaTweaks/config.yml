@@ -54,5 +54,6 @@ pettable-entities:
   - ZOMBIE_HORSE
 
 void-keep-inventory: true
+suffocate-keep-inventory: true
 
-sakura-biome: true
+sakura-biome: false
