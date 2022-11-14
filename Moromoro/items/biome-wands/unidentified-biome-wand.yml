@@ -1,18 +1,3 @@
-name: "§fUnidentified Biome Wand"
+alias: biome-wand
 material: WOODEN_HOE
 custom-model-data: 1
-
-lore:
-  §8-------------------------
-  
-  §bRight-click§f to turn an area
-  §finto a §8§kunknown§f biome.
-  
-  §8-------------------------
-  §6NATURE Crate Item
-
-unbreakable: true
-
-enchantments:
-  final: 1
-  soulbound: 1

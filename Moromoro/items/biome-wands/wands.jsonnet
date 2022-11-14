@@ -4,6 +4,7 @@ local biomeWand(biome, colour) = {
   name: colourCode(colour) + biome + ' Biome Wand',
   material: 'WOODEN_HOE',
   'custom-model-data': 1,
+  alias: 'biome-wand',
   
   lore: '&8-------------------------
 
@@ -22,11 +23,6 @@ local biomeWand(biome, colour) = {
 
   triggers: {
     'right-click': [
-      {
-        type: 'biome-wand',
-        range: 2,
-        biome: std.strReplace(std.asciiUpper(biome), ' ', '_'),
-      },
       {
         type: 'cancel'
       },
