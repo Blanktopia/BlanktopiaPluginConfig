@@ -1,3 +1,10 @@
-namespace: "blanktopia"
-resource-pack-url: "http://files.blanktopia.com/Blanktopia-dd98aa3c2aa916af630921882578a0b2fd971e90.zip"
-resource-pack-hash: "dd98aa3c2aa916af630921882578a0b2fd971e90"
+namespace: blanktopia
+discover-all-recipes: true
+tick-interval: 1
+tick-slow-interval: 5
+projectile-tick-interval: 2
+resource-pack-url: http://files.blanktopia.com/Blanktopia-7be9db66ca68bd329d451a4e072ed286e51de62a.zip
+resource-pack-hash: 7be9db66ca68bd329d451a4e072ed286e51de62a
+render-distance: 32
+render-interval: 3
+force-migration: false
