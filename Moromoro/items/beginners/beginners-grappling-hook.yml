@@ -30,11 +30,11 @@ slots:
 triggers:
   right-click:
   - type: launch-grapple
-    speed: 1.0
+    speed: 2.0
   - type: cancel
   swap-hand:
   - type: launch-grapple
-    speed: 1.0
+    speed: 2.0
   - type: cancel
   projectile-tick:
   - type: grapple-tick
