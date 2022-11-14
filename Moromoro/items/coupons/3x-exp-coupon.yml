@@ -1,6 +1,7 @@
 name: "&b3x EXP Coupon"
 material: PAPER
 custom-model-data: 1
+model: "blanktopia:misc/exp_coupon"
 
 lore: |-
   &8-------------------------

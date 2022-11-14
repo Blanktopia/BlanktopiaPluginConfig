@@ -1,0 +1,7 @@
+name: "Birthday Cake"
+material: FEATHER
+custom-model-data: 100
+model: "littleroom_bdaycake:bdaycake"
+
+block:
+  type: item

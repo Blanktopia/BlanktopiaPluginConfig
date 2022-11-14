@@ -1,6 +1,7 @@
 name: "§x§5§4§6§d§1§bElf Hat"
 material: GREEN_WOOL
 custom-model-data: 1
+model: "blanktopia:hats/elf"
 
 unique: true
 

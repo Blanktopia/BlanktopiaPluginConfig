@@ -3,6 +3,7 @@ version: 1
 name: "&6Lumberjack&c ⛏"
 material: IRON_AXE
 custom-model-data: 1
+model: "blanktopia:rares/lumberjack"
 
 unique: true
 unbreakable: true

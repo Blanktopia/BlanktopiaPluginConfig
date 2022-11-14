@@ -1,0 +1,32 @@
+name: "&fDeepslate Ruby Ore"
+material: PAPER
+custom-model-data: 1015
+model: "blanktopia:block/deepslate_ruby_ore"
+
+block:
+  type: mushroom
+  state: 15
+  model: "blanktopia:block/deepslate_ruby_ore"
+
+  hardness: 4.5
+  tools:
+    - diamond_pickaxe
+    - netherite_pickaxe
+
+  can-fortune: true
+  drops:
+    - ruby
+
+  sounds:
+    break:
+      pitch: 0.8
+      sound: block.deepslate.break
+      volume: 1
+    hit:
+      pitch: 0.5
+      sound: block.deepslate.hit
+      volume: 0.25
+    place:
+      pitch: 0.8
+      sound: block.deepslate.place
+      volume: 1

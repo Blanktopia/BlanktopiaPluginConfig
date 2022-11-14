@@ -42,8 +42,6 @@ triggers:
   damaged:
   - type: immunity
     causes: [LIGHTNING]
-  - type: message
-    message: hit
 
   left-click-block:
   - type: if
@@ -56,6 +54,8 @@ triggers:
         amount: 1
     then:
     - type: lightning
+      location:
+        type: block
     - type: item-cooldown
       ticks: 30
 
@@ -70,6 +70,8 @@ triggers:
         amount: 1
     then:
     - type: lightning
+      location:
+        type: entity
     - type: item-cooldown
       ticks: 30
 
@@ -92,5 +94,7 @@ triggers:
       marker: mjolnir
     then:
     - type: lightning
+      location:
+        type: projectile
     - type: item-cooldown
       ticks: 30

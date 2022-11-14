@@ -1,0 +1,8 @@
+type: shaped
+result: calcite
+shape:
+  - "SB"
+  - "BS"
+ingredients:
+  S: stone
+  B: bonemeal

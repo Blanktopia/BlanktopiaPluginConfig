@@ -1,6 +1,7 @@
 name: "&bHealth Coupon (Server-wide)"
 material: PAPER
 custom-model-data: 2
+model: "blanktopia:misc/health_coupon"
 
 lore: |-
   &8-------------------------

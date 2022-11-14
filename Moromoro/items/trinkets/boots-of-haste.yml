@@ -3,6 +3,7 @@ version: 1
 name: "&#f4cf8b-#f79859&Boots of Haste"
 material: LEATHER
 custom-model-data: 5
+model: "blanktopia:rares/boots_of_haste"
 
 unique: true
 
@@ -42,19 +43,25 @@ triggers:
   sprint:
   - type: if
     if:
-      type: is-on-ground
+      type: all
+      actions:
+      - type: is-on-ground
+      - type: not
+        not:
+          type: is-sneaking
     then:
     - type: add-attribute-modifier
       attribute-modifiers:
       - attribute: GENERIC_MOVEMENT_SPEED
         uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
         name: Boots of Haste
-        amount: 1.0
+        amount: 0.5
         operation: ADD_SCALAR
     - type: add-velocity
       x: 0
       y: 0
       z: 0.7
+      max: 1
     - type: repeat
       count: 3
       interval: 3
@@ -73,5 +80,13 @@ triggers:
     - attribute: GENERIC_MOVEMENT_SPEED
       uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
       name: Boots of Haste
-      amount: 1.0
+      amount: 0.5
+      operation: ADD_SCALAR
+  sneak:
+  - type: remove-attribute-modifier
+    attribute-modifiers:
+    - attribute: GENERIC_MOVEMENT_SPEED
+      uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
+      name: Boots of Haste
+      amount: 0.5
       operation: ADD_SCALAR

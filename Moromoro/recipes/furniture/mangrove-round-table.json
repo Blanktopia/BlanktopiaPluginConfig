@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_MANGROVE_LOG"
+   },
+   "result": "mangrove-round-table",
+   "shape": [
+      " S ",
+      "SSS",
+      " S "
+   ],
+   "type": "shaped"
+}

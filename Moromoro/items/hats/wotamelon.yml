@@ -1,6 +1,7 @@
 name: "§x§f§b§0§b§2§fWotamelon"
 material: MELON
 custom-model-data: 1
+model: "blanktopia:hats/wotamelon"
 
 triggers:
   right-click:

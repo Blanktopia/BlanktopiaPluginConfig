@@ -29,4 +29,5 @@ flatten(
     'blasting-nether-bricks.json': blasting('cracked_nether_bricks', 'nether_bricks'),
     'blasting-clay-block.json': blasting('terracotta', 'clay', 0.35),
     'blasting-stone-bricks.json': blasting('cracked_stone_bricks', 'stone_bricks'),
+    'blasting-glass.json': blasting('glass', 'sand'),
  }

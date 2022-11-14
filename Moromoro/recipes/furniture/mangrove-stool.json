@@ -1,0 +1,11 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_MANGROVE_LOG"
+   },
+   "result": "mangrove-stool",
+   "shape": [
+      "SSS",
+      "S S"
+   ],
+   "type": "shaped"
+}

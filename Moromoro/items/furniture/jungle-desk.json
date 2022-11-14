@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1023,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fJungle Desk"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1023,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/jungle_desk","name":"&fJungle Desk"}

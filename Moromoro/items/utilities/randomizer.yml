@@ -3,6 +3,7 @@ alias: block-zapper
 name: "&r&x&a&4&6&b&f&fRandomizer ?"
 material: WOODEN_HOE
 custom-model-data: 1005
+model: "minecraft:item/popped_chorus_fruit"
 
 unique: true
 unbreakable: true

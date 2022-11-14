@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": false,
-      "sit-height": 0.6875,
-      "type": "item"
-   },
-   "custom-model-data": 1017,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fWarped Stool"
-}
+{"block":{"collision":false,"sit-height":0.6875,"sit-rotate":true,"type":"item"},"custom-model-data":1017,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/warped_stool","name":"&fWarped Stool"}

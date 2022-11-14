@@ -1,9 +1,1 @@
-{
-   "block": {
-      "state": 8,
-      "type": "mushroom"
-   },
-   "custom-model-data": 1008,
-   "material": "PAPER",
-   "name": "&fGolden Apple Crate"
-}
+{"block":{"model":"blanktopia:block/golden_apple_crate","state":8,"type":"mushroom"},"custom-model-data":1008,"material":"PAPER","model":"blanktopia:block/golden_apple_crate","name":"&fGolden Apple Crate"}

@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": false,
-      "sit-height": 0.6875,
-      "type": "item"
-   },
-   "custom-model-data": 1014,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fAcacia Stool"
-}
+{"block":{"collision":false,"sit-height":0.6875,"sit-rotate":true,"type":"item"},"custom-model-data":1014,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/acacia_stool","name":"&fAcacia Stool"}

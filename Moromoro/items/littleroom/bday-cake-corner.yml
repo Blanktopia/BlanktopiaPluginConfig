@@ -1,0 +1,7 @@
+name: "Birthday Cake (Corner)"
+material: FEATHER
+custom-model-data: 103
+model: "littleroom_bdaycake:cornerpiece"
+
+block:
+  type: item

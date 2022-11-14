@@ -1,0 +1,8 @@
+name: "Amethyst Shield"
+material: SHIELD
+custom-model-data: 101
+model: "littleroom_amethystgolem:amethystshield"
+models:
+- material: SHIELD
+  model: "littleroom_amethystgolem:amethystshield_blocking"
+  predicate: { custom_model_data: 101, blocking: 1 }

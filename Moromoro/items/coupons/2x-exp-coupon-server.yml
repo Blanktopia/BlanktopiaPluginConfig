@@ -1,6 +1,7 @@
 name: "&b2x EXP Coupon (Server-wide)"
 material: PAPER
 custom-model-data: 1
+model: "blanktopia:misc/exp_coupon"
 
 lore: |-
   &8-------------------------

@@ -1,9 +1,1 @@
-{
-   "block": {
-      "state": 10,
-      "type": "mushroom"
-   },
-   "custom-model-data": 1010,
-   "material": "PAPER",
-   "name": "&fNether Wart Sack"
-}
+{"block":{"model":"blanktopia:block/nether_wart_sack","state":10,"type":"mushroom"},"custom-model-data":1010,"material":"PAPER","model":"blanktopia:block/nether_wart_sack","name":"&fNether Wart Sack"}

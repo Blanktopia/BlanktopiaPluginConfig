@@ -1,0 +1,7 @@
+type: shaped
+result: netherwartblock
+shape:
+  - "NN"
+  - "NN"
+ingredients:
+  N: netherwart

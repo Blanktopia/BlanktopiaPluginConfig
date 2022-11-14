@@ -1,9 +1,1 @@
-{
-   "block": {
-      "state": 2,
-      "type": "mushroom"
-   },
-   "custom-model-data": 1002,
-   "material": "PAPER",
-   "name": "&fBamboo Block"
-}
+{"block":{"model":"blanktopia:block/bamboo_block","state":2,"type":"mushroom"},"custom-model-data":1002,"material":"PAPER","model":"blanktopia:block/bamboo_block","name":"&fBamboo Block"}

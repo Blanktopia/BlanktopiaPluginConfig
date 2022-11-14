@@ -1,6 +1,7 @@
 name: "&#3b875c-#8ec153&Botanic Manipulator"
 material: WOODEN_HOE
 custom-model-data: 1010
+model: "blanktopia:rares/biome_wand"
 
 unique: true
 unbreakable: true

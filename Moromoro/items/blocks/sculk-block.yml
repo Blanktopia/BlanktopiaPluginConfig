@@ -1,0 +1,28 @@
+alias: sculk
+
+name: '&fSculk Block'
+material: PAPER
+custom-model-data: 1017
+model: "minecraft:block/sculk"
+
+block:
+  type: mushroom
+  state: 17
+  model: "minecraft:block/sculk"
+
+  drops: []
+  experience: 1
+
+  sounds:
+    break:
+      pitch: 2
+      sound: block.chorus_flower.death
+      volume: 2
+    hit:
+      pitch: 1.5
+      sound: block.chorus_flower.grow
+      volume: 1
+    place:
+      pitch: 2
+      sound: block.chorus_flower.grow
+      volume: 2

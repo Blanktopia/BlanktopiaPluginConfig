@@ -3,6 +3,7 @@ version: 1
 name: "&#6bffb5-#6bfff7&Measuring Tape"
 material: WOODEN_HOE
 custom-model-data: 1004
+model: "minecraft:item/string"
 
 unique: true
 unbreakable: true

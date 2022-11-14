@@ -1,0 +1,12 @@
+{
+   "ingredients": {
+      "S": "STRIPPED_MANGROVE_LOG"
+   },
+   "result": "mangrove-desk",
+   "shape": [
+      "SSS",
+      " S ",
+      "S S"
+   ],
+   "type": "shaped"
+}

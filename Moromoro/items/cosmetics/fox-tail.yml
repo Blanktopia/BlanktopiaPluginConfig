@@ -1,5 +1,6 @@
-name: "Fox Tail"
-material: LEATHER
-custom-model-data: 1
+version: 1
 
-# slot: OFF_HAND
+name: "Fox Tail"
+material: LEATHER_HORSE_ARMOR
+custom-model-data: 2012
+model: "blanktopia:cosmetics/fox_tail"

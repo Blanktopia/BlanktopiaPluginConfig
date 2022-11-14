@@ -1,8 +1,1 @@
-{
-   "custom-model-data": 8,
-   "material": "COOKIE",
-   "name": "&fOnigiri",
-   "triggers": {
-      "consume": [ ]
-   }
-}
+{"custom-model-data":8,"material":"COOKIE","model":"blanktopia:food/onigiri","name":"&fOnigiri","triggers":{"consume":[{"amount":3,"saturation":5.6,"type":"feed"}]}}

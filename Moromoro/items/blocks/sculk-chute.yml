@@ -1,0 +1,14 @@
+alias: sculk_catalyst
+
+name: '&fSculk Chute'
+material: PAPER
+custom-model-data: 1021
+model: "blanktopia:block/sculk_chute"
+
+block:
+  type: mushroom
+  state: 21
+  model: "blanktopia:block/sculk_chute"
+
+  drops: []
+  experience: 1

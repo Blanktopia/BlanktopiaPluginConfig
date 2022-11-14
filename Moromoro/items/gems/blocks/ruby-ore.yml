@@ -1,0 +1,32 @@
+name: '&fRuby Ore'
+material: PAPER
+custom-model-data: 1014
+model: "blanktopia:block/ruby_ore"
+
+block:
+  type: mushroom
+  state: 14
+  model: "blanktopia:block/ruby_ore"
+
+  hardness: 3
+  tools:
+    - diamond_pickaxe
+    - netherite_pickaxe
+
+  can-fortune: true
+  drops:
+    - ruby
+
+  sounds:
+    break:
+      pitch: 0.8
+      sound: block.stone.break
+      volume: 1
+    hit:
+      pitch: 0.5
+      sound: block.stone.hit
+      volume: 0.25
+    place:
+      pitch: 0.8
+      sound: block.stone.place
+      volume: 1

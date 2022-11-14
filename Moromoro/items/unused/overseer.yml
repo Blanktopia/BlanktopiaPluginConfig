@@ -1,0 +1,36 @@
+version: 1
+
+name: "&#5b577f-#4a217c&Overseer"
+material: BOW
+
+unique: true
+
+unbreakable: true
+
+enchantments:
+  infinity: 1
+  blanktopia:soulbound: 1
+
+slots: [HAND, OFF_HAND]
+
+triggers:
+  right-click:
+  - type: play-sound
+    sound: entity.warden.sonic_charge
+    pitch: 2.0
+  projectile-launch:
+  - type: lightning
+    location: 
+      type: raycast
+      range: 200
+  - type: spawn-particle-line
+    from: 
+      type: player
+    to: 
+      type: raycast
+      range: 200
+    particle: SPELL
+  - type: play-sound
+    sound: entity.warden.sonic_boom
+    pitch: 2.0
+  - type: remove-projectile

@@ -1,5 +1,6 @@
-name: "Black Devil Tail"
-material: QUARTZ
-custom-model-data: 5
+version: 1
 
-# slot: OFF_HAND
+name: "Black Devil Tail"
+material: LEATHER_HORSE_ARMOR
+custom-model-data: 2010
+model: "blanktopia:cosmetics/black_demon_tail"

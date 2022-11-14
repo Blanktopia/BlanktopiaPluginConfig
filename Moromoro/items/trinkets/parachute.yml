@@ -1,6 +1,7 @@
 name: "&#f9c1ae-#f9e7e0&Parachute"
 material: FEATHER
 custom-model-data: 2
+model: "blanktopia:rares/parachute"
 
 unique: true
 

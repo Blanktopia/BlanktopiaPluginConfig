@@ -1,5 +1,6 @@
-name: "Ender Wings"
-material: QUARTZ
-custom-model-data: 4
+version: 1
 
-# slot: HEAD
+name: "Ender Wings"
+material: LEATHER_HORSE_ARMOR
+custom-model-data: 2009
+model: "blanktopia:cosmetics/ender_wings"

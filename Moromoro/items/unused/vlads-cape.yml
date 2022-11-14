@@ -1,0 +1,46 @@
+name: "&#ea4f4f-#fff56d&Vlad's Cape"
+material: LEATHER
+
+unique: true
+
+lore: |-
+  &8-------------------------
+  &7Slot: &#ff4e1d&Trinket
+
+  &fPress &bsneak&f when falling
+  &fto glide.
+
+  &8-------------------------
+  &6???'s Crate Item
+
+enchantments:
+  blanktopia:final: 1
+  blanktopia:soulbound: 1
+
+slots:
+- TRINKET
+
+triggers:
+  right-click:
+  - type: cancel
+  sneak:
+  - type: if
+    if: 
+      type: not
+      not:
+        type: is-on-ground
+    then:
+    - type: add-permanent-potion-effect
+      key: vlads-cape
+      effects: { slow_falling: 2 }
+  unsneak:
+  - type: remove-permanent-potion-effect
+    key: vlads-cape
+  equip-armor:
+  - type: add-permission
+    permissions:
+    - tdj.use
+  unequip-armor:
+  - type: remove-permission
+    permissions:
+    - tdj.use

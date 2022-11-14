@@ -3,6 +3,17 @@ version: 1
 name: "&#1363d3-#5eeaf2&Cobalt Drill"
 material: NETHERITE_PICKAXE
 custom-model-data: 1
+model: "blanktopia:rares/cobalt_drill"
+models:
+- material: NETHERITE_SHOVEL
+  predicate: { custom_model_data: 1 }
+  model: "blanktopia:rares/cobalt_drill"
+- material: NETHERITE_AXE
+  predicate: { custom_model_data: 1 }
+  model: "blanktopia:rares/cobalt_drill"
+- material: DIAMOND_HOE
+  predicate: { custom_model_data: 1 }
+  model: "blanktopia:rares/cobalt_drill"
 
 unique: true
 unbreakable: true
@@ -48,6 +59,17 @@ triggers:
     pitch: 0.5
     sound: ui.stonecutter.take_result
     volume: 0.3
+  right-click-block:
+  - type: multi-tool
+    tools:
+    - NETHERITE_PICKAXE
+    - NETHERITE_SHOVEL
+    - NETHERITE_AXE
+    - DIAMOND_HOE
+  - type: play-sound
+    pitch: 0.5
+    sound: ui.stonecutter.take_result
+    volume: 0.3
   left-click-block:
   - type: multi-tool
     tools:
@@ -65,7 +87,17 @@ triggers:
     level: 1
     name: Silk Touch
     toggled: false
+  - type: toggle-enchantment
+    enchantment: fortune
+    level: 3
+    name: Fortune
+    toggled: true
   unsneak:
+  - type: toggle-enchantment
+    enchantment: fortune
+    level: 3
+    name: Fortune
+    toggled: false
   - type: toggle-enchantment
     enchantment: silk_touch
     level: 1

@@ -1,6 +1,7 @@
 name: "&#44c94f-#1b9125&Climbing Gloves"
 material: LEATHER
 custom-model-data: 4
+model: "blanktopia:rares/climbing_gloves"
 
 unique: true
 

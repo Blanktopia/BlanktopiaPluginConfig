@@ -1,12 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1070,
-   "dyeable": true,
-   "lore": "&7Dyeable",
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fPainted Oak Chair"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1070,"dyeable":true,"lore":"&7Dyeable","material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/oak_chair","name":"&fPainted Oak Chair"}

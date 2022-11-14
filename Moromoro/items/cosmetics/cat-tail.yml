@@ -1,11 +1,8 @@
 name: "Cat Tail"
 material: LEATHER_HORSE_ARMOR
 custom-model-data: 2003
-
+model: "blanktopia:cosmetics/cat_tail"
 lore: "&7Dyeable"
 
 color: "BLACK"
-
 dyeable: true
-
-# slot: OFF_HAND

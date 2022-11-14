@@ -1,0 +1,14 @@
+alias: sculk_catalyst
+
+name: '&fSculk Catalyst'
+material: PAPER
+custom-model-data: 1019
+model: "minecraft:block/sculk_catalyst"
+
+block:
+  type: mushroom
+  state: 19
+  model: "minecraft:block/sculk_catalyst"
+
+  drops: []
+  experience: 1

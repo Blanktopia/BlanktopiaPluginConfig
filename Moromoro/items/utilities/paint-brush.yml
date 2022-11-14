@@ -1,18 +1,19 @@
+version: 1
+
 name: "&rainbow&Paint Brush"
 material: WOODEN_HOE
 custom-model-data: 1001
+model: "blanktopia:rares/paint_brush"
 
 unique: true
 unbreakable: true
-
-version: 1
 
 lore: |-
   &7Paint: NONE
   &8-------------------------
   
   &bLeft-click&f to pick a colour.
-  &bRight-click&f to paint a block.
+  &bRight-click&f to paint blocks.
   
   &fWorks on:
   &8- &fGlass
@@ -28,11 +29,32 @@ enchantments:
   blanktopia:soulbound: 1
 
 triggers:
-  left-click-block:
-  - type: paint-brush-pick
+#  tick:
+#  - type: raycast
+#    range: 20
+#    actions:
+#    - type: paint-brush-highlight
+#      range: 2
+#      duration: 50
+  left-click:
+  - type: raycast
+    range: 20
+    actions:
+    - type: paint-brush-pick
   - type: cancel
-  right-click-block:
-  - type: paint-brush-paint
+  right-click:
+  - type: raycast
+    range: 20
+    actions:
+    - type: if
+      if:
+        type: is-sneaking
+      then:
+      - type: paint-brush-paint
+        range: 0
+      else:
+      - type: paint-brush-paint
+        range: 2
   - type: cancel
   right-click-entity:
   - type: cancel

@@ -3,6 +3,7 @@ version: 1
 name: "&#a46bff-#fa6bff&Block Zapper"
 material: WOODEN_HOE
 custom-model-data: 1005
+model: "minecraft:item/popped_chorus_fruit"
 
 unique: true
 unbreakable: true

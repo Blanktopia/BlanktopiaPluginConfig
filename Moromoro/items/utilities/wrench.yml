@@ -1,6 +1,7 @@
 name: "&#1ce0ea&Wrench"
 material: WOODEN_HOE
 custom-model-data: 1002
+model: "blanktopia:rares/wrench"
 
 unique: true
 unbreakable: true

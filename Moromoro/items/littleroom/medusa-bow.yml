@@ -1,0 +1,10 @@
+version: 2
+
+name: "Medusa Bow"
+material: BOW
+custom-model-data: 2
+model: "littleroom_medusa:medusa_bow"
+models:
+  - material: BOW
+    predicate: { custom_model_data: 1, pulling: 1 }
+    model: "littleroom_medusa:medusa_bow_pull"

@@ -3,6 +3,7 @@ version: 1
 name: "&#f76c9d-#b5f9cb&Hummingbird"
 material: FEATHER
 custom-model-data: 1
+model: "blanktopia:rares/hummingbird"
 
 unique: true
 

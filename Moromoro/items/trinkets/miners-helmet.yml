@@ -3,6 +3,7 @@ version: 1
 name: "&#f7fc92-#fccf8a&Miner's Helmet"
 material: GLOWSTONE_DUST
 custom-model-data: 1
+model: "blanktopia:hats/miners_helmet"
 
 unique: true
 

@@ -3,6 +3,7 @@ version: 1
 name: "&6Excavator&c ⛏"
 material: IRON_SHOVEL
 custom-model-data: 1
+model: "blanktopia:rares/excavator"
 
 unique: true
 unbreakable: true

@@ -1,5 +1,6 @@
-name: "Snow Fox Tail"
-material: LEATHER
-custom-model-data: 2
+version: 1
 
-# slot: OFF_HAND
+name: "Snow Fox Tail"
+material: LEATHER_HORSE_ARMOR
+custom-model-data: 2013
+model: "blanktopia:cosmetics/snow_fox_tail"

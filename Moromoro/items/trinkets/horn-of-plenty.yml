@@ -1,6 +1,7 @@
 name: "&#d580fc-#ffbf0d&Horn of Plenty"
 material: BOWL
 custom-model-data: 1
+model: "blanktopia:rares/horn_of_plenty"
 
 unique: true
 
@@ -25,11 +26,7 @@ slots:
 triggers:
   tick-slow:
   - type: set-hunger
-    hunger: 20
-  - type: set-saturation
-    saturation: 0
+    hunger: 19
   equip-armor:
   - type: set-hunger
-    hunger: 20
-  - type: set-saturation
-    saturation: 0
+    hunger: 19

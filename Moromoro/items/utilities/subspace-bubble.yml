@@ -1,6 +1,7 @@
 name: "&#258273-#8af1df&Subspace Bubble"
 material: WOODEN_HOE
 custom-model-data: 1008
+model: "minecraft:item/ender_pearl"
 
 unique: true
 unbreakable: true

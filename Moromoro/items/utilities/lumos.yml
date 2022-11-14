@@ -1,6 +1,7 @@
 name: "&#fffcdb-#ffc272&Lumos"
 material: WOODEN_HOE
 custom-model-data: 1000
+model: "blanktopia:rares/lumos"
 
 unique: true
 unbreakable: true

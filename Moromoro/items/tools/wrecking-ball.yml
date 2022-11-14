@@ -3,6 +3,7 @@ version: 1
 name: "&6Wrecking Ball&c ⛏"
 material: IRON_PICKAXE
 custom-model-data: 1
+model: "blanktopia:rares/wrecking_ball"
 
 unique: true
 unbreakable: true

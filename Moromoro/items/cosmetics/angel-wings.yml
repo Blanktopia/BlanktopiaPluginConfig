@@ -1,5 +1,6 @@
-name: "Angel Wings"
-material: QUARTZ
-custom-model-data: 1
+version: 1
 
-# slot: HEAD
+name: "Angel Wings"
+material: LEATHER_HORSE_ARMOR
+custom-model-data: 2006
+model: "blanktopia:cosmetics/angel_wings"

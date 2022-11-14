@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1056,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fCrimson Round Table"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1056,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/crimson_round_table","name":"&fCrimson Round Table"}

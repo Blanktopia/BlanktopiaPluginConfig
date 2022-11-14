@@ -1,8 +1,1 @@
-{
-   "custom-model-data": 9,
-   "material": "APPLE",
-   "name": "&fPear",
-   "triggers": {
-      "consume": [ ]
-   }
-}
+{"custom-model-data":9,"material":"APPLE","model":"blanktopia:food/fruits/pear","name":"&fPear","triggers":{"consume":[]}}

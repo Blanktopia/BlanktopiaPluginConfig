@@ -1,6 +1,7 @@
 name: "Red Mushroom Hat"
 material: RED_MUSHROOM
 custom-model-data: 1
+model: "blanktopia:hats/red_mushroom_hat"
 
 triggers:
   right-click:

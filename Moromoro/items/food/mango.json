@@ -1,8 +1,1 @@
-{
-   "custom-model-data": 6,
-   "material": "APPLE",
-   "name": "&fMango",
-   "triggers": {
-      "consume": [ ]
-   }
-}
+{"custom-model-data":6,"material":"APPLE","model":"blanktopia:food/fruits/mango","name":"&fMango","triggers":{"consume":[]}}

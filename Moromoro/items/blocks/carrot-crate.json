@@ -1,9 +1,1 @@
-{
-   "block": {
-      "state": 6,
-      "type": "mushroom"
-   },
-   "custom-model-data": 1006,
-   "material": "PAPER",
-   "name": "&fCarrot Crate"
-}
+{"block":{"model":"blanktopia:block/carrot_crate","state":6,"type":"mushroom"},"custom-model-data":1006,"material":"PAPER","model":"blanktopia:block/carrot_crate","name":"&fCarrot Crate"}

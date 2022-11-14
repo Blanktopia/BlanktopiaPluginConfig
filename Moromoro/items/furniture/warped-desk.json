@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1027,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fWarped Desk"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1027,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/warped_desk","name":"&fWarped Desk"}

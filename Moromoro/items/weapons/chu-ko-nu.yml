@@ -1,6 +1,23 @@
 name: "&#ef4faa-#ef4f61&Chu Ko Nu"
 material: CROSSBOW
 custom-model-data: 1
+model: "blanktopia:rares/chu_ko_nu"
+models:
+  - material: CROSSBOW
+    predicate: { custom_model_data: 1, pulling: 1 }
+    model: "blanktopia:rares/chu_ko_nu_pulling_0"
+  - material: CROSSBOW
+    predicate: { custom_model_data: 1, pulling: 2 }
+    model: "blanktopia:rares/chu_ko_nu_pulling_1"
+  - material: CROSSBOW
+    predicate: { custom_model_data: 1, pulling: 3 }
+    model: "blanktopia:rares/chu_ko_nu_pulling_2"
+  - material: CROSSBOW
+    predicate: { custom_model_data: 1, charged: 1 }
+    model: "blanktopia:rares/chu_ko_nu_arrow"
+  - material: CROSSBOW
+    predicate: { custom_model_data: 1, charged: 1, firework: 1 }
+    model: "blanktopia:rares/chu_ko_nu_firework"
 
 unique: true
 
@@ -17,7 +34,7 @@ unbreakable: true
 enchantments:
   blanktopia:soulbound: 1
   infinity: 1
-  quick_charge: 3
+  quick_charge: 1
 
 triggers:
   projectile-launch:

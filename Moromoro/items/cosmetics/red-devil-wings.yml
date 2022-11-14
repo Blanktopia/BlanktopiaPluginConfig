@@ -1,5 +1,6 @@
-name: "Red Devil Wings"
-material: QUARTZ
-custom-model-data: 3
+version: 1
 
-# slot: HEAD
+name: "Red Devil Wings"
+material: LEATHER_HORSE_ARMOR
+custom-model-data: 2008
+model: "blanktopia:cosmetics/red_demon_wings"

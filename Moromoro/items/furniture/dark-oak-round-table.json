@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1055,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fDark Oak Round Table"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1055,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/dark_oak_round_table","name":"&fDark Oak Round Table"}

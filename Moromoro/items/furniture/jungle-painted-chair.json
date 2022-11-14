@@ -1,12 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1073,
-   "dyeable": true,
-   "lore": "&7Dyeable",
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fJungle Chair"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1073,"dyeable":true,"lore":"&7Dyeable","material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/jungle_chair","name":"&fJungle Chair"}

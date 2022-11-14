@@ -20,7 +20,7 @@ condensed("carrot-crate", "CARROT") +
 condensed("cocoa-beans-sack", "COCOA_BEANS") +
 condensed("golden-apple-crate", "GOLDEN_APPLE") +
 condensed("gunpowder-sack", "GUNPOWDER") +
-# condensed("nether-wart-sack", "NETHER_WART") +
+condensed("nether-wart-sack", "NETHER_WART") +
 condensed("potato-crate", "POTATO") +
 condensed("stick-block", "STICK") +
 condensed("ruby-block", "ruby")

@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": false,
-      "sit-height": 0.6875,
-      "type": "item"
-   },
-   "custom-model-data": 1010,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fOak Stool"
-}
+{"block":{"collision":false,"sit-height":0.6875,"sit-rotate":true,"type":"item"},"custom-model-data":1010,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/oak_stool","name":"&fOak Stool"}

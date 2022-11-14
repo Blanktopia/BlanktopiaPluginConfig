@@ -3,6 +3,7 @@ version: 1
 name: "&#ffa5ee-#b6a5ff&Builder's Wand"
 material: WOODEN_HOE
 custom-model-data: 1003
+model: "blanktopia:rares/builders_wand"
 
 unique: true
 unbreakable: true
@@ -23,13 +24,14 @@ enchantments:
   blanktopia:soulbound: 1
 
 triggers:
-  tick-slow:
+  tick:
   - type: raycast
     range: 20
     actions:
     - type: builders-wand-highlight
       color: 0x64001000
       range: 2
+      duration: 50
   right-click:
   - type: if
     if:
@@ -47,11 +49,4 @@ triggers:
       then:
       - type: item-cooldown
         ticks: 1
-    - type: raycast
-      range: 20
-      actions:
-      - type: clear-highlight
-      - type: builders-wand-highlight
-        color: 0x64001000
-        range: 2
     - type: cancel

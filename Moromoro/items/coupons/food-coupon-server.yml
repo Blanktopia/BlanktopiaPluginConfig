@@ -1,6 +1,7 @@
 name: "&bFood Coupon (Server-wide)"
 material: PAPER
 custom-model-data: 3
+model: "blanktopia:misc/food_coupon"
 
 lore: |-
   &8-------------------------

@@ -1,6 +1,9 @@
-name: "Grappling Hook"
+version: 1
+
+name: "&#89c4c0-#d2e8e8&Pathfinder's Grappling Hook"
 material: WOODEN_HOE
 custom-model-data: 1009
+model: "blanktopia:rares/grappling_hook"
 
 unique: true
 unbreakable: true
@@ -38,5 +41,6 @@ triggers:
   - type: grapple-tick
     acceleration: 1.0
     max-speed: 1.0
+    detach-speed: 0.5
     range: 50
     particle: SOUL_FIRE_FLAME

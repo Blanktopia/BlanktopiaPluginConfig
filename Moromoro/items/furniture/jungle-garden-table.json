@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1033,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fJungle Garden Table"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1033,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/jungle_garden_table","name":"&fJungle Garden Table"}

@@ -2,6 +2,7 @@ local crateCoupon(name, crate) = {
   name: '&6' + name + ' Crate Coupon',
   material: 'PAPER',
   'custom-model-data': 4,
+  model: 'blanktopia:misc/key_coupon',
 
   lore: '&8-------------------------
 
@@ -11,14 +12,14 @@ local crateCoupon(name, crate) = {
 &8-------------------------',
 
   enchantments: {
-    final: 1,
+    "blanktopia:final": 1,
   },
 
   triggers: {
     'right-click': [
       {
         type: 'console-command',
-        command: 'crates givekey * ' + std.asciiLower(crate),
+        command: 'excellentcrates:crates key give * ' + std.asciiLower(crate) + ' 1',
       },
       {
         type: 'all-players',
@@ -35,7 +36,7 @@ local crateCoupon(name, crate) = {
       },
       {
         type: 'console-command',
-        command: 'broadcast &6%p&6 has given everyone a ' + crate + ' Crate Key.',
+        command: 'broadcast &6%p&6 has given everyone a ' + name + ' Crate Key.',
       },
       {
         type: 'remove-item'
@@ -49,4 +50,5 @@ local crateCoupon(name, crate) = {
     'miners-crate-coupon-server.json': crateCoupon("MINER's", "miner"),
     'infinity-crate-coupon-server.json': crateCoupon('INFINITY', "infinity"),
     'nature-crate-coupon-server.json': crateCoupon('NATURE', "nature"),
+    'explorers-crate-coupon-server.json': crateCoupon("EXPLORER's", "explorer"),
 }

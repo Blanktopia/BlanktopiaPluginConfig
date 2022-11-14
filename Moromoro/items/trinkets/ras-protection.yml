@@ -3,6 +3,7 @@ version: 1
 name: "&#ff730f-#ffca2d&Ra's Protection"
 material: GOLD_NUGGET
 custom-model-data: 1
+model: "blanktopia:rares/ras_protection"
 
 unique: true
 

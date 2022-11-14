@@ -1,10 +1,1 @@
-{
-   "block": {
-      "collision": true,
-      "sit-height": null,
-      "type": "item"
-   },
-   "custom-model-data": 1061,
-   "material": "LEATHER_HORSE_ARMOR",
-   "name": "&fSpruce Table"
-}
+{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1061,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/spruce_table","name":"&fSpruce Table"}
