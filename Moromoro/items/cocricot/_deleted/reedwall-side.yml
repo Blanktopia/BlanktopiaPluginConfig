@@ -1,0 +1,7 @@
+name: Reedwall Side
+material: PAPER
+custom-model-data: 6348
+model: 'cocricotmod:block/reedwall_side'
+
+block:
+  type: item

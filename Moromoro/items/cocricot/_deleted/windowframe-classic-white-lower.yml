@@ -1,0 +1,7 @@
+name: Windowframe Classic White Lower
+material: PAPER
+custom-model-data: 9131
+model: 'cocricotmod:block/windowframe_classic_white_lower'
+
+block:
+  type: item

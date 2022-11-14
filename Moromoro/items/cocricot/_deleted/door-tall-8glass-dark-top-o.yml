@@ -1,0 +1,7 @@
+name: Door Tall  8glass Dark Top O
+material: PAPER
+custom-model-data: 4453
+model: 'cocricotmod:block/door_tall_8glass_dark_top_o'
+
+block:
+  type: item

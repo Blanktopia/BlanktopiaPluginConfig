@@ -1,0 +1,7 @@
+name: Stair Closedstringer Iron
+material: PAPER
+custom-model-data: 7566
+model: 'cocricotmod:block/stair_closedstringer_iron'
+
+block:
+  type: item

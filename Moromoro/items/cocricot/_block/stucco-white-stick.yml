@@ -1,0 +1,7 @@
+name: Stucco White Stick
+material: PAPER
+custom-model-data: 8111
+model: 'cocricotmod:block/stucco_white_stick'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Color Lightgreen
+material: PAPER
+custom-model-data: 2763
+model: 'cocricotmod:block/cabinet_color_lightgreen'
+
+block:
+  type: item

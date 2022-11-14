@@ -1,0 +1,7 @@
+name: Slantbar Natural
+material: PAPER
+custom-model-data: 7339
+model: 'cocricotmod:block/slantbar_natural'
+
+block:
+  type: item

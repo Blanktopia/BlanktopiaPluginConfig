@@ -1,0 +1,7 @@
+name: Wood  3board H Black Stairs Inner
+material: PAPER
+custom-model-data: 9435
+model: 'cocricotmod:block/wood_3board_h_black_stairs_inner'
+
+block:
+  type: item

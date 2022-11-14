@@ -1,0 +1,7 @@
+name: Drawer Simple Blue Right
+material: PAPER
+custom-model-data: 4540
+model: 'cocricotmod:block/drawer_simple_blue_right'
+
+block:
+  type: item

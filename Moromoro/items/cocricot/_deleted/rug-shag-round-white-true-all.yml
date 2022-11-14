@@ -1,0 +1,7 @@
+name: Rug Shag Round White True All
+material: PAPER
+custom-model-data: 7087
+model: 'cocricotmod:block/rug_shag_round_white_true_all'
+
+block:
+  type: item

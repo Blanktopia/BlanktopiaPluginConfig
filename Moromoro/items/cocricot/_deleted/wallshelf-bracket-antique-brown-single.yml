@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Brown Single
+material: PAPER
+custom-model-data: 8396
+model: 'cocricotmod:block/wallshelf_bracket_antique_brown_single'
+
+block:
+  type: item

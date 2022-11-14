@@ -1,0 +1,7 @@
+name: Signpost Wood Seadrift 2
+material: PAPER
+custom-model-data: 7290
+model: 'cocricotmod:block/signpost_wood_seadrift2'
+
+block:
+  type: item

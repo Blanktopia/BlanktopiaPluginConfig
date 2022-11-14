@@ -1,0 +1,7 @@
+name: Fence Victorian Red Post
+material: PAPER
+custom-model-data: 4822
+model: 'cocricotmod:block/fence_victorian_red_post'
+
+block:
+  type: item

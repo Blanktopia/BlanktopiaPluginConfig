@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Black Slab
+material: PAPER
+custom-model-data: 9811
+model: 'cocricotmod:block/wood_wainscot_panels_black_slab'
+
+block:
+  type: item

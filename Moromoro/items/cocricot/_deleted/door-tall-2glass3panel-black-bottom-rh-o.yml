@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Black Bottom Rh O
+material: PAPER
+custom-model-data: 3931
+model: 'cocricotmod:block/door_tall_2glass3panel_black_bottom_rh_o'
+
+block:
+  type: item

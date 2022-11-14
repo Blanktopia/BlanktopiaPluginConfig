@@ -1,0 +1,7 @@
+name: Stair Spiral Clear True
+material: PAPER
+custom-model-data: 7596
+model: 'cocricotmod:block/stair_spiral_clear_true'
+
+block:
+  type: item

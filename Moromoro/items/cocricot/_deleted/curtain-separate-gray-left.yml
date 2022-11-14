@@ -1,0 +1,7 @@
+name: Curtain Separate Gray Left
+material: PAPER
+custom-model-data: 3266
+model: 'cocricotmod:block/curtain_separate_gray_left'
+
+block:
+  type: item

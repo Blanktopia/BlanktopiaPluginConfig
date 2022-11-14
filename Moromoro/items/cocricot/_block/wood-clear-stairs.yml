@@ -1,0 +1,7 @@
+name: Wood Clear Stairs
+material: PAPER
+custom-model-data: 9693
+model: 'cocricotmod:block/wood_clear_stairs'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stucco Yellow Rod
+material: PAPER
+custom-model-data: 8118
+model: 'cocricotmod:block/stucco_yellow_rod'
+
+block:
+  type: item

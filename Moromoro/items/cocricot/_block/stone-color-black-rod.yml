@@ -1,0 +1,7 @@
+name: Stone Color Black Rod
+material: PAPER
+custom-model-data: 7700
+model: 'cocricotmod:block/stone_color_black_rod'
+
+block:
+  type: item

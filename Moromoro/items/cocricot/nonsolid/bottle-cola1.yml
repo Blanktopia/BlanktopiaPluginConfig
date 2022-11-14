@@ -1,0 +1,7 @@
+name: Bottle Cola 1
+material: PAPER
+custom-model-data: 2548
+model: 'cocricotmod:block/bottle_cola1'
+
+block:
+  type: item

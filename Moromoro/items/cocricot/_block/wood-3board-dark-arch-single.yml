@@ -1,0 +1,7 @@
+name: Wood  3board Dark Arch Single
+material: PAPER
+custom-model-data: 9420
+model: 'cocricotmod:block/wood_3board_dark_arch_single'
+
+block:
+  type: item

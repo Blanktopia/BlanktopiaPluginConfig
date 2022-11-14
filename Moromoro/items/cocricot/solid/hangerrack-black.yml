@@ -1,0 +1,7 @@
+name: Hangerrack Black
+material: PAPER
+custom-model-data: 5765
+model: cocricotmod:block/hangerrack_black
+block:
+  type: item
+  collision: true

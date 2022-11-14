@@ -1,0 +1,7 @@
+name: Door Tall Top
+material: PAPER
+custom-model-data: 4492
+model: 'cocricotmod:block/door_tall_top'
+
+block:
+  type: item

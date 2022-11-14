@@ -1,0 +1,7 @@
+name: Door  2panel Orange Bottom
+material: PAPER
+custom-model-data: 3632
+model: 'cocricotmod:block/door_2panel_orange_bottom'
+
+block:
+  type: item

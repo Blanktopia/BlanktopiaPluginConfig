@@ -1,0 +1,7 @@
+name: Cushion Tropical Left B
+material: PAPER
+custom-model-data: 3375
+model: 'cocricotmod:block/cushion_tropical_left_b'
+
+block:
+  type: item

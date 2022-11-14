@@ -1,0 +1,7 @@
+name: Bed Mattress Green
+material: PAPER
+custom-model-data: 2412
+model: cocricotmod:block/bed_mattress_green
+block:
+  type: item
+  collision: true

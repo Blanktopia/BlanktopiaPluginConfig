@@ -1,0 +1,7 @@
+name: Curtain Separate Gingham Yellow Left
+material: PAPER
+custom-model-data: 3263
+model: 'cocricotmod:block/curtain_separate_gingham_yellow_left'
+
+block:
+  type: item

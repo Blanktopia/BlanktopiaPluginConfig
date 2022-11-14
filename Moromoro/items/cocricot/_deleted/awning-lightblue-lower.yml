@@ -1,0 +1,7 @@
+name: Awning Lightblue Lower
+material: PAPER
+custom-model-data: 2069
+model: 'cocricotmod:block/awning_lightblue_lower'
+
+block:
+  type: item

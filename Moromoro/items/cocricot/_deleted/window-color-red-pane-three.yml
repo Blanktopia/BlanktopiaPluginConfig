@@ -1,0 +1,7 @@
+name: Window Color Red Pane Three
+material: PAPER
+custom-model-data: 8777
+model: 'cocricotmod:block/window_color_red_pane_three'
+
+block:
+  type: item

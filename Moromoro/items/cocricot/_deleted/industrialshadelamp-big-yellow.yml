@@ -1,0 +1,7 @@
+name: Industrialshadelamp Big Yellow
+material: PAPER
+custom-model-data: 5832
+model: 'cocricotmod:block/industrialshadelamp_big_yellow'
+
+block:
+  type: item

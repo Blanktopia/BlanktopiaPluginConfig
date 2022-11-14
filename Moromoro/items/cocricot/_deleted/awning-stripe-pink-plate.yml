@@ -1,0 +1,7 @@
+name: Awning Stripe Pink Plate
+material: PAPER
+custom-model-data: 2238
+model: 'cocricotmod:block/awning_stripe_pink_plate'
+
+block:
+  type: item

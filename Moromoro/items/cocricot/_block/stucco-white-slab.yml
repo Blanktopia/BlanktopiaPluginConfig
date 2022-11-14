@@ -1,0 +1,7 @@
+name: Stucco White Slab
+material: PAPER
+custom-model-data: 8106
+model: 'cocricotmod:block/stucco_white_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Ladder Rope
+material: PAPER
+custom-model-data: 5892
+model: 'cocricotmod:block/ladder_rope'
+
+block:
+  type: item

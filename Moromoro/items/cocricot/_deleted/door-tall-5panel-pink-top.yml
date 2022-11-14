@@ -1,0 +1,7 @@
+name: Door Tall  5panel Pink Top
+material: PAPER
+custom-model-data: 4260
+model: 'cocricotmod:block/door_tall_5panel_pink_top'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Candleholder Antique Black
+material: PAPER
+custom-model-data: 2859
+model: 'cocricotmod:block/candleholder_antique_black'
+
+block:
+  type: item

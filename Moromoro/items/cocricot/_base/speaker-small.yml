@@ -1,0 +1,7 @@
+name: Speaker Small
+material: PAPER
+custom-model-data: 7547
+model: 'cocricotmod:block/speaker_small'
+
+block:
+  type: item

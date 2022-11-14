@@ -1,0 +1,7 @@
+name: Brick Castlestone Dark Slab Upper
+material: PAPER
+custom-model-data: 2634
+model: 'cocricotmod:block/brick_castlestone_dark_slab_upper'
+
+block:
+  type: item

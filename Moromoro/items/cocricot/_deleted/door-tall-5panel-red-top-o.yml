@@ -1,0 +1,7 @@
+name: Door Tall  5panel Red Top O
+material: PAPER
+custom-model-data: 4269
+model: 'cocricotmod:block/door_tall_5panel_red_top_o'
+
+block:
+  type: item

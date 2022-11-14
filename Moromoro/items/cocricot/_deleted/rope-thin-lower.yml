@@ -1,0 +1,7 @@
+name: Rope Thin Lower
+material: PAPER
+custom-model-data: 6873
+model: 'cocricotmod:block/rope_thin_lower'
+
+block:
+  type: item

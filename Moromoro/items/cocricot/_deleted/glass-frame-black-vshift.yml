@@ -1,0 +1,7 @@
+name: Glass Frame Black Vshift
+material: PAPER
+custom-model-data: 5059
+model: 'cocricotmod:block/glass_frame_black_vshift'
+
+block:
+  type: item

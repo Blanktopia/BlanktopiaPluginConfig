@@ -1,0 +1,7 @@
+name: Door Tall  6glass Yellow Bottom Rh O
+material: PAPER
+custom-model-data: 4419
+model: 'cocricotmod:block/door_tall_6glass_yellow_bottom_rh_o'
+
+block:
+  type: item

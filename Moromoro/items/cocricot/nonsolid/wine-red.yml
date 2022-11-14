@@ -1,0 +1,7 @@
+name: Wine Red
+material: PAPER
+custom-model-data: 9250
+model: 'cocricotmod:block/wine_red'
+
+block:
+  type: item

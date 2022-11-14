@@ -1,0 +1,7 @@
+name: Shoes Rainboots Red True
+material: PAPER
+custom-model-data: 7182
+model: 'cocricotmod:block/shoes_rainboots_red_true'
+
+block:
+  type: item

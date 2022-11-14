@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Dark Both
+material: PAPER
+custom-model-data: 5616
+model: 'cocricotmod:block/handrail_wood_straight_dark_both'
+
+block:
+  type: item

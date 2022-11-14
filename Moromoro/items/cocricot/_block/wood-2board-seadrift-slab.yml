@@ -1,0 +1,7 @@
+name: Wood  2board Seadrift Slab
+material: PAPER
+custom-model-data: 9366
+model: 'cocricotmod:block/wood_2board_seadrift_slab'
+
+block:
+  type: item

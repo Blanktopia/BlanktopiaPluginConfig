@@ -1,0 +1,7 @@
+name: Awning Green Plate
+material: PAPER
+custom-model-data: 2059
+model: 'cocricotmod:block/awning_green_plate'
+
+block:
+  type: item

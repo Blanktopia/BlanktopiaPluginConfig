@@ -1,0 +1,7 @@
+name: Base Cube All
+material: PAPER
+custom-model-data: 2310
+model: 'cocricotmod:block/base_cube_all'
+
+block:
+  type: item

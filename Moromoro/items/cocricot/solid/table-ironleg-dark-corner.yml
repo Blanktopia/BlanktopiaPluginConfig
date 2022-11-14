@@ -1,0 +1,7 @@
+name: Table Ironleg Dark Corner
+material: PAPER
+custom-model-data: 8195
+model: cocricotmod:block/table_ironleg_dark_corner
+block:
+  type: item
+  collision: true

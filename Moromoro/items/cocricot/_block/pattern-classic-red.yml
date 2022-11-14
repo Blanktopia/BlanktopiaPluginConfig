@@ -1,0 +1,7 @@
+name: Pattern Classic Red
+material: PAPER
+custom-model-data: 6197
+model: 'cocricotmod:block/pattern_classic_red'
+
+block:
+  type: item

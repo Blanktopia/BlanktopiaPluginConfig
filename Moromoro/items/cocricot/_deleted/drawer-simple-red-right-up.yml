@@ -1,0 +1,7 @@
+name: Drawer Simple Red Right Up
+material: PAPER
+custom-model-data: 4607
+model: 'cocricotmod:block/drawer_simple_red_right_up'
+
+block:
+  type: item

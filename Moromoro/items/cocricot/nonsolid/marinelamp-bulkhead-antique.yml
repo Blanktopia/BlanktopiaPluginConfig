@@ -1,0 +1,7 @@
+name: Marinelamp Bulkhead Antique
+material: PAPER
+custom-model-data: 6067
+model: 'cocricotmod:block/marinelamp_bulkhead_antique'
+
+block:
+  type: item

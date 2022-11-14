@@ -1,0 +1,7 @@
+name: Stucco Pink Plate
+material: PAPER
+custom-model-data: 8078
+model: 'cocricotmod:block/stucco_pink_plate'
+
+block:
+  type: item

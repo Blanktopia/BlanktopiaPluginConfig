@@ -1,0 +1,7 @@
+name: Roof Copper Green Slab Upper
+material: PAPER
+custom-model-data: 6465
+model: 'cocricotmod:block/roof_copper_green_slab_upper'
+
+block:
+  type: item

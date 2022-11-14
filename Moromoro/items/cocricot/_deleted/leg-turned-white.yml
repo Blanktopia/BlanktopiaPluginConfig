@@ -1,0 +1,7 @@
+name: Leg Turned White
+material: PAPER
+custom-model-data: 5985
+model: 'cocricotmod:block/leg_turned_white'
+
+block:
+  type: item

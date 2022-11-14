@@ -1,0 +1,7 @@
+name: Window Color Black Pane Both
+material: PAPER
+custom-model-data: 8696
+model: 'cocricotmod:block/window_color_black_pane_both'
+
+block:
+  type: item

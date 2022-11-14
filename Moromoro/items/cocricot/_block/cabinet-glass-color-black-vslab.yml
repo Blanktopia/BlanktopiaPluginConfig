@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Black Vslab
+material: PAPER
+custom-model-data: 2776
+model: 'cocricotmod:block/cabinet_glass_color_black_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Centrebar Lime Pane All
+material: PAPER
+custom-model-data: 8639
+model: 'cocricotmod:block/window_centrebar_lime_pane_all'
+
+block:
+  type: item

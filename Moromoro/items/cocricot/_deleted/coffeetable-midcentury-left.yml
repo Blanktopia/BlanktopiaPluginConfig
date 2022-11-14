@@ -1,0 +1,7 @@
+name: Coffeetable Midcentury Left
+material: PAPER
+custom-model-data: 3183
+model: 'cocricotmod:block/coffeetable_midcentury_left'
+
+block:
+  type: item

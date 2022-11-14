@@ -1,0 +1,7 @@
+name: Pergola Natural Both
+material: PAPER
+custom-model-data: 6232
+model: 'cocricotmod:block/pergola_natural_both'
+
+block:
+  type: item

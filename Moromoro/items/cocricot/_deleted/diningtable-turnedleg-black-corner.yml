@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Black Corner
+material: PAPER
+custom-model-data: 3463
+model: 'cocricotmod:block/diningtable_turnedleg_black_corner'
+
+block:
+  type: item

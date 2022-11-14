@@ -1,0 +1,7 @@
+name: Wood  3board Natural Arch Single
+material: PAPER
+custom-model-data: 9488
+model: 'cocricotmod:block/wood_3board_natural_arch_single'
+
+block:
+  type: item

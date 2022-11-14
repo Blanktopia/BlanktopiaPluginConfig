@@ -1,0 +1,7 @@
+name: Window Centrebar Red Pane Three
+material: PAPER
+custom-model-data: 8672
+model: 'cocricotmod:block/window_centrebar_red_pane_three'
+
+block:
+  type: item

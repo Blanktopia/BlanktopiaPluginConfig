@@ -1,0 +1,7 @@
+name: Cabinet Glass Shabby Yellow
+material: PAPER
+custom-model-data: 2805
+model: 'cocricotmod:block/cabinet_glass_shabby_yellow'
+
+block:
+  type: item

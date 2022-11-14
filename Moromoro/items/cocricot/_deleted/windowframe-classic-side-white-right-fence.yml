@@ -1,0 +1,7 @@
+name: Windowframe Classic Side White Right Fence
+material: PAPER
+custom-model-data: 9121
+model: 'cocricotmod:block/windowframe_classic_side_white_right_fence'
+
+block:
+  type: item

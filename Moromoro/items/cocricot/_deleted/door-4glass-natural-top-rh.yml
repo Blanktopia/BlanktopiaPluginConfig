@@ -1,0 +1,7 @@
+name: Door  4glass Natural Top Rh
+material: PAPER
+custom-model-data: 3726
+model: 'cocricotmod:block/door_4glass_natural_top_rh'
+
+block:
+  type: item

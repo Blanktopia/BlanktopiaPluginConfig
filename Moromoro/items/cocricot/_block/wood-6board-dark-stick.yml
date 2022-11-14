@@ -1,0 +1,7 @@
+name: Wood  6board Dark Stick
+material: PAPER
+custom-model-data: 9568
+model: 'cocricotmod:block/wood_6board_dark_stick'
+
+block:
+  type: item

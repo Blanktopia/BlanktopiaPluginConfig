@@ -1,0 +1,7 @@
+name: Roof Woodshake Black
+material: PAPER
+custom-model-data: 6834
+model: 'cocricotmod:block/roof_woodshake_black'
+
+block:
+  type: item

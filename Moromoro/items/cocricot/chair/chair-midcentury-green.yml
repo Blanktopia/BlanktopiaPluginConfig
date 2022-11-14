@@ -1,0 +1,7 @@
+name: Chair Midcentury Green
+material: PAPER
+custom-model-data: 3039
+model: cocricotmod:block/chair_midcentury_green
+block:
+  type: item
+  sit-height: 0.4375

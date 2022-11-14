@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Allinone
+material: PAPER
+custom-model-data: 5413
+model: 'cocricotmod:block/halftimber_darkyellow_allinone'
+
+block:
+  type: item

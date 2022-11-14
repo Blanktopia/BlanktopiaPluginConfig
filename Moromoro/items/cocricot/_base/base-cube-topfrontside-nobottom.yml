@@ -1,0 +1,7 @@
+name: Base Cube Topfrontside Nobottom
+material: PAPER
+custom-model-data: 2313
+model: 'cocricotmod:block/base_cube_topfrontside_nobottom'
+
+block:
+  type: item

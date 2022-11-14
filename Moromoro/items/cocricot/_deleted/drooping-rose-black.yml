@@ -1,0 +1,7 @@
+name: Drooping Rose Black
+material: PAPER
+custom-model-data: 4653
+model: 'cocricotmod:block/drooping_rose_black'
+
+block:
+  type: item

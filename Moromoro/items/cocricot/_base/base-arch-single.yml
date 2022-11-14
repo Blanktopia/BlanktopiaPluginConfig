@@ -1,0 +1,7 @@
+name: Base Arch Single
+material: PAPER
+custom-model-data: 2305
+model: 'cocricotmod:block/base_arch_single'
+
+block:
+  type: item

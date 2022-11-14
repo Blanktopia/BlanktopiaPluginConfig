@@ -1,0 +1,7 @@
+name: Wood  6board Dark Slab
+material: PAPER
+custom-model-data: 9563
+model: 'cocricotmod:block/wood_6board_dark_slab'
+
+block:
+  type: item

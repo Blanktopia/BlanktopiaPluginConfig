@@ -1,0 +1,7 @@
+name: Curtain Separate Lightgreen Right
+material: PAPER
+custom-model-data: 3277
+model: 'cocricotmod:block/curtain_separate_lightgreen_right'
+
+block:
+  type: item

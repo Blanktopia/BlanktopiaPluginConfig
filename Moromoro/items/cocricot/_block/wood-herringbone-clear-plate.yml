@@ -1,0 +1,7 @@
+name: Wood Herringbone Clear Plate
+material: PAPER
+custom-model-data: 9732
+model: 'cocricotmod:block/wood_herringbone_clear_plate'
+
+block:
+  type: item

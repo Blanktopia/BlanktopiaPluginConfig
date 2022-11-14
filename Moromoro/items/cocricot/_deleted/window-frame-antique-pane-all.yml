@@ -1,0 +1,7 @@
+name: Window Frame Antique Pane All
+material: PAPER
+custom-model-data: 8933
+model: 'cocricotmod:block/window_frame_antique_pane_all'
+
+block:
+  type: item

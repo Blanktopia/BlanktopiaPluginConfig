@@ -1,0 +1,7 @@
+name: Industrialshadelamp Mintgreen Wall
+material: PAPER
+custom-model-data: 5842
+model: 'cocricotmod:block/industrialshadelamp_mintgreen_wall'
+
+block:
+  type: item

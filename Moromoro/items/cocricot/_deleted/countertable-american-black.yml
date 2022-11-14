@@ -1,0 +1,7 @@
+name: Countertable American Black
+material: PAPER
+custom-model-data: 3228
+model: 'cocricotmod:block/countertable_american_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Gardenbench Seadrift Right
+material: PAPER
+custom-model-data: 4987
+model: cocricotmod:block/gardenbench_seadrift_right
+block:
+  type: item
+  sit-height: 0.4375

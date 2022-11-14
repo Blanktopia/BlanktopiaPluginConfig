@@ -1,0 +1,7 @@
+name: Halftimber Whitelightblue Tudor Left
+material: PAPER
+custom-model-data: 5488
+model: 'cocricotmod:block/halftimber_whitelightblue_tudor_left'
+
+block:
+  type: item

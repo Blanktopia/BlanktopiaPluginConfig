@@ -1,0 +1,7 @@
+name: Speaker Dark
+material: PAPER
+custom-model-data: 7535
+model: cocricotmod:block/speaker_dark
+block:
+  type: item
+  collision: true

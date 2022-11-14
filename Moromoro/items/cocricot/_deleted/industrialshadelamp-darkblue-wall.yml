@@ -1,0 +1,7 @@
+name: Industrialshadelamp Darkblue Wall
+material: PAPER
+custom-model-data: 5836
+model: 'cocricotmod:block/industrialshadelamp_darkblue_wall'
+
+block:
+  type: item

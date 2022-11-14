@@ -1,0 +1,7 @@
+name: Bougainvillea Pink Drooping
+material: PAPER
+custom-model-data: 2560
+model: 'cocricotmod:block/bougainvillea_pink_drooping'
+
+block:
+  type: item

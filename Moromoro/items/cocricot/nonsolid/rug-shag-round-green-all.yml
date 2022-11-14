@@ -1,0 +1,7 @@
+name: Rug Shag Round Green All
+material: PAPER
+custom-model-data: 6985
+model: 'cocricotmod:block/rug_shag_round_green_all'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Copper Lightgreen Vslab
+material: PAPER
+custom-model-data: 6505
+model: 'cocricotmod:block/roof_copper_lightgreen_vslab'
+
+block:
+  type: item

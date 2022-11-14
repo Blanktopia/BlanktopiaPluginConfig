@@ -1,0 +1,7 @@
+name: Desklamp Red
+material: PAPER
+custom-model-data: 3437
+model: 'cocricotmod:block/desklamp_red'
+
+block:
+  type: item

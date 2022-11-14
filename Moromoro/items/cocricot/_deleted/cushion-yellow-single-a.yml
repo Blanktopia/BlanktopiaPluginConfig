@@ -1,0 +1,7 @@
+name: Cushion Yellow Single A
+material: PAPER
+custom-model-data: 3405
+model: 'cocricotmod:block/cushion_yellow_single_a'
+
+block:
+  type: item

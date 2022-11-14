@@ -1,0 +1,7 @@
+name: Wood Seadrift
+material: PAPER
+custom-model-data: 9798
+model: 'cocricotmod:block/wood_seadrift'
+
+block:
+  type: item

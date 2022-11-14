@@ -1,0 +1,7 @@
+name: Stone Color Yellow Plate
+material: PAPER
+custom-model-data: 7868
+model: 'cocricotmod:block/stone_color_yellow_plate'
+
+block:
+  type: item

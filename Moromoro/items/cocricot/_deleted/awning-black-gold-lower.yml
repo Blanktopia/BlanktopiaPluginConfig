@@ -1,0 +1,7 @@
+name: Awning Black Gold Lower
+material: PAPER
+custom-model-data: 2013
+model: 'cocricotmod:block/awning_black_gold_lower'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Iron Classic White Side
+material: PAPER
+custom-model-data: 4733
+model: 'cocricotmod:block/fence_iron_classic_white_side'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Candleholders Antique
+material: PAPER
+custom-model-data: 2868
+model: 'cocricotmod:block/candleholders_antique'
+
+block:
+  type: item

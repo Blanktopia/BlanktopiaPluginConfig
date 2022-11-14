@@ -1,0 +1,7 @@
+name: Door Tall  5panel Yellow Bottom O
+material: PAPER
+custom-model-data: 4297
+model: 'cocricotmod:block/door_tall_5panel_yellow_bottom_o'
+
+block:
+  type: item

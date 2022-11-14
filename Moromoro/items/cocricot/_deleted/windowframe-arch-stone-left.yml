@@ -1,0 +1,7 @@
+name: Windowframe Arch Stone Left
+material: PAPER
+custom-model-data: 9053
+model: 'cocricotmod:block/windowframe_arch_stone_left'
+
+block:
+  type: item

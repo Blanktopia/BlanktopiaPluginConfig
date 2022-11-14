@@ -1,0 +1,7 @@
+name: Leaves Lightgreen
+material: PAPER
+custom-model-data: 5952
+model: 'cocricotmod:block/leaves_lightgreen'
+
+block:
+  type: item

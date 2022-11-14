@@ -1,0 +1,7 @@
+name: Clock Tambour
+material: PAPER
+custom-model-data: 3108
+model: 'cocricotmod:block/clock_tambour'
+
+block:
+  type: item

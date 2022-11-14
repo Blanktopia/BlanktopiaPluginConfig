@@ -1,0 +1,7 @@
+name: Drawer Simple Blue Single Middle
+material: PAPER
+custom-model-data: 4546
+model: 'cocricotmod:block/drawer_simple_blue_single_middle'
+
+block:
+  type: item

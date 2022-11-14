@@ -1,0 +1,7 @@
+name: Curtain Fringe Purple
+material: PAPER
+custom-model-data: 3246
+model: 'cocricotmod:block/curtain_fringe_purple'
+
+block:
+  type: item

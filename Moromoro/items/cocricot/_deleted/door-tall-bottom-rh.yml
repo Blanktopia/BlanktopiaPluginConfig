@@ -1,0 +1,7 @@
+name: Door Tall Bottom Rh
+material: PAPER
+custom-model-data: 4482
+model: 'cocricotmod:block/door_tall_bottom_rh'
+
+block:
+  type: item

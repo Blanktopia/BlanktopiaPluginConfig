@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Stick
+material: PAPER
+custom-model-data: 6732
+model: 'cocricotmod:block/roof_spanish_orange_stick'
+
+block:
+  type: item

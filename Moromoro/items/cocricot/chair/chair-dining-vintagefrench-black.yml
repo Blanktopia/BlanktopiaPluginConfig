@@ -1,0 +1,7 @@
+name: Chair Dining Vintagefrench Black
+material: PAPER
+custom-model-data: 3010
+model: cocricotmod:block/chair_dining_vintagefrench_black
+block:
+  type: item
+  sit-height: 0.4375

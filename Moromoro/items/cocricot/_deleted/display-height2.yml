@@ -1,0 +1,7 @@
+name: Display Height 2
+material: PAPER
+custom-model-data: 3510
+model: 'cocricotmod:block/display_height2'
+
+block:
+  type: item

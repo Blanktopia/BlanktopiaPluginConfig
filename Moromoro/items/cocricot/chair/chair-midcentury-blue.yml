@@ -1,0 +1,7 @@
+name: Chair Midcentury Blue
+material: PAPER
+custom-model-data: 3037
+model: cocricotmod:block/chair_midcentury_blue
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Brick Red White Plate
+material: PAPER
+custom-model-data: 2701
+model: 'cocricotmod:block/brick_red_white_plate'
+
+block:
+  type: item

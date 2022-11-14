@@ -1,0 +1,7 @@
+name: Stucco Pink Item
+material: PAPER
+custom-model-data: 8077
+model: 'cocricotmod:block/stucco_pink_item'
+
+block:
+  type: item

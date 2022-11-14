@@ -1,0 +1,7 @@
+name: Climbing Rose Lightblue
+material: PAPER
+custom-model-data: 3099
+model: 'cocricotmod:block/climbing_rose_lightblue'
+
+block:
+  type: item

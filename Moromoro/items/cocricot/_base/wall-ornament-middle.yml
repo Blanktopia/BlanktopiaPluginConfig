@@ -1,0 +1,7 @@
+name: Wall Ornament Middle
+material: PAPER
+custom-model-data: 8347
+model: 'cocricotmod:block/wall_ornament_middle'
+
+block:
+  type: item

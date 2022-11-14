@@ -1,0 +1,7 @@
+name: Fence Ranchrail Seadrift Slant
+material: PAPER
+custom-model-data: 4799
+model: 'cocricotmod:block/fence_ranchrail_seadrift_slant'
+
+block:
+  type: item

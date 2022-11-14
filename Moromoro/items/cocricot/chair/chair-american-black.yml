@@ -1,0 +1,7 @@
+name: Chair American Black
+material: PAPER
+custom-model-data: 2984
+model: cocricotmod:block/chair_american_black
+block:
+  type: item
+  sit-height: 0.4375

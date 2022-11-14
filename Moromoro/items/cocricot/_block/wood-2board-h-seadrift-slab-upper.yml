@@ -1,0 +1,7 @@
+name: Wood  2board H Seadrift Slab Upper
+material: PAPER
+custom-model-data: 9339
+model: 'cocricotmod:block/wood_2board_h_seadrift_slab_upper'
+
+block:
+  type: item

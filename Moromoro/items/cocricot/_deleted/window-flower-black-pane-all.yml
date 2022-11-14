@@ -1,0 +1,7 @@
+name: Window Flower Black Pane All
+material: PAPER
+custom-model-data: 8905
+model: 'cocricotmod:block/window_flower_black_pane_all'
+
+block:
+  type: item

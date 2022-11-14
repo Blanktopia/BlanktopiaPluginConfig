@@ -1,0 +1,7 @@
+name: Wood  6board Seadrift Stairs Inner
+material: PAPER
+custom-model-data: 9646
+model: 'cocricotmod:block/wood_6board_seadrift_stairs_inner'
+
+block:
+  type: item

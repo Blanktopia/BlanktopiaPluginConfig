@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Dark Slant
+material: PAPER
+custom-model-data: 5621
+model: 'cocricotmod:block/handrail_wood_straight_dark_slant'
+
+block:
+  type: item

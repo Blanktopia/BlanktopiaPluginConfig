@@ -1,0 +1,7 @@
+name: Leaves Dry
+material: PAPER
+custom-model-data: 5946
+model: 'cocricotmod:block/leaves_dry'
+
+block:
+  type: item

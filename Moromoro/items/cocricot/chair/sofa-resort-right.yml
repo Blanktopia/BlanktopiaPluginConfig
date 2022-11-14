@@ -1,0 +1,7 @@
+name: Sofa Resort Right
+material: PAPER
+custom-model-data: 7399
+model: cocricotmod:block/sofa_resort_right
+block:
+  type: item
+  sit-height: 0.4375

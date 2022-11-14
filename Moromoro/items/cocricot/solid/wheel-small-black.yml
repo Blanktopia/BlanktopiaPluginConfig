@@ -1,0 +1,8 @@
+name: Wheel Small Black
+material: PAPER
+custom-model-data: 8544
+model: 'cocricotmod:block/wheel_small_black'
+
+block:
+  type: item
+  collision: true

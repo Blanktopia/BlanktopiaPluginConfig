@@ -1,0 +1,7 @@
+name: Awning Black Upper
+material: PAPER
+custom-model-data: 2021
+model: 'cocricotmod:block/awning_black_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Range Plate
+material: PAPER
+custom-model-data: 6308
+model: 'cocricotmod:block/range_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Tablelamp Modern
+material: PAPER
+custom-model-data: 8226
+model: 'cocricotmod:block/tablelamp_modern'
+
+block:
+  type: item

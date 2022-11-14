@@ -1,0 +1,7 @@
+name: Tile Moroccan Brown
+material: PAPER
+custom-model-data: 8284
+model: 'cocricotmod:block/tile_moroccan_brown'
+
+block:
+  type: item

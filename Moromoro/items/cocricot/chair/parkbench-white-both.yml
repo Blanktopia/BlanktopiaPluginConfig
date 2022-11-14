@@ -1,0 +1,7 @@
+name: Parkbench White Both
+material: PAPER
+custom-model-data: 6171
+model: cocricotmod:block/parkbench_white_both
+block:
+  type: item
+  sit-height: 0.4375

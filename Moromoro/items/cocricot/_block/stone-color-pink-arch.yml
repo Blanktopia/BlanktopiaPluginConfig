@@ -1,0 +1,7 @@
+name: Stone Color Pink Arch
+material: PAPER
+custom-model-data: 7827
+model: 'cocricotmod:block/stone_color_pink_arch'
+
+block:
+  type: item

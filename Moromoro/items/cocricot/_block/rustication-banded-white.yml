@@ -1,0 +1,7 @@
+name: Rustication Banded White
+material: PAPER
+custom-model-data: 7116
+model: 'cocricotmod:block/rustication_banded_white'
+
+block:
+  type: item

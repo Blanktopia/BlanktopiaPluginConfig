@@ -1,0 +1,7 @@
+name: Leaves Rose Pink
+material: PAPER
+custom-model-data: 5970
+model: 'cocricotmod:block/leaves_rose_pink'
+
+block:
+  type: item

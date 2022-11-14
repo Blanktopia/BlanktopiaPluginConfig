@@ -1,0 +1,7 @@
+name: Awning Gray Slab Upper
+material: PAPER
+custom-model-data: 2050
+model: 'cocricotmod:block/awning_gray_slab_upper'
+
+block:
+  type: item

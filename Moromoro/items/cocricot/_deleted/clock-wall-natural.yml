@@ -1,0 +1,7 @@
+name: Clock Wall Natural
+material: PAPER
+custom-model-data: 3114
+model: 'cocricotmod:block/clock_wall_natural'
+
+block:
+  type: item

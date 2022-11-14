@@ -1,0 +1,7 @@
+name: Speaker White
+material: PAPER
+custom-model-data: 7555
+model: cocricotmod:block/speaker_white
+block:
+  type: item
+  collision: true

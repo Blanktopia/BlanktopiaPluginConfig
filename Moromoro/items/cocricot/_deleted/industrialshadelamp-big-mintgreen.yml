@@ -1,0 +1,7 @@
+name: Industrialshadelamp Big Mintgreen
+material: PAPER
+custom-model-data: 5827
+model: 'cocricotmod:block/industrialshadelamp_big_mintgreen'
+
+block:
+  type: item

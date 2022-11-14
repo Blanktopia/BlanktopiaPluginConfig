@@ -1,0 +1,7 @@
+name: Cabinet Color Yellow
+material: PAPER
+custom-model-data: 2771
+model: 'cocricotmod:block/cabinet_color_yellow'
+
+block:
+  type: item

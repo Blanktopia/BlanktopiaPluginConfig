@@ -1,0 +1,7 @@
+name: Door Tall  8glass Clear Top O
+material: PAPER
+custom-model-data: 4445
+model: 'cocricotmod:block/door_tall_8glass_clear_top_o'
+
+block:
+  type: item

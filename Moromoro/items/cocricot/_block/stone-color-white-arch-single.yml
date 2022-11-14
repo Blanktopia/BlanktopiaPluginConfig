@@ -1,0 +1,7 @@
+name: Stone Color White Arch Single
+material: PAPER
+custom-model-data: 7854
+model: 'cocricotmod:block/stone_color_white_arch_single'
+
+block:
+  type: item

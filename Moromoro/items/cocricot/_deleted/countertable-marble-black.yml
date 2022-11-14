@@ -1,0 +1,7 @@
+name: Countertable Marble Black
+material: PAPER
+custom-model-data: 3236
+model: 'cocricotmod:block/countertable_marble_black'
+
+block:
+  type: item

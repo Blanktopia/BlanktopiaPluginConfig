@@ -1,0 +1,7 @@
+name: Teapot Blue
+material: PAPER
+custom-model-data: 8246
+model: 'cocricotmod:block/teapot_blue'
+
+block:
+  type: item

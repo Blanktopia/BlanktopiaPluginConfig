@@ -1,0 +1,7 @@
+name: Drawer Simple Clear Both Middle
+material: PAPER
+custom-model-data: 4566
+model: 'cocricotmod:block/drawer_simple_clear_both_middle'
+
+block:
+  type: item

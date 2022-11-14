@@ -1,0 +1,7 @@
+name: Wood Dark Arch Single
+material: PAPER
+custom-model-data: 9700
+model: 'cocricotmod:block/wood_dark_arch_single'
+
+block:
+  type: item

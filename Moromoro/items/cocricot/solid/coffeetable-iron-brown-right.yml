@@ -1,0 +1,7 @@
+name: Coffeetable Iron Brown Right
+material: PAPER
+custom-model-data: 3157
+model: cocricotmod:block/coffeetable_iron_brown_right
+block:
+  type: item
+  collision: true

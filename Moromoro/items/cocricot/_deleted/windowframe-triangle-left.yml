@@ -1,0 +1,7 @@
+name: Windowframe Triangle Left
+material: PAPER
+custom-model-data: 9235
+model: 'cocricotmod:block/windowframe_triangle_left'
+
+block:
+  type: item

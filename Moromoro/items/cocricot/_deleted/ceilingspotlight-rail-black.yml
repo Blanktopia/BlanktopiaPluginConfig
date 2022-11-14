@@ -1,0 +1,7 @@
+name: Ceilingspotlight Rail Black
+material: PAPER
+custom-model-data: 2946
+model: 'cocricotmod:block/ceilingspotlight_rail_black'
+
+block:
+  type: item

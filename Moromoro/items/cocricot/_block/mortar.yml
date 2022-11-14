@@ -1,0 +1,7 @@
+name: Mortar
+material: PAPER
+custom-model-data: 6129
+model: 'cocricotmod:block/mortar'
+
+block:
+  type: item

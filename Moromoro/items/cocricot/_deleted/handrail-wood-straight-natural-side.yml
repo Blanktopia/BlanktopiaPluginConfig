@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Natural Side
+material: PAPER
+custom-model-data: 5640
+model: 'cocricotmod:block/handrail_wood_straight_natural_side'
+
+block:
+  type: item

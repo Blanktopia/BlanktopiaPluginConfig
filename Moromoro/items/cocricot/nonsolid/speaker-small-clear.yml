@@ -1,0 +1,7 @@
+name: Speaker Small Clear
+material: PAPER
+custom-model-data: 7551
+model: 'cocricotmod:block/speaker_small_clear'
+
+block:
+  type: item

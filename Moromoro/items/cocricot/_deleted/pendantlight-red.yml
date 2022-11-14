@@ -1,0 +1,7 @@
+name: Pendantlight Red
+material: PAPER
+custom-model-data: 6218
+model: 'cocricotmod:block/pendantlight_red'
+
+block:
+  type: item

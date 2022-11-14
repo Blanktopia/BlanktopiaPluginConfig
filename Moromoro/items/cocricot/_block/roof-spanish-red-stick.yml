@@ -1,0 +1,7 @@
+name: Roof Spanish Red Stick
+material: PAPER
+custom-model-data: 6752
+model: 'cocricotmod:block/roof_spanish_red_stick'
+
+block:
+  type: item

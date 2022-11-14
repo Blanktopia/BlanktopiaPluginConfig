@@ -1,0 +1,7 @@
+name: Refrigerator Retro Pink
+material: PAPER
+custom-model-data: 6359
+model: cocricotmod:block/refrigerator_retro_pink
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Wood  2board White Slab
+material: PAPER
+custom-model-data: 9376
+model: 'cocricotmod:block/wood_2board_white_slab'
+
+block:
+  type: item

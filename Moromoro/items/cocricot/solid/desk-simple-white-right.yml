@@ -1,0 +1,7 @@
+name: Desk Simple White Right
+material: PAPER
+custom-model-data: 3431
+model: cocricotmod:block/desk_simple_white_right
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Door  2panel Pink Top Rh
+material: PAPER
+custom-model-data: 3646
+model: 'cocricotmod:block/door_2panel_pink_top_rh'
+
+block:
+  type: item

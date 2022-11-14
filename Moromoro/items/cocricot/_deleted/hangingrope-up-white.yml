@@ -1,0 +1,7 @@
+name: Hangingrope Up White
+material: PAPER
+custom-model-data: 5803
+model: 'cocricotmod:block/hangingrope_up_white'
+
+block:
+  type: item

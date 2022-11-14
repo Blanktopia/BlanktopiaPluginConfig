@@ -1,0 +1,7 @@
+name: Wood  3board Brown Slab Upper
+material: PAPER
+custom-model-data: 9400
+model: 'cocricotmod:block/wood_3board_brown_slab_upper'
+
+block:
+  type: item

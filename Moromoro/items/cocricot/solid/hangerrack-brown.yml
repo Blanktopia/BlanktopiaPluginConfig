@@ -1,0 +1,7 @@
+name: Hangerrack Brown
+material: PAPER
+custom-model-data: 5766
+model: cocricotmod:block/hangerrack_brown
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Shelf Normal Kitchen
+material: PAPER
+custom-model-data: 7164
+model: 'cocricotmod:block/shelf_normal_kitchen'
+
+block:
+  type: item

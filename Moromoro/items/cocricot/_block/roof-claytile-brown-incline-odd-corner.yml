@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Incline Odd Corner
+material: PAPER
+custom-model-data: 6390
+model: 'cocricotmod:block/roof_claytile_brown_incline_odd_corner'
+
+block:
+  type: item

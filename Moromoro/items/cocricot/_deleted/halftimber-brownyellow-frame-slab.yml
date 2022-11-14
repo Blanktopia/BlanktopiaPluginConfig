@@ -1,0 +1,7 @@
+name: Halftimber Brownyellow Frame Slab
+material: PAPER
+custom-model-data: 5297
+model: 'cocricotmod:block/halftimber_brownyellow_frame_slab'
+
+block:
+  type: item

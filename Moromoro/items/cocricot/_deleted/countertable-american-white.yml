@@ -1,0 +1,7 @@
+name: Countertable American White
+material: PAPER
+custom-model-data: 3234
+model: 'cocricotmod:block/countertable_american_white'
+
+block:
+  type: item

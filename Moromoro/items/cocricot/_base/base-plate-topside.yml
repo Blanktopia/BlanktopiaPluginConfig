@@ -1,0 +1,7 @@
+name: Base Plate Topside
+material: PAPER
+custom-model-data: 2337
+model: 'cocricotmod:block/base_plate_topside'
+
+block:
+  type: item

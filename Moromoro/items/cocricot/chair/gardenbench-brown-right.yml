@@ -1,0 +1,7 @@
+name: Gardenbench Brown Right
+material: PAPER
+custom-model-data: 4945
+model: cocricotmod:block/gardenbench_brown_right
+block:
+  type: item
+  sit-height: 0.4375

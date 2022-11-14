@@ -1,0 +1,7 @@
+name: Chair Rocking
+material: PAPER
+custom-model-data: 3052
+model: cocricotmod:block/chair_rocking
+block:
+  type: item
+  sit-height: 0.4375

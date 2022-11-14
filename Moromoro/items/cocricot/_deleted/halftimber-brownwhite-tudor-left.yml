@@ -1,0 +1,7 @@
+name: Halftimber Brownwhite Tudor Left
+material: PAPER
+custom-model-data: 5291
+model: 'cocricotmod:block/halftimber_brownwhite_tudor_left'
+
+block:
+  type: item

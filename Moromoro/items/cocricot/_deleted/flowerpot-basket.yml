@@ -1,0 +1,7 @@
+name: Flowerpot Basket
+material: PAPER
+custom-model-data: 4877
+model: 'cocricotmod:block/flowerpot_basket'
+
+block:
+  type: item

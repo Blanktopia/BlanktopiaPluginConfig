@@ -1,0 +1,7 @@
+name: Coffeetable Iron Both
+material: PAPER
+custom-model-data: 3154
+model: 'cocricotmod:block/coffeetable_iron_both'
+
+block:
+  type: item

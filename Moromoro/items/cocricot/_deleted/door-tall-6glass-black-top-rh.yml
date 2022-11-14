@@ -1,0 +1,7 @@
+name: Door Tall  6glass Black Top Rh
+material: PAPER
+custom-model-data: 4310
+model: 'cocricotmod:block/door_tall_6glass_black_top_rh'
+
+block:
+  type: item

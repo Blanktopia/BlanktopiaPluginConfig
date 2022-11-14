@@ -1,0 +1,7 @@
+name: Luggage Antique Small White
+material: PAPER
+custom-model-data: 6025
+model: 'cocricotmod:block/luggage_antique_small_white'
+
+block:
+  type: item

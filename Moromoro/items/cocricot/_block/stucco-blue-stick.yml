@@ -1,0 +1,7 @@
+name: Stucco Blue Stick
+material: PAPER
+custom-model-data: 8030
+model: 'cocricotmod:block/stucco_blue_stick'
+
+block:
+  type: item

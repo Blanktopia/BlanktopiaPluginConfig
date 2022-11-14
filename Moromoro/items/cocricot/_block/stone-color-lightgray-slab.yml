@@ -1,0 +1,7 @@
+name: Stone Color Lightgray Slab
+material: PAPER
+custom-model-data: 7779
+model: 'cocricotmod:block/stone_color_lightgray_slab'
+
+block:
+  type: item

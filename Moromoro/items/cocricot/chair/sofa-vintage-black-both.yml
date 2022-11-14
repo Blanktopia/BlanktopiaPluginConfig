@@ -1,0 +1,7 @@
+name: Sofa Vintage Black Both
+material: PAPER
+custom-model-data: 7521
+model: cocricotmod:block/sofa_vintage_black_both
+block:
+  type: item
+  sit-height: 0.4375

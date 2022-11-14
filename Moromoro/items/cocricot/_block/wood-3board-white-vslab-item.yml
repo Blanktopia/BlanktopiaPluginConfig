@@ -1,0 +1,7 @@
+name: Wood  3board White Vslab Item
+material: PAPER
+custom-model-data: 9521
+model: 'cocricotmod:block/wood_3board_white_vslab_item'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Frame Slab
+material: PAPER
+custom-model-data: 5447
+model: 'cocricotmod:block/halftimber_limewhite_frame_slab'
+
+block:
+  type: item

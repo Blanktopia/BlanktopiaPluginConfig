@@ -1,0 +1,7 @@
+name: Branch Oak Side Trunk
+material: PAPER
+custom-model-data: 2604
+model: 'cocricotmod:block/branch_oak_side_trunk'
+
+block:
+  type: item

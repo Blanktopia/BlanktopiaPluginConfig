@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Gray Top
+material: PAPER
+custom-model-data: 3948
+model: 'cocricotmod:block/door_tall_2glass3panel_gray_top'
+
+block:
+  type: item

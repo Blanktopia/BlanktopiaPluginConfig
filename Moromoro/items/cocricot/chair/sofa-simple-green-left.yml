@@ -1,0 +1,7 @@
+name: Sofa Simple Green Left
+material: PAPER
+custom-model-data: 7414
+model: cocricotmod:block/sofa_simple_green_left
+block:
+  type: item
+  sit-height: 0.4375

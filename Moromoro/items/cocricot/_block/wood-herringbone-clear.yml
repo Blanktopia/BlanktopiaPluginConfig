@@ -1,0 +1,7 @@
+name: Wood Herringbone Clear
+material: PAPER
+custom-model-data: 9731
+model: 'cocricotmod:block/wood_herringbone_clear'
+
+block:
+  type: item

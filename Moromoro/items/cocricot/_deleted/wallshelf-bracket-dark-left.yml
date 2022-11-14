@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Dark Left
+material: PAPER
+custom-model-data: 8452
+model: 'cocricotmod:block/wallshelf_bracket_dark_left'
+
+block:
+  type: item

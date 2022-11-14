@@ -1,0 +1,7 @@
+name: Curtain Separate Darkblue Both
+material: PAPER
+custom-model-data: 3250
+model: 'cocricotmod:block/curtain_separate_darkblue_both'
+
+block:
+  type: item

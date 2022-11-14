@@ -1,0 +1,7 @@
+name: Stone Bushrock Slab
+material: PAPER
+custom-model-data: 7651
+model: 'cocricotmod:block/stone_bushrock_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Herringbone Seadrift Slab
+material: PAPER
+custom-model-data: 9765
+model: 'cocricotmod:block/wood_herringbone_seadrift_slab'
+
+block:
+  type: item

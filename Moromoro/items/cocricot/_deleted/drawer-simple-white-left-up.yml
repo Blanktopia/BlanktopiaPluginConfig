@@ -1,0 +1,7 @@
+name: Drawer Simple White Left Up
+material: PAPER
+custom-model-data: 4635
+model: 'cocricotmod:block/drawer_simple_white_left_up'
+
+block:
+  type: item

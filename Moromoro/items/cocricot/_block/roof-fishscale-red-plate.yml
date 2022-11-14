@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Plate
+material: PAPER
+custom-model-data: 6602
+model: 'cocricotmod:block/roof_fishscale_red_plate'
+
+block:
+  type: item

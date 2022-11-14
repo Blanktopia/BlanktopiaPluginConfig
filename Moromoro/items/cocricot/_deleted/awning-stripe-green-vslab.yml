@@ -1,0 +1,7 @@
+name: Awning Stripe Green Vslab
+material: PAPER
+custom-model-data: 2190
+model: 'cocricotmod:block/awning_stripe_green_vslab'
+
+block:
+  type: item

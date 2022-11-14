@@ -1,0 +1,7 @@
+name: Marinelamp Lampshade Black
+material: PAPER
+custom-model-data: 6081
+model: 'cocricotmod:block/marinelamp_lampshade_black'
+
+block:
+  type: item

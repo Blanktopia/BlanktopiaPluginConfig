@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Stick
+material: PAPER
+custom-model-data: 6609
+model: 'cocricotmod:block/roof_fishscale_red_stick'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Luggage Antique Small Brown
+material: PAPER
+custom-model-data: 6024
+model: 'cocricotmod:block/luggage_antique_small_brown'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightred
+material: PAPER
+custom-model-data: 9898
+model: 'cocricotmod:block/wood_wrapsiding_lightred'
+
+block:
+  type: item

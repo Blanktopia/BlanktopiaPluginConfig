@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Frame Slab
+material: PAPER
+custom-model-data: 5237
+model: 'cocricotmod:block/halftimber_brownlime_frame_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rug Shag Round Red True
+material: PAPER
+custom-model-data: 7074
+model: 'cocricotmod:block/rug_shag_round_red_true'
+
+block:
+  type: item

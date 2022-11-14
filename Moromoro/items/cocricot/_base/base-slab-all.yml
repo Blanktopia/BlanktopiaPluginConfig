@@ -1,0 +1,7 @@
+name: Base Slab All
+material: PAPER
+custom-model-data: 2342
+model: 'cocricotmod:block/base_slab_all'
+
+block:
+  type: item

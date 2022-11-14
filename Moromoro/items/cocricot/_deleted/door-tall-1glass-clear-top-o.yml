@@ -1,0 +1,7 @@
+name: Door Tall  1glass Clear Top O
+material: PAPER
+custom-model-data: 3893
+model: 'cocricotmod:block/door_tall_1glass_clear_top_o'
+
+block:
+  type: item

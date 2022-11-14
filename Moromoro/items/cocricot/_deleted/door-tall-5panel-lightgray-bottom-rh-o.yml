@@ -1,0 +1,7 @@
+name: Door Tall  5panel Lightgray Bottom Rh O
+material: PAPER
+custom-model-data: 4219
+model: 'cocricotmod:block/door_tall_5panel_lightgray_bottom_rh_o'
+
+block:
+  type: item

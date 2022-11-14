@@ -1,0 +1,7 @@
+name: Laundrypole Red Right
+material: PAPER
+custom-model-data: 5926
+model: 'cocricotmod:block/laundrypole_red_right'
+
+block:
+  type: item

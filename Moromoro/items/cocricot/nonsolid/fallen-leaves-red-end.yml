@@ -1,0 +1,7 @@
+name: Fallen Leaves Red End
+material: PAPER
+custom-model-data: 4676
+model: 'cocricotmod:block/fallen_leaves_red_end'
+
+block:
+  type: item

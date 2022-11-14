@@ -1,0 +1,7 @@
+name: Window Color Darkbrown Pane All
+material: PAPER
+custom-model-data: 8709
+model: 'cocricotmod:block/window_color_darkbrown_pane_all'
+
+block:
+  type: item

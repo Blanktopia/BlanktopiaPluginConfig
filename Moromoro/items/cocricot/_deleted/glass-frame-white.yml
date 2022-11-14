@@ -1,0 +1,7 @@
+name: Glass Frame White
+material: PAPER
+custom-model-data: 5137
+model: 'cocricotmod:block/glass_frame_white'
+
+block:
+  type: item

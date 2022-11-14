@@ -1,0 +1,7 @@
+name: Postbox Black
+material: PAPER
+custom-model-data: 6274
+model: cocricotmod:block/postbox_black
+block:
+  type: item
+  collision: true

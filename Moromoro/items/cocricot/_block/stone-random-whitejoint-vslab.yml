@@ -1,0 +1,7 @@
+name: Stone Random Whitejoint Vslab
+material: PAPER
+custom-model-data: 7968
+model: 'cocricotmod:block/stone_random_whitejoint_vslab'
+
+block:
+  type: item

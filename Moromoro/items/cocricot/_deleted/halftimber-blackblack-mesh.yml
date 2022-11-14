@@ -1,0 +1,7 @@
+name: Halftimber Blackblack Mesh
+material: PAPER
+custom-model-data: 5180
+model: 'cocricotmod:block/halftimber_blackblack_mesh'
+
+block:
+  type: item

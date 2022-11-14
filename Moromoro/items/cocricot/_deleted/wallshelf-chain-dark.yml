@@ -1,0 +1,7 @@
+name: Wallshelf Chain Dark
+material: PAPER
+custom-model-data: 8490
+model: 'cocricotmod:block/wallshelf_chain_dark'
+
+block:
+  type: item

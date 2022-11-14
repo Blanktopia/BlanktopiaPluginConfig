@@ -1,0 +1,7 @@
+name: Cushion Blue
+material: PAPER
+custom-model-data: 3300
+model: 'cocricotmod:block/cushion_blue'
+
+block:
+  type: item

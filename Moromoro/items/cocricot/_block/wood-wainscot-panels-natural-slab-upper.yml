@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Natural Slab Upper
+material: PAPER
+custom-model-data: 9842
+model: 'cocricotmod:block/wood_wainscot_panels_natural_slab_upper'
+
+block:
+  type: item

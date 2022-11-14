@@ -1,0 +1,7 @@
+name: Wood  3board Natural Item
+material: PAPER
+custom-model-data: 9489
+model: 'cocricotmod:block/wood_3board_natural_item'
+
+block:
+  type: item

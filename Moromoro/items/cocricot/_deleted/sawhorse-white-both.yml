@@ -1,0 +1,7 @@
+name: Sawhorse White Both
+material: PAPER
+custom-model-data: 7144
+model: 'cocricotmod:block/sawhorse_white_both'
+
+block:
+  type: item

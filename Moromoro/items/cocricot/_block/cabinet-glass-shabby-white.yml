@@ -1,0 +1,7 @@
+name: Cabinet Glass Shabby White
+material: PAPER
+custom-model-data: 2801
+model: 'cocricotmod:block/cabinet_glass_shabby_white'
+
+block:
+  type: item

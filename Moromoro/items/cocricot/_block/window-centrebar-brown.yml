@@ -1,0 +1,7 @@
+name: Window Centrebar Brown
+material: PAPER
+custom-model-data: 8603
+model: 'cocricotmod:block/window_centrebar_brown'
+
+block:
+  type: item

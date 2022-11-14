@@ -1,0 +1,7 @@
+name: Brick Red White Arch
+material: PAPER
+custom-model-data: 2699
+model: 'cocricotmod:block/brick_red_white_arch'
+
+block:
+  type: item

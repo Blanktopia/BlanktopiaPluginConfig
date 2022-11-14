@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Dark Single
+material: PAPER
+custom-model-data: 8408
+model: 'cocricotmod:block/wallshelf_bracket_antique_dark_single'
+
+block:
+  type: item

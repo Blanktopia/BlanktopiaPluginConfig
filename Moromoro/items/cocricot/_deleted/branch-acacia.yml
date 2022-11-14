@@ -1,0 +1,7 @@
+name: Branch Acacia
+material: PAPER
+custom-model-data: 2590
+model: 'cocricotmod:block/branch_acacia'
+
+block:
+  type: item

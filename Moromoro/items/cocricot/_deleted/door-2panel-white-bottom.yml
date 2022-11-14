@@ -1,0 +1,7 @@
+name: Door  2panel White Bottom
+material: PAPER
+custom-model-data: 3664
+model: 'cocricotmod:block/door_2panel_white_bottom'
+
+block:
+  type: item

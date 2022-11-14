@@ -1,0 +1,7 @@
+name: Door Tall  2panel White Bottom
+material: PAPER
+custom-model-data: 4152
+model: 'cocricotmod:block/door_tall_2panel_white_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chair Greek Brown
+material: PAPER
+custom-model-data: 3023
+model: cocricotmod:block/chair_greek_brown
+block:
+  type: item
+  sit-height: 0.4375

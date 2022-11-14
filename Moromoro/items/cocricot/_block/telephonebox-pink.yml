@@ -1,0 +1,7 @@
+name: Telephonebox Pink
+material: PAPER
+custom-model-data: 8256
+model: 'cocricotmod:block/telephonebox_pink'
+
+block:
+  type: item

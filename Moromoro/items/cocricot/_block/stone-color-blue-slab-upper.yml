@@ -1,0 +1,7 @@
+name: Stone Color Blue Slab Upper
+material: PAPER
+custom-model-data: 7715
+model: 'cocricotmod:block/stone_color_blue_slab_upper'
+
+block:
+  type: item

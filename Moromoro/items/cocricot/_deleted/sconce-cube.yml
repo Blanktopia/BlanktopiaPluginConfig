@@ -1,0 +1,7 @@
+name: Sconce Cube
+material: PAPER
+custom-model-data: 7147
+model: 'cocricotmod:block/sconce_cube'
+
+block:
+  type: item

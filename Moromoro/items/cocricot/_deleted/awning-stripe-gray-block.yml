@@ -1,0 +1,7 @@
+name: Awning Stripe Gray Block
+material: PAPER
+custom-model-data: 2170
+model: 'cocricotmod:block/awning_stripe_gray_block'
+
+block:
+  type: item

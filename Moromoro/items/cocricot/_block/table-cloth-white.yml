@@ -1,0 +1,7 @@
+name: Table Cloth White
+material: PAPER
+custom-model-data: 8170
+model: 'cocricotmod:block/table_cloth_white'
+
+block:
+  type: item

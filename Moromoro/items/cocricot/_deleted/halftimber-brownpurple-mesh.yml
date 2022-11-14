@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Mesh
+material: PAPER
+custom-model-data: 5270
+model: 'cocricotmod:block/halftimber_brownpurple_mesh'
+
+block:
+  type: item

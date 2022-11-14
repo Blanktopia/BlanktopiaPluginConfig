@@ -1,0 +1,7 @@
+name: Roof Fishscale Brown Slab
+material: PAPER
+custom-model-data: 6564
+model: 'cocricotmod:block/roof_fishscale_brown_slab'
+
+block:
+  type: item

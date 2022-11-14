@@ -1,0 +1,7 @@
+name: Brick Painted Black 1
+material: PAPER
+custom-model-data: 2688
+model: 'cocricotmod:block/brick_painted_black1'
+
+block:
+  type: item

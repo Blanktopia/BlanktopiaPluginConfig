@@ -1,0 +1,7 @@
+name: Door  9glass Yellow Bottom
+material: PAPER
+custom-model-data: 3856
+model: 'cocricotmod:block/door_9glass_yellow_bottom'
+
+block:
+  type: item

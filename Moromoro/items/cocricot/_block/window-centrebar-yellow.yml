@@ -1,0 +1,7 @@
+name: Window Centrebar Yellow
+material: PAPER
+custom-model-data: 8687
+model: 'cocricotmod:block/window_centrebar_yellow'
+
+block:
+  type: item

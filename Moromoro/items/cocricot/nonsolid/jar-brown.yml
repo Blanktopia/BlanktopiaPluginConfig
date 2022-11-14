@@ -1,0 +1,7 @@
+name: Jar Brown
+material: PAPER
+custom-model-data: 5869
+model: 'cocricotmod:block/jar_brown'
+
+block:
+  type: item

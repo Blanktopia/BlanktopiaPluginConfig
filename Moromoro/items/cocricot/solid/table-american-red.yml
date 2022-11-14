@@ -1,0 +1,7 @@
+name: Table American Red
+material: PAPER
+custom-model-data: 8155
+model: cocricotmod:block/table_american_red
+block:
+  type: item
+  collision: true

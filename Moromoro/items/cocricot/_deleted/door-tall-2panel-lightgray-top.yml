@@ -1,0 +1,7 @@
+name: Door Tall  2panel Lightgray Top
+material: PAPER
+custom-model-data: 4100
+model: 'cocricotmod:block/door_tall_2panel_lightgray_top'
+
+block:
+  type: item

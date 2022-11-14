@@ -1,0 +1,7 @@
+name: Counterstool Industrial Clear
+material: PAPER
+custom-model-data: 3216
+model: 'cocricotmod:block/counterstool_industrial_clear'
+
+block:
+  type: item

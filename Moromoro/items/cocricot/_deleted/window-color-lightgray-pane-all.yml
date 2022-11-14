@@ -1,0 +1,7 @@
+name: Window Color Lightgray Pane All
+material: PAPER
+custom-model-data: 8737
+model: 'cocricotmod:block/window_color_lightgray_pane_all'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sink Noplate Ceramic
+material: PAPER
+custom-model-data: 7312
+model: cocricotmod:block/sink_noplate_ceramic
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Pot Enameled White
+material: PAPER
+custom-model-data: 6289
+model: 'cocricotmod:block/pot_enameled_white'
+
+block:
+  type: item

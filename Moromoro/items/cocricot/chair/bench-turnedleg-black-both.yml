@@ -1,0 +1,7 @@
+name: Bench Turnedleg Black Both
+material: PAPER
+custom-model-data: 2448
+model: cocricotmod:block/bench_turnedleg_black_both
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Roof Claytile Blue Rod
+material: PAPER
+custom-model-data: 6378
+model: 'cocricotmod:block/roof_claytile_blue_rod'
+
+block:
+  type: item

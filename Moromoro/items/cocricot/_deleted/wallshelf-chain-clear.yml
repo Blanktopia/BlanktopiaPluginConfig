@@ -1,0 +1,7 @@
+name: Wallshelf Chain Clear
+material: PAPER
+custom-model-data: 8488
+model: 'cocricotmod:block/wallshelf_chain_clear'
+
+block:
+  type: item

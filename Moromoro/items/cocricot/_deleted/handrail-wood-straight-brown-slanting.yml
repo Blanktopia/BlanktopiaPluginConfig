@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Brown Slanting
+material: PAPER
+custom-model-data: 5602
+model: 'cocricotmod:block/handrail_wood_straight_brown_slanting'
+
+block:
+  type: item

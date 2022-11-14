@@ -1,0 +1,7 @@
+name: Awning Stripe Pink Block
+material: PAPER
+custom-model-data: 2236
+model: 'cocricotmod:block/awning_stripe_pink_block'
+
+block:
+  type: item

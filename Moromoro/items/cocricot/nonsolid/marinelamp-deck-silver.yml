@@ -1,0 +1,7 @@
+name: Marinelamp Deck Silver
+material: PAPER
+custom-model-data: 6076
+model: 'cocricotmod:block/marinelamp_deck_silver'
+
+block:
+  type: item

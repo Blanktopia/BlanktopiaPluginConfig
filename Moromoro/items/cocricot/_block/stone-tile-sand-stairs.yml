@@ -1,0 +1,7 @@
+name: Stone Tile Sand Stairs
+material: PAPER
+custom-model-data: 7983
+model: 'cocricotmod:block/stone_tile_sand_stairs'
+
+block:
+  type: item

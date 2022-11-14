@@ -1,0 +1,7 @@
+name: Sink Cabinet Brown Ceramic
+material: PAPER
+custom-model-data: 7300
+model: cocricotmod:block/sink_cabinet_brown_ceramic
+block:
+  type: item
+  collision: true

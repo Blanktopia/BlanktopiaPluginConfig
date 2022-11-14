@@ -1,0 +1,7 @@
+name: Sand Sea 2
+material: PAPER
+custom-model-data: 7128
+model: 'cocricotmod:block/sand_sea2'
+
+block:
+  type: item

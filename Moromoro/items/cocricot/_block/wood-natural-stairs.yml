@@ -1,0 +1,7 @@
+name: Wood Natural Stairs
+material: PAPER
+custom-model-data: 9788
+model: 'cocricotmod:block/wood_natural_stairs'
+
+block:
+  type: item

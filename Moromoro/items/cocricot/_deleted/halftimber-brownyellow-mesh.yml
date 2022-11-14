@@ -1,0 +1,7 @@
+name: Halftimber Brownyellow Mesh
+material: PAPER
+custom-model-data: 5300
+model: 'cocricotmod:block/halftimber_brownyellow_mesh'
+
+block:
+  type: item

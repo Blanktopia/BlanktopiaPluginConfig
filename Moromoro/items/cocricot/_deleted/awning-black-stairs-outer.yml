@@ -1,0 +1,7 @@
+name: Awning Black Stairs Outer
+material: PAPER
+custom-model-data: 2020
+model: 'cocricotmod:block/awning_black_stairs_outer'
+
+block:
+  type: item

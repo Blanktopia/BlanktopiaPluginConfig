@@ -1,0 +1,7 @@
+name: Mug White
+material: PAPER
+custom-model-data: 6145
+model: 'cocricotmod:block/mug_white'
+
+block:
+  type: item

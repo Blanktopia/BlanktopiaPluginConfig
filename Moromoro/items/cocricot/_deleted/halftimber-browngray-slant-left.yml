@@ -1,0 +1,7 @@
+name: Halftimber Browngray Slant Left
+material: PAPER
+custom-model-data: 5213
+model: 'cocricotmod:block/halftimber_browngray_slant_left'
+
+block:
+  type: item

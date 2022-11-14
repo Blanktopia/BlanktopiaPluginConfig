@@ -1,0 +1,7 @@
+name: Leaves
+material: PAPER
+custom-model-data: 5933
+model: 'cocricotmod:block/leaves'
+
+block:
+  type: item

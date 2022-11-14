@@ -1,0 +1,7 @@
+name: Brick Castlestone Dark Stick
+material: PAPER
+custom-model-data: 2639
+model: 'cocricotmod:block/brick_castlestone_dark_stick'
+
+block:
+  type: item

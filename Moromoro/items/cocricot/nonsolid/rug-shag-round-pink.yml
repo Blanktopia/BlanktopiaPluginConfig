@@ -1,0 +1,7 @@
+name: Rug Shag Round Pink
+material: PAPER
+custom-model-data: 7044
+model: 'cocricotmod:block/rug_shag_round_pink'
+
+block:
+  type: item

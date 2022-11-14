@@ -1,0 +1,7 @@
+name: Kettle Lightgreen
+material: PAPER
+custom-model-data: 5879
+model: 'cocricotmod:block/kettle_lightgreen'
+
+block:
+  type: item

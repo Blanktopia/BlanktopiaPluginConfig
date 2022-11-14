@@ -1,0 +1,7 @@
+name: Gaslamp Red
+material: PAPER
+custom-model-data: 5045
+model: 'cocricotmod:block/gaslamp_red'
+
+block:
+  type: item

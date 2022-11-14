@@ -1,0 +1,7 @@
+name: Window Flower Sand
+material: PAPER
+custom-model-data: 8911
+model: 'cocricotmod:block/window_flower_sand'
+
+block:
+  type: item

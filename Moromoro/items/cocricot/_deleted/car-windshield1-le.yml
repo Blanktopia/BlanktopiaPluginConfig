@@ -1,0 +1,7 @@
+name: Car Windshield 1 Le
+material: PAPER
+custom-model-data: 2897
+model: 'cocricotmod:block/car_windshield1_le'
+
+block:
+  type: item

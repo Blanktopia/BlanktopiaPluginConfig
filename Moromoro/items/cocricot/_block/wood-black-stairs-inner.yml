@@ -1,0 +1,7 @@
+name: Wood Black Stairs Inner
+material: PAPER
+custom-model-data: 9670
+model: 'cocricotmod:block/wood_black_stairs_inner'
+
+block:
+  type: item

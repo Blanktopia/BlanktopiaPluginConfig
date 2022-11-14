@@ -1,0 +1,7 @@
+name: Tile Mosaic Big Green
+material: PAPER
+custom-model-data: 8295
+model: 'cocricotmod:block/tile_mosaic_big_green'
+
+block:
+  type: item

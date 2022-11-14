@@ -1,0 +1,7 @@
+name: Halftimber Browngray Allinone
+material: PAPER
+custom-model-data: 5203
+model: 'cocricotmod:block/halftimber_browngray_allinone'
+
+block:
+  type: item

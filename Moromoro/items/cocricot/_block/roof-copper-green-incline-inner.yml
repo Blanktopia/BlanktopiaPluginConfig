@@ -1,0 +1,7 @@
+name: Roof Copper Green Incline Inner
+material: PAPER
+custom-model-data: 6458
+model: 'cocricotmod:block/roof_copper_green_incline_inner'
+
+block:
+  type: item

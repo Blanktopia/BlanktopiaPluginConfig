@@ -1,0 +1,7 @@
+name: Branch Birch Side Trunk
+material: PAPER
+custom-model-data: 2595
+model: 'cocricotmod:block/branch_birch_side_trunk'
+
+block:
+  type: item

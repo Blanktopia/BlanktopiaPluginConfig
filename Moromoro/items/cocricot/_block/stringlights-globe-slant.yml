@@ -1,0 +1,7 @@
+name: Stringlights Globe Slant
+material: PAPER
+custom-model-data: 8016
+model: 'cocricotmod:block/stringlights_globe_slant'
+
+block:
+  type: item

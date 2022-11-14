@@ -1,0 +1,7 @@
+name: Wood Wrapsiding White Whiteframe
+material: PAPER
+custom-model-data: 9907
+model: 'cocricotmod:block/wood_wrapsiding_white_whiteframe'
+
+block:
+  type: item

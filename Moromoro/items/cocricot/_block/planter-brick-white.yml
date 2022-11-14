@@ -1,0 +1,7 @@
+name: Planter Brick White
+material: PAPER
+custom-model-data: 6265
+model: 'cocricotmod:block/planter_brick_white'
+
+block:
+  type: item

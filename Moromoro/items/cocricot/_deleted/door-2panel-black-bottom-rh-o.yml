@@ -1,0 +1,7 @@
+name: Door  2panel Black Bottom Rh O
+material: PAPER
+custom-model-data: 3571
+model: 'cocricotmod:block/door_2panel_black_bottom_rh_o'
+
+block:
+  type: item

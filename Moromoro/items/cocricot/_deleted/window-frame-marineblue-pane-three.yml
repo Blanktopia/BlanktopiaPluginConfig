@@ -1,0 +1,7 @@
+name: Window Frame Marineblue Pane Three
+material: PAPER
+custom-model-data: 8966
+model: 'cocricotmod:block/window_frame_marineblue_pane_three'
+
+block:
+  type: item

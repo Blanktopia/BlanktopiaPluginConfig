@@ -1,0 +1,7 @@
+name: Fence Ranchrail Red All
+material: PAPER
+custom-model-data: 4789
+model: 'cocricotmod:block/fence_ranchrail_red_all'
+
+block:
+  type: item

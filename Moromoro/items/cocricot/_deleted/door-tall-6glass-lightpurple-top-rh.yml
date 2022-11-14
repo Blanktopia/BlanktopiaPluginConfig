@@ -1,0 +1,7 @@
+name: Door Tall  6glass Lightpurple Top Rh
+material: PAPER
+custom-model-data: 4366
+model: 'cocricotmod:block/door_tall_6glass_lightpurple_top_rh'
+
+block:
+  type: item

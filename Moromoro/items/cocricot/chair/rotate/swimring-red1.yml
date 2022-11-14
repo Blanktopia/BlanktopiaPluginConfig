@@ -1,0 +1,8 @@
+name: Swimring Red 1
+material: PAPER
+custom-model-data: 8142
+model: cocricotmod:block/swimring_red1
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

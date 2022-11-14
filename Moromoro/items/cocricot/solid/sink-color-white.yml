@@ -1,0 +1,7 @@
+name: Sink Color White
+material: PAPER
+custom-model-data: 7310
+model: cocricotmod:block/sink_color_white
+block:
+  type: item
+  collision: true

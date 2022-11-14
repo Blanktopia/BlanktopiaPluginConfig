@@ -1,0 +1,7 @@
+name: Handrail Wood Three
+material: PAPER
+custom-model-data: 5677
+model: 'cocricotmod:block/handrail_wood_three'
+
+block:
+  type: item

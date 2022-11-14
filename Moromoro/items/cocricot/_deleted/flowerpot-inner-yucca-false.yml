@@ -1,0 +1,7 @@
+name: Flowerpot Inner Yucca False
+material: PAPER
+custom-model-data: 4919
+model: 'cocricotmod:block/flowerpot_inner_yucca_false'
+
+block:
+  type: item

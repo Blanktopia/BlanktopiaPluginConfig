@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Cross
+material: PAPER
+custom-model-data: 5235
+model: 'cocricotmod:block/halftimber_brownlime_cross'
+
+block:
+  type: item

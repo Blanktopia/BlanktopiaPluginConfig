@@ -1,0 +1,7 @@
+name: Glass Frame Black Pane Both
+material: PAPER
+custom-model-data: 5050
+model: 'cocricotmod:block/glass_frame_black_pane_both'
+
+block:
+  type: item

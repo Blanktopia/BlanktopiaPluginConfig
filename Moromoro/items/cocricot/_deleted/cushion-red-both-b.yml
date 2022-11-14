@@ -1,0 +1,7 @@
+name: Cushion Red Both B
+material: PAPER
+custom-model-data: 3346
+model: 'cocricotmod:block/cushion_red_both_b'
+
+block:
+  type: item

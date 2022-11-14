@@ -1,0 +1,7 @@
+name: Clock Wall Wood
+material: PAPER
+custom-model-data: 3115
+model: 'cocricotmod:block/clock_wall_wood'
+
+block:
+  type: item

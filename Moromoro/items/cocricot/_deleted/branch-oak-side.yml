@@ -1,0 +1,7 @@
+name: Branch Oak Side
+material: PAPER
+custom-model-data: 2603
+model: 'cocricotmod:block/branch_oak_side'
+
+block:
+  type: item

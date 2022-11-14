@@ -1,0 +1,7 @@
+name: Wood Herringbone Black Slab
+material: PAPER
+custom-model-data: 9715
+model: 'cocricotmod:block/wood_herringbone_black_slab'
+
+block:
+  type: item

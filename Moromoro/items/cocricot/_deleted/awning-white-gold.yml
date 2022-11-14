@@ -1,0 +1,7 @@
+name: Awning White Gold
+material: PAPER
+custom-model-data: 2270
+model: 'cocricotmod:block/awning_white_gold'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Hat White
+material: PAPER
+custom-model-data: 5808
+model: 'cocricotmod:block/hat_white'
+
+block:
+  type: item

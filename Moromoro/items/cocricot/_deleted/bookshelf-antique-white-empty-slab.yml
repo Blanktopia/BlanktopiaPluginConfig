@@ -1,0 +1,7 @@
+name: Bookshelf Antique White Empty Slab
+material: PAPER
+custom-model-data: 2536
+model: 'cocricotmod:block/bookshelf_antique_white_empty_slab'
+
+block:
+  type: item

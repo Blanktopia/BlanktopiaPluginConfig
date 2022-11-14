@@ -1,0 +1,7 @@
+name: Bougainvillea Red Drooping
+material: PAPER
+custom-model-data: 2562
+model: 'cocricotmod:block/bougainvillea_red_drooping'
+
+block:
+  type: item

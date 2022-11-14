@@ -1,0 +1,7 @@
+name: Window Diamond Dark Pane Three
+material: PAPER
+custom-model-data: 8833
+model: 'cocricotmod:block/window_diamond_dark_pane_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rug Shag Round Bluegreen True All
+material: PAPER
+custom-model-data: 6955
+model: 'cocricotmod:block/rug_shag_round_bluegreen_true_all'
+
+block:
+  type: item

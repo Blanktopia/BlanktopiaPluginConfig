@@ -1,0 +1,7 @@
+name: Food Dish Set Natural
+material: PAPER
+custom-model-data: 4932
+model: 'cocricotmod:block/food_dish_set_natural'
+
+block:
+  type: item

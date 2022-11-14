@@ -1,0 +1,7 @@
+name: Lifebuoys White
+material: PAPER
+custom-model-data: 6014
+model: 'cocricotmod:block/lifebuoys_white'
+
+block:
+  type: item

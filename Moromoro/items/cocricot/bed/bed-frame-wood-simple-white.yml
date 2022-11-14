@@ -1,0 +1,7 @@
+name: Bed Frame Wood Simple White
+material: PAPER
+custom-model-data: 2406
+model: cocricotmod:block/bed_frame_wood_simple_white
+block:
+  type: item
+  collision: true

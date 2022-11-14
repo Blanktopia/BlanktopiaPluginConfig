@@ -1,0 +1,7 @@
+name: Range Retro Lightbrown
+material: PAPER
+custom-model-data: 6314
+model: cocricotmod:block/range_retro_lightbrown
+block:
+  type: item
+  collision: true

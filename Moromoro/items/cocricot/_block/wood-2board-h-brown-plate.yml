@@ -1,0 +1,7 @@
+name: Wood  2board H Brown Plate
+material: PAPER
+custom-model-data: 9305
+model: 'cocricotmod:block/wood_2board_h_brown_plate'
+
+block:
+  type: item

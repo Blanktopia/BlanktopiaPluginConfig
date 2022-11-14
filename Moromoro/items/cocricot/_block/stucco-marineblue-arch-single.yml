@@ -1,0 +1,7 @@
+name: Stucco Marineblue Arch Single
+material: PAPER
+custom-model-data: 8047
+model: 'cocricotmod:block/stucco_marineblue_arch_single'
+
+block:
+  type: item

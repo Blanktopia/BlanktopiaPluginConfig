@@ -1,0 +1,7 @@
+name: Door Tall  6glass Pink Bottom
+material: PAPER
+custom-model-data: 4376
+model: 'cocricotmod:block/door_tall_6glass_pink_bottom'
+
+block:
+  type: item

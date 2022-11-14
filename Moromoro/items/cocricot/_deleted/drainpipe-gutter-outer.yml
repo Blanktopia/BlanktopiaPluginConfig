@@ -1,0 +1,7 @@
+name: Drainpipe Gutter Outer
+material: PAPER
+custom-model-data: 4522
+model: 'cocricotmod:block/drainpipe_gutter_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Clothes Polehanger Dark
+material: PAPER
+custom-model-data: 3120
+model: cocricotmod:block/clothes_polehanger_dark
+block:
+  type: item
+  collision: true

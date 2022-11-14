@@ -1,0 +1,7 @@
+name: Cushion Wildflower Single B
+material: PAPER
+custom-model-data: 3397
+model: 'cocricotmod:block/cushion_wildflower_single_b'
+
+block:
+  type: item

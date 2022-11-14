@@ -1,0 +1,7 @@
+name: Stone Color Pink Slab
+material: PAPER
+custom-model-data: 7831
+model: 'cocricotmod:block/stone_color_pink_slab'
+
+block:
+  type: item

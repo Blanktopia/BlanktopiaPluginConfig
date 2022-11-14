@@ -1,0 +1,7 @@
+name: Wood  6board White Stairs Outer
+material: PAPER
+custom-model-data: 9659
+model: 'cocricotmod:block/wood_6board_white_stairs_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Iron Simple Black Three
+material: PAPER
+custom-model-data: 4740
+model: 'cocricotmod:block/fence_iron_simple_black_three'
+
+block:
+  type: item

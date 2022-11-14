@@ -1,0 +1,7 @@
+name: Stone Plane Sand Vslab
+material: PAPER
+custom-model-data: 7936
+model: 'cocricotmod:block/stone_plane_sand_vslab'
+
+block:
+  type: item

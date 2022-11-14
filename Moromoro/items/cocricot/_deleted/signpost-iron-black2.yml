@@ -1,0 +1,7 @@
+name: Signpost Iron Black 2
+material: PAPER
+custom-model-data: 7270
+model: 'cocricotmod:block/signpost_iron_black2'
+
+block:
+  type: item

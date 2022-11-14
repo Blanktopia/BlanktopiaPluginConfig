@@ -1,0 +1,7 @@
+name: Awning Gray Vslab
+material: PAPER
+custom-model-data: 2055
+model: 'cocricotmod:block/awning_gray_vslab'
+
+block:
+  type: item

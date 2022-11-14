@@ -1,0 +1,7 @@
+name: Shipinabottle
+material: PAPER
+custom-model-data: 7168
+model: 'cocricotmod:block/shipinabottle'
+
+block:
+  type: item

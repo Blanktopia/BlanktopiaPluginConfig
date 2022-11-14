@@ -1,0 +1,7 @@
+name: Door  4glass White Top Rh
+material: PAPER
+custom-model-data: 3742
+model: 'cocricotmod:block/door_4glass_white_top_rh'
+
+block:
+  type: item

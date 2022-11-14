@@ -1,0 +1,7 @@
+name: Halftimber Redwhite Arch
+material: PAPER
+custom-model-data: 5459
+model: 'cocricotmod:block/halftimber_redwhite_arch'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Red Slab Upper
+material: PAPER
+custom-model-data: 7845
+model: 'cocricotmod:block/stone_color_red_slab_upper'
+
+block:
+  type: item

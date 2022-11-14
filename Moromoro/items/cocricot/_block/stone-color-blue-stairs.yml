@@ -1,0 +1,7 @@
+name: Stone Color Blue Stairs
+material: PAPER
+custom-model-data: 7716
+model: 'cocricotmod:block/stone_color_blue_stairs'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Plane Sand
+material: PAPER
+custom-model-data: 7921
+model: 'cocricotmod:block/stone_plane_sand'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Darkorange Arch
+material: PAPER
+custom-model-data: 5369
+model: 'cocricotmod:block/halftimber_darkorange_arch'
+
+block:
+  type: item

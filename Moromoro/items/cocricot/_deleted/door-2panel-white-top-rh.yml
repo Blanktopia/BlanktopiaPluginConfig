@@ -1,0 +1,7 @@
+name: Door  2panel White Top Rh
+material: PAPER
+custom-model-data: 3670
+model: 'cocricotmod:block/door_2panel_white_top_rh'
+
+block:
+  type: item

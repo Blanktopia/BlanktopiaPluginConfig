@@ -1,0 +1,7 @@
+name: Carpet Block Fringe Red
+material: PAPER
+custom-model-data: 2904
+model: 'cocricotmod:block/carpet_block_fringe_red'
+
+block:
+  type: item

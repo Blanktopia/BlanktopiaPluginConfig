@@ -1,0 +1,7 @@
+name: Awning Stripe Gray Slab
+material: PAPER
+custom-model-data: 2173
+model: 'cocricotmod:block/awning_stripe_gray_slab'
+
+block:
+  type: item

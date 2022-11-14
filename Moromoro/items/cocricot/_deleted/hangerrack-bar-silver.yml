@@ -1,0 +1,7 @@
+name: Hangerrack Bar Silver
+material: PAPER
+custom-model-data: 5763
+model: 'cocricotmod:block/hangerrack_bar_silver'
+
+block:
+  type: item

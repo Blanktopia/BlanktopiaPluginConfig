@@ -1,0 +1,7 @@
+name: Dentilmolding Stone
+material: PAPER
+custom-model-data: 3414
+model: 'cocricotmod:block/dentilmolding_stone'
+
+block:
+  type: item

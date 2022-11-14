@@ -1,0 +1,7 @@
+name: Roof Copper White Slab
+material: PAPER
+custom-model-data: 6529
+model: 'cocricotmod:block/roof_copper_white_slab'
+
+block:
+  type: item

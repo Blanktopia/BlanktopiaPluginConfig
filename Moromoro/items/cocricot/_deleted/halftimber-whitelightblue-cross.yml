@@ -1,0 +1,7 @@
+name: Halftimber Whitelightblue Cross
+material: PAPER
+custom-model-data: 5477
+model: 'cocricotmod:block/halftimber_whitelightblue_cross'
+
+block:
+  type: item

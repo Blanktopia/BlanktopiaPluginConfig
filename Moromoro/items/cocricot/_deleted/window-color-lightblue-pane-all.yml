@@ -1,0 +1,7 @@
+name: Window Color Lightblue Pane All
+material: PAPER
+custom-model-data: 8730
+model: 'cocricotmod:block/window_color_lightblue_pane_all'
+
+block:
+  type: item

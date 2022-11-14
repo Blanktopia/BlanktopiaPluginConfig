@@ -1,0 +1,7 @@
+name: Stone Color Pink Plate
+material: PAPER
+custom-model-data: 7829
+model: 'cocricotmod:block/stone_color_pink_plate'
+
+block:
+  type: item

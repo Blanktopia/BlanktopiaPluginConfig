@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Incline White
+material: PAPER
+custom-model-data: 6392
+model: 'cocricotmod:block/roof_claytile_brown_incline_white'
+
+block:
+  type: item

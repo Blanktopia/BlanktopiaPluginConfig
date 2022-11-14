@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Seadrift Three
+material: PAPER
+custom-model-data: 5664
+model: 'cocricotmod:block/handrail_wood_straight_seadrift_three'
+
+block:
+  type: item

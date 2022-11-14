@@ -1,0 +1,7 @@
+name: Vase Darkorange
+material: PAPER
+custom-model-data: 8342
+model: cocricotmod:block/vase_darkorange
+block:
+  type: item
+  collision: true

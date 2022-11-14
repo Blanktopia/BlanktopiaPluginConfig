@@ -1,0 +1,7 @@
+name: Wood  6board Black Slab Upper
+material: PAPER
+custom-model-data: 9528
+model: 'cocricotmod:block/wood_6board_black_slab_upper'
+
+block:
+  type: item

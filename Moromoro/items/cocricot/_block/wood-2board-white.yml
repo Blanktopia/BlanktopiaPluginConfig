@@ -1,0 +1,7 @@
+name: Wood  2board White
+material: PAPER
+custom-model-data: 9372
+model: 'cocricotmod:block/wood_2board_white'
+
+block:
+  type: item

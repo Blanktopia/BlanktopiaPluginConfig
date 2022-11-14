@@ -1,0 +1,7 @@
+name: Glass Frame Silver Pane Slant
+material: PAPER
+custom-model-data: 5126
+model: 'cocricotmod:block/glass_frame_silver_pane_slant'
+
+block:
+  type: item

@@ -1,0 +1,8 @@
+name: Wheel Large Seadrift
+material: PAPER
+custom-model-data: 8539
+model: 'cocricotmod:block/wheel_large_seadrift'
+
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Flowerpot Inner Cactus
+material: PAPER
+custom-model-data: 4896
+model: 'cocricotmod:block/flowerpot_inner_cactus'
+
+block:
+  type: item

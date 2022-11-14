@@ -1,0 +1,7 @@
+name: Rustication Banded White Plate
+material: PAPER
+custom-model-data: 7117
+model: 'cocricotmod:block/rustication_banded_white_plate'
+
+block:
+  type: item

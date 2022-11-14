@@ -1,0 +1,7 @@
+name: Door  2panel Yellow Top Rh
+material: PAPER
+custom-model-data: 3686
+model: 'cocricotmod:block/door_2panel_yellow_top_rh'
+
+block:
+  type: item

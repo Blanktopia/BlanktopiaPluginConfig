@@ -1,0 +1,7 @@
+name: Brick Sandstone Stairs Inner
+material: PAPER
+custom-model-data: 2719
+model: 'cocricotmod:block/brick_sandstone_stairs_inner'
+
+block:
+  type: item

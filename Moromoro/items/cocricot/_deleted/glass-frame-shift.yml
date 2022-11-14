@@ -1,0 +1,7 @@
+name: Glass Frame Shift
+material: PAPER
+custom-model-data: 5120
+model: 'cocricotmod:block/glass_frame_shift'
+
+block:
+  type: item

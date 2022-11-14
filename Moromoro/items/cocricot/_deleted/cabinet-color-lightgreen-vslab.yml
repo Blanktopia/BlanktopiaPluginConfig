@@ -1,0 +1,7 @@
+name: Cabinet Color Lightgreen Vslab
+material: PAPER
+custom-model-data: 2764
+model: 'cocricotmod:block/cabinet_color_lightgreen_vslab'
+
+block:
+  type: item

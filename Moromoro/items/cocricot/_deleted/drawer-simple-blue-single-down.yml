@@ -1,0 +1,7 @@
+name: Drawer Simple Blue Single Down
+material: PAPER
+custom-model-data: 4545
+model: 'cocricotmod:block/drawer_simple_blue_single_down'
+
+block:
+  type: item

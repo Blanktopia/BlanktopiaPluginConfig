@@ -1,0 +1,7 @@
+name: Woodenbox Greenvegetable
+material: PAPER
+custom-model-data: 9918
+model: 'cocricotmod:block/woodenbox_greenvegetable'
+
+block:
+  type: item

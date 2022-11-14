@@ -1,0 +1,7 @@
+name: Chain Horizontal Slant
+material: PAPER
+custom-model-data: 2970
+model: 'cocricotmod:block/chain_horizontal_slant'
+
+block:
+  type: item

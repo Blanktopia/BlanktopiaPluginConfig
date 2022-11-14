@@ -1,0 +1,7 @@
+name: Window Diamond Blue Pane Post
+material: PAPER
+custom-model-data: 8809
+model: 'cocricotmod:block/window_diamond_blue_pane_post'
+
+block:
+  type: item

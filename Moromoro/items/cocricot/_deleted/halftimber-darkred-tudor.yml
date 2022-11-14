@@ -1,0 +1,7 @@
+name: Halftimber Darkred Tudor
+material: PAPER
+custom-model-data: 5395
+model: 'cocricotmod:block/halftimber_darkred_tudor'
+
+block:
+  type: item

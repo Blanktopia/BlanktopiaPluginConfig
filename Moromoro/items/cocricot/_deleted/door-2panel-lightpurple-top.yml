@@ -1,0 +1,7 @@
+name: Door  2panel Lightpurple Top
+material: PAPER
+custom-model-data: 3628
+model: 'cocricotmod:block/door_2panel_lightpurple_top'
+
+block:
+  type: item

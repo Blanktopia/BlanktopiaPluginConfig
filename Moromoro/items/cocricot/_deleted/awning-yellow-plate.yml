@@ -1,0 +1,7 @@
+name: Awning Yellow Plate
+material: PAPER
+custom-model-data: 2284
+model: 'cocricotmod:block/awning_yellow_plate'
+
+block:
+  type: item

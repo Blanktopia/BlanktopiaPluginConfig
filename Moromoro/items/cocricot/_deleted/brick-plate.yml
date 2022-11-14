@@ -1,0 +1,7 @@
+name: Brick Plate
+material: PAPER
+custom-model-data: 2697
+model: 'cocricotmod:block/brick_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Black Top Rh O
+material: PAPER
+custom-model-data: 3935
+model: 'cocricotmod:block/door_tall_2glass3panel_black_top_rh_o'
+
+block:
+  type: item

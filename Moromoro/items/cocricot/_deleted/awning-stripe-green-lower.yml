@@ -1,0 +1,7 @@
+name: Awning Stripe Green Lower
+material: PAPER
+custom-model-data: 2182
+model: 'cocricotmod:block/awning_stripe_green_lower'
+
+block:
+  type: item

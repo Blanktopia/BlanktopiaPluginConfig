@@ -1,0 +1,7 @@
+name: Awning Stripe Yellow Stairs Outer
+material: PAPER
+custom-model-data: 2265
+model: 'cocricotmod:block/awning_stripe_yellow_stairs_outer'
+
+block:
+  type: item

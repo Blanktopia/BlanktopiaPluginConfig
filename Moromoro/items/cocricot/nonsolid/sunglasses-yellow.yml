@@ -1,0 +1,7 @@
+name: Sunglasses Yellow
+material: PAPER
+custom-model-data: 8131
+model: 'cocricotmod:block/sunglasses_yellow'
+
+block:
+  type: item

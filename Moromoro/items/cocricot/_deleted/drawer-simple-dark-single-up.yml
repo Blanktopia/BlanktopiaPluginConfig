@@ -1,0 +1,7 @@
+name: Drawer Simple Dark Single Up
+material: PAPER
+custom-model-data: 4595
+model: 'cocricotmod:block/drawer_simple_dark_single_up'
+
+block:
+  type: item

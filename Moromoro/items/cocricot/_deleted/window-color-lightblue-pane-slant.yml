@@ -1,0 +1,7 @@
+name: Window Color Lightblue Pane Slant
+material: PAPER
+custom-model-data: 8734
+model: 'cocricotmod:block/window_color_lightblue_pane_slant'
+
+block:
+  type: item

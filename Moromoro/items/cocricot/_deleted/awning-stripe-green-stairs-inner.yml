@@ -1,0 +1,7 @@
+name: Awning Stripe Green Stairs Inner
+material: PAPER
+custom-model-data: 2187
+model: 'cocricotmod:block/awning_stripe_green_stairs_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Darklime Cross
+material: PAPER
+custom-model-data: 5340
+model: 'cocricotmod:block/halftimber_darklime_cross'
+
+block:
+  type: item

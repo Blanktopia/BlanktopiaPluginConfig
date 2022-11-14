@@ -1,0 +1,7 @@
+name: Coffeegrinder White
+material: PAPER
+custom-model-data: 3140
+model: cocricotmod:block/coffeegrinder_white
+block:
+  type: item
+  collision: true

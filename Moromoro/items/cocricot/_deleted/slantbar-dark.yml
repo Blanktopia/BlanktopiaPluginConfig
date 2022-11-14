@@ -1,0 +1,7 @@
+name: Slantbar Dark
+material: PAPER
+custom-model-data: 7337
+model: 'cocricotmod:block/slantbar_dark'
+
+block:
+  type: item

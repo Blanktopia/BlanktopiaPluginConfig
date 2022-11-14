@@ -1,0 +1,7 @@
+name: Window Centrebar White Pane All
+material: PAPER
+custom-model-data: 8681
+model: 'cocricotmod:block/window_centrebar_white_pane_all'
+
+block:
+  type: item

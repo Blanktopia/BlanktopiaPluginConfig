@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Slab
+material: PAPER
+custom-model-data: 6727
+model: 'cocricotmod:block/roof_spanish_orange_slab'
+
+block:
+  type: item

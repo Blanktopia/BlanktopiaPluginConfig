@@ -1,0 +1,7 @@
+name: Chest Color Lightblue
+material: PAPER
+custom-model-data: 3068
+model: 'cocricotmod:block/chest_color_lightblue'
+
+block:
+  type: item

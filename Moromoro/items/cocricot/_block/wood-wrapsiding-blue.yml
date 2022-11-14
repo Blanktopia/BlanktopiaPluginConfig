@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Blue
+material: PAPER
+custom-model-data: 9876
+model: 'cocricotmod:block/wood_wrapsiding_blue'
+
+block:
+  type: item

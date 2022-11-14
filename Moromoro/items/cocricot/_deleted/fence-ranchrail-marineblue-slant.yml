@@ -1,0 +1,7 @@
+name: Fence Ranchrail Marineblue Slant
+material: PAPER
+custom-model-data: 4781
+model: 'cocricotmod:block/fence_ranchrail_marineblue_slant'
+
+block:
+  type: item

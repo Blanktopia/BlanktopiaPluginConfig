@@ -1,0 +1,7 @@
+name: Seagull
+material: PAPER
+custom-model-data: 7151
+model: 'cocricotmod:block/seagull'
+
+block:
+  type: item

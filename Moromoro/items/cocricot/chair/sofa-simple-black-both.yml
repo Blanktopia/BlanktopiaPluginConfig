@@ -1,0 +1,7 @@
+name: Sofa Simple Black Both
+material: PAPER
+custom-model-data: 7401
+model: cocricotmod:block/sofa_simple_black_both
+block:
+  type: item
+  sit-height: 0.4375

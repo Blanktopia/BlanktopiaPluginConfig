@@ -1,0 +1,7 @@
+name: Door Tall  5panel Lightgreen Top O
+material: PAPER
+custom-model-data: 4229
+model: 'cocricotmod:block/door_tall_5panel_lightgreen_top_o'
+
+block:
+  type: item

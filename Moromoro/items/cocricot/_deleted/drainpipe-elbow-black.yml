@@ -1,0 +1,7 @@
+name: Drainpipe Elbow Black
+material: PAPER
+custom-model-data: 4503
+model: 'cocricotmod:block/drainpipe_elbow_black'
+
+block:
+  type: item

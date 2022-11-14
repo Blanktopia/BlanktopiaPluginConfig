@@ -1,0 +1,7 @@
+name: Wood White Rod
+material: PAPER
+custom-model-data: 9868
+model: 'cocricotmod:block/wood_white_rod'
+
+block:
+  type: item

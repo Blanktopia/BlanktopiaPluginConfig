@@ -1,0 +1,7 @@
+name: Rug Shag Round Lightgreen True Corner
+material: PAPER
+custom-model-data: 7029
+model: 'cocricotmod:block/rug_shag_round_lightgreen_true_corner'
+
+block:
+  type: item

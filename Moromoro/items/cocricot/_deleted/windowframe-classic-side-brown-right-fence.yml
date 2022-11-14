@@ -1,0 +1,7 @@
+name: Windowframe Classic Side Brown Right Fence
+material: PAPER
+custom-model-data: 9097
+model: 'cocricotmod:block/windowframe_classic_side_brown_right_fence'
+
+block:
+  type: item

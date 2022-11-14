@@ -1,0 +1,7 @@
+name: Window Color Wood Pane All
+material: PAPER
+custom-model-data: 8786
+model: 'cocricotmod:block/window_color_wood_pane_all'
+
+block:
+  type: item

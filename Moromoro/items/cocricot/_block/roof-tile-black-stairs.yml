@@ -1,0 +1,7 @@
+name: Roof Tile Black Stairs
+material: PAPER
+custom-model-data: 6809
+model: 'cocricotmod:block/roof_tile_black_stairs'
+
+block:
+  type: item

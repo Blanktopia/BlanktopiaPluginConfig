@@ -1,0 +1,7 @@
+name: Poster Modern 2
+material: PAPER
+custom-model-data: 6283
+model: 'cocricotmod:block/poster_modern2'
+
+block:
+  type: item

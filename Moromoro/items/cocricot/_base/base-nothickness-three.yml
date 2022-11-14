@@ -1,0 +1,7 @@
+name: Base Nothickness Three
+material: PAPER
+custom-model-data: 2325
+model: 'cocricotmod:block/base_nothickness_three'
+
+block:
+  type: item

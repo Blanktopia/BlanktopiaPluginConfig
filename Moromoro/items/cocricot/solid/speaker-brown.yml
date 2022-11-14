@@ -1,0 +1,7 @@
+name: Speaker Brown
+material: PAPER
+custom-model-data: 7533
+model: cocricotmod:block/speaker_brown
+block:
+  type: item
+  collision: true

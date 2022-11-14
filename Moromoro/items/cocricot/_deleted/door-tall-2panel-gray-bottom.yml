@@ -1,0 +1,7 @@
+name: Door Tall  2panel Gray Bottom
+material: PAPER
+custom-model-data: 4072
+model: 'cocricotmod:block/door_tall_2panel_gray_bottom'
+
+block:
+  type: item

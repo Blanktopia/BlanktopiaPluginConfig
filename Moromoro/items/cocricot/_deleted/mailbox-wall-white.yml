@@ -1,0 +1,7 @@
+name: Mailbox Wall White
+material: PAPER
+custom-model-data: 6042
+model: 'cocricotmod:block/mailbox_wall_white'
+
+block:
+  type: item

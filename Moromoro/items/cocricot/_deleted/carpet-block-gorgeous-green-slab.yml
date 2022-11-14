@@ -1,0 +1,7 @@
+name: Carpet Block Gorgeous Green Slab
+material: PAPER
+custom-model-data: 2910
+model: 'cocricotmod:block/carpet_block_gorgeous_green_slab'
+
+block:
+  type: item

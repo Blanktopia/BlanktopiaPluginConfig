@@ -1,0 +1,7 @@
+name: Stone Color Black Plate
+material: PAPER
+custom-model-data: 7699
+model: 'cocricotmod:block/stone_color_black_plate'
+
+block:
+  type: item

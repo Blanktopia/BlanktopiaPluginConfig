@@ -1,0 +1,7 @@
+name: Rug Shag Round Lightblue True
+material: PAPER
+custom-model-data: 7002
+model: 'cocricotmod:block/rug_shag_round_lightblue_true'
+
+block:
+  type: item

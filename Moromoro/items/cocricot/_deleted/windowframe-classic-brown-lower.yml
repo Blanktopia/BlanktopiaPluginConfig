@@ -1,0 +1,7 @@
+name: Windowframe Classic Brown Lower
+material: PAPER
+custom-model-data: 9065
+model: 'cocricotmod:block/windowframe_classic_brown_lower'
+
+block:
+  type: item

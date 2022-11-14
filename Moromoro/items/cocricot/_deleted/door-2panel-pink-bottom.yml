@@ -1,0 +1,7 @@
+name: Door  2panel Pink Bottom
+material: PAPER
+custom-model-data: 3640
+model: 'cocricotmod:block/door_2panel_pink_bottom'
+
+block:
+  type: item

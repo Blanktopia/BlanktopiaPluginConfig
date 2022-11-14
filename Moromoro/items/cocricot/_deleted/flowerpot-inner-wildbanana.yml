@@ -1,0 +1,7 @@
+name: Flowerpot Inner Wildbanana
+material: PAPER
+custom-model-data: 4916
+model: 'cocricotmod:block/flowerpot_inner_wildbanana'
+
+block:
+  type: item

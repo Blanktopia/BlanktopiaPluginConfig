@@ -1,0 +1,7 @@
+name: Wood Brown
+material: PAPER
+custom-model-data: 9674
+model: 'cocricotmod:block/wood_brown'
+
+block:
+  type: item

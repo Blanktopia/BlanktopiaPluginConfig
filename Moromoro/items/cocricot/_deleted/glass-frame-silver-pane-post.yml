@@ -1,0 +1,7 @@
+name: Glass Frame Silver Pane Post
+material: PAPER
+custom-model-data: 5124
+model: 'cocricotmod:block/glass_frame_silver_pane_post'
+
+block:
+  type: item

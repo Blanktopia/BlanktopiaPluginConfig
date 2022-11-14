@@ -1,0 +1,7 @@
+name: Door Tall  5panel White Bottom Rh O
+material: PAPER
+custom-model-data: 4283
+model: 'cocricotmod:block/door_tall_5panel_white_bottom_rh_o'
+
+block:
+  type: item

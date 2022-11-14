@@ -1,0 +1,7 @@
+name: Walldecor Photo 1
+material: PAPER
+custom-model-data: 8364
+model: 'cocricotmod:block/walldecor_photo1'
+
+block:
+  type: item

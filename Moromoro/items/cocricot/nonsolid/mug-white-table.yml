@@ -1,0 +1,7 @@
+name: Mug White Table
+material: PAPER
+custom-model-data: 6146
+model: 'cocricotmod:block/mug_white_table'
+
+block:
+  type: item

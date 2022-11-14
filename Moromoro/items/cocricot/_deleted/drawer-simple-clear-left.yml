@@ -1,0 +1,7 @@
+name: Drawer Simple Clear Left
+material: PAPER
+custom-model-data: 4568
+model: 'cocricotmod:block/drawer_simple_clear_left'
+
+block:
+  type: item

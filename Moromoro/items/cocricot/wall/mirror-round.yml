@@ -1,0 +1,7 @@
+name: Mirror Round
+material: PAPER
+custom-model-data: 6128
+model: 'cocricotmod:block/mirror_round'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Ranchrail Dark Side
+material: PAPER
+custom-model-data: 4774
+model: 'cocricotmod:block/fence_ranchrail_dark_side'
+
+block:
+  type: item

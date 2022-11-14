@@ -1,0 +1,7 @@
+name: Halftimber Greenwhite Tudor Right
+material: PAPER
+custom-model-data: 5442
+model: 'cocricotmod:block/halftimber_greenwhite_tudor_right'
+
+block:
+  type: item

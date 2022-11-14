@@ -1,0 +1,7 @@
+name: Marinelamp Lampshade Wall
+material: PAPER
+custom-model-data: 6087
+model: 'cocricotmod:block/marinelamp_lampshade_wall'
+
+block:
+  type: item

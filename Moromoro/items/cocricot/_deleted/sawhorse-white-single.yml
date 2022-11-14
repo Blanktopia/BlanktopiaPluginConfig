@@ -1,0 +1,7 @@
+name: Sawhorse White Single
+material: PAPER
+custom-model-data: 7146
+model: 'cocricotmod:block/sawhorse_white_single'
+
+block:
+  type: item

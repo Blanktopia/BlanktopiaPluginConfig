@@ -1,0 +1,7 @@
+name: Window Color Lightgreen Pane Side
+material: PAPER
+custom-model-data: 8747
+model: 'cocricotmod:block/window_color_lightgreen_pane_side'
+
+block:
+  type: item

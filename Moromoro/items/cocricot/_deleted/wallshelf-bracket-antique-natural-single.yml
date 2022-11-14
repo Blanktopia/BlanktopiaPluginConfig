@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Natural Single
+material: PAPER
+custom-model-data: 8416
+model: 'cocricotmod:block/wallshelf_bracket_antique_natural_single'
+
+block:
+  type: item

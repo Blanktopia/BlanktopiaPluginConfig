@@ -1,0 +1,7 @@
+name: Clock Wall Antique
+material: PAPER
+custom-model-data: 3109
+model: 'cocricotmod:block/clock_wall_antique'
+
+block:
+  type: item

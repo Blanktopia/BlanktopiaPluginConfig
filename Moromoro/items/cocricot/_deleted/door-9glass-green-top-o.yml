@@ -1,0 +1,7 @@
+name: Door  9glass Green Top O
+material: PAPER
+custom-model-data: 3773
+model: 'cocricotmod:block/door_9glass_green_top_o'
+
+block:
+  type: item

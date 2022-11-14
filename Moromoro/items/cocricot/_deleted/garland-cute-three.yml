@@ -1,0 +1,7 @@
+name: Garland Cute Three
+material: PAPER
+custom-model-data: 5015
+model: 'cocricotmod:block/garland_cute_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sofa Simple Blue Single
+material: PAPER
+custom-model-data: 7408
+model: cocricotmod:block/sofa_simple_blue_single
+block:
+  type: item
+  sit-height: 0.4375

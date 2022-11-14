@@ -1,0 +1,7 @@
+name: Basket Towel
+material: PAPER
+custom-model-data: 2371
+model: 'cocricotmod:block/basket_towel'
+
+block:
+  type: item

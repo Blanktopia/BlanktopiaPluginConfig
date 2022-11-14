@@ -1,0 +1,7 @@
+name: Stone Color Lightgray Slab Upper
+material: PAPER
+custom-model-data: 7780
+model: 'cocricotmod:block/stone_color_lightgray_slab_upper'
+
+block:
+  type: item

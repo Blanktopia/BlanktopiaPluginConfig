@@ -1,0 +1,7 @@
+name: Wood Rustic White
+material: PAPER
+custom-model-data: 9797
+model: 'cocricotmod:block/wood_rustic_white'
+
+block:
+  type: item

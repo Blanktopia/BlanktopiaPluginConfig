@@ -1,0 +1,7 @@
+name: Postbox Yellow
+material: PAPER
+custom-model-data: 6279
+model: cocricotmod:block/postbox_yellow
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Roof Copper Red Rod
+material: PAPER
+custom-model-data: 6513
+model: 'cocricotmod:block/roof_copper_red_rod'
+
+block:
+  type: item

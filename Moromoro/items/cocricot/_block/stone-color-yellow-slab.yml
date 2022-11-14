@@ -1,0 +1,7 @@
+name: Stone Color Yellow Slab
+material: PAPER
+custom-model-data: 7870
+model: 'cocricotmod:block/stone_color_yellow_slab'
+
+block:
+  type: item

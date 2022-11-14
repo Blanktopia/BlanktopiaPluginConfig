@@ -1,0 +1,7 @@
+name: Brick Terracotta Small Orange Slab
+material: PAPER
+custom-model-data: 2735
+model: 'cocricotmod:block/brick_terracotta_small_orange_slab'
+
+block:
+  type: item

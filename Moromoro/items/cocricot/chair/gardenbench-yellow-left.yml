@@ -1,0 +1,7 @@
+name: Gardenbench Yellow Left
+material: PAPER
+custom-model-data: 4995
+model: cocricotmod:block/gardenbench_yellow_left
+block:
+  type: item
+  sit-height: 0.4375

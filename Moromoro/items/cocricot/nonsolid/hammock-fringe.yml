@@ -1,0 +1,7 @@
+name: Hammock Fringe
+material: PAPER
+custom-model-data: 5553
+model: 'cocricotmod:block/hammock_fringe'
+
+block:
+  type: item

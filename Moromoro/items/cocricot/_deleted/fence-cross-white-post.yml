@@ -1,0 +1,7 @@
+name: Fence Cross White Post
+material: PAPER
+custom-model-data: 4715
+model: 'cocricotmod:block/fence_cross_white_post'
+
+block:
+  type: item

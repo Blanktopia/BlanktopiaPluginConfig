@@ -1,0 +1,7 @@
+name: Tablerunner Ecru Leaf
+material: PAPER
+custom-model-data: 8235
+model: 'cocricotmod:block/tablerunner_ecru_leaf'
+
+block:
+  type: item

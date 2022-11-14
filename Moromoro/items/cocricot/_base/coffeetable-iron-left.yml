@@ -1,0 +1,7 @@
+name: Coffeetable Iron Left
+material: PAPER
+custom-model-data: 3163
+model: 'cocricotmod:block/coffeetable_iron_left'
+
+block:
+  type: item

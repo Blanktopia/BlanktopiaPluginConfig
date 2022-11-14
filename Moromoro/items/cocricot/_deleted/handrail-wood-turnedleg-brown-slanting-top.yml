@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Brown Slanting Top
+material: PAPER
+custom-model-data: 5696
+model: 'cocricotmod:block/handrail_wood_turnedleg_brown_slanting_top'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Natural Rod
+material: PAPER
+custom-model-data: 9785
+model: 'cocricotmod:block/wood_natural_rod'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Counterstool American Green
+material: PAPER
+custom-model-data: 3198
+model: 'cocricotmod:block/counterstool_american_green'
+
+block:
+  type: item

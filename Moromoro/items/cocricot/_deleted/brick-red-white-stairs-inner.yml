@@ -1,0 +1,7 @@
+name: Brick Red White Stairs Inner
+material: PAPER
+custom-model-data: 2706
+model: 'cocricotmod:block/brick_red_white_stairs_inner'
+
+block:
+  type: item

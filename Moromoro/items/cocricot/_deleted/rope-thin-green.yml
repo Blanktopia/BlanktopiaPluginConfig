@@ -1,0 +1,7 @@
+name: Rope Thin Green
+material: PAPER
+custom-model-data: 6869
+model: 'cocricotmod:block/rope_thin_green'
+
+block:
+  type: item

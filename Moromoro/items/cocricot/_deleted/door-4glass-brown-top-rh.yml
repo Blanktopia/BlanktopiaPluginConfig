@@ -1,0 +1,7 @@
+name: Door  4glass Brown Top Rh
+material: PAPER
+custom-model-data: 3702
+model: 'cocricotmod:block/door_4glass_brown_top_rh'
+
+block:
+  type: item

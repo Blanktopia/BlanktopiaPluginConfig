@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Blue Bottom
+material: PAPER
+custom-model-data: 3936
+model: 'cocricotmod:block/door_tall_2glass3panel_blue_bottom'
+
+block:
+  type: item

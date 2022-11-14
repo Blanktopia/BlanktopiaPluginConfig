@@ -1,0 +1,7 @@
+name: Parkbench Light Left
+material: PAPER
+custom-model-data: 6168
+model: cocricotmod:block/parkbench_light_left
+block:
+  type: item
+  sit-height: 0.4375

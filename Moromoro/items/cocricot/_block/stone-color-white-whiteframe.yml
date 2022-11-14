@@ -1,0 +1,7 @@
+name: Stone Color White Whiteframe
+material: PAPER
+custom-model-data: 7864
+model: 'cocricotmod:block/stone_color_white_whiteframe'
+
+block:
+  type: item

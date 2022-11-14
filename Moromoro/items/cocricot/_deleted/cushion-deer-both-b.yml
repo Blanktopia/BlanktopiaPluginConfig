@@ -1,0 +1,7 @@
+name: Cushion Deer Both B
+material: PAPER
+custom-model-data: 3328
+model: 'cocricotmod:block/cushion_deer_both_b'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chair Beach White
+material: PAPER
+custom-model-data: 3002
+model: cocricotmod:block/chair_beach_white
+block:
+  type: item
+  sit-height: 0.4375

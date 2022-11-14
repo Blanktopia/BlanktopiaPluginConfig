@@ -1,0 +1,7 @@
+name: Cushion Green Right B
+material: PAPER
+custom-model-data: 3341
+model: 'cocricotmod:block/cushion_green_right_b'
+
+block:
+  type: item

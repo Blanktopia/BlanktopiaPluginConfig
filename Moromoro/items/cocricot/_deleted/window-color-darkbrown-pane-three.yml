@@ -1,0 +1,7 @@
+name: Window Color Darkbrown Pane Three
+material: PAPER
+custom-model-data: 8714
+model: 'cocricotmod:block/window_color_darkbrown_pane_three'
+
+block:
+  type: item

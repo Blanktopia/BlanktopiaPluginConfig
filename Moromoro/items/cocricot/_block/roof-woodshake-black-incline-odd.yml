@@ -1,0 +1,7 @@
+name: Roof Woodshake Black Incline Odd
+material: PAPER
+custom-model-data: 6837
+model: 'cocricotmod:block/roof_woodshake_black_incline_odd'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stucco Orange Slab Upper
+material: PAPER
+custom-model-data: 8068
+model: 'cocricotmod:block/stucco_orange_slab_upper'
+
+block:
+  type: item

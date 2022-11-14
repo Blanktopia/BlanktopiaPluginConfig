@@ -1,0 +1,7 @@
+name: Bench Turnedleg White Both
+material: PAPER
+custom-model-data: 2456
+model: cocricotmod:block/bench_turnedleg_white_both
+block:
+  type: item
+  sit-height: 0.4375

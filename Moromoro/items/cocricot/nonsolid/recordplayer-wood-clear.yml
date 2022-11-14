@@ -1,0 +1,7 @@
+name: Recordplayer Wood Clear
+material: PAPER
+custom-model-data: 6339
+model: 'cocricotmod:block/recordplayer_wood_clear'
+
+block:
+  type: item

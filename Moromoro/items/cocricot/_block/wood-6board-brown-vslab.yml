@@ -1,0 +1,7 @@
+name: Wood  6board Brown Vslab
+material: PAPER
+custom-model-data: 9545
+model: 'cocricotmod:block/wood_6board_brown_vslab'
+
+block:
+  type: item

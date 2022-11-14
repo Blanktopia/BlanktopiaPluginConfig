@@ -1,0 +1,7 @@
+name: Cushion Reindeer Left B
+material: PAPER
+custom-model-data: 3357
+model: 'cocricotmod:block/cushion_reindeer_left_b'
+
+block:
+  type: item

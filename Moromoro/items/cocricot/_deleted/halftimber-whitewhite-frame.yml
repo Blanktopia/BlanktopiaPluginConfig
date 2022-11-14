@@ -1,0 +1,7 @@
+name: Halftimber Whitewhite Frame
+material: PAPER
+custom-model-data: 5523
+model: 'cocricotmod:block/halftimber_whitewhite_frame'
+
+block:
+  type: item

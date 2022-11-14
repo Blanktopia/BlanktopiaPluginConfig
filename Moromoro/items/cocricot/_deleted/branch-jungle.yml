@@ -1,0 +1,7 @@
+name: Branch Jungle
+material: PAPER
+custom-model-data: 2599
+model: 'cocricotmod:block/branch_jungle'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  6glass Yellow Bottom
+material: PAPER
+custom-model-data: 4416
+model: 'cocricotmod:block/door_tall_6glass_yellow_bottom'
+
+block:
+  type: item

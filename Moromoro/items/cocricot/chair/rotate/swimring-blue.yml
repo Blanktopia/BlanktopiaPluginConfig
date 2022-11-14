@@ -1,0 +1,8 @@
+name: Swimring Blue
+material: PAPER
+custom-model-data: 8133
+model: cocricotmod:block/swimring_blue
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

@@ -1,0 +1,7 @@
+name: Doormat
+material: PAPER
+custom-model-data: 4496
+model: 'cocricotmod:block/doormat'
+
+block:
+  type: item

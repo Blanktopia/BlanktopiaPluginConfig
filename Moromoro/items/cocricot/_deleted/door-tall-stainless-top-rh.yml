@@ -1,0 +1,7 @@
+name: Door Tall Stainless Top Rh
+material: PAPER
+custom-model-data: 4490
+model: 'cocricotmod:block/door_tall_stainless_top_rh'
+
+block:
+  type: item

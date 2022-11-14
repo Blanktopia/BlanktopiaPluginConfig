@@ -1,0 +1,7 @@
+name: Cushion Sunflower Single B
+material: PAPER
+custom-model-data: 3370
+model: 'cocricotmod:block/cushion_sunflower_single_b'
+
+block:
+  type: item

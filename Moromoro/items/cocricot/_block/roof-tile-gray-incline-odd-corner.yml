@@ -1,0 +1,7 @@
+name: Roof Tile Gray Incline Odd Corner
+material: PAPER
+custom-model-data: 6818
+model: 'cocricotmod:block/roof_tile_gray_incline_odd_corner'
+
+block:
+  type: item

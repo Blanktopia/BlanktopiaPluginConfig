@@ -1,0 +1,7 @@
+name: Stucco Blue Rod
+material: PAPER
+custom-model-data: 8024
+model: 'cocricotmod:block/stucco_blue_rod'
+
+block:
+  type: item

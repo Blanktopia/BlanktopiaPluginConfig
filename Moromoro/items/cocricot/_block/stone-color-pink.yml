@@ -1,0 +1,7 @@
+name: Stone Color Pink
+material: PAPER
+custom-model-data: 7826
+model: 'cocricotmod:block/stone_color_pink'
+
+block:
+  type: item

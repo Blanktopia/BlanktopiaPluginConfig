@@ -1,0 +1,7 @@
+name: Flowerpot Eucalyptus
+material: PAPER
+custom-model-data: 4890
+model: 'cocricotmod:block/flowerpot_eucalyptus'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Yellowwhite Mesh
+material: PAPER
+custom-model-data: 5542
+model: 'cocricotmod:block/halftimber_yellowwhite_mesh'
+
+block:
+  type: item

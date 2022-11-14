@@ -1,0 +1,7 @@
+name: Window Color Lightpurple Pane Three
+material: PAPER
+custom-model-data: 8756
+model: 'cocricotmod:block/window_color_lightpurple_pane_three'
+
+block:
+  type: item

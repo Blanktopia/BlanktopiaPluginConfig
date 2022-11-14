@@ -1,0 +1,7 @@
+name: Windowframe Classic Stone Upper
+material: PAPER
+custom-model-data: 9125
+model: 'cocricotmod:block/windowframe_classic_stone_upper'
+
+block:
+  type: item

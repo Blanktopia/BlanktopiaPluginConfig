@@ -1,0 +1,7 @@
+name: Grass Flower
+material: PAPER
+custom-model-data: 5165
+model: 'cocricotmod:block/grass_flower'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drawer Simple Seadrift Left Middle
+material: PAPER
+custom-model-data: 4618
+model: 'cocricotmod:block/drawer_simple_seadrift_left_middle'
+
+block:
+  type: item

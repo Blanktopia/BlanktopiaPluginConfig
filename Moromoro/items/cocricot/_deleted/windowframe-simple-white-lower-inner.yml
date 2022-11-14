@@ -1,0 +1,7 @@
+name: Windowframe Simple White Lower Inner
+material: PAPER
+custom-model-data: 9216
+model: 'cocricotmod:block/windowframe_simple_white_lower_inner'
+
+block:
+  type: item

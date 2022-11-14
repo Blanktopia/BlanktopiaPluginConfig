@@ -1,0 +1,7 @@
+name: Milkglasslamp Frill
+material: PAPER
+custom-model-data: 6116
+model: 'cocricotmod:block/milkglasslamp_frill'
+
+block:
+  type: item

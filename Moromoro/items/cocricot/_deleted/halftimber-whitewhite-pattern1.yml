@@ -1,0 +1,7 @@
+name: Halftimber Whitewhite Pattern 1
+material: PAPER
+custom-model-data: 5528
+model: 'cocricotmod:block/halftimber_whitewhite_pattern1'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  1glass Natural Bottom Rh O
+material: PAPER
+custom-model-data: 3547
+model: 'cocricotmod:block/door_1glass_natural_bottom_rh_o'
+
+block:
+  type: item

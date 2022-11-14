@@ -1,0 +1,7 @@
+name: Brick White Slab Upper
+material: PAPER
+custom-model-data: 2747
+model: 'cocricotmod:block/brick_white_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish White Stick
+material: PAPER
+custom-model-data: 6772
+model: 'cocricotmod:block/roof_spanish_white_stick'
+
+block:
+  type: item

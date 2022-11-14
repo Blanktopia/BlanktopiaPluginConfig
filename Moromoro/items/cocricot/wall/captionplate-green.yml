@@ -1,0 +1,7 @@
+name: Captionplate Green
+material: PAPER
+custom-model-data: 2881
+model: 'cocricotmod:block/captionplate_green'
+
+block:
+  type: item

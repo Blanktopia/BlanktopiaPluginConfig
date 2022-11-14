@@ -1,0 +1,7 @@
+name: Fence Victorian Red Corner
+material: PAPER
+custom-model-data: 4821
+model: 'cocricotmod:block/fence_victorian_red_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rug Shag Round Lime True Both
+material: PAPER
+custom-model-data: 7040
+model: 'cocricotmod:block/rug_shag_round_lime_true_both'
+
+block:
+  type: item

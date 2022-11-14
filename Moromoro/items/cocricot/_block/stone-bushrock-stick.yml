@@ -1,0 +1,7 @@
+name: Stone Bushrock Stick
+material: PAPER
+custom-model-data: 7656
+model: 'cocricotmod:block/stone_bushrock_stick'
+
+block:
+  type: item

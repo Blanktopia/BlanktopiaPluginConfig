@@ -1,0 +1,7 @@
+name: Glass Frame Brown Pane All
+material: PAPER
+custom-model-data: 5061
+model: 'cocricotmod:block/glass_frame_brown_pane_all'
+
+block:
+  type: item

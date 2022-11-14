@@ -1,0 +1,7 @@
+name: Chair Garden White
+material: PAPER
+custom-model-data: 3022
+model: cocricotmod:block/chair_garden_white
+block:
+  type: item
+  sit-height: 0.4375

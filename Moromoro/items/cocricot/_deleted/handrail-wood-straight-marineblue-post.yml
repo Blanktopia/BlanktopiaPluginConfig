@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Marineblue Post
+material: PAPER
+custom-model-data: 5629
+model: 'cocricotmod:block/handrail_wood_straight_marineblue_post'
+
+block:
+  type: item

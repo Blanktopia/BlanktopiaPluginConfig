@@ -1,0 +1,7 @@
+name: Stair Spiral Brown Iron
+material: PAPER
+custom-model-data: 7589
+model: 'cocricotmod:block/stair_spiral_brown_iron'
+
+block:
+  type: item

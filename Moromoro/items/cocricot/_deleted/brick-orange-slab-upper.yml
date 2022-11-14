@@ -1,0 +1,7 @@
+name: Brick Orange Slab Upper
+material: PAPER
+custom-model-data: 2681
+model: 'cocricotmod:block/brick_orange_slab_upper'
+
+block:
+  type: item

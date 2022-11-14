@@ -1,0 +1,7 @@
+name: Bookshelf Antique Seadrift Empty Slab
+material: PAPER
+custom-model-data: 2524
+model: 'cocricotmod:block/bookshelf_antique_seadrift_empty_slab'
+
+block:
+  type: item

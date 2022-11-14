@@ -1,0 +1,8 @@
+name: Swimring Blue Water
+material: PAPER
+custom-model-data: 8135
+model: cocricotmod:block/swimring_blue_water
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

@@ -1,0 +1,7 @@
+name: Halftimber Darkred Frame Vslab
+material: PAPER
+custom-model-data: 5389
+model: 'cocricotmod:block/halftimber_darkred_frame_vslab'
+
+block:
+  type: item

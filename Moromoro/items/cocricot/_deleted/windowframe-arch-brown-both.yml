@@ -1,0 +1,7 @@
+name: Windowframe Arch Brown Both
+material: PAPER
+custom-model-data: 9038
+model: 'cocricotmod:block/windowframe_arch_brown_both'
+
+block:
+  type: item

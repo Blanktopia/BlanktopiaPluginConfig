@@ -1,0 +1,7 @@
+name: Door Tall  5panel Red Bottom O
+material: PAPER
+custom-model-data: 4265
+model: 'cocricotmod:block/door_tall_5panel_red_bottom_o'
+
+block:
+  type: item

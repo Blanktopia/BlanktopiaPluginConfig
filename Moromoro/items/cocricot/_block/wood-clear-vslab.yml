@@ -1,0 +1,7 @@
+name: Wood Clear Vslab
+material: PAPER
+custom-model-data: 9697
+model: 'cocricotmod:block/wood_clear_vslab'
+
+block:
+  type: item

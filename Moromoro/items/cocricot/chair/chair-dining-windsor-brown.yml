@@ -1,0 +1,7 @@
+name: Chair Dining Windsor Brown
+material: PAPER
+custom-model-data: 3017
+model: cocricotmod:block/chair_dining_windsor_brown
+block:
+  type: item
+  sit-height: 0.4375

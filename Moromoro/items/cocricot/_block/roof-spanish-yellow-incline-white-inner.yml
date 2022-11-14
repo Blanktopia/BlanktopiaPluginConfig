@@ -1,0 +1,7 @@
+name: Roof Spanish Yellow Incline White Inner
+material: PAPER
+custom-model-data: 6781
+model: 'cocricotmod:block/roof_spanish_yellow_incline_white_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Handrail Wood Slant
+material: PAPER
+custom-model-data: 5594
+model: 'cocricotmod:block/handrail_wood_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Seadrift Right
+material: PAPER
+custom-model-data: 8470
+model: 'cocricotmod:block/wallshelf_bracket_seadrift_right'
+
+block:
+  type: item

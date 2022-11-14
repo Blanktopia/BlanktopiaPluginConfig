@@ -1,0 +1,7 @@
+name: Wood Herringbone Natural Stairs Outer
+material: PAPER
+custom-model-data: 9759
+model: 'cocricotmod:block/wood_herringbone_natural_stairs_outer'
+
+block:
+  type: item

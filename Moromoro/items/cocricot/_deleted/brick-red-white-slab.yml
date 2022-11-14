@@ -1,0 +1,7 @@
+name: Brick Red White Slab
+material: PAPER
+custom-model-data: 2703
+model: 'cocricotmod:block/brick_red_white_slab'
+
+block:
+  type: item

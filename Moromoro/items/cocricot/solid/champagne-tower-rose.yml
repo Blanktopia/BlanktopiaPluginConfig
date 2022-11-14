@@ -1,0 +1,7 @@
+name: Champagne Tower Rose
+material: PAPER
+custom-model-data: 3058
+model: cocricotmod:block/champagne_tower_rose
+block:
+  type: item
+  collision: true

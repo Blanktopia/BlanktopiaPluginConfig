@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Incline Inner
+material: PAPER
+custom-model-data: 6694
+model: 'cocricotmod:block/roof_spanish_lightbrown_incline_inner'
+
+block:
+  type: item

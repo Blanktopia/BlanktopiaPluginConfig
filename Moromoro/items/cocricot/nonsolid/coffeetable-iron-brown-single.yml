@@ -1,0 +1,7 @@
+name: Coffeetable Iron Brown Single
+material: PAPER
+custom-model-data: 3158
+model: 'cocricotmod:block/coffeetable_iron_brown_single'
+
+block:
+  type: item

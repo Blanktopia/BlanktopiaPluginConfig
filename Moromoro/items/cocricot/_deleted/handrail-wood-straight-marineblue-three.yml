@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Marineblue Three
+material: PAPER
+custom-model-data: 5634
+model: 'cocricotmod:block/handrail_wood_straight_marineblue_three'
+
+block:
+  type: item

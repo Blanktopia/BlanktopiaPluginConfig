@@ -1,0 +1,7 @@
+name: Door  2panel Wood Bottom O
+material: PAPER
+custom-model-data: 3673
+model: 'cocricotmod:block/door_2panel_wood_bottom_o'
+
+block:
+  type: item

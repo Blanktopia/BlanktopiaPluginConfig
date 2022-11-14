@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Slant Right
+material: PAPER
+custom-model-data: 5454
+model: 'cocricotmod:block/halftimber_limewhite_slant_right'
+
+block:
+  type: item

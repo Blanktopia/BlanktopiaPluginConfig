@@ -1,0 +1,7 @@
+name: Stone Cobble Whitejoint Stairs Outer
+material: PAPER
+custom-model-data: 7693
+model: 'cocricotmod:block/stone_cobble_whitejoint_stairs_outer'
+
+block:
+  type: item

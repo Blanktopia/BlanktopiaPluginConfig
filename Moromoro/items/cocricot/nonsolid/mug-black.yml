@@ -1,0 +1,7 @@
+name: Mug Black
+material: PAPER
+custom-model-data: 6141
+model: 'cocricotmod:block/mug_black'
+
+block:
+  type: item

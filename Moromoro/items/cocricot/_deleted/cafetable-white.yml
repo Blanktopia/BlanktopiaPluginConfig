@@ -1,0 +1,7 @@
+name: Cafetable White
+material: PAPER
+custom-model-data: 2845
+model: 'cocricotmod:block/cafetable_white'
+
+block:
+  type: item

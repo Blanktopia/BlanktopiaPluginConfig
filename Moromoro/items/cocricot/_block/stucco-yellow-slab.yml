@@ -1,0 +1,7 @@
+name: Stucco Yellow Slab
+material: PAPER
+custom-model-data: 8119
+model: 'cocricotmod:block/stucco_yellow_slab'
+
+block:
+  type: item

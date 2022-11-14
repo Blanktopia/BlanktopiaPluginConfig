@@ -1,0 +1,7 @@
+name: Chair American White
+material: PAPER
+custom-model-data: 2994
+model: cocricotmod:block/chair_american_white
+block:
+  type: item
+  sit-height: 0.4375

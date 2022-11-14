@@ -1,0 +1,7 @@
+name: Base Rod
+material: PAPER
+custom-model-data: 2340
+model: 'cocricotmod:block/base_rod'
+
+block:
+  type: item

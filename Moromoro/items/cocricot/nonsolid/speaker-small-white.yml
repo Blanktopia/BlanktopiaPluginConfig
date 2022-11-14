@@ -1,0 +1,7 @@
+name: Speaker Small White
+material: PAPER
+custom-model-data: 7554
+model: 'cocricotmod:block/speaker_small_white'
+
+block:
+  type: item

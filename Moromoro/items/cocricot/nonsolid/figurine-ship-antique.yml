@@ -1,0 +1,7 @@
+name: Figurine Ship Antique
+material: PAPER
+custom-model-data: 4834
+model: 'cocricotmod:block/figurine_ship_antique'
+
+block:
+  type: item

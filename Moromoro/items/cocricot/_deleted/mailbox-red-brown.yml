@@ -1,0 +1,7 @@
+name: Mailbox Red Brown
+material: PAPER
+custom-model-data: 6036
+model: 'cocricotmod:block/mailbox_red_brown'
+
+block:
+  type: item

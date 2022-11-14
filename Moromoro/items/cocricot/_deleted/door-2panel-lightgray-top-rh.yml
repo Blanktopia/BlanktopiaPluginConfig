@@ -1,0 +1,7 @@
+name: Door  2panel Lightgray Top Rh
+material: PAPER
+custom-model-data: 3614
+model: 'cocricotmod:block/door_2panel_lightgray_top_rh'
+
+block:
+  type: item

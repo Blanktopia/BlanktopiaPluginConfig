@@ -1,0 +1,7 @@
+name: Dirt Pile Height 8
+material: PAPER
+custom-model-data: 3505
+model: 'cocricotmod:block/dirt_pile_height8'
+
+block:
+  type: item

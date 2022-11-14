@@ -1,0 +1,7 @@
+name: Windowframe Classic Sand Lower
+material: PAPER
+custom-model-data: 9080
+model: 'cocricotmod:block/windowframe_classic_sand_lower'
+
+block:
+  type: item

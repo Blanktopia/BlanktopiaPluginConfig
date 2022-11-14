@@ -1,0 +1,7 @@
+name: Hanging Plant Basket
+material: PAPER
+custom-model-data: 5784
+model: 'cocricotmod:block/hanging_plant_basket'
+
+block:
+  type: item

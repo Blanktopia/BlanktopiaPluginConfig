@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Stone Post
+material: PAPER
+custom-model-data: 5584
+model: 'cocricotmod:block/handrail_turnedleg_stone_post'
+
+block:
+  type: item

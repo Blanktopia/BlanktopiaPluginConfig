@@ -1,0 +1,7 @@
+name: Speaker Clear
+material: PAPER
+custom-model-data: 7534
+model: cocricotmod:block/speaker_clear
+block:
+  type: item
+  collision: true

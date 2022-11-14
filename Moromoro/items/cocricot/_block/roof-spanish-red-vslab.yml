@@ -1,0 +1,7 @@
+name: Roof Spanish Red Vslab
+material: PAPER
+custom-model-data: 6753
+model: 'cocricotmod:block/roof_spanish_red_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rainchain White
+material: PAPER
+custom-model-data: 6306
+model: 'cocricotmod:block/rainchain_white'
+
+block:
+  type: item

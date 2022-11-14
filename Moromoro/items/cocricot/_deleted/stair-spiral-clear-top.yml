@@ -1,0 +1,7 @@
+name: Stair Spiral Clear Top
+material: PAPER
+custom-model-data: 7595
+model: 'cocricotmod:block/stair_spiral_clear_top'
+
+block:
+  type: item

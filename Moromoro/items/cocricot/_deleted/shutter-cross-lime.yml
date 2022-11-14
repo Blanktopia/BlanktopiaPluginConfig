@@ -1,0 +1,7 @@
+name: Shutter Cross Lime
+material: PAPER
+custom-model-data: 7246
+model: 'cocricotmod:block/shutter_cross_lime'
+
+block:
+  type: item

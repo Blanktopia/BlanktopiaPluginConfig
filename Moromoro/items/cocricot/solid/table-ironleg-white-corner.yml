@@ -1,0 +1,7 @@
+name: Table Ironleg White Corner
+material: PAPER
+custom-model-data: 8213
+model: cocricotmod:block/table_ironleg_white_corner
+block:
+  type: item
+  collision: true

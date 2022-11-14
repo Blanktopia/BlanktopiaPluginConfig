@@ -1,0 +1,7 @@
+name: Table Cloth Gingham Green
+material: PAPER
+custom-model-data: 8162
+model: 'cocricotmod:block/table_cloth_gingham_green'
+
+block:
+  type: item

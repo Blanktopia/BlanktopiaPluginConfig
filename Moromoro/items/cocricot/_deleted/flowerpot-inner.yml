@@ -1,0 +1,7 @@
+name: Flowerpot Inner
+material: PAPER
+custom-model-data: 4891
+model: 'cocricotmod:block/flowerpot_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Plate
+material: PAPER
+custom-model-data: 7630
+model: 'cocricotmod:block/stone_ashlarslate_sand_plate'
+
+block:
+  type: item

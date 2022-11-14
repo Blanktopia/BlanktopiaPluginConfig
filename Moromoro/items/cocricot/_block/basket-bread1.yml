@@ -1,0 +1,7 @@
+name: Basket Bread 1
+material: PAPER
+custom-model-data: 2360
+model: 'cocricotmod:block/basket_bread1'
+
+block:
+  type: item

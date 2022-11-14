@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Arch
+material: PAPER
+custom-model-data: 5414
+model: 'cocricotmod:block/halftimber_darkyellow_arch'
+
+block:
+  type: item

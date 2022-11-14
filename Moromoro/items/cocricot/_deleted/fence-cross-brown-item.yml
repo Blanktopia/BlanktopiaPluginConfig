@@ -1,0 +1,7 @@
+name: Fence Cross Brown Item
+material: PAPER
+custom-model-data: 4693
+model: 'cocricotmod:block/fence_cross_brown_item'
+
+block:
+  type: item

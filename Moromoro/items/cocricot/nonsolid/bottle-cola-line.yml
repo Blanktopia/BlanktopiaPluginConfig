@@ -1,0 +1,7 @@
+name: Bottle Cola Line
+material: PAPER
+custom-model-data: 2549
+model: 'cocricotmod:block/bottle_cola_line'
+
+block:
+  type: item

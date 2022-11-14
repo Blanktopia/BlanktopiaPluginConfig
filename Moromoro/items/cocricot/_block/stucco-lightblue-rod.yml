@@ -1,0 +1,7 @@
+name: Stucco Lightblue Rod
+material: PAPER
+custom-model-data: 8037
+model: 'cocricotmod:block/stucco_lightblue_rod'
+
+block:
+  type: item

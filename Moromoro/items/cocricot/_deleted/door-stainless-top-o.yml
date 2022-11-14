@@ -1,0 +1,7 @@
+name: Door Stainless Top O
+material: PAPER
+custom-model-data: 3869
+model: 'cocricotmod:block/door_stainless_top_o'
+
+block:
+  type: item

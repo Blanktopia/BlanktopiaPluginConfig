@@ -1,0 +1,7 @@
+name: Sink Plate White
+material: PAPER
+custom-model-data: 7324
+model: cocricotmod:block/sink_plate_white
+block:
+  type: item
+  collision: true

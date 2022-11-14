@@ -1,0 +1,7 @@
+name: Woodenbox Onion
+material: PAPER
+custom-model-data: 9921
+model: 'cocricotmod:block/woodenbox_onion'
+
+block:
+  type: item

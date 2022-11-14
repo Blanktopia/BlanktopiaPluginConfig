@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Natural Bothpost
+material: PAPER
+custom-model-data: 5637
+model: 'cocricotmod:block/handrail_wood_straight_natural_bothpost'
+
+block:
+  type: item

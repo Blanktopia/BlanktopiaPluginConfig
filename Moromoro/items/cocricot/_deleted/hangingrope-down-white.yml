@@ -1,0 +1,7 @@
+name: Hangingrope Down White
+material: PAPER
+custom-model-data: 5800
+model: 'cocricotmod:block/hangingrope_down_white'
+
+block:
+  type: item

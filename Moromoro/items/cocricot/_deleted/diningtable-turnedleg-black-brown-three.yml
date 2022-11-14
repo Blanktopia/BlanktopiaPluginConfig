@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Black Brown Three
+material: PAPER
+custom-model-data: 3462
+model: 'cocricotmod:block/diningtable_turnedleg_black_brown_three'
+
+block:
+  type: item

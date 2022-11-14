@@ -1,0 +1,7 @@
+name: Milkpitcher
+material: PAPER
+custom-model-data: 6121
+model: 'cocricotmod:block/milkpitcher'
+
+block:
+  type: item

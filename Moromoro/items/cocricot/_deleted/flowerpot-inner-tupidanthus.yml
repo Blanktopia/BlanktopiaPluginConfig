@@ -1,0 +1,7 @@
+name: Flowerpot Inner Tupidanthus
+material: PAPER
+custom-model-data: 4912
+model: 'cocricotmod:block/flowerpot_inner_tupidanthus'
+
+block:
+  type: item

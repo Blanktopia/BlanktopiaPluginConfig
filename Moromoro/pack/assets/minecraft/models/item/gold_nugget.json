@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/gold_nugget"},"overrides":[{"model":"blanktopia:rares/ras_protection","predicate":{"custom_model_data":1}}]}

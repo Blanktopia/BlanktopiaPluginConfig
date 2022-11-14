@@ -1,0 +1,7 @@
+name: Ceilinghook Gold Three
+material: PAPER
+custom-model-data: 2938
+model: 'cocricotmod:block/ceilinghook_gold_three'
+
+block:
+  type: item

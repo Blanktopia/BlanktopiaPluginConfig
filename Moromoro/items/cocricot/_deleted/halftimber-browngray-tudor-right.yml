@@ -1,0 +1,7 @@
+name: Halftimber Browngray Tudor Right
+material: PAPER
+custom-model-data: 5217
+model: 'cocricotmod:block/halftimber_browngray_tudor_right'
+
+block:
+  type: item

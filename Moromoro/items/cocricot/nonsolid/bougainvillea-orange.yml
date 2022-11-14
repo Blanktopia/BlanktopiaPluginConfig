@@ -1,0 +1,7 @@
+name: Bougainvillea Orange
+material: PAPER
+custom-model-data: 2557
+model: 'cocricotmod:block/bougainvillea_orange'
+
+block:
+  type: item

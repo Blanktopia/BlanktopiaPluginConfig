@@ -1,0 +1,7 @@
+name: Glass Frame Brown Slab
+material: PAPER
+custom-model-data: 5068
+model: 'cocricotmod:block/glass_frame_brown_slab'
+
+block:
+  type: item

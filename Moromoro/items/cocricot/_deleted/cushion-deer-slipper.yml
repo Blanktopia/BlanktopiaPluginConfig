@@ -1,0 +1,7 @@
+name: Cushion Deer Slipper
+material: PAPER
+custom-model-data: 3335
+model: 'cocricotmod:block/cushion_deer_slipper'
+
+block:
+  type: item

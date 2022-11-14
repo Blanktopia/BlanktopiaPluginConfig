@@ -1,0 +1,7 @@
+name: Roof Spanish Red
+material: PAPER
+custom-model-data: 6734
+model: 'cocricotmod:block/roof_spanish_red'
+
+block:
+  type: item

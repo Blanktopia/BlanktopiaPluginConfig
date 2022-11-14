@@ -1,0 +1,7 @@
+name: Door  4glass Brown Bottom Rh
+material: PAPER
+custom-model-data: 3698
+model: 'cocricotmod:block/door_4glass_brown_bottom_rh'
+
+block:
+  type: item

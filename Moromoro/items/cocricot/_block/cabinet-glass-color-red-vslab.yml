@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Red Vslab
+material: PAPER
+custom-model-data: 2790
+model: 'cocricotmod:block/cabinet_glass_color_red_vslab'
+
+block:
+  type: item

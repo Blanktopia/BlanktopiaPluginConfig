@@ -1,0 +1,7 @@
+name: Cushion Red
+material: PAPER
+custom-model-data: 3345
+model: 'cocricotmod:block/cushion_red'
+
+block:
+  type: item

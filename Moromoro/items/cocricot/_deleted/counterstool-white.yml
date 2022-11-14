@@ -1,0 +1,7 @@
+name: Counterstool White
+material: PAPER
+custom-model-data: 3226
+model: 'cocricotmod:block/counterstool_white'
+
+block:
+  type: item

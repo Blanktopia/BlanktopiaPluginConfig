@@ -1,0 +1,7 @@
+name: Stone Plane Sand Stick
+material: PAPER
+custom-model-data: 7935
+model: 'cocricotmod:block/stone_plane_sand_stick'
+
+block:
+  type: item

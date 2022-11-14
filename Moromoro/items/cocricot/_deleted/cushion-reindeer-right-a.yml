@@ -1,0 +1,7 @@
+name: Cushion Reindeer Right A
+material: PAPER
+custom-model-data: 3358
+model: 'cocricotmod:block/cushion_reindeer_right_a'
+
+block:
+  type: item

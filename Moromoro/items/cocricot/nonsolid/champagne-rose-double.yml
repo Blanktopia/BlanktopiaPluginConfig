@@ -1,0 +1,7 @@
+name: Champagne Rose Double
+material: PAPER
+custom-model-data: 3056
+model: 'cocricotmod:block/champagne_rose_double'
+
+block:
+  type: item

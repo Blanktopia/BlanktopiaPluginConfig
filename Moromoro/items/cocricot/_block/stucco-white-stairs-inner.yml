@@ -1,0 +1,7 @@
+name: Stucco White Stairs Inner
+material: PAPER
+custom-model-data: 8109
+model: 'cocricotmod:block/stucco_white_stairs_inner'
+
+block:
+  type: item

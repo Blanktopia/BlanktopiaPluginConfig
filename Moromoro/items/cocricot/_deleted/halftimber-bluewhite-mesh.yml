@@ -1,0 +1,7 @@
+name: Halftimber Bluewhite Mesh
+material: PAPER
+custom-model-data: 5195
+model: 'cocricotmod:block/halftimber_bluewhite_mesh'
+
+block:
+  type: item

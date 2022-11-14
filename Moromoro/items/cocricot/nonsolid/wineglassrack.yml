@@ -1,0 +1,7 @@
+name: Wineglassrack
+material: PAPER
+custom-model-data: 9254
+model: 'cocricotmod:block/wineglassrack'
+
+block:
+  type: item

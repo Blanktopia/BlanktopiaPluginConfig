@@ -1,0 +1,7 @@
+name: Wood  6board H Clear Slab Upper
+material: PAPER
+custom-model-data: 9589
+model: 'cocricotmod:block/wood_6board_h_clear_slab_upper'
+
+block:
+  type: item

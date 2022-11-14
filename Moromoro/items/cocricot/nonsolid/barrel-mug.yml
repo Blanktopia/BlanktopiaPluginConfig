@@ -1,0 +1,7 @@
+name: Barrel Mug
+material: PAPER
+custom-model-data: 2302
+model: 'cocricotmod:block/barrel_mug'
+
+block:
+  type: item

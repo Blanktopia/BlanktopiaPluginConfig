@@ -1,0 +1,7 @@
+name: Wood  2board Natural Arch Single
+material: PAPER
+custom-model-data: 9354
+model: 'cocricotmod:block/wood_2board_natural_arch_single'
+
+block:
+  type: item

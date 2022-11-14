@@ -1,0 +1,7 @@
+name: Curtain Separate Gingham Brown Both
+material: PAPER
+custom-model-data: 3256
+model: 'cocricotmod:block/curtain_separate_gingham_brown_both'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  5panel Lightgreen Bottom Rh
+material: PAPER
+custom-model-data: 4226
+model: 'cocricotmod:block/door_tall_5panel_lightgreen_bottom_rh'
+
+block:
+  type: item

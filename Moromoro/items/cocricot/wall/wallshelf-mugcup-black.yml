@@ -1,0 +1,7 @@
+name: Wallshelf Mugcup Black
+material: PAPER
+custom-model-data: 8520
+model: 'cocricotmod:block/wallshelf_mugcup_black'
+
+block:
+  type: item

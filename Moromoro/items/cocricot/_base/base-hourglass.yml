@@ -1,0 +1,7 @@
+name: Base Hourglass
+material: PAPER
+custom-model-data: 2318
+model: 'cocricotmod:block/base_hourglass'
+
+block:
+  type: item

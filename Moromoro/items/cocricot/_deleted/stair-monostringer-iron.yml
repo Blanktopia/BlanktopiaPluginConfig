@@ -1,0 +1,7 @@
+name: Stair Monostringer Iron
+material: PAPER
+custom-model-data: 7579
+model: 'cocricotmod:block/stair_monostringer_iron'
+
+block:
+  type: item

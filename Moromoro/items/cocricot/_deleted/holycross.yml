@@ -1,0 +1,7 @@
+name: Holycross
+material: PAPER
+custom-model-data: 5814
+model: 'cocricotmod:block/holycross'
+
+block:
+  type: item

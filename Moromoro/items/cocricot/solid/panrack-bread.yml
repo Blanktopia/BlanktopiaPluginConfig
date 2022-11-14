@@ -1,0 +1,7 @@
+name: Panrack Bread
+material: PAPER
+custom-model-data: 6155
+model: cocricotmod:block/panrack_bread
+block:
+  type: item
+  collision: true

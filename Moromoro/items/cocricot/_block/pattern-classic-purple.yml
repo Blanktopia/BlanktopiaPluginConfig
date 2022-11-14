@@ -1,0 +1,7 @@
+name: Pattern Classic Purple
+material: PAPER
+custom-model-data: 6196
+model: 'cocricotmod:block/pattern_classic_purple'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  9glass Orange Bottom
+material: PAPER
+custom-model-data: 3808
+model: 'cocricotmod:block/door_9glass_orange_bottom'
+
+block:
+  type: item

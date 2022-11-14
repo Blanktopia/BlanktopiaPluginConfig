@@ -1,0 +1,7 @@
+name: Stucco Red Stairs Inner
+material: PAPER
+custom-model-data: 8096
+model: 'cocricotmod:block/stucco_red_stairs_inner'
+
+block:
+  type: item

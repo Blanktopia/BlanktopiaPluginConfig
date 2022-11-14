@@ -1,0 +1,7 @@
+name: Flowerpot Lightbrown
+material: PAPER
+custom-model-data: 4920
+model: 'cocricotmod:block/flowerpot_lightbrown'
+
+block:
+  type: item

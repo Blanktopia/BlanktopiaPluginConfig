@@ -1,0 +1,7 @@
+name: Stair Closedstringer Brown Iron
+material: PAPER
+custom-model-data: 7563
+model: 'cocricotmod:block/stair_closedstringer_brown_iron'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drainpipe Elbow White
+material: PAPER
+custom-model-data: 4505
+model: 'cocricotmod:block/drainpipe_elbow_white'
+
+block:
+  type: item

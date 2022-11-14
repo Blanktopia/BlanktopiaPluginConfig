@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Natural Right
+material: PAPER
+custom-model-data: 8462
+model: 'cocricotmod:block/wallshelf_bracket_natural_right'
+
+block:
+  type: item

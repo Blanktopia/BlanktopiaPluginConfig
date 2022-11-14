@@ -1,0 +1,7 @@
+name: Stair Spiral Seadrift True
+material: PAPER
+custom-model-data: 7608
+model: 'cocricotmod:block/stair_spiral_seadrift_true'
+
+block:
+  type: item

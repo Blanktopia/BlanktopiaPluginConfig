@@ -1,0 +1,7 @@
+name: Refrigerator Retro Green
+material: PAPER
+custom-model-data: 6355
+model: cocricotmod:block/refrigerator_retro_green
+block:
+  type: item
+  collision: true

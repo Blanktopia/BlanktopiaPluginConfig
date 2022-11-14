@@ -1,0 +1,7 @@
+name: Chair Dining Normal Brown
+material: PAPER
+custom-model-data: 3004
+model: cocricotmod:block/chair_dining_normal_brown
+block:
+  type: item
+  sit-height: 0.4375

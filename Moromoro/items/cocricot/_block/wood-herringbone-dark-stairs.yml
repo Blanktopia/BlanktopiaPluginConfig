@@ -1,0 +1,7 @@
+name: Wood Herringbone Dark Stairs
+material: PAPER
+custom-model-data: 9747
+model: 'cocricotmod:block/wood_herringbone_dark_stairs'
+
+block:
+  type: item

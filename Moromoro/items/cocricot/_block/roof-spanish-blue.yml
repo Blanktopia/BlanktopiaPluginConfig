@@ -1,0 +1,7 @@
+name: Roof Spanish Blue
+material: PAPER
+custom-model-data: 6632
+model: 'cocricotmod:block/roof_spanish_blue'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Wildflower Right A
+material: PAPER
+custom-model-data: 3394
+model: 'cocricotmod:block/cushion_wildflower_right_a'
+
+block:
+  type: item

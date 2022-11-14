@@ -1,0 +1,7 @@
+name: Door Tall  8glass Seadrift Bottom
+material: PAPER
+custom-model-data: 4464
+model: 'cocricotmod:block/door_tall_8glass_seadrift_bottom'
+
+block:
+  type: item

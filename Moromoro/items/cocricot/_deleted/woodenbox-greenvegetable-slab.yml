@@ -1,0 +1,7 @@
+name: Woodenbox Greenvegetable Slab
+material: PAPER
+custom-model-data: 9919
+model: 'cocricotmod:block/woodenbox_greenvegetable_slab'
+
+block:
+  type: item

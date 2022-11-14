@@ -1,0 +1,7 @@
+name: Stucco Pink Arch Single
+material: PAPER
+custom-model-data: 8076
+model: 'cocricotmod:block/stucco_pink_arch_single'
+
+block:
+  type: item

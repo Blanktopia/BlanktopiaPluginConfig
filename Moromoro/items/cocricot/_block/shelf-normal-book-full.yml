@@ -1,0 +1,7 @@
+name: Shelf Normal Book Full
+material: PAPER
+custom-model-data: 7159
+model: 'cocricotmod:block/shelf_normal_book_full'
+
+block:
+  type: item

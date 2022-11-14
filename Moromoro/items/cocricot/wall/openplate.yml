@@ -1,0 +1,7 @@
+name: Openplate
+material: PAPER
+custom-model-data: 6153
+model: 'cocricotmod:block/openplate'
+
+block:
+  type: item

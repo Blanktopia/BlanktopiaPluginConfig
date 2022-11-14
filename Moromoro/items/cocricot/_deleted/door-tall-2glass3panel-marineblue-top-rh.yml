@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Marineblue Top Rh
+material: PAPER
+custom-model-data: 3998
+model: 'cocricotmod:block/door_tall_2glass3panel_marineblue_top_rh'
+
+block:
+  type: item

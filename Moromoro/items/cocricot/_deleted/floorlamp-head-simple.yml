@@ -1,0 +1,7 @@
+name: Floorlamp Head Simple
+material: PAPER
+custom-model-data: 4848
+model: 'cocricotmod:block/floorlamp_head_simple'
+
+block:
+  type: item

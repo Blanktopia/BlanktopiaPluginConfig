@@ -1,0 +1,7 @@
+name: Sink Plate Brown Ceramic
+material: PAPER
+custom-model-data: 7316
+model: cocricotmod:block/sink_plate_brown_ceramic
+block:
+  type: item
+  collision: true

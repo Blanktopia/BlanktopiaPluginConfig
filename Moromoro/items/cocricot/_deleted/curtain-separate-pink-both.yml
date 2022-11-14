@@ -1,0 +1,7 @@
+name: Curtain Separate Pink Both
+material: PAPER
+custom-model-data: 3281
+model: 'cocricotmod:block/curtain_separate_pink_both'
+
+block:
+  type: item

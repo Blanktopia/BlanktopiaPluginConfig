@@ -1,0 +1,7 @@
+name: Stair Spiral Iron True
+material: PAPER
+custom-model-data: 7602
+model: 'cocricotmod:block/stair_spiral_iron_true'
+
+block:
+  type: item

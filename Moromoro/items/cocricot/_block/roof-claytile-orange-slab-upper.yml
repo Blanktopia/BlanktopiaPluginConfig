@@ -1,0 +1,7 @@
+name: Roof Claytile Orange Slab Upper
+material: PAPER
+custom-model-data: 6420
+model: 'cocricotmod:block/roof_claytile_orange_slab_upper'
+
+block:
+  type: item

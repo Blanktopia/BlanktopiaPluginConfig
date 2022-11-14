@@ -1,0 +1,7 @@
+name: Roof Fishscale Brown Incline Odd Corner
+material: PAPER
+custom-model-data: 6555
+model: 'cocricotmod:block/roof_fishscale_brown_incline_odd_corner'
+
+block:
+  type: item

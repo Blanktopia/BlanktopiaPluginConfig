@@ -1,0 +1,7 @@
+name: Window Three White
+material: PAPER
+custom-model-data: 9002
+model: 'cocricotmod:block/window_three_white'
+
+block:
+  type: item

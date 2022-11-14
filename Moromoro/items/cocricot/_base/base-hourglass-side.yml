@@ -1,0 +1,7 @@
+name: Base Hourglass Side
+material: PAPER
+custom-model-data: 2319
+model: 'cocricotmod:block/base_hourglass_side'
+
+block:
+  type: item

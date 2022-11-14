@@ -1,0 +1,7 @@
+name: Hangerrack Clear
+material: PAPER
+custom-model-data: 5767
+model: cocricotmod:block/hangerrack_clear
+block:
+  type: item
+  collision: true

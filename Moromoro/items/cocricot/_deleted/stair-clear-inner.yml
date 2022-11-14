@@ -1,0 +1,7 @@
+name: Stair Clear Inner
+material: PAPER
+custom-model-data: 7560
+model: 'cocricotmod:block/stair_clear_inner'
+
+block:
+  type: item

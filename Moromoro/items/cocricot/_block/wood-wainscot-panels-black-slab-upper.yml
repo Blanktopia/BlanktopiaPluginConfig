@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Black Slab Upper
+material: PAPER
+custom-model-data: 9812
+model: 'cocricotmod:block/wood_wainscot_panels_black_slab_upper'
+
+block:
+  type: item

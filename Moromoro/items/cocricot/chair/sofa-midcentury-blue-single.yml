@@ -1,0 +1,7 @@
+name: Sofa Midcentury Blue Single
+material: PAPER
+custom-model-data: 7372
+model: cocricotmod:block/sofa_midcentury_blue_single
+block:
+  type: item
+  sit-height: 0.4375

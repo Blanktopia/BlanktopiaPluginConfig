@@ -1,0 +1,7 @@
+name: Drainpipe Leaderhead White
+material: PAPER
+custom-model-data: 4530
+model: 'cocricotmod:block/drainpipe_leaderhead_white'
+
+block:
+  type: item

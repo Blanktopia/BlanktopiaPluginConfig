@@ -1,0 +1,7 @@
+name: Fence Victorian Black All
+material: PAPER
+custom-model-data: 4807
+model: 'cocricotmod:block/fence_victorian_black_all'
+
+block:
+  type: item

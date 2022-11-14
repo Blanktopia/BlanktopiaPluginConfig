@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Sandstone Post
+material: PAPER
+custom-model-data: 5576
+model: 'cocricotmod:block/handrail_turnedleg_sandstone_post'
+
+block:
+  type: item

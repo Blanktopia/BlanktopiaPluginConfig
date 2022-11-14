@@ -1,0 +1,7 @@
+name: Woodenbox Tomato Slab 1
+material: PAPER
+custom-model-data: 9932
+model: 'cocricotmod:block/woodenbox_tomato_slab1'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Red Slab
+material: PAPER
+custom-model-data: 7844
+model: 'cocricotmod:block/stone_color_red_slab'
+
+block:
+  type: item

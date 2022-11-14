@@ -1,0 +1,7 @@
+name: Industrialshadelamp Green
+material: PAPER
+custom-model-data: 5837
+model: 'cocricotmod:block/industrialshadelamp_green'
+
+block:
+  type: item

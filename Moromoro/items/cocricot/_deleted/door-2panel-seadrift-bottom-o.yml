@@ -1,0 +1,7 @@
+name: Door  2panel Seadrift Bottom O
+material: PAPER
+custom-model-data: 3657
+model: 'cocricotmod:block/door_2panel_seadrift_bottom_o'
+
+block:
+  type: item

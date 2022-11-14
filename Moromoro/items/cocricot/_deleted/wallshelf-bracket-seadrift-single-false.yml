@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Seadrift Single False
+material: PAPER
+custom-model-data: 8473
+model: 'cocricotmod:block/wallshelf_bracket_seadrift_single_false'
+
+block:
+  type: item

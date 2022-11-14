@@ -1,0 +1,7 @@
+name: Door  4glass Dark Bottom
+material: PAPER
+custom-model-data: 3712
+model: 'cocricotmod:block/door_4glass_dark_bottom'
+
+block:
+  type: item

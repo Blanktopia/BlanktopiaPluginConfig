@@ -1,0 +1,7 @@
+name: Door  4glass Clear Top Rh O
+material: PAPER
+custom-model-data: 3711
+model: 'cocricotmod:block/door_4glass_clear_top_rh_o'
+
+block:
+  type: item

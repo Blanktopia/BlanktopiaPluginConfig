@@ -1,0 +1,7 @@
+name: Roof Incline White Inner
+material: PAPER
+custom-model-data: 6620
+model: 'cocricotmod:block/roof_incline_white_inner'
+
+block:
+  type: item

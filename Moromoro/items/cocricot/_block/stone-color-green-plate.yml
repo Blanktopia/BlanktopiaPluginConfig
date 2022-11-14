@@ -1,0 +1,7 @@
+name: Stone Color Green Plate
+material: PAPER
+custom-model-data: 7751
+model: 'cocricotmod:block/stone_color_green_plate'
+
+block:
+  type: item

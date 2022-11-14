@@ -1,0 +1,7 @@
+name: Drooping Rose Red
+material: PAPER
+custom-model-data: 4658
+model: 'cocricotmod:block/drooping_rose_red'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  2panel Lightblue Bottom
+material: PAPER
+custom-model-data: 3600
+model: 'cocricotmod:block/door_2panel_lightblue_bottom'
+
+block:
+  type: item

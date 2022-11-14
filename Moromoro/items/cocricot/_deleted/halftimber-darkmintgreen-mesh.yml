@@ -1,0 +1,7 @@
+name: Halftimber Darkmintgreen Mesh
+material: PAPER
+custom-model-data: 5360
+model: 'cocricotmod:block/halftimber_darkmintgreen_mesh'
+
+block:
+  type: item

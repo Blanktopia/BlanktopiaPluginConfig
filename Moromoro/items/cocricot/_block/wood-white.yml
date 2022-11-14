@@ -1,0 +1,7 @@
+name: Wood White
+material: PAPER
+custom-model-data: 9864
+model: 'cocricotmod:block/wood_white'
+
+block:
+  type: item

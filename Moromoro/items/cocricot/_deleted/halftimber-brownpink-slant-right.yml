@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Slant Right
+material: PAPER
+custom-model-data: 5259
+model: 'cocricotmod:block/halftimber_brownpink_slant_right'
+
+block:
+  type: item

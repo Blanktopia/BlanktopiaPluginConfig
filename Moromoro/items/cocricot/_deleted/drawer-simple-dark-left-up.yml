@@ -1,0 +1,7 @@
+name: Drawer Simple Dark Left Up
+material: PAPER
+custom-model-data: 4587
+model: 'cocricotmod:block/drawer_simple_dark_left_up'
+
+block:
+  type: item

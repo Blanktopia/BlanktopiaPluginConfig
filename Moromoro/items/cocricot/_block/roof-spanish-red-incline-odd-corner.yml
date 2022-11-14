@@ -1,0 +1,7 @@
+name: Roof Spanish Red Incline Odd Corner
+material: PAPER
+custom-model-data: 6738
+model: 'cocricotmod:block/roof_spanish_red_incline_odd_corner'
+
+block:
+  type: item

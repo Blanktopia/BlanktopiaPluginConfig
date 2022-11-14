@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Tudor Left
+material: PAPER
+custom-model-data: 5518
+model: 'cocricotmod:block/halftimber_whitepurple_tudor_left'
+
+block:
+  type: item

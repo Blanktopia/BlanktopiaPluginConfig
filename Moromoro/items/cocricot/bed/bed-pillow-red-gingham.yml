@@ -1,0 +1,7 @@
+name: Bed Pillow Red Gingham
+material: PAPER
+custom-model-data: 2435
+model: 'cocricotmod:block/bed_pillow_red_gingham'
+
+block:
+  type: item

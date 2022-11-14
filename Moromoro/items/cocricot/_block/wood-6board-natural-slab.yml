@@ -1,0 +1,7 @@
+name: Wood  6board Natural Slab
+material: PAPER
+custom-model-data: 9631
+model: 'cocricotmod:block/wood_6board_natural_slab'
+
+block:
+  type: item

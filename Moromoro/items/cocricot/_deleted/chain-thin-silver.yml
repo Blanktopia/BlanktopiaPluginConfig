@@ -1,0 +1,7 @@
+name: Chain Thin Silver
+material: PAPER
+custom-model-data: 2981
+model: 'cocricotmod:block/chain_thin_silver'
+
+block:
+  type: item

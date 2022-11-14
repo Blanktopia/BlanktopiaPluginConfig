@@ -1,0 +1,7 @@
+name: Brick Lightbrown White Rod
+material: PAPER
+custom-model-data: 2667
+model: 'cocricotmod:block/brick_lightbrown_white_rod'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Stripe Lightpurple Plate
+material: PAPER
+custom-model-data: 2216
+model: 'cocricotmod:block/awning_stripe_lightpurple_plate'
+
+block:
+  type: item

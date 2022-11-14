@@ -1,0 +1,7 @@
+name: Stone Color Darkbrown Plate
+material: PAPER
+custom-model-data: 7725
+model: 'cocricotmod:block/stone_color_darkbrown_plate'
+
+block:
+  type: item

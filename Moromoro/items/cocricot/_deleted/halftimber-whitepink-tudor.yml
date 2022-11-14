@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Tudor
+material: PAPER
+custom-model-data: 5502
+model: 'cocricotmod:block/halftimber_whitepink_tudor'
+
+block:
+  type: item

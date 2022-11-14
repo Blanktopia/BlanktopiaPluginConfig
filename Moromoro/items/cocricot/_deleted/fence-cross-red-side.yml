@@ -1,0 +1,7 @@
+name: Fence Cross Red Side
+material: PAPER
+custom-model-data: 4710
+model: 'cocricotmod:block/fence_cross_red_side'
+
+block:
+  type: item

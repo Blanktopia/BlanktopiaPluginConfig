@@ -1,0 +1,7 @@
+name: Car Windshield 1 Ri
+material: PAPER
+custom-model-data: 2898
+model: 'cocricotmod:block/car_windshield1_ri'
+
+block:
+  type: item

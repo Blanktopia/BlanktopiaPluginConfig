@@ -1,0 +1,7 @@
+name: Roof Palm Vslab
+material: PAPER
+custom-model-data: 6631
+model: 'cocricotmod:block/roof_palm_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drawer Simple White Right Down
+material: PAPER
+custom-model-data: 4637
+model: 'cocricotmod:block/drawer_simple_white_right_down'
+
+block:
+  type: item

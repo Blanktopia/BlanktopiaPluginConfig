@@ -1,0 +1,7 @@
+name: Window Flower Stone Pane All
+material: PAPER
+custom-model-data: 8919
+model: 'cocricotmod:block/window_flower_stone_pane_all'
+
+block:
+  type: item

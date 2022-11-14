@@ -1,0 +1,7 @@
+name: Roof Claytile Blue Stairs Inner
+material: PAPER
+custom-model-data: 6382
+model: 'cocricotmod:block/roof_claytile_blue_stairs_inner'
+
+block:
+  type: item

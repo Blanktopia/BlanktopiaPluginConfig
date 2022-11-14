@@ -1,0 +1,7 @@
+name: Table Stainless Corner
+material: PAPER
+custom-model-data: 8219
+model: cocricotmod:block/table_stainless_corner
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Awning Blue
+material: PAPER
+custom-model-data: 2023
+model: 'cocricotmod:block/awning_blue'
+
+block:
+  type: item

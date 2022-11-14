@@ -1,0 +1,7 @@
+name: Cabinet Glass Shabby Yellow Vslab
+material: PAPER
+custom-model-data: 2806
+model: 'cocricotmod:block/cabinet_glass_shabby_yellow_vslab'
+
+block:
+  type: item

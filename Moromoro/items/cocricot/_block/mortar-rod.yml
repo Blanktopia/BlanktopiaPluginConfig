@@ -1,0 +1,7 @@
+name: Mortar Rod
+material: PAPER
+custom-model-data: 6133
+model: 'cocricotmod:block/mortar_rod'
+
+block:
+  type: item

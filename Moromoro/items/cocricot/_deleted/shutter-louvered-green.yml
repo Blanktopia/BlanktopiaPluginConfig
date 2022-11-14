@@ -1,0 +1,7 @@
+name: Shutter Louvered Green
+material: PAPER
+custom-model-data: 7252
+model: 'cocricotmod:block/shutter_louvered_green'
+
+block:
+  type: item

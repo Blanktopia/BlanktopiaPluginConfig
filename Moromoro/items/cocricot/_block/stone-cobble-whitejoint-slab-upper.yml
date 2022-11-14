@@ -1,0 +1,7 @@
+name: Stone Cobble Whitejoint Slab Upper
+material: PAPER
+custom-model-data: 7690
+model: 'cocricotmod:block/stone_cobble_whitejoint_slab_upper'
+
+block:
+  type: item

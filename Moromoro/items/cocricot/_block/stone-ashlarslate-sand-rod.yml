@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Rod
+material: PAPER
+custom-model-data: 7631
+model: 'cocricotmod:block/stone_ashlarslate_sand_rod'
+
+block:
+  type: item

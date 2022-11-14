@@ -1,0 +1,7 @@
+name: Halftimber Redwhite Frame Vslab
+material: PAPER
+custom-model-data: 5464
+model: 'cocricotmod:block/halftimber_redwhite_frame_vslab'
+
+block:
+  type: item

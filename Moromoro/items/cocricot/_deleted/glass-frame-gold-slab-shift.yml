@@ -1,0 +1,7 @@
+name: Glass Frame Gold Slab Shift
+material: PAPER
+custom-model-data: 5105
+model: 'cocricotmod:block/glass_frame_gold_slab_shift'
+
+block:
+  type: item

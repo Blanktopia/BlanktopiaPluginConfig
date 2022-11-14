@@ -1,0 +1,7 @@
+name: Wood  3board H White Stairs Outer
+material: PAPER
+custom-model-data: 9484
+model: 'cocricotmod:block/wood_3board_h_white_stairs_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rustication Plate
+material: PAPER
+custom-model-data: 7119
+model: 'cocricotmod:block/rustication_plate'
+
+block:
+  type: item

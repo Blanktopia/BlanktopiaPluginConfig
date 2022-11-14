@@ -1,0 +1,7 @@
+name: Stone Random Whitejoint Rod
+material: PAPER
+custom-model-data: 7961
+model: 'cocricotmod:block/stone_random_whitejoint_rod'
+
+block:
+  type: item

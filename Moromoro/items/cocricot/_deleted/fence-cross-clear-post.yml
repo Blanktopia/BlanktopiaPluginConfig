@@ -1,0 +1,7 @@
+name: Fence Cross Clear Post
+material: PAPER
+custom-model-data: 4697
+model: 'cocricotmod:block/fence_cross_clear_post'
+
+block:
+  type: item

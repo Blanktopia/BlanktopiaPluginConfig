@@ -1,0 +1,7 @@
+name: Windowframe Classic Side Stone Left
+material: PAPER
+custom-model-data: 9112
+model: 'cocricotmod:block/windowframe_classic_side_stone_left'
+
+block:
+  type: item

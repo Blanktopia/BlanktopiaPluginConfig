@@ -1,0 +1,7 @@
+name: Shoes Flipflop White
+material: PAPER
+custom-model-data: 7175
+model: 'cocricotmod:block/shoes_flipflop_white'
+
+block:
+  type: item

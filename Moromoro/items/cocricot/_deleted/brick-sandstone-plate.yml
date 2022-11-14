@@ -1,0 +1,7 @@
+name: Brick Sandstone Plate
+material: PAPER
+custom-model-data: 2714
+model: 'cocricotmod:block/brick_sandstone_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sawhorse Black Both
+material: PAPER
+custom-model-data: 7132
+model: 'cocricotmod:block/sawhorse_black_both'
+
+block:
+  type: item

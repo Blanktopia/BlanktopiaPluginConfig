@@ -1,0 +1,7 @@
+name: Sofa Lawson Single
+material: PAPER
+custom-model-data: 7348
+model: cocricotmod:block/sofa_lawson_single
+block:
+  type: item
+  sit-height: 0.4375

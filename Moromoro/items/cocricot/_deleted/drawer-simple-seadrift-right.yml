@@ -1,0 +1,7 @@
+name: Drawer Simple Seadrift Right
+material: PAPER
+custom-model-data: 4620
+model: 'cocricotmod:block/drawer_simple_seadrift_right'
+
+block:
+  type: item

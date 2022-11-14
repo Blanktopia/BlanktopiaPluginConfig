@@ -1,0 +1,7 @@
+name: Globe Colonial
+material: PAPER
+custom-model-data: 5162
+model: cocricotmod:block/globe_colonial
+block:
+  type: item
+  collision: true

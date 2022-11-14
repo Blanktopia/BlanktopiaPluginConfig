@@ -1,0 +1,7 @@
+name: Wood Herringbone White Vslab
+material: PAPER
+custom-model-data: 9780
+model: 'cocricotmod:block/wood_herringbone_white_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stair Iron Outer
+material: PAPER
+custom-model-data: 7574
+model: 'cocricotmod:block/stair_iron_outer'
+
+block:
+  type: item

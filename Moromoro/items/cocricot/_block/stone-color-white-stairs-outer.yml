@@ -1,0 +1,7 @@
+name: Stone Color White Stairs Outer
+material: PAPER
+custom-model-data: 7861
+model: 'cocricotmod:block/stone_color_white_stairs_outer'
+
+block:
+  type: item

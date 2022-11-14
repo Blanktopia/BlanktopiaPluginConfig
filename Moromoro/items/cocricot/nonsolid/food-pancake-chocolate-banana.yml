@@ -1,0 +1,7 @@
+name: Food Pancake Chocolate Banana
+material: PAPER
+custom-model-data: 4936
+model: 'cocricotmod:block/food_pancake_chocolate_banana'
+
+block:
+  type: item

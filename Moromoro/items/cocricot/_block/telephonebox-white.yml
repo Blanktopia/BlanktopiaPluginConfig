@@ -1,0 +1,7 @@
+name: Telephonebox White
+material: PAPER
+custom-model-data: 8259
+model: 'cocricotmod:block/telephonebox_white'
+
+block:
+  type: item

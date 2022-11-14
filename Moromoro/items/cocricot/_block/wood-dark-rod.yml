@@ -1,0 +1,7 @@
+name: Wood Dark Rod
+material: PAPER
+custom-model-data: 9702
+model: 'cocricotmod:block/wood_dark_rod'
+
+block:
+  type: item

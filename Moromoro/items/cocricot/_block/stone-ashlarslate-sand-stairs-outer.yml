@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Stairs Outer
+material: PAPER
+custom-model-data: 7636
+model: 'cocricotmod:block/stone_ashlarslate_sand_stairs_outer'
+
+block:
+  type: item

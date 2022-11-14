@@ -1,0 +1,7 @@
+name: Chair American Green
+material: PAPER
+custom-model-data: 2986
+model: cocricotmod:block/chair_american_green
+block:
+  type: item
+  sit-height: 0.4375

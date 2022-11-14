@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/green_wool","overrides":[{"model":"blanktopia:hats/elf","predicate":{"custom_model_data":1}}]}

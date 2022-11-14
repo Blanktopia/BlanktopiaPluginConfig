@@ -1,0 +1,7 @@
+name: Shopfacade Paris Black Pillar
+material: PAPER
+custom-model-data: 7191
+model: 'cocricotmod:block/shopfacade_paris_black_pillar'
+
+block:
+  type: item

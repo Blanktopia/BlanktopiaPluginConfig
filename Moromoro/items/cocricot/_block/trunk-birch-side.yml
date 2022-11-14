@@ -1,0 +1,7 @@
+name: Trunk Birch Side
+material: PAPER
+custom-model-data: 8329
+model: 'cocricotmod:block/trunk_birch_side'
+
+block:
+  type: item

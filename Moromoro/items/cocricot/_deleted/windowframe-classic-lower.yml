@@ -1,0 +1,7 @@
+name: Windowframe Classic Lower
+material: PAPER
+custom-model-data: 9077
+model: 'cocricotmod:block/windowframe_classic_lower'
+
+block:
+  type: item

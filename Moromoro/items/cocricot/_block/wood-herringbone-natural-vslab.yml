@@ -1,0 +1,7 @@
+name: Wood Herringbone Natural Vslab
+material: PAPER
+custom-model-data: 9760
+model: 'cocricotmod:block/wood_herringbone_natural_vslab'
+
+block:
+  type: item

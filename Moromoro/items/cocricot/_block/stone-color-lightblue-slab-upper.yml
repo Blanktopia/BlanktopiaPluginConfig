@@ -1,0 +1,7 @@
+name: Stone Color Lightblue Slab Upper
+material: PAPER
+custom-model-data: 7767
+model: 'cocricotmod:block/stone_color_lightblue_slab_upper'
+
+block:
+  type: item

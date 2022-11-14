@@ -1,0 +1,7 @@
+name: Wood  3board White Slab
+material: PAPER
+custom-model-data: 9515
+model: 'cocricotmod:block/wood_3board_white_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Black Vslab
+material: PAPER
+custom-model-data: 7707
+model: 'cocricotmod:block/stone_color_black_vslab'
+
+block:
+  type: item

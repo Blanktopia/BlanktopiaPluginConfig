@@ -1,0 +1,7 @@
+name: Wood Herringbone Dark Vslab
+material: PAPER
+custom-model-data: 9750
+model: 'cocricotmod:block/wood_herringbone_dark_vslab'
+
+block:
+  type: item

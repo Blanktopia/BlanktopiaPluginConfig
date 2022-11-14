@@ -1,0 +1,7 @@
+name: Glass Frame Black Shift
+material: PAPER
+custom-model-data: 5055
+model: 'cocricotmod:block/glass_frame_black_shift'
+
+block:
+  type: item

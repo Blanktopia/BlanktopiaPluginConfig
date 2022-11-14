@@ -1,0 +1,7 @@
+name: Woodenbox Potato Slab 1
+material: PAPER
+custom-model-data: 9927
+model: 'cocricotmod:block/woodenbox_potato_slab1'
+
+block:
+  type: item

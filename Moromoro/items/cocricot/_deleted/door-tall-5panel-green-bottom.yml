@@ -1,0 +1,7 @@
+name: Door Tall  5panel Green Bottom
+material: PAPER
+custom-model-data: 4200
+model: 'cocricotmod:block/door_tall_5panel_green_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Barrel Clear
+material: PAPER
+custom-model-data: 2301
+model: cocricotmod:block/barrel_clear
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Door  9glass Lightgray Bottom
+material: PAPER
+custom-model-data: 3784
+model: 'cocricotmod:block/door_9glass_lightgray_bottom'
+
+block:
+  type: item

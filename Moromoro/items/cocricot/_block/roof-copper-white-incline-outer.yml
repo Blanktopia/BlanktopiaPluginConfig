@@ -1,0 +1,7 @@
+name: Roof Copper White Incline Outer
+material: PAPER
+custom-model-data: 6526
+model: 'cocricotmod:block/roof_copper_white_incline_outer'
+
+block:
+  type: item

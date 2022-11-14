@@ -1,0 +1,7 @@
+name: Brick Terracotta Large Gray Slab Upper
+material: PAPER
+custom-model-data: 2726
+model: 'cocricotmod:block/brick_terracotta_large_gray_slab_upper'
+
+block:
+  type: item

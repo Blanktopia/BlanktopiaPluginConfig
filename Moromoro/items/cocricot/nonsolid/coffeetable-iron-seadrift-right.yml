@@ -1,0 +1,7 @@
+name: Coffeetable Iron Seadrift Right
+material: PAPER
+custom-model-data: 3171
+model: 'cocricotmod:block/coffeetable_iron_seadrift_right'
+
+block:
+  type: item

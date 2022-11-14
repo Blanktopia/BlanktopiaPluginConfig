@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Incline White Outer
+material: PAPER
+custom-model-data: 6724
+model: 'cocricotmod:block/roof_spanish_orange_incline_white_outer'
+
+block:
+  type: item

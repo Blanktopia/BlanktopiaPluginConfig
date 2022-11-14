@@ -1,0 +1,7 @@
+name: Path Grass Dirt
+material: PAPER
+custom-model-data: 6181
+model: 'cocricotmod:block/path_grass_dirt'
+
+block:
+  type: item

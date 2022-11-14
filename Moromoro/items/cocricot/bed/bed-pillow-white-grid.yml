@@ -1,0 +1,7 @@
+name: Bed Pillow White Grid
+material: PAPER
+custom-model-data: 2438
+model: 'cocricotmod:block/bed_pillow_white_grid'
+
+block:
+  type: item

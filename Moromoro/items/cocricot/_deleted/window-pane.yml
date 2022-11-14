@@ -1,0 +1,7 @@
+name: Window Pane
+material: PAPER
+custom-model-data: 8995
+model: 'cocricotmod:block/window_pane'
+
+block:
+  type: item

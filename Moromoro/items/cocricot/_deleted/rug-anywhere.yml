@@ -1,0 +1,7 @@
+name: Rug Anywhere
+material: PAPER
+custom-model-data: 6916
+model: 'cocricotmod:block/rug_anywhere'
+
+block:
+  type: item

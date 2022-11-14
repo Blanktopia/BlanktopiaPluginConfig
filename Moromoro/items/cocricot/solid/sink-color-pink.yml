@@ -1,0 +1,7 @@
+name: Sink Color Pink
+material: PAPER
+custom-model-data: 7308
+model: cocricotmod:block/sink_color_pink
+block:
+  type: item
+  collision: true

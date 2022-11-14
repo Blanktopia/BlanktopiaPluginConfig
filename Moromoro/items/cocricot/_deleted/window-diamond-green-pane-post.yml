@@ -1,0 +1,7 @@
+name: Window Diamond Green Pane Post
+material: PAPER
+custom-model-data: 8837
+model: 'cocricotmod:block/window_diamond_green_pane_post'
+
+block:
+  type: item

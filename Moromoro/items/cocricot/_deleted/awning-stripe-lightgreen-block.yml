@@ -1,0 +1,7 @@
+name: Awning Stripe Lightgreen Block
+material: PAPER
+custom-model-data: 2203
+model: 'cocricotmod:block/awning_stripe_lightgreen_block'
+
+block:
+  type: item

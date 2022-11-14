@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Seadrift Corner
+material: PAPER
+custom-model-data: 5658
+model: 'cocricotmod:block/handrail_wood_straight_seadrift_corner'
+
+block:
+  type: item

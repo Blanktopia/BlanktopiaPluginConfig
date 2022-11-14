@@ -1,0 +1,7 @@
+name: Door  4glass Black Bottom O
+material: PAPER
+custom-model-data: 3689
+model: 'cocricotmod:block/door_4glass_black_bottom_o'
+
+block:
+  type: item

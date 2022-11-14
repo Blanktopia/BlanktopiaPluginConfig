@@ -1,0 +1,7 @@
+name: Wine White
+material: PAPER
+custom-model-data: 9252
+model: 'cocricotmod:block/wine_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Planter Modern Black
+material: PAPER
+custom-model-data: 6266
+model: 'cocricotmod:block/planter_modern_black'
+
+block:
+  type: item

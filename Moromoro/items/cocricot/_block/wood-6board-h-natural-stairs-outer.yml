@@ -1,0 +1,7 @@
+name: Wood  6board H Natural Stairs Outer
+material: PAPER
+custom-model-data: 9608
+model: 'cocricotmod:block/wood_6board_h_natural_stairs_outer'
+
+block:
+  type: item

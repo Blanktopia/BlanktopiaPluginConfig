@@ -1,0 +1,7 @@
+name: Wood  3board Brown Slab
+material: PAPER
+custom-model-data: 9399
+model: 'cocricotmod:block/wood_3board_brown_slab'
+
+block:
+  type: item

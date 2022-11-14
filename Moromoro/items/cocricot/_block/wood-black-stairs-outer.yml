@@ -1,0 +1,7 @@
+name: Wood Black Stairs Outer
+material: PAPER
+custom-model-data: 9671
+model: 'cocricotmod:block/wood_black_stairs_outer'
+
+block:
+  type: item

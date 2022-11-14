@@ -1,0 +1,7 @@
+name: Coffeetable Iron Natural Left
+material: PAPER
+custom-model-data: 3165
+model: cocricotmod:block/coffeetable_iron_natural_left
+block:
+  type: item
+  collision: true

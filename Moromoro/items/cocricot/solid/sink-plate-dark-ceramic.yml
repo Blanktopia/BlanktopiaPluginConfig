@@ -1,0 +1,7 @@
+name: Sink Plate Dark Ceramic
+material: PAPER
+custom-model-data: 7319
+model: cocricotmod:block/sink_plate_dark_ceramic
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Shelf Normal
+material: PAPER
+custom-model-data: 7154
+model: 'cocricotmod:block/shelf_normal'
+
+block:
+  type: item

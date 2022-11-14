@@ -1,0 +1,7 @@
+name: Door  4glass Clear Bottom O
+material: PAPER
+custom-model-data: 3705
+model: 'cocricotmod:block/door_4glass_clear_bottom_o'
+
+block:
+  type: item

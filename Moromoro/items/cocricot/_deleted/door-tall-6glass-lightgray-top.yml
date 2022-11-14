@@ -1,0 +1,7 @@
+name: Door Tall  6glass Lightgray Top
+material: PAPER
+custom-model-data: 4348
+model: 'cocricotmod:block/door_tall_6glass_lightgray_top'
+
+block:
+  type: item

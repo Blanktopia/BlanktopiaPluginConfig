@@ -1,0 +1,7 @@
+name: Woodenbox Slab
+material: PAPER
+custom-model-data: 9928
+model: 'cocricotmod:block/woodenbox_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Floating Dark False
+material: PAPER
+custom-model-data: 8508
+model: 'cocricotmod:block/wallshelf_floating_dark_false'
+
+block:
+  type: item

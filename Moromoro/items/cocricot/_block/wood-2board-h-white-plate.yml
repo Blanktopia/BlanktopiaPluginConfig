@@ -1,0 +1,7 @@
+name: Wood  2board H White Plate
+material: PAPER
+custom-model-data: 9345
+model: 'cocricotmod:block/wood_2board_h_white_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Tudor Right
+material: PAPER
+custom-model-data: 5247
+model: 'cocricotmod:block/halftimber_brownlime_tudor_right'
+
+block:
+  type: item

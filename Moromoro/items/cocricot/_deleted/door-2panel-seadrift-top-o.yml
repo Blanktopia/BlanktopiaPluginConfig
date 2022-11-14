@@ -1,0 +1,7 @@
+name: Door  2panel Seadrift Top O
+material: PAPER
+custom-model-data: 3661
+model: 'cocricotmod:block/door_2panel_seadrift_top_o'
+
+block:
+  type: item

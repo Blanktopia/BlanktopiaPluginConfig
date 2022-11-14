@@ -1,0 +1,7 @@
+name: Chain Gold
+material: PAPER
+custom-model-data: 2965
+model: 'cocricotmod:block/chain_gold'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chain Thick White
+material: PAPER
+custom-model-data: 2977
+model: 'cocricotmod:block/chain_thick_white'
+
+block:
+  type: item

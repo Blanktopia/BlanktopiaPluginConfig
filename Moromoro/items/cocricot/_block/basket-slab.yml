@@ -1,0 +1,7 @@
+name: Basket Slab
+material: PAPER
+custom-model-data: 2369
+model: 'cocricotmod:block/basket_slab'
+
+block:
+  type: item

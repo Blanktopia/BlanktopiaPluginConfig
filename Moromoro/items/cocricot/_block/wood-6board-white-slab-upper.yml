@@ -1,0 +1,7 @@
+name: Wood  6board White Slab Upper
+material: PAPER
+custom-model-data: 9656
+model: 'cocricotmod:block/wood_6board_white_slab_upper'
+
+block:
+  type: item

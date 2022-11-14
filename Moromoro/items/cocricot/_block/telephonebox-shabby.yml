@@ -1,0 +1,7 @@
+name: Telephonebox Shabby
+material: PAPER
+custom-model-data: 8258
+model: 'cocricotmod:block/telephonebox_shabby'
+
+block:
+  type: item

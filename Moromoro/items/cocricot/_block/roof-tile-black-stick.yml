@@ -1,0 +1,7 @@
+name: Roof Tile Black Stick
+material: PAPER
+custom-model-data: 6812
+model: 'cocricotmod:block/roof_tile_black_stick'
+
+block:
+  type: item

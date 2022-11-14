@@ -1,0 +1,7 @@
+name: Window Diamond Green
+material: PAPER
+custom-model-data: 8834
+model: 'cocricotmod:block/window_diamond_green'
+
+block:
+  type: item

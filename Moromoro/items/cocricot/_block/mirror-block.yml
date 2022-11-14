@@ -1,0 +1,7 @@
+name: Mirror Block
+material: PAPER
+custom-model-data: 6124
+model: 'cocricotmod:block/mirror_block'
+
+block:
+  type: item

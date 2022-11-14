@@ -1,0 +1,7 @@
+name: Awning Lightblue Stairs
+material: PAPER
+custom-model-data: 2073
+model: 'cocricotmod:block/awning_lightblue_stairs'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallhook Up Silver
+material: PAPER
+custom-model-data: 8374
+model: 'cocricotmod:block/wallhook_up_silver'
+
+block:
+  type: item

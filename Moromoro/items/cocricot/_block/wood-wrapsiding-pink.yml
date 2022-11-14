@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Pink
+material: PAPER
+custom-model-data: 9902
+model: 'cocricotmod:block/wood_wrapsiding_pink'
+
+block:
+  type: item

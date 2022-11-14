@@ -1,0 +1,7 @@
+name: Hangerrack Bar Black
+material: PAPER
+custom-model-data: 5761
+model: 'cocricotmod:block/hangerrack_bar_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightcyan Whiteframe
+material: PAPER
+custom-model-data: 9889
+model: 'cocricotmod:block/wood_wrapsiding_lightcyan_whiteframe'
+
+block:
+  type: item

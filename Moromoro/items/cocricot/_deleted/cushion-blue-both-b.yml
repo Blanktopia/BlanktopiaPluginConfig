@@ -1,0 +1,7 @@
+name: Cushion Blue Both B
+material: PAPER
+custom-model-data: 3301
+model: 'cocricotmod:block/cushion_blue_both_b'
+
+block:
+  type: item

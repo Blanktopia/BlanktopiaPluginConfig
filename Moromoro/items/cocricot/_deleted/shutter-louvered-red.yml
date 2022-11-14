@@ -1,0 +1,7 @@
+name: Shutter Louvered Red
+material: PAPER
+custom-model-data: 7255
+model: 'cocricotmod:block/shutter_louvered_red'
+
+block:
+  type: item

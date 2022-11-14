@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Tudor
+material: PAPER
+custom-model-data: 5517
+model: 'cocricotmod:block/halftimber_whitepurple_tudor'
+
+block:
+  type: item

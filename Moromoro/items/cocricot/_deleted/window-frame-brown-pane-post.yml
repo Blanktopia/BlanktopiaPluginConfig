@@ -1,0 +1,7 @@
+name: Window Frame Brown Pane Post
+material: PAPER
+custom-model-data: 8942
+model: 'cocricotmod:block/window_frame_brown_pane_post'
+
+block:
+  type: item

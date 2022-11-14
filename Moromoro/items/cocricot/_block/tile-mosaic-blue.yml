@@ -1,0 +1,7 @@
+name: Tile Mosaic Blue
+material: PAPER
+custom-model-data: 8303
+model: 'cocricotmod:block/tile_mosaic_blue'
+
+block:
+  type: item

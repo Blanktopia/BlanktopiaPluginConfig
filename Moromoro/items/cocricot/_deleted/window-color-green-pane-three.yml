@@ -1,0 +1,7 @@
+name: Window Color Green Pane Three
+material: PAPER
+custom-model-data: 8728
+model: 'cocricotmod:block/window_color_green_pane_three'
+
+block:
+  type: item

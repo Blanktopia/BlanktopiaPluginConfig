@@ -1,0 +1,7 @@
+name: Wood Seadrift Arch Single
+material: PAPER
+custom-model-data: 9800
+model: 'cocricotmod:block/wood_seadrift_arch_single'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Walldecor Paper Botanical
+material: PAPER
+custom-model-data: 8360
+model: 'cocricotmod:block/walldecor_paper_botanical'
+
+block:
+  type: item

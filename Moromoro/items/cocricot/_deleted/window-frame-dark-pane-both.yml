@@ -1,0 +1,7 @@
+name: Window Frame Dark Pane Both
+material: PAPER
+custom-model-data: 8955
+model: 'cocricotmod:block/window_frame_dark_pane_both'
+
+block:
+  type: item

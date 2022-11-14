@@ -1,0 +1,7 @@
+name: Desklamp Green
+material: PAPER
+custom-model-data: 3434
+model: 'cocricotmod:block/desklamp_green'
+
+block:
+  type: item

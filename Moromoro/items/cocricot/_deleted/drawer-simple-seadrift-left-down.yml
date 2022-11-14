@@ -1,0 +1,7 @@
+name: Drawer Simple Seadrift Left Down
+material: PAPER
+custom-model-data: 4617
+model: 'cocricotmod:block/drawer_simple_seadrift_left_down'
+
+block:
+  type: item

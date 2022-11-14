@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Quartz Bothpost
+material: PAPER
+custom-model-data: 5566
+model: 'cocricotmod:block/handrail_turnedleg_quartz_bothpost'
+
+block:
+  type: item

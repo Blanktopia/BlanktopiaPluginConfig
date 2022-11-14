@@ -1,0 +1,7 @@
+name: Door Tall  2panel Orange Bottom
+material: PAPER
+custom-model-data: 4120
+model: 'cocricotmod:block/door_tall_2panel_orange_bottom'
+
+block:
+  type: item

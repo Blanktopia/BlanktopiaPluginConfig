@@ -1,0 +1,7 @@
+name: Wood  2board H Clear Stairs
+material: PAPER
+custom-model-data: 9316
+model: 'cocricotmod:block/wood_2board_h_clear_stairs'
+
+block:
+  type: item

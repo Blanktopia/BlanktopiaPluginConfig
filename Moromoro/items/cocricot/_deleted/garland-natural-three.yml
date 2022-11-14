@@ -1,0 +1,7 @@
+name: Garland Natural Three
+material: PAPER
+custom-model-data: 5027
+model: 'cocricotmod:block/garland_natural_three'
+
+block:
+  type: item

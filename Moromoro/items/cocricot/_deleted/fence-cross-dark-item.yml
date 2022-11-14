@@ -1,0 +1,7 @@
+name: Fence Cross Dark Item
+material: PAPER
+custom-model-data: 4699
+model: 'cocricotmod:block/fence_cross_dark_item'
+
+block:
+  type: item

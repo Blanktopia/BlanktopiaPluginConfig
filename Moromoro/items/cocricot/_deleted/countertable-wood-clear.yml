@@ -1,0 +1,7 @@
+name: Countertable Wood Clear
+material: PAPER
+custom-model-data: 3239
+model: 'cocricotmod:block/countertable_wood_clear'
+
+block:
+  type: item

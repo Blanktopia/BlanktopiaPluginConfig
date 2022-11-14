@@ -1,0 +1,7 @@
+name: Brick Terracotta Lightbrown
+material: PAPER
+custom-model-data: 2728
+model: 'cocricotmod:block/brick_terracotta_lightbrown'
+
+block:
+  type: item

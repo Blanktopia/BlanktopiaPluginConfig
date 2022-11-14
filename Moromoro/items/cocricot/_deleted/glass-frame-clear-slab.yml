@@ -1,0 +1,7 @@
+name: Glass Frame Clear Slab
+material: PAPER
+custom-model-data: 5080
+model: 'cocricotmod:block/glass_frame_clear_slab'
+
+block:
+  type: item

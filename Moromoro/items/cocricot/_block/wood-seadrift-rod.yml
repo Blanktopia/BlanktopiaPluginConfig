@@ -1,0 +1,7 @@
+name: Wood Seadrift Rod
+material: PAPER
+custom-model-data: 9802
+model: 'cocricotmod:block/wood_seadrift_rod'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg White Three
+material: PAPER
+custom-model-data: 3501
+model: 'cocricotmod:block/diningtable_turnedleg_white_three'
+
+block:
+  type: item

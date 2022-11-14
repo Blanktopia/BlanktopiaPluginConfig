@@ -1,0 +1,7 @@
+name: Carpet Block Fringe Green
+material: PAPER
+custom-model-data: 2903
+model: 'cocricotmod:block/carpet_block_fringe_green'
+
+block:
+  type: item

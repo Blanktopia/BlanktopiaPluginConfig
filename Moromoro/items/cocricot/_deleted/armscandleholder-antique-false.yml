@@ -1,0 +1,7 @@
+name: Armscandleholder Antique False
+material: PAPER
+custom-model-data: 2003
+model: 'cocricotmod:block/armscandleholder_antique_false'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Stripe Blue Slab
+material: PAPER
+custom-model-data: 2151
+model: 'cocricotmod:block/awning_stripe_blue_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Sandstone Stairs Outer
+material: PAPER
+custom-model-data: 2720
+model: 'cocricotmod:block/brick_sandstone_stairs_outer'
+
+block:
+  type: item

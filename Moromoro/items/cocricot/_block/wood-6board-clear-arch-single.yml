@@ -1,0 +1,7 @@
+name: Wood  6board Clear Arch Single
+material: PAPER
+custom-model-data: 9548
+model: 'cocricotmod:block/wood_6board_clear_arch_single'
+
+block:
+  type: item

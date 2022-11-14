@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Brown Right
+material: PAPER
+custom-model-data: 8442
+model: 'cocricotmod:block/wallshelf_bracket_brown_right'
+
+block:
+  type: item

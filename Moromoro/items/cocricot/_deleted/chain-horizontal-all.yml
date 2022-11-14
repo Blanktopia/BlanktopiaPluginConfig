@@ -1,0 +1,7 @@
+name: Chain Horizontal All
+material: PAPER
+custom-model-data: 2966
+model: 'cocricotmod:block/chain_horizontal_all'
+
+block:
+  type: item

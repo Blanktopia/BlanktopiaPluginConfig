@@ -1,0 +1,7 @@
+name: Drawer Simple Clear Single Up
+material: PAPER
+custom-model-data: 4579
+model: 'cocricotmod:block/drawer_simple_clear_single_up'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Ceilinghook Antique Slant
+material: PAPER
+custom-model-data: 2927
+model: 'cocricotmod:block/ceilinghook_antique_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Midcentury
+material: PAPER
+custom-model-data: 2807
+model: 'cocricotmod:block/cabinet_midcentury'
+
+block:
+  type: item

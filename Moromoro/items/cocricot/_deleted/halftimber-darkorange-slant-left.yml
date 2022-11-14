@@ -1,0 +1,7 @@
+name: Halftimber Darkorange Slant Left
+material: PAPER
+custom-model-data: 5378
+model: 'cocricotmod:block/halftimber_darkorange_slant_left'
+
+block:
+  type: item

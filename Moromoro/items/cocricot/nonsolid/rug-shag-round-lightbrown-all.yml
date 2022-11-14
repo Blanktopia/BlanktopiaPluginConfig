@@ -1,0 +1,7 @@
+name: Rug Shag Round Lightbrown All
+material: PAPER
+custom-model-data: 7009
+model: 'cocricotmod:block/rug_shag_round_lightbrown_all'
+
+block:
+  type: item

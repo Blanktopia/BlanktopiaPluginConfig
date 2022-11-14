@@ -1,0 +1,7 @@
+name: Hanging Geometric
+material: PAPER
+custom-model-data: 5783
+model: 'cocricotmod:block/hanging_geometric'
+
+block:
+  type: item

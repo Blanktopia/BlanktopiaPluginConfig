@@ -1,0 +1,7 @@
+name: Chain Thick Silver
+material: PAPER
+custom-model-data: 2976
+model: 'cocricotmod:block/chain_thick_silver'
+
+block:
+  type: item

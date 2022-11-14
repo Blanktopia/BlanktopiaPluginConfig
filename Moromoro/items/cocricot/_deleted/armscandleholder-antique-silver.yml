@@ -1,0 +1,7 @@
+name: Armscandleholder Antique Silver
+material: PAPER
+custom-model-data: 2006
+model: 'cocricotmod:block/armscandleholder_antique_silver'
+
+block:
+  type: item

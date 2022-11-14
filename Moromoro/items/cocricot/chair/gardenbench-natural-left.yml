@@ -1,0 +1,7 @@
+name: Gardenbench Natural Left
+material: PAPER
+custom-model-data: 4973
+model: cocricotmod:block/gardenbench_natural_left
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Door  2panel Gray Bottom Rh
+material: PAPER
+custom-model-data: 3586
+model: 'cocricotmod:block/door_2panel_gray_bottom_rh'
+
+block:
+  type: item

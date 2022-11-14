@@ -1,0 +1,7 @@
+name: Fence Ranchrail Dark Slant
+material: PAPER
+custom-model-data: 4775
+model: 'cocricotmod:block/fence_ranchrail_dark_slant'
+
+block:
+  type: item

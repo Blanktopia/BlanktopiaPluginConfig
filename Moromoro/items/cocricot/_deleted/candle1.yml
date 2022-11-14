@@ -1,0 +1,7 @@
+name: Candle 1
+material: PAPER
+custom-model-data: 2851
+model: 'cocricotmod:block/candle1'
+
+block:
+  type: item

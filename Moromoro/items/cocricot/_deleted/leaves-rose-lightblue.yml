@@ -1,0 +1,7 @@
+name: Leaves Rose Lightblue
+material: PAPER
+custom-model-data: 5968
+model: 'cocricotmod:block/leaves_rose_lightblue'
+
+block:
+  type: item

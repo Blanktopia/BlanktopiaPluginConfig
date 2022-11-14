@@ -1,0 +1,7 @@
+name: Windowbracket Stone Sand Right
+material: PAPER
+custom-model-data: 9026
+model: 'cocricotmod:block/windowbracket_stone_sand_right'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  2board Clear Vslab
+material: PAPER
+custom-model-data: 9285
+model: 'cocricotmod:block/wood_2board_clear_vslab'
+
+block:
+  type: item

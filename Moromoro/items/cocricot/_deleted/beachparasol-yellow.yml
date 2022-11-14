@@ -1,0 +1,7 @@
+name: Beachparasol Yellow
+material: PAPER
+custom-model-data: 2388
+model: 'cocricotmod:block/beachparasol_yellow'
+
+block:
+  type: item

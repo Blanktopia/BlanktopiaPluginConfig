@@ -1,0 +1,7 @@
+name: Awning Stripe Yellow Lower
+material: PAPER
+custom-model-data: 2259
+model: 'cocricotmod:block/awning_stripe_yellow_lower'
+
+block:
+  type: item

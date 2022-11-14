@@ -1,0 +1,7 @@
+name: Hanging Beach
+material: PAPER
+custom-model-data: 5777
+model: 'cocricotmod:block/hanging_beach'
+
+block:
+  type: item

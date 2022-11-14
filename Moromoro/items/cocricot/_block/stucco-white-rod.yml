@@ -1,0 +1,7 @@
+name: Stucco White Rod
+material: PAPER
+custom-model-data: 8105
+model: 'cocricotmod:block/stucco_white_rod'
+
+block:
+  type: item

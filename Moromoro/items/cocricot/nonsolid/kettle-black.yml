@@ -1,0 +1,7 @@
+name: Kettle Black
+material: PAPER
+custom-model-data: 5875
+model: 'cocricotmod:block/kettle_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Branch Oak
+material: PAPER
+custom-model-data: 2602
+model: 'cocricotmod:block/branch_oak'
+
+block:
+  type: item

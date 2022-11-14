@@ -1,0 +1,8 @@
+name: Wheel Small Dark Rubber
+material: PAPER
+custom-model-data: 8550
+model: 'cocricotmod:block/wheel_small_dark_rubber'
+
+block:
+  type: item
+  collision: true

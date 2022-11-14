@@ -1,0 +1,7 @@
+name: Door  2panel Wood Top O
+material: PAPER
+custom-model-data: 3677
+model: 'cocricotmod:block/door_2panel_wood_top_o'
+
+block:
+  type: item

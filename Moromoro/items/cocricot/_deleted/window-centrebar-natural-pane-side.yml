@@ -1,0 +1,7 @@
+name: Window Centrebar Natural Pane Side
+material: PAPER
+custom-model-data: 8663
+model: 'cocricotmod:block/window_centrebar_natural_pane_side'
+
+block:
+  type: item

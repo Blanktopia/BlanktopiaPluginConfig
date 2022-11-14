@@ -1,0 +1,7 @@
+name: Awning Lightgreen
+material: PAPER
+custom-model-data: 2078
+model: 'cocricotmod:block/awning_lightgreen'
+
+block:
+  type: item

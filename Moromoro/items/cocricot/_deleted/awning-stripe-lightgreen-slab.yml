@@ -1,0 +1,7 @@
+name: Awning Stripe Lightgreen Slab
+material: PAPER
+custom-model-data: 2206
+model: 'cocricotmod:block/awning_stripe_lightgreen_slab'
+
+block:
+  type: item

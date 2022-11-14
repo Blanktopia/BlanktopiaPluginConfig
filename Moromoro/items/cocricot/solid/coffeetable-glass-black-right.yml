@@ -1,0 +1,7 @@
+name: Coffeetable Glass Black Right
+material: PAPER
+custom-model-data: 3144
+model: cocricotmod:block/coffeetable_glass_black_right
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Garland Happy Side
+material: PAPER
+custom-model-data: 5019
+model: 'cocricotmod:block/garland_happy_side'
+
+block:
+  type: item

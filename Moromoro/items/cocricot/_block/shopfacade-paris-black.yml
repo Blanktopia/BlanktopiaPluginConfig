@@ -1,0 +1,7 @@
+name: Shopfacade Paris Black
+material: PAPER
+custom-model-data: 7187
+model: 'cocricotmod:block/shopfacade_paris_black'
+
+block:
+  type: item

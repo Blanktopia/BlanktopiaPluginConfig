@@ -1,0 +1,7 @@
+name: Pattern Antique White
+material: PAPER
+custom-model-data: 6193
+model: 'cocricotmod:block/pattern_antique_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Incline White Odd
+material: PAPER
+custom-model-data: 6621
+model: 'cocricotmod:block/roof_incline_white_odd'
+
+block:
+  type: item

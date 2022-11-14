@@ -1,0 +1,7 @@
+name: Weathercock
+material: PAPER
+custom-model-data: 8526
+model: 'cocricotmod:block/weathercock'
+
+block:
+  type: item

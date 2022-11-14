@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg White Slant
+material: PAPER
+custom-model-data: 5756
+model: 'cocricotmod:block/handrail_wood_turnedleg_white_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Brown Single A
+material: PAPER
+custom-model-data: 3324
+model: 'cocricotmod:block/cushion_brown_single_a'
+
+block:
+  type: item

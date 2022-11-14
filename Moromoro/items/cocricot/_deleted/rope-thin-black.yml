@@ -1,0 +1,7 @@
+name: Rope Thin Black
+material: PAPER
+custom-model-data: 6863
+model: 'cocricotmod:block/rope_thin_black'
+
+block:
+  type: item

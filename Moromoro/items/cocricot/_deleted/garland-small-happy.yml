@@ -1,0 +1,7 @@
+name: Garland Small Happy
+material: PAPER
+custom-model-data: 5039
+model: 'cocricotmod:block/garland_small_happy'
+
+block:
+  type: item

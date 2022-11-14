@@ -1,0 +1,7 @@
+name: Window Diamond Brown Pane Side
+material: PAPER
+custom-model-data: 8817
+model: 'cocricotmod:block/window_diamond_brown_pane_side'
+
+block:
+  type: item

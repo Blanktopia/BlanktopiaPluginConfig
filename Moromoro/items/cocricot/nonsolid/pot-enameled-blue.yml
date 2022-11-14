@@ -1,0 +1,7 @@
+name: Pot Enameled Blue
+material: PAPER
+custom-model-data: 6285
+model: 'cocricotmod:block/pot_enameled_blue'
+
+block:
+  type: item

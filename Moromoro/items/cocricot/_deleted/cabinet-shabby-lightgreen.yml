@@ -1,0 +1,7 @@
+name: Cabinet Shabby Lightgreen
+material: PAPER
+custom-model-data: 2822
+model: 'cocricotmod:block/cabinet_shabby_lightgreen'
+
+block:
+  type: item

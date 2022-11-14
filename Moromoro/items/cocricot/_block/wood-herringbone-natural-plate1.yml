@@ -1,0 +1,7 @@
+name: Wood Herringbone Natural Plate 1
+material: PAPER
+custom-model-data: 9753
+model: 'cocricotmod:block/wood_herringbone_natural_plate1'
+
+block:
+  type: item

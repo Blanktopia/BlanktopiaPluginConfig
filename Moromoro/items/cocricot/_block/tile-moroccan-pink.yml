@@ -1,0 +1,7 @@
+name: Tile Moroccan Pink
+material: PAPER
+custom-model-data: 8289
+model: 'cocricotmod:block/tile_moroccan_pink'
+
+block:
+  type: item

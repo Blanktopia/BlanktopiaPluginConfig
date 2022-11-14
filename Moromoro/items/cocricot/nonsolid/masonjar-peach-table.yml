@@ -1,0 +1,7 @@
+name: Masonjar Peach Table
+material: PAPER
+custom-model-data: 6102
+model: 'cocricotmod:block/masonjar_peach_table'
+
+block:
+  type: item

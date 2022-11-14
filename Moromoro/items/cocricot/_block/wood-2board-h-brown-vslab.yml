@@ -1,0 +1,7 @@
+name: Wood  2board H Brown Vslab
+material: PAPER
+custom-model-data: 9311
+model: 'cocricotmod:block/wood_2board_h_brown_vslab'
+
+block:
+  type: item

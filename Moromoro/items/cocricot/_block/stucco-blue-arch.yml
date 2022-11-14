@@ -1,0 +1,7 @@
+name: Stucco Blue Arch
+material: PAPER
+custom-model-data: 8020
+model: 'cocricotmod:block/stucco_blue_arch'
+
+block:
+  type: item

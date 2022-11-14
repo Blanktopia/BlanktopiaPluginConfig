@@ -1,0 +1,7 @@
+name: Fence Victorian Red Three
+material: PAPER
+custom-model-data: 4824
+model: 'cocricotmod:block/fence_victorian_red_three'
+
+block:
+  type: item

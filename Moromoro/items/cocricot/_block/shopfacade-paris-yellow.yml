@@ -1,0 +1,7 @@
+name: Shopfacade Paris Yellow
+material: PAPER
+custom-model-data: 7232
+model: 'cocricotmod:block/shopfacade_paris_yellow'
+
+block:
+  type: item

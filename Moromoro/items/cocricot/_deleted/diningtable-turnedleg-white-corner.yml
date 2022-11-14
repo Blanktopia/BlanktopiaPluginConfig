@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg White Corner
+material: PAPER
+custom-model-data: 3493
+model: 'cocricotmod:block/diningtable_turnedleg_white_corner'
+
+block:
+  type: item

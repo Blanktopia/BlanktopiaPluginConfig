@@ -1,0 +1,7 @@
+name: Shutter Cross Red
+material: PAPER
+custom-model-data: 7247
+model: 'cocricotmod:block/shutter_cross_red'
+
+block:
+  type: item

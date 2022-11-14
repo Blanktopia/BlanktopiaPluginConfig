@@ -1,0 +1,7 @@
+name: Wallhook Down Antique
+material: PAPER
+custom-model-data: 8366
+model: 'cocricotmod:block/wallhook_down_antique'
+
+block:
+  type: item

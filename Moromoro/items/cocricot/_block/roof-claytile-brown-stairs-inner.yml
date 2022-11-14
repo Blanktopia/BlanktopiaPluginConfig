@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Stairs Inner
+material: PAPER
+custom-model-data: 6402
+model: 'cocricotmod:block/roof_claytile_brown_stairs_inner'
+
+block:
+  type: item

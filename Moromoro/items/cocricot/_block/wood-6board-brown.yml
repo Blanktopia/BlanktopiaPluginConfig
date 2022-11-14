@@ -1,0 +1,7 @@
+name: Wood  6board Brown
+material: PAPER
+custom-model-data: 9534
+model: 'cocricotmod:block/wood_6board_brown'
+
+block:
+  type: item

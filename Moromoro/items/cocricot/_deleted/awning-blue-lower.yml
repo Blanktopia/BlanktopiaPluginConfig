@@ -1,0 +1,7 @@
+name: Awning Blue Lower
+material: PAPER
+custom-model-data: 2025
+model: 'cocricotmod:block/awning_blue_lower'
+
+block:
+  type: item

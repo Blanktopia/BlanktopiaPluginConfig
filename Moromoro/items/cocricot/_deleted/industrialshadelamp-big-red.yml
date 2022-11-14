@@ -1,0 +1,7 @@
+name: Industrialshadelamp Big Red
+material: PAPER
+custom-model-data: 5829
+model: 'cocricotmod:block/industrialshadelamp_big_red'
+
+block:
+  type: item

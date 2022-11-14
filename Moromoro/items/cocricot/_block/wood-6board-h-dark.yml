@@ -1,0 +1,7 @@
+name: Wood  6board H Dark
+material: PAPER
+custom-model-data: 9594
+model: 'cocricotmod:block/wood_6board_h_dark'
+
+block:
+  type: item

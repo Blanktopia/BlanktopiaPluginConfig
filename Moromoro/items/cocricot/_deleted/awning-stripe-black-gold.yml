@@ -1,0 +1,7 @@
+name: Awning Stripe Black Gold
+material: PAPER
+custom-model-data: 2136
+model: 'cocricotmod:block/awning_stripe_black_gold'
+
+block:
+  type: item

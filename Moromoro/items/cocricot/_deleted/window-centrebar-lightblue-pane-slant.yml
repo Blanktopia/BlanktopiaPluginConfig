@@ -1,0 +1,7 @@
+name: Window Centrebar Lightblue Pane Slant
+material: PAPER
+custom-model-data: 8636
+model: 'cocricotmod:block/window_centrebar_lightblue_pane_slant'
+
+block:
+  type: item

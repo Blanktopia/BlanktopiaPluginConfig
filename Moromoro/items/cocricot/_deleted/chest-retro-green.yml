@@ -1,0 +1,7 @@
+name: Chest Retro Green
+material: PAPER
+custom-model-data: 3079
+model: 'cocricotmod:block/chest_retro_green'
+
+block:
+  type: item

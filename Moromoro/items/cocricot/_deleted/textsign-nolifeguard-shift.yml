@@ -1,0 +1,7 @@
+name: Textsign Nolifeguard Shift
+material: PAPER
+custom-model-data: 8264
+model: 'cocricotmod:block/textsign_nolifeguard_shift'
+
+block:
+  type: item

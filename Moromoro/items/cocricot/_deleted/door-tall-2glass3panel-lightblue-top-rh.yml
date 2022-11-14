@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Lightblue Top Rh
+material: PAPER
+custom-model-data: 3966
+model: 'cocricotmod:block/door_tall_2glass3panel_lightblue_top_rh'
+
+block:
+  type: item

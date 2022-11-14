@@ -1,0 +1,7 @@
+name: Window Centrebar Seadrift Pane Side
+material: PAPER
+custom-model-data: 8677
+model: 'cocricotmod:block/window_centrebar_seadrift_pane_side'
+
+block:
+  type: item

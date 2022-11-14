@@ -1,0 +1,7 @@
+name: Recordplayer Wood
+material: PAPER
+custom-model-data: 6337
+model: 'cocricotmod:block/recordplayer_wood'
+
+block:
+  type: item

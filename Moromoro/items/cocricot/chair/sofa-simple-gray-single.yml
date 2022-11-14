@@ -1,0 +1,7 @@
+name: Sofa Simple Gray Single
+material: PAPER
+custom-model-data: 7412
+model: cocricotmod:block/sofa_simple_gray_single
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Drawer Square Antique White
+material: PAPER
+custom-model-data: 4646
+model: 'cocricotmod:block/drawer_square_antique_white'
+
+block:
+  type: item

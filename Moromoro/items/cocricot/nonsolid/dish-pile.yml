@@ -1,0 +1,7 @@
+name: Dish Pile
+material: PAPER
+custom-model-data: 3509
+model: 'cocricotmod:block/dish_pile'
+
+block:
+  type: item

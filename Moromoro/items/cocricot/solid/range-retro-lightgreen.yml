@@ -1,0 +1,7 @@
+name: Range Retro Lightgreen
+material: PAPER
+custom-model-data: 6315
+model: cocricotmod:block/range_retro_lightgreen
+block:
+  type: item
+  collision: true

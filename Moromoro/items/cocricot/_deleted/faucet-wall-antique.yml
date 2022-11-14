@@ -1,0 +1,7 @@
+name: Faucet Wall Antique
+material: PAPER
+custom-model-data: 4686
+model: 'cocricotmod:block/faucet_wall_antique'
+
+block:
+  type: item

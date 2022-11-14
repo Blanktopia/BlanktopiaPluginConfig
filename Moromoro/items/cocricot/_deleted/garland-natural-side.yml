@@ -1,0 +1,7 @@
+name: Garland Natural Side
+material: PAPER
+custom-model-data: 5025
+model: 'cocricotmod:block/garland_natural_side'
+
+block:
+  type: item

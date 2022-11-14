@@ -1,0 +1,7 @@
+name: Garland Pop Slant
+material: PAPER
+custom-model-data: 5034
+model: 'cocricotmod:block/garland_pop_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rope Thick
+material: PAPER
+custom-model-data: 6861
+model: 'cocricotmod:block/rope_thick'
+
+block:
+  type: item

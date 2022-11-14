@@ -1,0 +1,7 @@
+name: Ladder Iron White
+material: PAPER
+custom-model-data: 5889
+model: 'cocricotmod:block/ladder_iron_white'
+
+block:
+  type: item

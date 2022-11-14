@@ -1,0 +1,7 @@
+name: Windowframe Simple Side Sand Left
+material: PAPER
+custom-model-data: 9190
+model: 'cocricotmod:block/windowframe_simple_side_sand_left'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Rod
+material: PAPER
+custom-model-data: 6706
+model: 'cocricotmod:block/roof_spanish_lightbrown_rod'
+
+block:
+  type: item

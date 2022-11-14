@@ -1,0 +1,7 @@
+name: Stonebrick Arch
+material: PAPER
+custom-model-data: 7988
+model: 'cocricotmod:block/stonebrick_arch'
+
+block:
+  type: item

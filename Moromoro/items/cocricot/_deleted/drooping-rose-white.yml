@@ -1,0 +1,7 @@
+name: Drooping Rose White
+material: PAPER
+custom-model-data: 4659
+model: 'cocricotmod:block/drooping_rose_white'
+
+block:
+  type: item

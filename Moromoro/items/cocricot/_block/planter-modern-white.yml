@@ -1,0 +1,7 @@
+name: Planter Modern White
+material: PAPER
+custom-model-data: 6269
+model: 'cocricotmod:block/planter_modern_white'
+
+block:
+  type: item

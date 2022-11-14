@@ -1,0 +1,7 @@
+name: Chair American Red
+material: PAPER
+custom-model-data: 2992
+model: cocricotmod:block/chair_american_red
+block:
+  type: item
+  sit-height: 0.4375

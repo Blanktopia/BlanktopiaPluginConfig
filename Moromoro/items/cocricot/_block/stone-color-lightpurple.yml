@@ -1,0 +1,7 @@
+name: Stone Color Lightpurple
+material: PAPER
+custom-model-data: 7800
+model: 'cocricotmod:block/stone_color_lightpurple'
+
+block:
+  type: item

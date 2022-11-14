@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Frame
+material: PAPER
+custom-model-data: 5508
+model: 'cocricotmod:block/halftimber_whitepurple_frame'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Glass Frame Gold Pane Three
+material: PAPER
+custom-model-data: 5102
+model: 'cocricotmod:block/glass_frame_gold_pane_three'
+
+block:
+  type: item

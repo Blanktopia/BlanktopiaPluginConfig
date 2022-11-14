@@ -1,0 +1,7 @@
+name: Stone Color Red Stick
+material: PAPER
+custom-model-data: 7849
+model: 'cocricotmod:block/stone_color_red_stick'
+
+block:
+  type: item

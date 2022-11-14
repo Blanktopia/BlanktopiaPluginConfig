@@ -1,0 +1,7 @@
+name: Marble Slab
+material: PAPER
+custom-model-data: 6059
+model: 'cocricotmod:block/marble_slab'
+
+block:
+  type: item

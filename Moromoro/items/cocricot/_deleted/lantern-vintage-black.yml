@@ -1,0 +1,7 @@
+name: Lantern Vintage Black
+material: PAPER
+custom-model-data: 5909
+model: 'cocricotmod:block/lantern_vintage_black'
+
+block:
+  type: item

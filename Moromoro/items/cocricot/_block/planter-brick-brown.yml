@@ -1,0 +1,7 @@
+name: Planter Brick Brown
+material: PAPER
+custom-model-data: 6262
+model: 'cocricotmod:block/planter_brick_brown'
+
+block:
+  type: item

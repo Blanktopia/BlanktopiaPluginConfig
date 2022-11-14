@@ -1,0 +1,7 @@
+name: Door Tall  2panel Blue Bottom
+material: PAPER
+custom-model-data: 4064
+model: 'cocricotmod:block/door_tall_2panel_blue_bottom'
+
+block:
+  type: item

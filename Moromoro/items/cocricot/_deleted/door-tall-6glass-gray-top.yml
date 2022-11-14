@@ -1,0 +1,7 @@
+name: Door Tall  6glass Gray Top
+material: PAPER
+custom-model-data: 4324
+model: 'cocricotmod:block/door_tall_6glass_gray_top'
+
+block:
+  type: item

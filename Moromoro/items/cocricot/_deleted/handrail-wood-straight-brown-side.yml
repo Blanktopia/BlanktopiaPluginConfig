@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Brown Side
+material: PAPER
+custom-model-data: 5600
+model: 'cocricotmod:block/handrail_wood_straight_brown_side'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Base Plate All
+material: PAPER
+custom-model-data: 2335
+model: 'cocricotmod:block/base_plate_all'
+
+block:
+  type: item

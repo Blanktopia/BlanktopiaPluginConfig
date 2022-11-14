@@ -1,0 +1,7 @@
+name: Chest Shabby Black
+material: PAPER
+custom-model-data: 3088
+model: 'cocricotmod:block/chest_shabby_black'
+
+block:
+  type: item

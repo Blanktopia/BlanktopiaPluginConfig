@@ -1,0 +1,7 @@
+name: Newspaper
+material: PAPER
+custom-model-data: 6151
+model: 'cocricotmod:block/newspaper'
+
+block:
+  type: item

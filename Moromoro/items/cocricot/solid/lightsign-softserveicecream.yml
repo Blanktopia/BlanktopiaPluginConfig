@@ -1,0 +1,7 @@
+name: Lightsign Softserveicecream
+material: PAPER
+custom-model-data: 6016
+model: cocricotmod:block/lightsign_softserveicecream
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Wood Clear Rod
+material: PAPER
+custom-model-data: 9690
+model: 'cocricotmod:block/wood_clear_rod'
+
+block:
+  type: item

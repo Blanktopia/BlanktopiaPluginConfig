@@ -1,0 +1,7 @@
+name: Windowframe Simple Stone Lower Inner
+material: PAPER
+custom-model-data: 9207
+model: 'cocricotmod:block/windowframe_simple_stone_lower_inner'
+
+block:
+  type: item

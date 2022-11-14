@@ -1,0 +1,7 @@
+name: Window Three White Pane Both
+material: PAPER
+custom-model-data: 9004
+model: 'cocricotmod:block/window_three_white_pane_both'
+
+block:
+  type: item

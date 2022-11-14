@@ -1,0 +1,7 @@
+name: Branch Side Trunk
+material: PAPER
+custom-model-data: 2606
+model: 'cocricotmod:block/branch_side_trunk'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Pink Whiteframe
+material: PAPER
+custom-model-data: 7838
+model: 'cocricotmod:block/stone_color_pink_whiteframe'
+
+block:
+  type: item

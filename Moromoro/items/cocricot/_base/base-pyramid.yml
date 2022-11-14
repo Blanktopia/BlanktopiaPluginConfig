@@ -1,0 +1,7 @@
+name: Base Pyramid
+material: PAPER
+custom-model-data: 2338
+model: 'cocricotmod:block/base_pyramid'
+
+block:
+  type: item

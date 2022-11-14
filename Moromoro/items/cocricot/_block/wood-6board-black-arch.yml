@@ -1,0 +1,7 @@
+name: Wood  6board Black Arch
+material: PAPER
+custom-model-data: 9523
+model: 'cocricotmod:block/wood_6board_black_arch'
+
+block:
+  type: item

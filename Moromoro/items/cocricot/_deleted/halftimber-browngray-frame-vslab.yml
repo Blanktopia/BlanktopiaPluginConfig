@@ -1,0 +1,7 @@
+name: Halftimber Browngray Frame Vslab
+material: PAPER
+custom-model-data: 5209
+model: 'cocricotmod:block/halftimber_browngray_frame_vslab'
+
+block:
+  type: item

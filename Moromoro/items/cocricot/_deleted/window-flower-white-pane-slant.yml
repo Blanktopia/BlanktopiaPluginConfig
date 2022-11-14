@@ -1,0 +1,7 @@
+name: Window Flower White Pane Slant
+material: PAPER
+custom-model-data: 8931
+model: 'cocricotmod:block/window_flower_white_pane_slant'
+
+block:
+  type: item

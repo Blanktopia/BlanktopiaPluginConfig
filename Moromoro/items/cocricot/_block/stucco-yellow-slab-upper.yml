@@ -1,0 +1,7 @@
+name: Stucco Yellow Slab Upper
+material: PAPER
+custom-model-data: 8120
+model: 'cocricotmod:block/stucco_yellow_slab_upper'
+
+block:
+  type: item

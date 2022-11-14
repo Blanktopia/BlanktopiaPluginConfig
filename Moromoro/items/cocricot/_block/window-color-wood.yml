@@ -1,0 +1,7 @@
+name: Window Color Wood
+material: PAPER
+custom-model-data: 8785
+model: 'cocricotmod:block/window_color_wood'
+
+block:
+  type: item

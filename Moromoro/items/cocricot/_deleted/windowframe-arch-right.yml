@@ -1,0 +1,7 @@
+name: Windowframe Arch Right
+material: PAPER
+custom-model-data: 9046
+model: 'cocricotmod:block/windowframe_arch_right'
+
+block:
+  type: item

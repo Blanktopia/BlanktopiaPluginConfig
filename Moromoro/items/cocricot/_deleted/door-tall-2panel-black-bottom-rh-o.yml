@@ -1,0 +1,7 @@
+name: Door Tall  2panel Black Bottom Rh O
+material: PAPER
+custom-model-data: 4059
+model: 'cocricotmod:block/door_tall_2panel_black_bottom_rh_o'
+
+block:
+  type: item

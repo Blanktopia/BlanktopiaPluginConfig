@@ -1,0 +1,7 @@
+name: Base Cross Double
+material: PAPER
+custom-model-data: 2306
+model: 'cocricotmod:block/base_cross_double'
+
+block:
+  type: item

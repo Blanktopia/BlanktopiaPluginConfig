@@ -1,0 +1,7 @@
+name: Awning Lightpurple Lower
+material: PAPER
+custom-model-data: 2091
+model: 'cocricotmod:block/awning_lightpurple_lower'
+
+block:
+  type: item

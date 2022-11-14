@@ -1,0 +1,7 @@
+name: Windowframe Simple Side Stone Fence
+material: PAPER
+custom-model-data: 9195
+model: 'cocricotmod:block/windowframe_simple_side_stone_fence'
+
+block:
+  type: item

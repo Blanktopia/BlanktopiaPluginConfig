@@ -1,0 +1,7 @@
+name: Window Flower White Pane All
+material: PAPER
+custom-model-data: 8926
+model: 'cocricotmod:block/window_flower_white_pane_all'
+
+block:
+  type: item

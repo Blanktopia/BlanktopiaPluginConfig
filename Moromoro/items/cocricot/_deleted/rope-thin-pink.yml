@@ -1,0 +1,7 @@
+name: Rope Thin Pink
+material: PAPER
+custom-model-data: 6876
+model: 'cocricotmod:block/rope_thin_pink'
+
+block:
+  type: item

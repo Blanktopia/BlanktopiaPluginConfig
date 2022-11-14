@@ -1,0 +1,7 @@
+name: Door  4glass Black Top Rh O
+material: PAPER
+custom-model-data: 3695
+model: 'cocricotmod:block/door_4glass_black_top_rh_o'
+
+block:
+  type: item

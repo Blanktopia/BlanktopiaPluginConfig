@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Clear Side
+material: PAPER
+custom-model-data: 5610
+model: 'cocricotmod:block/handrail_wood_straight_clear_side'
+
+block:
+  type: item

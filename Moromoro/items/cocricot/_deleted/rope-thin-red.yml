@@ -1,0 +1,7 @@
+name: Rope Thin Red
+material: PAPER
+custom-model-data: 6878
+model: 'cocricotmod:block/rope_thin_red'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color White Rod
+material: PAPER
+custom-model-data: 7856
+model: 'cocricotmod:block/stone_color_white_rod'
+
+block:
+  type: item

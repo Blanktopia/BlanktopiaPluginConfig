@@ -1,0 +1,7 @@
+name: Sofa Simple Lime Both
+material: PAPER
+custom-model-data: 7421
+model: cocricotmod:block/sofa_simple_lime_both
+block:
+  type: item
+  sit-height: 0.4375

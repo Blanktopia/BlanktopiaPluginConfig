@@ -1,0 +1,7 @@
+name: Floorlamp Simpleleg White Upper
+material: PAPER
+custom-model-data: 4863
+model: 'cocricotmod:block/floorlamp_simpleleg_white_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Floating Natural
+material: PAPER
+custom-model-data: 8512
+model: 'cocricotmod:block/wallshelf_floating_natural'
+
+block:
+  type: item

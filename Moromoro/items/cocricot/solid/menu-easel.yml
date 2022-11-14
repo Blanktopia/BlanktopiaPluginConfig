@@ -1,0 +1,7 @@
+name: Menu Easel
+material: PAPER
+custom-model-data: 6110
+model: cocricotmod:block/menu_easel
+block:
+  type: item
+  collision: true

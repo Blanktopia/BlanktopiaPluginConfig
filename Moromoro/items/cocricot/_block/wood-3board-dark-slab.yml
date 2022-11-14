@@ -1,0 +1,7 @@
+name: Wood  3board Dark Slab
+material: PAPER
+custom-model-data: 9423
+model: 'cocricotmod:block/wood_3board_dark_slab'
+
+block:
+  type: item

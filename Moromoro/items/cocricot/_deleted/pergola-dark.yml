@@ -1,0 +1,7 @@
+name: Pergola Dark
+material: PAPER
+custom-model-data: 6227
+model: 'cocricotmod:block/pergola_dark'
+
+block:
+  type: item

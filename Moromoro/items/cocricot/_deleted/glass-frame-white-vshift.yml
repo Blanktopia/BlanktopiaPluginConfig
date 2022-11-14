@@ -1,0 +1,7 @@
+name: Glass Frame White Vshift
+material: PAPER
+custom-model-data: 5148
+model: 'cocricotmod:block/glass_frame_white_vshift'
+
+block:
+  type: item

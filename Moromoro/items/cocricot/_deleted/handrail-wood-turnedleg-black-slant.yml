@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Black Slant
+material: PAPER
+custom-model-data: 5684
+model: 'cocricotmod:block/handrail_wood_turnedleg_black_slant'
+
+block:
+  type: item

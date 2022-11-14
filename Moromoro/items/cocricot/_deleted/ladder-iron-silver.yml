@@ -1,0 +1,7 @@
+name: Ladder Iron Silver
+material: PAPER
+custom-model-data: 5888
+model: 'cocricotmod:block/ladder_iron_silver'
+
+block:
+  type: item

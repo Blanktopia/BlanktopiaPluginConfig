@@ -1,0 +1,7 @@
+name: Cabinet Color Black Vslab
+material: PAPER
+custom-model-data: 2754
+model: 'cocricotmod:block/cabinet_color_black_vslab'
+
+block:
+  type: item

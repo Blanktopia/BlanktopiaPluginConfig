@@ -1,0 +1,7 @@
+name: Door Tall  1glass Black Top O
+material: PAPER
+custom-model-data: 3877
+model: 'cocricotmod:block/door_tall_1glass_black_top_o'
+
+block:
+  type: item

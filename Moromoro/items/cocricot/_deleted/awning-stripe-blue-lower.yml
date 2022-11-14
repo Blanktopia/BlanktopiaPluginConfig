@@ -1,0 +1,7 @@
+name: Awning Stripe Blue Lower
+material: PAPER
+custom-model-data: 2149
+model: 'cocricotmod:block/awning_stripe_blue_lower'
+
+block:
+  type: item

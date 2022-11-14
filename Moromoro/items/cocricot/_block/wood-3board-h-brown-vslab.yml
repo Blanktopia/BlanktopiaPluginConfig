@@ -1,0 +1,7 @@
+name: Wood  3board H Brown Vslab
+material: PAPER
+custom-model-data: 9445
+model: 'cocricotmod:block/wood_3board_h_brown_vslab'
+
+block:
+  type: item

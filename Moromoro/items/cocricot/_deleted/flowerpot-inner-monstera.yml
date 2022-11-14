@@ -1,0 +1,7 @@
+name: Flowerpot Inner Monstera
+material: PAPER
+custom-model-data: 4904
+model: 'cocricotmod:block/flowerpot_inner_monstera'
+
+block:
+  type: item

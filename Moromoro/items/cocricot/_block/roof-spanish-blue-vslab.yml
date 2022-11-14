@@ -1,0 +1,7 @@
+name: Roof Spanish Blue Vslab
+material: PAPER
+custom-model-data: 6651
+model: 'cocricotmod:block/roof_spanish_blue_vslab'
+
+block:
+  type: item

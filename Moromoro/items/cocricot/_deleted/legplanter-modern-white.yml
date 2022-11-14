@@ -1,0 +1,7 @@
+name: Legplanter Modern White
+material: PAPER
+custom-model-data: 5997
+model: 'cocricotmod:block/legplanter_modern_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Curtain Separate Darkred Left
+material: PAPER
+custom-model-data: 3254
+model: 'cocricotmod:block/curtain_separate_darkred_left'
+
+block:
+  type: item

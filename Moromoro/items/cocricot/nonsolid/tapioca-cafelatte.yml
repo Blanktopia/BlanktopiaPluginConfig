@@ -1,0 +1,7 @@
+name: Tapioca Cafelatte
+material: PAPER
+custom-model-data: 8236
+model: 'cocricotmod:block/tapioca_cafelatte'
+
+block:
+  type: item

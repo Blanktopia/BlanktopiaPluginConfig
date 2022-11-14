@@ -1,0 +1,7 @@
+name: Rug Cow
+material: PAPER
+custom-model-data: 6919
+model: 'cocricotmod:block/rug_cow'
+
+block:
+  type: item

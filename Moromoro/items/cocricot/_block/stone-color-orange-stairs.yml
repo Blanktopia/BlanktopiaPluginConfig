@@ -1,0 +1,7 @@
+name: Stone Color Orange Stairs
+material: PAPER
+custom-model-data: 7820
+model: 'cocricotmod:block/stone_color_orange_stairs'
+
+block:
+  type: item

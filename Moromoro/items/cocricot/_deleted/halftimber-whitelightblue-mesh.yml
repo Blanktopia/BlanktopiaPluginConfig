@@ -1,0 +1,7 @@
+name: Halftimber Whitelightblue Mesh
+material: PAPER
+custom-model-data: 5482
+model: 'cocricotmod:block/halftimber_whitelightblue_mesh'
+
+block:
+  type: item

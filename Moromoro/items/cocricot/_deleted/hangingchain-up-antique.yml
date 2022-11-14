@@ -1,0 +1,7 @@
+name: Hangingchain Up Antique
+material: PAPER
+custom-model-data: 5793
+model: 'cocricotmod:block/hangingchain_up_antique'
+
+block:
+  type: item

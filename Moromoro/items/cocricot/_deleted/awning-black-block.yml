@@ -1,0 +1,7 @@
+name: Awning Black Block
+material: PAPER
+custom-model-data: 2011
+model: 'cocricotmod:block/awning_black_block'
+
+block:
+  type: item

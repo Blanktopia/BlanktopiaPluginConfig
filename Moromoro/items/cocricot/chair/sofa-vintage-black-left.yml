@@ -1,0 +1,7 @@
+name: Sofa Vintage Black Left
+material: PAPER
+custom-model-data: 7522
+model: cocricotmod:block/sofa_vintage_black_left
+block:
+  type: item
+  sit-height: 0.4375

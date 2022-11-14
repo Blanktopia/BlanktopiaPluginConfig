@@ -1,0 +1,7 @@
+name: Halftimber Blackblack Arch
+material: PAPER
+custom-model-data: 5174
+model: 'cocricotmod:block/halftimber_blackblack_arch'
+
+block:
+  type: item

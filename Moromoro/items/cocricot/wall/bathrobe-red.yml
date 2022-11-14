@@ -1,0 +1,7 @@
+name: Bathrobe Red
+material: PAPER
+custom-model-data: 2379
+model: 'cocricotmod:block/bathrobe_red'
+
+block:
+  type: item

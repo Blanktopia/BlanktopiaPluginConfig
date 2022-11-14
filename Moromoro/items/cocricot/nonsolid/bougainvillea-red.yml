@@ -1,0 +1,7 @@
+name: Bougainvillea Red
+material: PAPER
+custom-model-data: 2561
+model: 'cocricotmod:block/bougainvillea_red'
+
+block:
+  type: item

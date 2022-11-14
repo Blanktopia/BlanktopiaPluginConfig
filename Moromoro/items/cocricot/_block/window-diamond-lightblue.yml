@@ -1,0 +1,7 @@
+name: Window Diamond Lightblue
+material: PAPER
+custom-model-data: 8841
+model: 'cocricotmod:block/window_diamond_lightblue'
+
+block:
+  type: item

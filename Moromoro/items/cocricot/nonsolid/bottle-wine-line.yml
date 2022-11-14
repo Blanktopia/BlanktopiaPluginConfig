@@ -1,0 +1,7 @@
+name: Bottle Wine Line
+material: PAPER
+custom-model-data: 2553
+model: 'cocricotmod:block/bottle_wine_line'
+
+block:
+  type: item

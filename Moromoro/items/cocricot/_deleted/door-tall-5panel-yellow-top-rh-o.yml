@@ -1,0 +1,7 @@
+name: Door Tall  5panel Yellow Top Rh O
+material: PAPER
+custom-model-data: 4303
+model: 'cocricotmod:block/door_tall_5panel_yellow_top_rh_o'
+
+block:
+  type: item

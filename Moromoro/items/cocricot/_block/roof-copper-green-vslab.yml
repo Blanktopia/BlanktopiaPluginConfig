@@ -1,0 +1,7 @@
+name: Roof Copper Green Vslab
+material: PAPER
+custom-model-data: 6470
+model: 'cocricotmod:block/roof_copper_green_vslab'
+
+block:
+  type: item

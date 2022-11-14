@@ -1,0 +1,7 @@
+name: Car Windshield 1 Si
+material: PAPER
+custom-model-data: 2899
+model: 'cocricotmod:block/car_windshield1_si'
+
+block:
+  type: item

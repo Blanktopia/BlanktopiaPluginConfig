@@ -1,0 +1,7 @@
+name: Marinelamp Deck Black
+material: PAPER
+custom-model-data: 6074
+model: 'cocricotmod:block/marinelamp_deck_black'
+
+block:
+  type: item

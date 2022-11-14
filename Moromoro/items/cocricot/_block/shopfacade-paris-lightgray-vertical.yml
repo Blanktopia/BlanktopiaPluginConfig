@@ -1,0 +1,7 @@
+name: Shopfacade Paris Lightgray Vertical
+material: PAPER
+custom-model-data: 7210
+model: 'cocricotmod:block/shopfacade_paris_lightgray_vertical'
+
+block:
+  type: item

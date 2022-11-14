@@ -1,0 +1,7 @@
+name: Window Centrebar Green Pane Three
+material: PAPER
+custom-model-data: 8630
+model: 'cocricotmod:block/window_centrebar_green_pane_three'
+
+block:
+  type: item

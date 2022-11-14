@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Frame Vslab
+material: PAPER
+custom-model-data: 5496
+model: 'cocricotmod:block/halftimber_whitepink_frame_vslab'
+
+block:
+  type: item

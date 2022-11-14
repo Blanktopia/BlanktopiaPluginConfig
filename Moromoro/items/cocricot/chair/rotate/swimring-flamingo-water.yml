@@ -1,0 +1,8 @@
+name: Swimring Flamingo Water
+material: PAPER
+custom-model-data: 8140
+model: cocricotmod:block/swimring_flamingo_water
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

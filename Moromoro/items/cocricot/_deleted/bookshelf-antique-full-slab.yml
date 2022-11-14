@@ -1,0 +1,7 @@
+name: Bookshelf Antique Full Slab
+material: PAPER
+custom-model-data: 2518
+model: 'cocricotmod:block/bookshelf_antique_full_slab'
+
+block:
+  type: item

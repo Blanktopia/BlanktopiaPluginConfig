@@ -1,0 +1,7 @@
+name: Door Tall  2panel Yellow Bottom
+material: PAPER
+custom-model-data: 4168
+model: 'cocricotmod:block/door_tall_2panel_yellow_bottom'
+
+block:
+  type: item

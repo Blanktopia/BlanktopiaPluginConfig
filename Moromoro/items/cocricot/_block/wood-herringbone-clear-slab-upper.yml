@@ -1,0 +1,7 @@
+name: Wood Herringbone Clear Slab Upper
+material: PAPER
+custom-model-data: 9736
+model: 'cocricotmod:block/wood_herringbone_clear_slab_upper'
+
+block:
+  type: item

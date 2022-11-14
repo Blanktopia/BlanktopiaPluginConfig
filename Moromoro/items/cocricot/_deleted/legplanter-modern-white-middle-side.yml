@@ -1,0 +1,7 @@
+name: Legplanter Modern White Middle Side
+material: PAPER
+custom-model-data: 6003
+model: 'cocricotmod:block/legplanter_modern_white_middle_side'
+
+block:
+  type: item

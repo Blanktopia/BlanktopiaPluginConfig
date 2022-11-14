@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Frame
+material: PAPER
+custom-model-data: 5446
+model: 'cocricotmod:block/halftimber_limewhite_frame'
+
+block:
+  type: item

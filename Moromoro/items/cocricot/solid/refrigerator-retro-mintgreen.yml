@@ -1,0 +1,7 @@
+name: Refrigerator Retro Mintgreen
+material: PAPER
+custom-model-data: 6358
+model: cocricotmod:block/refrigerator_retro_mintgreen
+block:
+  type: item
+  collision: true

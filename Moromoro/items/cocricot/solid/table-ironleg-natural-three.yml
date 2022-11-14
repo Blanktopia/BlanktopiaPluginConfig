@@ -1,0 +1,7 @@
+name: Table Ironleg Natural Three
+material: PAPER
+custom-model-data: 8203
+model: cocricotmod:block/table_ironleg_natural_three
+block:
+  type: item
+  collision: true

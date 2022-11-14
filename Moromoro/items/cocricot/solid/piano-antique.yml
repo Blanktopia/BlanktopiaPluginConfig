@@ -1,0 +1,7 @@
+name: Piano Antique
+material: PAPER
+custom-model-data: 6250
+model: cocricotmod:block/piano_antique
+block:
+  type: item
+  collision: true

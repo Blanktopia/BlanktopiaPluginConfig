@@ -1,0 +1,7 @@
+name: Chest Color Black
+material: PAPER
+custom-model-data: 3064
+model: 'cocricotmod:block/chest_color_black'
+
+block:
+  type: item

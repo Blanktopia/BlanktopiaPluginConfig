@@ -1,0 +1,7 @@
+name: Postbox Red
+material: PAPER
+custom-model-data: 6277
+model: cocricotmod:block/postbox_red
+block:
+  type: item
+  collision: true

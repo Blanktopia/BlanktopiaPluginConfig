@@ -1,0 +1,7 @@
+name: Wood  2board Black Vslab
+material: PAPER
+custom-model-data: 9265
+model: 'cocricotmod:block/wood_2board_black_vslab'
+
+block:
+  type: item

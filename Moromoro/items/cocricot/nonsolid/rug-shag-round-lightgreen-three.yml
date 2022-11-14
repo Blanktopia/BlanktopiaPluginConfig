@@ -1,0 +1,7 @@
+name: Rug Shag Round Lightgreen Three
+material: PAPER
+custom-model-data: 7025
+model: 'cocricotmod:block/rug_shag_round_lightgreen_three'
+
+block:
+  type: item

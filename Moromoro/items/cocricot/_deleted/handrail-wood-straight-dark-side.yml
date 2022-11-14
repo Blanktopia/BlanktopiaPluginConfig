@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Dark Side
+material: PAPER
+custom-model-data: 5620
+model: 'cocricotmod:block/handrail_wood_straight_dark_side'
+
+block:
+  type: item

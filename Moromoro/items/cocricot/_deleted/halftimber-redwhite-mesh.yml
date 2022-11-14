@@ -1,0 +1,7 @@
+name: Halftimber Redwhite Mesh
+material: PAPER
+custom-model-data: 5465
+model: 'cocricotmod:block/halftimber_redwhite_mesh'
+
+block:
+  type: item

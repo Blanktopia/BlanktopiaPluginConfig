@@ -1,0 +1,7 @@
+name: Heater Kerosene 0 White
+material: PAPER
+custom-model-data: 5813
+model: cocricotmod:block/heater_kerosene360_white
+block:
+  type: item
+  collision: true

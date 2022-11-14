@@ -1,0 +1,7 @@
+name: Window Centrebar Yellow Pane All
+material: PAPER
+custom-model-data: 8688
+model: 'cocricotmod:block/window_centrebar_yellow_pane_all'
+
+block:
+  type: item

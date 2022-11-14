@@ -1,0 +1,7 @@
+name: Fireplace Brown
+material: PAPER
+custom-model-data: 4838
+model: 'cocricotmod:block/fireplace_brown'
+
+block:
+  type: item

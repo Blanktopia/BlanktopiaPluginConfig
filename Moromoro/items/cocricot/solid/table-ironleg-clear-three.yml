@@ -1,0 +1,7 @@
+name: Table Ironleg Clear Three
+material: PAPER
+custom-model-data: 8191
+model: cocricotmod:block/table_ironleg_clear_three
+block:
+  type: item
+  collision: true

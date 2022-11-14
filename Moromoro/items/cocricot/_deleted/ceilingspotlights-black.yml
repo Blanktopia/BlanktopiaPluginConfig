@@ -1,0 +1,7 @@
+name: Ceilingspotlights Black
+material: PAPER
+custom-model-data: 2953
+model: 'cocricotmod:block/ceilingspotlights_black'
+
+block:
+  type: item

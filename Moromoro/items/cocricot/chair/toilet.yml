@@ -1,0 +1,8 @@
+name: Toilet
+material: PAPER
+custom-model-data: 8313
+model: cocricotmod:block/toilet
+block:
+  type: item
+  collision: true
+  sit-height: 0.4375

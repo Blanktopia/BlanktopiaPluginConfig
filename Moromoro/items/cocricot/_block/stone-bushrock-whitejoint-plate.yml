@@ -1,0 +1,7 @@
+name: Stone Bushrock Whitejoint Plate
+material: PAPER
+custom-model-data: 7668
+model: 'cocricotmod:block/stone_bushrock_whitejoint_plate'
+
+block:
+  type: item

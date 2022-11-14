@@ -1,0 +1,7 @@
+name: Awning Pink Vslab
+material: PAPER
+custom-model-data: 2121
+model: 'cocricotmod:block/awning_pink_vslab'
+
+block:
+  type: item

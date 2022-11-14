@@ -1,0 +1,7 @@
+name: Hamburger American
+material: PAPER
+custom-model-data: 5550
+model: 'cocricotmod:block/hamburger_american'
+
+block:
+  type: item

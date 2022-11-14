@@ -1,0 +1,7 @@
+name: Wood Seadrift Plate
+material: PAPER
+custom-model-data: 9801
+model: 'cocricotmod:block/wood_seadrift_plate'
+
+block:
+  type: item

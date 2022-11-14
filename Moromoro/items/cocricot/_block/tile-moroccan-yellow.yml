@@ -1,0 +1,7 @@
+name: Tile Moroccan Yellow
+material: PAPER
+custom-model-data: 8291
+model: 'cocricotmod:block/tile_moroccan_yellow'
+
+block:
+  type: item

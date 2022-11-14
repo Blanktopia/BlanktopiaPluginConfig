@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Allinone
+material: PAPER
+custom-model-data: 5443
+model: 'cocricotmod:block/halftimber_limewhite_allinone'
+
+block:
+  type: item

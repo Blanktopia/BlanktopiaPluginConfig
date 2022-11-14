@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Vslab
+material: PAPER
+custom-model-data: 7638
+model: 'cocricotmod:block/stone_ashlarslate_sand_vslab'
+
+block:
+  type: item

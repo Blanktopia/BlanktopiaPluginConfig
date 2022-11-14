@@ -1,0 +1,7 @@
+name: Brick White Arch
+material: PAPER
+custom-model-data: 2742
+model: 'cocricotmod:block/brick_white_arch'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rug Shag Round White Corner
+material: PAPER
+custom-model-data: 7083
+model: 'cocricotmod:block/rug_shag_round_white_corner'
+
+block:
+  type: item

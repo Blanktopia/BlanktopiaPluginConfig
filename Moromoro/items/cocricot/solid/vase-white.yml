@@ -1,0 +1,7 @@
+name: Vase White
+material: PAPER
+custom-model-data: 8345
+model: cocricotmod:block/vase_white
+block:
+  type: item
+  collision: true

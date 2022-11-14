@@ -1,0 +1,7 @@
+name: Stone Color Lightgreen Whiteframe
+material: PAPER
+custom-model-data: 7799
+model: 'cocricotmod:block/stone_color_lightgreen_whiteframe'
+
+block:
+  type: item

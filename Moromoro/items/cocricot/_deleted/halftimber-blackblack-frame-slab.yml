@@ -1,0 +1,7 @@
+name: Halftimber Blackblack Frame Slab
+material: PAPER
+custom-model-data: 5177
+model: 'cocricotmod:block/halftimber_blackblack_frame_slab'
+
+block:
+  type: item

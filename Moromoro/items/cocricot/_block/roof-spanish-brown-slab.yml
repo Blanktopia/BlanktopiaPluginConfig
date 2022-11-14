@@ -1,0 +1,7 @@
+name: Roof Spanish Brown Slab
+material: PAPER
+custom-model-data: 6665
+model: 'cocricotmod:block/roof_spanish_brown_slab'
+
+block:
+  type: item

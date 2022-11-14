@@ -1,0 +1,7 @@
+name: Mailbox Wall Black
+material: PAPER
+custom-model-data: 6039
+model: 'cocricotmod:block/mailbox_wall_black'
+
+block:
+  type: item

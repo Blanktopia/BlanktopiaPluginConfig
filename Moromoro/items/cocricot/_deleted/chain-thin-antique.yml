@@ -1,0 +1,7 @@
+name: Chain Thin Antique
+material: PAPER
+custom-model-data: 2978
+model: 'cocricotmod:block/chain_thin_antique'
+
+block:
+  type: item

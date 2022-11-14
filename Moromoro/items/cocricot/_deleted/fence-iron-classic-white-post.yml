@@ -1,0 +1,7 @@
+name: Fence Iron Classic White Post
+material: PAPER
+custom-model-data: 4732
+model: 'cocricotmod:block/fence_iron_classic_white_post'
+
+block:
+  type: item

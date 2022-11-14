@@ -1,0 +1,7 @@
+name: Halftimber Brownlightyellow Arch
+material: PAPER
+custom-model-data: 5219
+model: 'cocricotmod:block/halftimber_brownlightyellow_arch'
+
+block:
+  type: item

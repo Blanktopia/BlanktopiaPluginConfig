@@ -1,0 +1,7 @@
+name: Floorlamp Simpleleg Clear Lower
+material: PAPER
+custom-model-data: 4854
+model: 'cocricotmod:block/floorlamp_simpleleg_clear_lower'
+
+block:
+  type: item

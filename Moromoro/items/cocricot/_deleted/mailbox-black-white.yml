@@ -1,0 +1,7 @@
+name: Mailbox Black White
+material: PAPER
+custom-model-data: 6033
+model: 'cocricotmod:block/mailbox_black_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Legplanter Modern White Down
+material: PAPER
+custom-model-data: 5999
+model: 'cocricotmod:block/legplanter_modern_white_down'
+
+block:
+  type: item

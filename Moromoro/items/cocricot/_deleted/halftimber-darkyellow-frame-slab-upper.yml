@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Frame Slab Upper
+material: PAPER
+custom-model-data: 5418
+model: 'cocricotmod:block/halftimber_darkyellow_frame_slab_upper'
+
+block:
+  type: item

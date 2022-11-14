@@ -1,0 +1,7 @@
+name: Door  9glass White Top O
+material: PAPER
+custom-model-data: 3845
+model: 'cocricotmod:block/door_9glass_white_top_o'
+
+block:
+  type: item

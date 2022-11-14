@@ -1,0 +1,7 @@
+name: Roof Copper Blue Incline Odd
+material: PAPER
+custom-model-data: 6429
+model: 'cocricotmod:block/roof_copper_blue_incline_odd'
+
+block:
+  type: item

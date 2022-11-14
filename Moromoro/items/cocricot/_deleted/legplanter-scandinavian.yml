@@ -1,0 +1,7 @@
+name: Legplanter Scandinavian
+material: PAPER
+custom-model-data: 6008
+model: 'cocricotmod:block/legplanter_scandinavian'
+
+block:
+  type: item

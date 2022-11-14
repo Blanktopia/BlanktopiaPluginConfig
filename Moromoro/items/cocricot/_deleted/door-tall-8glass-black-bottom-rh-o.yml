@@ -1,0 +1,7 @@
+name: Door Tall  8glass Black Bottom Rh O
+material: PAPER
+custom-model-data: 4427
+model: 'cocricotmod:block/door_tall_8glass_black_bottom_rh_o'
+
+block:
+  type: item

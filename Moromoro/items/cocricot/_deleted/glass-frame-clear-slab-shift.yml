@@ -1,0 +1,7 @@
+name: Glass Frame Clear Slab Shift
+material: PAPER
+custom-model-data: 5081
+model: 'cocricotmod:block/glass_frame_clear_slab_shift'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  2board H Black Stairs
+material: PAPER
+custom-model-data: 9300
+model: 'cocricotmod:block/wood_2board_h_black_stairs'
+
+block:
+  type: item

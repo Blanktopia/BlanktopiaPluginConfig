@@ -1,0 +1,7 @@
+name: Brick Plaster White Lightbrown
+material: PAPER
+custom-model-data: 2693
+model: 'cocricotmod:block/brick_plaster_white_lightbrown'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg White Three
+material: PAPER
+custom-model-data: 5759
+model: 'cocricotmod:block/handrail_wood_turnedleg_white_three'
+
+block:
+  type: item

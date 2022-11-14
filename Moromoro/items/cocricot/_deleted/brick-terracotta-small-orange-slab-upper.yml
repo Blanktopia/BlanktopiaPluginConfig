@@ -1,0 +1,7 @@
+name: Brick Terracotta Small Orange Slab Upper
+material: PAPER
+custom-model-data: 2736
+model: 'cocricotmod:block/brick_terracotta_small_orange_slab_upper'
+
+block:
+  type: item

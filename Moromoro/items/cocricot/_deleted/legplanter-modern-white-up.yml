@@ -1,0 +1,7 @@
+name: Legplanter Modern White Up
+material: PAPER
+custom-model-data: 6005
+model: 'cocricotmod:block/legplanter_modern_white_up'
+
+block:
+  type: item

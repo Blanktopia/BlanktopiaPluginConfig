@@ -1,0 +1,7 @@
+name: Glass Frame Dark Slab Shift
+material: PAPER
+custom-model-data: 5093
+model: 'cocricotmod:block/glass_frame_dark_slab_shift'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sink Shabby Lightgreen
+material: PAPER
+custom-model-data: 7327
+model: cocricotmod:block/sink_shabby_lightgreen
+block:
+  type: item
+  collision: true

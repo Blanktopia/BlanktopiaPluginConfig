@@ -1,0 +1,7 @@
+name: Chair Dining Vintagefrench Brown White
+material: PAPER
+custom-model-data: 3013
+model: cocricotmod:block/chair_dining_vintagefrench_brown_white
+block:
+  type: item
+  sit-height: 0.4375

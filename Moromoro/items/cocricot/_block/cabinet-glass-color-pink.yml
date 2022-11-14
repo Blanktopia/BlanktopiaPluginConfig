@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Pink
+material: PAPER
+custom-model-data: 2787
+model: 'cocricotmod:block/cabinet_glass_color_pink'
+
+block:
+  type: item

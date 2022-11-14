@@ -1,0 +1,7 @@
+name: Speaker Small Black
+material: PAPER
+custom-model-data: 7549
+model: 'cocricotmod:block/speaker_small_black'
+
+block:
+  type: item

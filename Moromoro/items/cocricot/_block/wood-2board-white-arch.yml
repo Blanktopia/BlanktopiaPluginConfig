@@ -1,0 +1,7 @@
+name: Wood  2board White Arch
+material: PAPER
+custom-model-data: 9373
+model: 'cocricotmod:block/wood_2board_white_arch'
+
+block:
+  type: item

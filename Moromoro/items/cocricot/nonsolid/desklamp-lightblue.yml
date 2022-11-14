@@ -1,0 +1,7 @@
+name: Desklamp Lightblue
+material: PAPER
+custom-model-data: 3435
+model: 'cocricotmod:block/desklamp_lightblue'
+
+block:
+  type: item

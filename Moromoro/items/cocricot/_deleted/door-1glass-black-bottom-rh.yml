@@ -1,0 +1,7 @@
+name: Door  1glass Black Bottom Rh
+material: PAPER
+custom-model-data: 3514
+model: 'cocricotmod:block/door_1glass_black_bottom_rh'
+
+block:
+  type: item

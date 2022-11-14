@@ -1,0 +1,8 @@
+name: Stool Waterhyacinth
+material: PAPER
+custom-model-data: 8010
+model: cocricotmod:block/stool_waterhyacinth
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

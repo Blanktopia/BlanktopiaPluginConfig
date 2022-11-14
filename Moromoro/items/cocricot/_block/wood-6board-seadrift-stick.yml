@@ -1,0 +1,7 @@
+name: Wood  6board Seadrift Stick
+material: PAPER
+custom-model-data: 9648
+model: 'cocricotmod:block/wood_6board_seadrift_stick'
+
+block:
+  type: item

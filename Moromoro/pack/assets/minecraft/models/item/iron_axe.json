@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/iron_axe"},"overrides":[{"model":"blanktopia:rares/lumberjack","predicate":{"custom_model_data":1}}]}

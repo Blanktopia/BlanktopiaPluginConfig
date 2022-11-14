@@ -1,0 +1,7 @@
+name: Window Color Wood Pane Slant
+material: PAPER
+custom-model-data: 8790
+model: 'cocricotmod:block/window_color_wood_pane_slant'
+
+block:
+  type: item

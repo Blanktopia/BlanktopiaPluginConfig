@@ -1,0 +1,7 @@
+name: Stone Tile Sand Vslab
+material: PAPER
+custom-model-data: 7987
+model: 'cocricotmod:block/stone_tile_sand_vslab'
+
+block:
+  type: item

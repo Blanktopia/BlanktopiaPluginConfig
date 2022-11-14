@@ -1,0 +1,7 @@
+name: Roof Copper Red Stick
+material: PAPER
+custom-model-data: 6519
+model: 'cocricotmod:block/roof_copper_red_stick'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Arch White Brown Pane Side
+material: PAPER
+custom-model-data: 8580
+model: 'cocricotmod:block/window_arch_white_brown_pane_side'
+
+block:
+  type: item

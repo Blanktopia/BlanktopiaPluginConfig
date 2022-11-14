@@ -1,0 +1,7 @@
+name: Speaker Retro White
+material: PAPER
+custom-model-data: 7546
+model: 'cocricotmod:block/speaker_retro_white'
+
+block:
+  type: item

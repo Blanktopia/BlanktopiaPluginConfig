@@ -1,0 +1,7 @@
+name: Stone Plane Stairs Inner
+material: PAPER
+custom-model-data: 7940
+model: 'cocricotmod:block/stone_plane_stairs_inner'
+
+block:
+  type: item

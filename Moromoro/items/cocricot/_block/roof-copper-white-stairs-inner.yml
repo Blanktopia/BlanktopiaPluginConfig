@@ -1,0 +1,7 @@
+name: Roof Copper White Stairs Inner
+material: PAPER
+custom-model-data: 6532
+model: 'cocricotmod:block/roof_copper_white_stairs_inner'
+
+block:
+  type: item

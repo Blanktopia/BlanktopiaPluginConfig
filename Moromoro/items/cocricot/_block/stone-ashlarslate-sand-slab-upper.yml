@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Slab Upper
+material: PAPER
+custom-model-data: 7633
+model: 'cocricotmod:block/stone_ashlarslate_sand_slab_upper'
+
+block:
+  type: item

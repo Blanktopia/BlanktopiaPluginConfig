@@ -1,0 +1,7 @@
+name: Stone Color White Plate
+material: PAPER
+custom-model-data: 7855
+model: 'cocricotmod:block/stone_color_white_plate'
+
+block:
+  type: item

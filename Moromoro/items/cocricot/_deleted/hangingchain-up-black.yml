@@ -1,0 +1,7 @@
+name: Hangingchain Up Black
+material: PAPER
+custom-model-data: 5794
+model: 'cocricotmod:block/hangingchain_up_black'
+
+block:
+  type: item

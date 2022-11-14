@@ -1,0 +1,7 @@
+name: Desk Antique Single
+material: PAPER
+custom-model-data: 3420
+model: cocricotmod:block/desk_antique_single
+block:
+  type: item
+  collision: true

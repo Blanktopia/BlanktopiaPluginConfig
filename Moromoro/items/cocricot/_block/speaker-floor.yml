@@ -1,0 +1,7 @@
+name: Speaker Floor
+material: PAPER
+custom-model-data: 7536
+model: 'cocricotmod:block/speaker_floor'
+
+block:
+  type: item

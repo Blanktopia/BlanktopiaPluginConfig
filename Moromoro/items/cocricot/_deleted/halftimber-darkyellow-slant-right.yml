@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Slant Right
+material: PAPER
+custom-model-data: 5424
+model: 'cocricotmod:block/halftimber_darkyellow_slant_right'
+
+block:
+  type: item

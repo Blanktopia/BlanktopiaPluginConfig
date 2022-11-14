@@ -1,0 +1,7 @@
+name: Halftimber Whitewhite Arch
+material: PAPER
+custom-model-data: 5521
+model: 'cocricotmod:block/halftimber_whitewhite_arch'
+
+block:
+  type: item

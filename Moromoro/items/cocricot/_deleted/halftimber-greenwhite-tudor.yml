@@ -1,0 +1,7 @@
+name: Halftimber Greenwhite Tudor
+material: PAPER
+custom-model-data: 5440
+model: 'cocricotmod:block/halftimber_greenwhite_tudor'
+
+block:
+  type: item

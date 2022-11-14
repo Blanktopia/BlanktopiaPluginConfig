@@ -1,0 +1,7 @@
+name: Stone Color Red Rod
+material: PAPER
+custom-model-data: 7843
+model: 'cocricotmod:block/stone_color_red_rod'
+
+block:
+  type: item

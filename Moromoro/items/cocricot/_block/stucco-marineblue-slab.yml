@@ -1,0 +1,7 @@
+name: Stucco Marineblue Slab
+material: PAPER
+custom-model-data: 8051
+model: 'cocricotmod:block/stucco_marineblue_slab'
+
+block:
+  type: item

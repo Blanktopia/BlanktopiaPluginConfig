@@ -1,0 +1,7 @@
+name: Glass Frame Dark
+material: PAPER
+custom-model-data: 5084
+model: 'cocricotmod:block/glass_frame_dark'
+
+block:
+  type: item

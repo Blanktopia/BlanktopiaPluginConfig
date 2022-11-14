@@ -1,0 +1,7 @@
+name: Countertable American Green
+material: PAPER
+custom-model-data: 3229
+model: 'cocricotmod:block/countertable_american_green'
+
+block:
+  type: item

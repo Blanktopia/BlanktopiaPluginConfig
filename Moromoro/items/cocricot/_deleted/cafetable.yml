@@ -1,0 +1,7 @@
+name: Cafetable
+material: PAPER
+custom-model-data: 2838
+model: 'cocricotmod:block/cafetable'
+
+block:
+  type: item

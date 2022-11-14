@@ -1,0 +1,7 @@
+name: Sunglasses Gold
+material: PAPER
+custom-model-data: 8128
+model: 'cocricotmod:block/sunglasses_gold'
+
+block:
+  type: item

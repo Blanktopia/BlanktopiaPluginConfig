@@ -1,0 +1,7 @@
+name: Woodfence Rope Side
+material: PAPER
+custom-model-data: 9935
+model: 'cocricotmod:block/woodfence_rope_side'
+
+block:
+  type: item

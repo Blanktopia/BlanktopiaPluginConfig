@@ -1,0 +1,7 @@
+name: Stone Random Slab Upper
+material: PAPER
+custom-model-data: 7946
+model: 'cocricotmod:block/stone_random_slab_upper'
+
+block:
+  type: item

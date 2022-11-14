@@ -1,0 +1,7 @@
+name: Wood  3board Clear Plate
+material: PAPER
+custom-model-data: 9410
+model: 'cocricotmod:block/wood_3board_clear_plate'
+
+block:
+  type: item

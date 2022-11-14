@@ -1,0 +1,7 @@
+name: Stone Color Gray Plate
+material: PAPER
+custom-model-data: 7738
+model: 'cocricotmod:block/stone_color_gray_plate'
+
+block:
+  type: item

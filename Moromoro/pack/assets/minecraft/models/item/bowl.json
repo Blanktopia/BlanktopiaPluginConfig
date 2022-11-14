@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/bowl"},"overrides":[{"model":"blanktopia:rares/ambrosia","predicate":{"custom_model_data":1}},{"model":"blanktopia:rares/horn_of_plenty","predicate":{"custom_model_data":2}}]}

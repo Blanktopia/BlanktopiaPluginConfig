@@ -1,0 +1,7 @@
+name: Captionplate White
+material: PAPER
+custom-model-data: 2884
+model: 'cocricotmod:block/captionplate_white'
+
+block:
+  type: item

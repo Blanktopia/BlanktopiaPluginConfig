@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Frame Slab Upper
+material: PAPER
+custom-model-data: 5268
+model: 'cocricotmod:block/halftimber_brownpurple_frame_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sawhorse Sides
+material: PAPER
+custom-model-data: 7142
+model: 'cocricotmod:block/sawhorse_sides'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Herringbone Clear Stairs
+material: PAPER
+custom-model-data: 9737
+model: 'cocricotmod:block/wood_herringbone_clear_stairs'
+
+block:
+  type: item

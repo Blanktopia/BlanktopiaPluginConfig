@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Brown Three
+material: PAPER
+custom-model-data: 5697
+model: 'cocricotmod:block/handrail_wood_turnedleg_brown_three'
+
+block:
+  type: item

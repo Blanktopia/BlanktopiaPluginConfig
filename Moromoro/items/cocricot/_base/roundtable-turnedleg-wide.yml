@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Wide
+material: PAPER
+custom-model-data: 6907
+model: 'cocricotmod:block/roundtable_turnedleg_wide'
+
+block:
+  type: item

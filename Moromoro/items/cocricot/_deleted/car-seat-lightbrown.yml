@@ -1,0 +1,7 @@
+name: Car Seat Lightbrown
+material: PAPER
+custom-model-data: 2894
+model: 'cocricotmod:block/car_seat_lightbrown'
+
+block:
+  type: item

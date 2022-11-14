@@ -1,0 +1,7 @@
+name: Telephonebox Black
+material: PAPER
+custom-model-data: 8254
+model: 'cocricotmod:block/telephonebox_black'
+
+block:
+  type: item

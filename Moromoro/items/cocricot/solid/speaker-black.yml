@@ -1,0 +1,7 @@
+name: Speaker Black
+material: PAPER
+custom-model-data: 7532
+model: cocricotmod:block/speaker_black
+block:
+  type: item
+  collision: true

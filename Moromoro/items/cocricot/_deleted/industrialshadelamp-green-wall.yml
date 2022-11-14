@@ -1,0 +1,7 @@
+name: Industrialshadelamp Green Wall
+material: PAPER
+custom-model-data: 5838
+model: 'cocricotmod:block/industrialshadelamp_green_wall'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Darkbrown Block
+material: PAPER
+custom-model-data: 2035
+model: 'cocricotmod:block/awning_darkbrown_block'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels White
+material: PAPER
+custom-model-data: 9852
+model: 'cocricotmod:block/wood_wainscot_panels_white'
+
+block:
+  type: item

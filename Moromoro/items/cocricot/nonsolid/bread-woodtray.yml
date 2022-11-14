@@ -1,0 +1,7 @@
+name: Bread Woodtray
+material: PAPER
+custom-model-data: 2610
+model: 'cocricotmod:block/bread_woodtray'
+
+block:
+  type: item

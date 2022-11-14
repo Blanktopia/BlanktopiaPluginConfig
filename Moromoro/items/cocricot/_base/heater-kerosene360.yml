@@ -1,0 +1,7 @@
+name: Heater Kerosene 0
+material: PAPER
+custom-model-data: 5810
+model: 'cocricotmod:block/heater_kerosene360'
+
+block:
+  type: item

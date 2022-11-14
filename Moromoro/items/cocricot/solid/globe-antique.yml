@@ -1,0 +1,7 @@
+name: Globe Antique
+material: PAPER
+custom-model-data: 5157
+model: cocricotmod:block/globe_antique
+block:
+  type: item
+  collision: true

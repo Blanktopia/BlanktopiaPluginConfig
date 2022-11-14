@@ -1,0 +1,7 @@
+name: Garland Pop Three
+material: PAPER
+custom-model-data: 5035
+model: 'cocricotmod:block/garland_pop_three'
+
+block:
+  type: item

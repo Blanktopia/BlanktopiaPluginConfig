@@ -1,0 +1,8 @@
+name: Stool Camp Natural
+material: PAPER
+custom-model-data: 7998
+model: cocricotmod:block/stool_camp_natural
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

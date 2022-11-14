@@ -1,0 +1,7 @@
+name: Drainpipe Gutter White Inner
+material: PAPER
+custom-model-data: 4524
+model: 'cocricotmod:block/drainpipe_gutter_white_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  5panel Marineblue Bottom
+material: PAPER
+custom-model-data: 4240
+model: 'cocricotmod:block/door_tall_5panel_marineblue_bottom'
+
+block:
+  type: item

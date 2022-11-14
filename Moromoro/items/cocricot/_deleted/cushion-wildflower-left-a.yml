@@ -1,0 +1,7 @@
+name: Cushion Wildflower Left A
+material: PAPER
+custom-model-data: 3392
+model: 'cocricotmod:block/cushion_wildflower_left_a'
+
+block:
+  type: item

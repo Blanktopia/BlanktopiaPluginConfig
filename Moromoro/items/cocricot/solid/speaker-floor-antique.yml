@@ -1,0 +1,7 @@
+name: Speaker Floor Antique
+material: PAPER
+custom-model-data: 7537
+model: cocricotmod:block/speaker_floor_antique
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Roof Spanish Blue Stick
+material: PAPER
+custom-model-data: 6650
+model: 'cocricotmod:block/roof_spanish_blue_stick'
+
+block:
+  type: item

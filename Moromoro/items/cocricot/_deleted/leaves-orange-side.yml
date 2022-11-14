@@ -1,0 +1,7 @@
+name: Leaves Orange Side
+material: PAPER
+custom-model-data: 5961
+model: 'cocricotmod:block/leaves_orange_side'
+
+block:
+  type: item

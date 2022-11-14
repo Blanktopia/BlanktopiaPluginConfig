@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Natural Slanting
+material: PAPER
+custom-model-data: 5642
+model: 'cocricotmod:block/handrail_wood_straight_natural_slanting'
+
+block:
+  type: item

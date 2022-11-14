@@ -1,0 +1,7 @@
+name: Halftimber Whitewhite Frame Vslab
+material: PAPER
+custom-model-data: 5526
+model: 'cocricotmod:block/halftimber_whitewhite_frame_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  6board Clear Stick
+material: PAPER
+custom-model-data: 9556
+model: 'cocricotmod:block/wood_6board_clear_stick'
+
+block:
+  type: item

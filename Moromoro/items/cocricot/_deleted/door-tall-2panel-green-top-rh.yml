@@ -1,0 +1,7 @@
+name: Door Tall  2panel Green Top Rh
+material: PAPER
+custom-model-data: 4086
+model: 'cocricotmod:block/door_tall_2panel_green_top_rh'
+
+block:
+  type: item

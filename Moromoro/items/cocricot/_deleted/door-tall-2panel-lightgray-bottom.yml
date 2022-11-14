@@ -1,0 +1,7 @@
+name: Door Tall  2panel Lightgray Bottom
+material: PAPER
+custom-model-data: 4096
+model: 'cocricotmod:block/door_tall_2panel_lightgray_bottom'
+
+block:
+  type: item

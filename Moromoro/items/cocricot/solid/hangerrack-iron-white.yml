@@ -1,0 +1,7 @@
+name: Hangerrack Iron White
+material: PAPER
+custom-model-data: 5773
+model: cocricotmod:block/hangerrack_iron_white
+block:
+  type: item
+  collision: true

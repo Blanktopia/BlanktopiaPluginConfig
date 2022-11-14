@@ -1,0 +1,7 @@
+name: Tile Moroccan Gray
+material: PAPER
+custom-model-data: 8285
+model: 'cocricotmod:block/tile_moroccan_gray'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bathrobe Black
+material: PAPER
+custom-model-data: 2376
+model: 'cocricotmod:block/bathrobe_black'
+
+block:
+  type: item

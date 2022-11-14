@@ -1,0 +1,7 @@
+name: Door Tall  5panel Wood Bottom Rh
+material: PAPER
+custom-model-data: 4290
+model: 'cocricotmod:block/door_tall_5panel_wood_bottom_rh'
+
+block:
+  type: item

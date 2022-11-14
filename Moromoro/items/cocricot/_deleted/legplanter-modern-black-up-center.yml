@@ -1,0 +1,7 @@
+name: Legplanter Modern Black Up Center
+material: PAPER
+custom-model-data: 5995
+model: 'cocricotmod:block/legplanter_modern_black_up_center'
+
+block:
+  type: item

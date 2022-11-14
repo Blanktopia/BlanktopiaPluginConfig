@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Red Top Rh O
+material: PAPER
+custom-model-data: 4023
+model: 'cocricotmod:block/door_tall_2glass3panel_red_top_rh_o'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Table Ironleg Clear Corner
+material: PAPER
+custom-model-data: 8189
+model: cocricotmod:block/table_ironleg_clear_corner
+block:
+  type: item
+  collision: true

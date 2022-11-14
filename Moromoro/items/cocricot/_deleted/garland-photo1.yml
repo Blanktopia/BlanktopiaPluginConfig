@@ -1,0 +1,7 @@
+name: Garland Photo 1
+material: PAPER
+custom-model-data: 5029
+model: 'cocricotmod:block/garland_photo1'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Copper Blue
+material: PAPER
+custom-model-data: 6426
+model: 'cocricotmod:block/roof_copper_blue'
+
+block:
+  type: item

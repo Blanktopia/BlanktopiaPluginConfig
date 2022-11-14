@@ -1,0 +1,7 @@
+name: Recordplayer
+material: PAPER
+custom-model-data: 6329
+model: 'cocricotmod:block/recordplayer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Bushrock Whitejoint Vslab
+material: PAPER
+custom-model-data: 7676
+model: 'cocricotmod:block/stone_bushrock_whitejoint_vslab'
+
+block:
+  type: item

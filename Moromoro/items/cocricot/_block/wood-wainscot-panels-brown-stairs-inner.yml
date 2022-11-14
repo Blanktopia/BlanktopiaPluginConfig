@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Brown Stairs Inner
+material: PAPER
+custom-model-data: 9820
+model: 'cocricotmod:block/wood_wainscot_panels_brown_stairs_inner'
+
+block:
+  type: item

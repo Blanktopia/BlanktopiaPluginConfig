@@ -1,0 +1,7 @@
+name: Window Flower Black Pane Post
+material: PAPER
+custom-model-data: 8908
+model: 'cocricotmod:block/window_flower_black_pane_post'
+
+block:
+  type: item

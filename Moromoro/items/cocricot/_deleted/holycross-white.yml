@@ -1,0 +1,7 @@
+name: Holycross White
+material: PAPER
+custom-model-data: 5818
+model: 'cocricotmod:block/holycross_white'
+
+block:
+  type: item

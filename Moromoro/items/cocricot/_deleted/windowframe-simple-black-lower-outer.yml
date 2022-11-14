@@ -1,0 +1,7 @@
+name: Windowframe Simple Black Lower Outer
+material: PAPER
+custom-model-data: 9145
+model: 'cocricotmod:block/windowframe_simple_black_lower_outer'
+
+block:
+  type: item

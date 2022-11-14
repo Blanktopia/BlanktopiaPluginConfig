@@ -1,0 +1,7 @@
+name: Bannerpost Black Side
+material: PAPER
+custom-model-data: 2296
+model: 'cocricotmod:block/bannerpost_black_side'
+
+block:
+  type: item

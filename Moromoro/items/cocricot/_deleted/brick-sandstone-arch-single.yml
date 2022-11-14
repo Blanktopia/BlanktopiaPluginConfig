@@ -1,0 +1,7 @@
+name: Brick Sandstone Arch Single
+material: PAPER
+custom-model-data: 2713
+model: 'cocricotmod:block/brick_sandstone_arch_single'
+
+block:
+  type: item

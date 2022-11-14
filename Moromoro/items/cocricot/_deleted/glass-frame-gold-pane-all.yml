@@ -1,0 +1,7 @@
+name: Glass Frame Gold Pane All
+material: PAPER
+custom-model-data: 5097
+model: 'cocricotmod:block/glass_frame_gold_pane_all'
+
+block:
+  type: item

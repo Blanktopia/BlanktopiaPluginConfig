@@ -1,0 +1,7 @@
+name: Shutter Louvered Marineblue
+material: PAPER
+custom-model-data: 7254
+model: 'cocricotmod:block/shutter_louvered_marineblue'
+
+block:
+  type: item

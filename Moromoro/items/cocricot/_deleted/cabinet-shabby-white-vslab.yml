@@ -1,0 +1,7 @@
+name: Cabinet Shabby White Vslab
+material: PAPER
+custom-model-data: 2827
+model: 'cocricotmod:block/cabinet_shabby_white_vslab'
+
+block:
+  type: item

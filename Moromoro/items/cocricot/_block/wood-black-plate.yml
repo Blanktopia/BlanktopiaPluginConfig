@@ -1,0 +1,7 @@
+name: Wood Black Plate
+material: PAPER
+custom-model-data: 9665
+model: 'cocricotmod:block/wood_black_plate'
+
+block:
+  type: item

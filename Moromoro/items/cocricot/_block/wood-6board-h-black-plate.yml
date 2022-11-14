@@ -1,0 +1,7 @@
+name: Wood  6board H Black Plate
+material: PAPER
+custom-model-data: 9571
+model: 'cocricotmod:block/wood_6board_h_black_plate'
+
+block:
+  type: item

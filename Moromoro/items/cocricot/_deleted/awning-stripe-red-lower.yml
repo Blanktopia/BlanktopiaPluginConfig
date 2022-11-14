@@ -1,0 +1,7 @@
+name: Awning Stripe Red Lower
+material: PAPER
+custom-model-data: 2248
+model: 'cocricotmod:block/awning_stripe_red_lower'
+
+block:
+  type: item

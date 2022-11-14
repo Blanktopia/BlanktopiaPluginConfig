@@ -1,0 +1,7 @@
+name: Leaves Darkgreen
+material: PAPER
+custom-model-data: 5944
+model: 'cocricotmod:block/leaves_darkgreen'
+
+block:
+  type: item

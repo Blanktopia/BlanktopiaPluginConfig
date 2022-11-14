@@ -1,0 +1,7 @@
+name: Door Tall  2panel White Top Rh O
+material: PAPER
+custom-model-data: 4159
+model: 'cocricotmod:block/door_tall_2panel_white_top_rh_o'
+
+block:
+  type: item

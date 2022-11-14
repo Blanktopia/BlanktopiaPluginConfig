@@ -1,0 +1,7 @@
+name: Sofa Midcentury Lightorange Both
+material: PAPER
+custom-model-data: 7393
+model: cocricotmod:block/sofa_midcentury_lightorange_both
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Branch Darkoak
+material: PAPER
+custom-model-data: 2596
+model: 'cocricotmod:block/branch_darkoak'
+
+block:
+  type: item

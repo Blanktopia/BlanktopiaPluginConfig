@@ -1,0 +1,7 @@
+name: Wood Brown Plate
+material: PAPER
+custom-model-data: 9677
+model: 'cocricotmod:block/wood_brown_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Yellowwhite Frame Slab Upper
+material: PAPER
+custom-model-data: 5540
+model: 'cocricotmod:block/halftimber_yellowwhite_frame_slab_upper'
+
+block:
+  type: item

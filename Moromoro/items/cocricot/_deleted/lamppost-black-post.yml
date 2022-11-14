@@ -1,0 +1,7 @@
+name: Lamppost Black Post
+material: PAPER
+custom-model-data: 5901
+model: 'cocricotmod:block/lamppost_black_post'
+
+block:
+  type: item

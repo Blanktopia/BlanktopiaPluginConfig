@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Natural Right False
+material: PAPER
+custom-model-data: 8415
+model: 'cocricotmod:block/wallshelf_bracket_antique_natural_right_false'
+
+block:
+  type: item

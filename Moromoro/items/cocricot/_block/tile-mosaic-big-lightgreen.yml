@@ -1,0 +1,7 @@
+name: Tile Mosaic Big Lightgreen
+material: PAPER
+custom-model-data: 8297
+model: 'cocricotmod:block/tile_mosaic_big_lightgreen'
+
+block:
+  type: item

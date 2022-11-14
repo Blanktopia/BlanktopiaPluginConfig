@@ -1,0 +1,7 @@
+name: Climbing Rose Lightpink
+material: PAPER
+custom-model-data: 3100
+model: 'cocricotmod:block/climbing_rose_lightpink'
+
+block:
+  type: item

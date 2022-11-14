@@ -1,0 +1,7 @@
+name: Flowerpot
+material: PAPER
+custom-model-data: 4873
+model: 'cocricotmod:block/flowerpot'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Coffee Cup Bread Table
+material: PAPER
+custom-model-data: 3133
+model: 'cocricotmod:block/coffee_cup_bread_table'
+
+block:
+  type: item

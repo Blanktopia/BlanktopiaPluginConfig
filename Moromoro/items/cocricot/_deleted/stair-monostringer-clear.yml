@@ -1,0 +1,7 @@
+name: Stair Monostringer Clear
+material: PAPER
+custom-model-data: 7577
+model: 'cocricotmod:block/stair_monostringer_clear'
+
+block:
+  type: item

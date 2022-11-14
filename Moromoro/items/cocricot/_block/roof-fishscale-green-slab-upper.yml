@@ -1,0 +1,7 @@
+name: Roof Fishscale Green Slab Upper
+material: PAPER
+custom-model-data: 6585
+model: 'cocricotmod:block/roof_fishscale_green_slab_upper'
+
+block:
+  type: item

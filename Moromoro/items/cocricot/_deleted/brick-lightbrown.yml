@@ -1,0 +1,7 @@
+name: Brick Lightbrown
+material: PAPER
+custom-model-data: 2651
+model: 'cocricotmod:block/brick_lightbrown'
+
+block:
+  type: item

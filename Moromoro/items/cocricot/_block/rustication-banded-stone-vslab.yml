@@ -1,0 +1,7 @@
+name: Rustication Banded Stone Vslab
+material: PAPER
+custom-model-data: 7115
+model: 'cocricotmod:block/rustication_banded_stone_vslab'
+
+block:
+  type: item

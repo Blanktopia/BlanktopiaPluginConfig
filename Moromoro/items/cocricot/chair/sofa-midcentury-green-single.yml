@@ -1,0 +1,7 @@
+name: Sofa Midcentury Green Single
+material: PAPER
+custom-model-data: 7388
+model: cocricotmod:block/sofa_midcentury_green_single
+block:
+  type: item
+  sit-height: 0.4375

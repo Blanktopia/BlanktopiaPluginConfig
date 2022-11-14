@@ -1,0 +1,7 @@
+name: Handrail Three
+material: PAPER
+custom-model-data: 5563
+model: 'cocricotmod:block/handrail_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Branch Darkoak Side Trunk
+material: PAPER
+custom-model-data: 2598
+model: 'cocricotmod:block/branch_darkoak_side_trunk'
+
+block:
+  type: item

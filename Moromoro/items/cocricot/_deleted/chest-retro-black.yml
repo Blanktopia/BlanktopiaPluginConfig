@@ -1,0 +1,7 @@
+name: Chest Retro Black
+material: PAPER
+custom-model-data: 3076
+model: 'cocricotmod:block/chest_retro_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish Green Stick
+material: PAPER
+custom-model-data: 6690
+model: 'cocricotmod:block/roof_spanish_green_stick'
+
+block:
+  type: item

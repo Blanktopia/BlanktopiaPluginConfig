@@ -1,0 +1,7 @@
+name: Wood  3board Black Plate
+material: PAPER
+custom-model-data: 9386
+model: 'cocricotmod:block/wood_3board_black_plate'
+
+block:
+  type: item

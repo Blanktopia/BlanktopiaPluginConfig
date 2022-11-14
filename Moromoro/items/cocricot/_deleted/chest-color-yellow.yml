@@ -1,0 +1,7 @@
+name: Chest Color Yellow
+material: PAPER
+custom-model-data: 3073
+model: 'cocricotmod:block/chest_color_yellow'
+
+block:
+  type: item

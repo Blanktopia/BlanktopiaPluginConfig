@@ -1,0 +1,7 @@
+name: Industrialshadelamp Red
+material: PAPER
+custom-model-data: 5845
+model: 'cocricotmod:block/industrialshadelamp_red'
+
+block:
+  type: item

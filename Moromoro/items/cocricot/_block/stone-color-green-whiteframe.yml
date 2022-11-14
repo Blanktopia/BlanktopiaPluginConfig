@@ -1,0 +1,7 @@
+name: Stone Color Green Whiteframe
+material: PAPER
+custom-model-data: 7760
+model: 'cocricotmod:block/stone_color_green_whiteframe'
+
+block:
+  type: item

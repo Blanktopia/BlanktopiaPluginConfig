@@ -1,0 +1,7 @@
+name: Carpet Slab Upper
+material: PAPER
+custom-model-data: 2922
+model: 'cocricotmod:block/carpet_slab_upper'
+
+block:
+  type: item

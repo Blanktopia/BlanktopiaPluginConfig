@@ -1,0 +1,7 @@
+name: Windowframe Side Fence
+material: PAPER
+custom-model-data: 9138
+model: 'cocricotmod:block/windowframe_side_fence'
+
+block:
+  type: item

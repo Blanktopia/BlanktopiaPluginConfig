@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Lightgreen Slab Upper
+material: PAPER
+custom-model-data: 9836
+model: 'cocricotmod:block/wood_wainscot_panels_lightgreen_slab_upper'
+
+block:
+  type: item

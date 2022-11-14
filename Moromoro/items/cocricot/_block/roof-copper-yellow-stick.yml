@@ -1,0 +1,7 @@
+name: Roof Copper Yellow Stick
+material: PAPER
+custom-model-data: 6549
+model: 'cocricotmod:block/roof_copper_yellow_stick'
+
+block:
+  type: item

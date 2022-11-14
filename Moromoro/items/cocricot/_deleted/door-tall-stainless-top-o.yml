@@ -1,0 +1,7 @@
+name: Door Tall Stainless Top O
+material: PAPER
+custom-model-data: 4489
+model: 'cocricotmod:block/door_tall_stainless_top_o'
+
+block:
+  type: item

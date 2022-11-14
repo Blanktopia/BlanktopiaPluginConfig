@@ -1,0 +1,7 @@
+name: Handrail Wood Corner
+material: PAPER
+custom-model-data: 5591
+model: 'cocricotmod:block/handrail_wood_corner'
+
+block:
+  type: item

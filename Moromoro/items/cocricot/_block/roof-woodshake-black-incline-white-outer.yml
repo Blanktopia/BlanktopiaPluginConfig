@@ -1,0 +1,7 @@
+name: Roof Woodshake Black Incline White Outer
+material: PAPER
+custom-model-data: 6844
+model: 'cocricotmod:block/roof_woodshake_black_incline_white_outer'
+
+block:
+  type: item

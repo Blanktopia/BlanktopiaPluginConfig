@@ -1,0 +1,7 @@
+name: Tile Mosaic Big Lightbrown
+material: PAPER
+custom-model-data: 8296
+model: 'cocricotmod:block/tile_mosaic_big_lightbrown'
+
+block:
+  type: item

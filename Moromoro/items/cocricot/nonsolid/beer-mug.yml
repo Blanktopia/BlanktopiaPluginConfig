@@ -1,0 +1,7 @@
+name: Beer Mug
+material: PAPER
+custom-model-data: 2440
+model: 'cocricotmod:block/beer_mug'
+
+block:
+  type: item

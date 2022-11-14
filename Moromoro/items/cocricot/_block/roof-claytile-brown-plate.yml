@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Plate
+material: PAPER
+custom-model-data: 6397
+model: 'cocricotmod:block/roof_claytile_brown_plate'
+
+block:
+  type: item

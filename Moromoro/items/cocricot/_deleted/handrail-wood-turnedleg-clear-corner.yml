@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Clear Corner
+material: PAPER
+custom-model-data: 5701
+model: 'cocricotmod:block/handrail_wood_turnedleg_clear_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Base Vslab H
+material: PAPER
+custom-model-data: 2356
+model: 'cocricotmod:block/base_vslab_h'
+
+block:
+  type: item

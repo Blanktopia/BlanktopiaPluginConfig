@@ -1,0 +1,8 @@
+name: Wheel Small Red
+material: PAPER
+custom-model-data: 8553
+model: 'cocricotmod:block/wheel_small_red'
+
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Base Pane Thin Side
+material: PAPER
+custom-model-data: 2330
+model: 'cocricotmod:block/base_pane_thin_side'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Yellow
+material: PAPER
+custom-model-data: 8792
+model: 'cocricotmod:block/window_color_yellow'
+
+block:
+  type: item

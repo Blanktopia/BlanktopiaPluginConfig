@@ -1,0 +1,7 @@
+name: Mirror Frame Seadrift
+material: PAPER
+custom-model-data: 6125
+model: 'cocricotmod:block/mirror_frame_seadrift'
+
+block:
+  type: item

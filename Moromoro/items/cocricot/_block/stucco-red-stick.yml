@@ -1,0 +1,7 @@
+name: Stucco Red Stick
+material: PAPER
+custom-model-data: 8098
+model: 'cocricotmod:block/stucco_red_stick'
+
+block:
+  type: item

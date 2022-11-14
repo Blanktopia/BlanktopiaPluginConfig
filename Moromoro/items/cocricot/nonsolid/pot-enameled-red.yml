@@ -1,0 +1,7 @@
+name: Pot Enameled Red
+material: PAPER
+custom-model-data: 6288
+model: 'cocricotmod:block/pot_enameled_red'
+
+block:
+  type: item

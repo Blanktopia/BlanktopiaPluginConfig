@@ -1,0 +1,7 @@
+name: Stone Random Whitejoint Plate
+material: PAPER
+custom-model-data: 7960
+model: 'cocricotmod:block/stone_random_whitejoint_plate'
+
+block:
+  type: item

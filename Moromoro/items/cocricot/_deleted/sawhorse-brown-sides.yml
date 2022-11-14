@@ -1,0 +1,7 @@
+name: Sawhorse Brown Sides
+material: PAPER
+custom-model-data: 7137
+model: 'cocricotmod:block/sawhorse_brown_sides'
+
+block:
+  type: item

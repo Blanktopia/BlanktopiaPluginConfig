@@ -1,0 +1,7 @@
+name: Brick Red White Stick
+material: PAPER
+custom-model-data: 2708
+model: 'cocricotmod:block/brick_red_white_stick'
+
+block:
+  type: item

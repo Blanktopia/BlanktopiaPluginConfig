@@ -1,0 +1,7 @@
+name: Halftimber Brownwhite Frame Slab Upper
+material: PAPER
+custom-model-data: 5283
+model: 'cocricotmod:block/halftimber_brownwhite_frame_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  2board Dark
+material: PAPER
+custom-model-data: 9286
+model: 'cocricotmod:block/wood_2board_dark'
+
+block:
+  type: item

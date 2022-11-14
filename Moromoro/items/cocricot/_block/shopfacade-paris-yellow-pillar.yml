@@ -1,0 +1,7 @@
+name: Shopfacade Paris Yellow Pillar
+material: PAPER
+custom-model-data: 7233
+model: 'cocricotmod:block/shopfacade_paris_yellow_pillar'
+
+block:
+  type: item

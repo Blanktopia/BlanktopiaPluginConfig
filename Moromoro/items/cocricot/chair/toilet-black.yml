@@ -1,0 +1,8 @@
+name: Toilet Black
+material: PAPER
+custom-model-data: 8314
+model: cocricotmod:block/toilet_black
+block:
+  type: item
+  collision: true
+  sit-height: 0.4375

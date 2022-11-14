@@ -1,0 +1,7 @@
+name: Window Color Green Pane Post
+material: PAPER
+custom-model-data: 8725
+model: 'cocricotmod:block/window_color_green_pane_post'
+
+block:
+  type: item

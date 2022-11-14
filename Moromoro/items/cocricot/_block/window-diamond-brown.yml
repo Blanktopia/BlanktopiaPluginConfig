@@ -1,0 +1,7 @@
+name: Window Diamond Brown
+material: PAPER
+custom-model-data: 8813
+model: 'cocricotmod:block/window_diamond_brown'
+
+block:
+  type: item

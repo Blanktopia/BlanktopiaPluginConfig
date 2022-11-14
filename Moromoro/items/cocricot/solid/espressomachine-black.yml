@@ -1,0 +1,7 @@
+name: Espressomachine Black
+material: PAPER
+custom-model-data: 4661
+model: cocricotmod:block/espressomachine_black
+block:
+  type: item
+  collision: true

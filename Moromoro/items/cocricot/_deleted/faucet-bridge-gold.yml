@@ -1,0 +1,7 @@
+name: Faucet Bridge Gold
+material: PAPER
+custom-model-data: 4683
+model: 'cocricotmod:block/faucet_bridge_gold'
+
+block:
+  type: item

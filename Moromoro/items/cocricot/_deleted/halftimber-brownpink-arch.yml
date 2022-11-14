@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Arch
+material: PAPER
+custom-model-data: 5249
+model: 'cocricotmod:block/halftimber_brownpink_arch'
+
+block:
+  type: item

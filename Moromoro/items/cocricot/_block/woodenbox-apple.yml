@@ -1,0 +1,7 @@
+name: Woodenbox Apple
+material: PAPER
+custom-model-data: 9915
+model: 'cocricotmod:block/woodenbox_apple'
+
+block:
+  type: item

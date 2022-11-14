@@ -1,0 +1,7 @@
+name: Windowframe Simple White Upper Outer
+material: PAPER
+custom-model-data: 9220
+model: 'cocricotmod:block/windowframe_simple_white_upper_outer'
+
+block:
+  type: item

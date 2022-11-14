@@ -1,0 +1,7 @@
+name: Window Centrebar Marineblue Pane Side
+material: PAPER
+custom-model-data: 8649
+model: 'cocricotmod:block/window_centrebar_marineblue_pane_side'
+
+block:
+  type: item

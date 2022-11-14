@@ -1,0 +1,7 @@
+name: Door  9glass Blue Bottom
+material: PAPER
+custom-model-data: 3752
+model: 'cocricotmod:block/door_9glass_blue_bottom'
+
+block:
+  type: item

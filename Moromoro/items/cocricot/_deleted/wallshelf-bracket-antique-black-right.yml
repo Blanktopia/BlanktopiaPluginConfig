@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Black Right
+material: PAPER
+custom-model-data: 8388
+model: 'cocricotmod:block/wallshelf_bracket_antique_black_right'
+
+block:
+  type: item

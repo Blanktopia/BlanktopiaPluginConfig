@@ -1,0 +1,7 @@
+name: Sink Color Gray
+material: PAPER
+custom-model-data: 7304
+model: cocricotmod:block/sink_color_gray
+block:
+  type: item
+  collision: true

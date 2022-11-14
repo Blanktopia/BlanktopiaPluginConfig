@@ -1,0 +1,7 @@
+name: Cushion Brown Right B
+material: PAPER
+custom-model-data: 3323
+model: 'cocricotmod:block/cushion_brown_right_b'
+
+block:
+  type: item

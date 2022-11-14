@@ -1,0 +1,7 @@
+name: Door  1glass Brown Top Rh
+material: PAPER
+custom-model-data: 3526
+model: 'cocricotmod:block/door_1glass_brown_top_rh'
+
+block:
+  type: item

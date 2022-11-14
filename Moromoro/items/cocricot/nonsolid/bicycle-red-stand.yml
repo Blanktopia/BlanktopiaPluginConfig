@@ -1,0 +1,7 @@
+name: Bicycle Red Stand
+material: PAPER
+custom-model-data: 2471
+model: 'cocricotmod:block/bicycle_red_stand'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Stainless Bottom Rh
+material: PAPER
+custom-model-data: 3866
+model: 'cocricotmod:block/door_stainless_bottom_rh'
+
+block:
+  type: item

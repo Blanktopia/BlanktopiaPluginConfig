@@ -1,0 +1,7 @@
+name: Drinkdispenser Lemon
+material: PAPER
+custom-model-data: 4648
+model: cocricotmod:block/drinkdispenser_lemon
+block:
+  type: item
+  collision: true

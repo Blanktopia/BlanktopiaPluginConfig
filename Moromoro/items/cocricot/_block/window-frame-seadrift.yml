@@ -1,0 +1,7 @@
+name: Window Frame Seadrift
+material: PAPER
+custom-model-data: 8974
+model: 'cocricotmod:block/window_frame_seadrift'
+
+block:
+  type: item

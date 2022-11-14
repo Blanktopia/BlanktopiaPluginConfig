@@ -1,0 +1,7 @@
+name: Fence Ranchrail Marineblue Three
+material: PAPER
+custom-model-data: 4782
+model: 'cocricotmod:block/fence_ranchrail_marineblue_three'
+
+block:
+  type: item

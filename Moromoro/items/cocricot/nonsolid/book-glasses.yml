@@ -1,0 +1,7 @@
+name: Book Glasses
+material: PAPER
+custom-model-data: 2482
+model: 'cocricotmod:block/book_glasses'
+
+block:
+  type: item

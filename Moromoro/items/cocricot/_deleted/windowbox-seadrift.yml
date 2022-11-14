@@ -1,0 +1,7 @@
+name: Windowbox Seadrift
+material: PAPER
+custom-model-data: 9013
+model: 'cocricotmod:block/windowbox_seadrift'
+
+block:
+  type: item

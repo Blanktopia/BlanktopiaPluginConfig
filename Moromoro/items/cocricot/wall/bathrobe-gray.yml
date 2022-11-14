@@ -1,0 +1,7 @@
+name: Bathrobe Gray
+material: PAPER
+custom-model-data: 2377
+model: 'cocricotmod:block/bathrobe_gray'
+
+block:
+  type: item

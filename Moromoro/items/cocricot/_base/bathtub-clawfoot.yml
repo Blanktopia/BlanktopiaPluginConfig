@@ -1,0 +1,7 @@
+name: Bathtub Clawfoot
+material: PAPER
+custom-model-data: 2381
+model: 'cocricotmod:block/bathtub_clawfoot'
+
+block:
+  type: item

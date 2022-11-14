@@ -1,0 +1,7 @@
+name: Awning Stripe Black Block
+material: PAPER
+custom-model-data: 2135
+model: 'cocricotmod:block/awning_stripe_black_block'
+
+block:
+  type: item

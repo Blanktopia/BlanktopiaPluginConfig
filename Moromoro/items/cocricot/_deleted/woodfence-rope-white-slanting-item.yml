@@ -1,0 +1,7 @@
+name: Woodfence Rope White Slanting Item
+material: PAPER
+custom-model-data: 9942
+model: 'cocricotmod:block/woodfence_rope_white_slanting_item'
+
+block:
+  type: item

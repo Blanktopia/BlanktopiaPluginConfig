@@ -1,0 +1,8 @@
+name: Stool Industrial Seadrift
+material: PAPER
+custom-model-data: 8004
+model: cocricotmod:block/stool_industrial_seadrift
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

@@ -1,0 +1,7 @@
+name: Stucco Lightblue Vslab
+material: PAPER
+custom-model-data: 8044
+model: 'cocricotmod:block/stucco_lightblue_vslab'
+
+block:
+  type: item

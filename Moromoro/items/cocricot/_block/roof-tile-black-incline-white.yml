@@ -1,0 +1,7 @@
+name: Roof Tile Black Incline White
+material: PAPER
+custom-model-data: 6800
+model: 'cocricotmod:block/roof_tile_black_incline_white'
+
+block:
+  type: item

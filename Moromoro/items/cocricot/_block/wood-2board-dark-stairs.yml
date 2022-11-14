@@ -1,0 +1,7 @@
+name: Wood  2board Dark Stairs
+material: PAPER
+custom-model-data: 9292
+model: 'cocricotmod:block/wood_2board_dark_stairs'
+
+block:
+  type: item

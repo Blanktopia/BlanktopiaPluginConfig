@@ -1,0 +1,7 @@
+name: Stone Bushrock Whitejoint
+material: PAPER
+custom-model-data: 7658
+model: 'cocricotmod:block/stone_bushrock_whitejoint'
+
+block:
+  type: item

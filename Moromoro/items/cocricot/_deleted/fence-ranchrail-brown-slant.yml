@@ -1,0 +1,7 @@
+name: Fence Ranchrail Brown Slant
+material: PAPER
+custom-model-data: 4763
+model: 'cocricotmod:block/fence_ranchrail_brown_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Dark Slab Upper
+material: PAPER
+custom-model-data: 9704
+model: 'cocricotmod:block/wood_dark_slab_upper'
+
+block:
+  type: item

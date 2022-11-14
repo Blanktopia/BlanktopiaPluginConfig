@@ -1,0 +1,7 @@
+name: Text Black
+material: PAPER
+custom-model-data: 8261
+model: 'cocricotmod:block/text_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drawer Square Antique Black
+material: PAPER
+custom-model-data: 4645
+model: 'cocricotmod:block/drawer_square_antique_black'
+
+block:
+  type: item

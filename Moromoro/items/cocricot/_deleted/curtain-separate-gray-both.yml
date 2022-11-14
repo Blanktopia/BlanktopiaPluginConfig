@@ -1,0 +1,7 @@
+name: Curtain Separate Gray Both
+material: PAPER
+custom-model-data: 3265
+model: 'cocricotmod:block/curtain_separate_gray_both'
+
+block:
+  type: item

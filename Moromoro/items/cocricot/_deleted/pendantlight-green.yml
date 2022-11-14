@@ -1,0 +1,7 @@
+name: Pendantlight Green
+material: PAPER
+custom-model-data: 6210
+model: 'cocricotmod:block/pendantlight_green'
+
+block:
+  type: item

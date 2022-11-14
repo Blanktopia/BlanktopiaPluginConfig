@@ -1,0 +1,7 @@
+name: Stucco Yellow Arch Single
+material: PAPER
+custom-model-data: 8115
+model: 'cocricotmod:block/stucco_yellow_arch_single'
+
+block:
+  type: item

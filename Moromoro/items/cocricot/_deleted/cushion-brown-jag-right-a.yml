@@ -1,0 +1,7 @@
+name: Cushion Brown Jag Right A
+material: PAPER
+custom-model-data: 3315
+model: 'cocricotmod:block/cushion_brown_jag_right_a'
+
+block:
+  type: item

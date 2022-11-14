@@ -1,0 +1,7 @@
+name: Base Pane Thin Corner
+material: PAPER
+custom-model-data: 2328
+model: 'cocricotmod:block/base_pane_thin_corner'
+
+block:
+  type: item

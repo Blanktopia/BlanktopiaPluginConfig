@@ -1,0 +1,7 @@
+name: Curtain Fringe Blue
+material: PAPER
+custom-model-data: 3244
+model: 'cocricotmod:block/curtain_fringe_blue'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fireplace White
+material: PAPER
+custom-model-data: 4840
+model: 'cocricotmod:block/fireplace_white'
+
+block:
+  type: item

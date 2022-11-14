@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Wide Brown
+material: PAPER
+custom-model-data: 6910
+model: cocricotmod:block/roundtable_turnedleg_wide_brown
+block:
+  type: item
+  collision: true

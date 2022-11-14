@@ -1,0 +1,7 @@
+name: Bracket
+material: PAPER
+custom-model-data: 2578
+model: 'cocricotmod:block/bracket'
+
+block:
+  type: item

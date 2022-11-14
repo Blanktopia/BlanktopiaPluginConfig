@@ -1,0 +1,8 @@
+name: Swimring Yellow
+material: PAPER
+custom-model-data: 8146
+model: cocricotmod:block/swimring_yellow
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

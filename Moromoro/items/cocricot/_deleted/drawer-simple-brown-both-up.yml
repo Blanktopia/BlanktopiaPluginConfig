@@ -1,0 +1,7 @@
+name: Drawer Simple Brown Both Up
+material: PAPER
+custom-model-data: 4551
+model: 'cocricotmod:block/drawer_simple_brown_both_up'
+
+block:
+  type: item

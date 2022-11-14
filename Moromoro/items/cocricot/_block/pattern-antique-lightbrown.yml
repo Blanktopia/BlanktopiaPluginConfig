@@ -1,0 +1,7 @@
+name: Pattern Antique Lightbrown
+material: PAPER
+custom-model-data: 6189
+model: 'cocricotmod:block/pattern_antique_lightbrown'
+
+block:
+  type: item

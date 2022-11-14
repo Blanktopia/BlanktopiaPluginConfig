@@ -1,0 +1,7 @@
+name: Flowerpot Big Basket
+material: PAPER
+custom-model-data: 4880
+model: 'cocricotmod:block/flowerpot_big_basket'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drawer Simple Dark Both Up
+material: PAPER
+custom-model-data: 4583
+model: 'cocricotmod:block/drawer_simple_dark_both_up'
+
+block:
+  type: item

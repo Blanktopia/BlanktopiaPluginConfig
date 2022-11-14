@@ -1,0 +1,7 @@
+name: Steak Ironplate
+material: PAPER
+custom-model-data: 7617
+model: 'cocricotmod:block/steak_ironplate'
+
+block:
+  type: item

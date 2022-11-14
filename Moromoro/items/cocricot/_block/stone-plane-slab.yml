@@ -1,0 +1,7 @@
+name: Stone Plane Slab
+material: PAPER
+custom-model-data: 7937
+model: 'cocricotmod:block/stone_plane_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Curtain Separate Lightbrown Both
+material: PAPER
+custom-model-data: 3272
+model: 'cocricotmod:block/curtain_separate_lightbrown_both'
+
+block:
+  type: item

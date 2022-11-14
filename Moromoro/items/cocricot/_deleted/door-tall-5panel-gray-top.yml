@@ -1,0 +1,7 @@
+name: Door Tall  5panel Gray Top
+material: PAPER
+custom-model-data: 4196
+model: 'cocricotmod:block/door_tall_5panel_gray_top'
+
+block:
+  type: item

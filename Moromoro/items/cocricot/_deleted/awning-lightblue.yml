@@ -1,0 +1,7 @@
+name: Awning Lightblue
+material: PAPER
+custom-model-data: 2067
+model: 'cocricotmod:block/awning_lightblue'
+
+block:
+  type: item

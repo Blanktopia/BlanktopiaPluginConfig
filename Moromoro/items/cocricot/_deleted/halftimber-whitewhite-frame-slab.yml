@@ -1,0 +1,7 @@
+name: Halftimber Whitewhite Frame Slab
+material: PAPER
+custom-model-data: 5524
+model: 'cocricotmod:block/halftimber_whitewhite_frame_slab'
+
+block:
+  type: item

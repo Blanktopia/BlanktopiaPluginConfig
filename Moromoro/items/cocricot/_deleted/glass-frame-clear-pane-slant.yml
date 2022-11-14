@@ -1,0 +1,7 @@
+name: Glass Frame Clear Pane Slant
+material: PAPER
+custom-model-data: 5077
+model: 'cocricotmod:block/glass_frame_clear_pane_slant'
+
+block:
+  type: item

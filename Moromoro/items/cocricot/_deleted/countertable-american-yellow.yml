@@ -1,0 +1,7 @@
+name: Countertable American Yellow
+material: PAPER
+custom-model-data: 3235
+model: 'cocricotmod:block/countertable_american_yellow'
+
+block:
+  type: item

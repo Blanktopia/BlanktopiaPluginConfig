@@ -1,0 +1,7 @@
+name: Window Frame Brown
+material: PAPER
+custom-model-data: 8939
+model: 'cocricotmod:block/window_frame_brown'
+
+block:
+  type: item

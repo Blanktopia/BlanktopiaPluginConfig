@@ -1,0 +1,7 @@
+name: Door Tall  5panel Wood Top Rh O
+material: PAPER
+custom-model-data: 4295
+model: 'cocricotmod:block/door_tall_5panel_wood_top_rh_o'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  6board Natural
+material: PAPER
+custom-model-data: 9626
+model: 'cocricotmod:block/wood_6board_natural'
+
+block:
+  type: item

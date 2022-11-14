@@ -1,0 +1,7 @@
+name: Stucco Pink Stairs
+material: PAPER
+custom-model-data: 8082
+model: 'cocricotmod:block/stucco_pink_stairs'
+
+block:
+  type: item

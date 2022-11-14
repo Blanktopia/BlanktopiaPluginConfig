@@ -1,0 +1,7 @@
+name: Drainpipe Bronze
+material: PAPER
+custom-model-data: 4500
+model: 'cocricotmod:block/drainpipe_bronze'
+
+block:
+  type: item

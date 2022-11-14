@@ -1,0 +1,7 @@
+name: Climbing Rose White
+material: PAPER
+custom-model-data: 3104
+model: 'cocricotmod:block/climbing_rose_white'
+
+block:
+  type: item

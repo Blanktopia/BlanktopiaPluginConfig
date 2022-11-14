@@ -1,0 +1,7 @@
+name: Stone Color Lightblue Rod
+material: PAPER
+custom-model-data: 7765
+model: 'cocricotmod:block/stone_color_lightblue_rod'
+
+block:
+  type: item

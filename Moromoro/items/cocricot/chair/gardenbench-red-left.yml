@@ -1,0 +1,7 @@
+name: Gardenbench Red Left
+material: PAPER
+custom-model-data: 4981
+model: cocricotmod:block/gardenbench_red_left
+block:
+  type: item
+  sit-height: 0.4375

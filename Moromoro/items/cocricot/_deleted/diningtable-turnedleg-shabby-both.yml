@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Shabby Both
+material: PAPER
+custom-model-data: 3486
+model: 'cocricotmod:block/diningtable_turnedleg_shabby_both'
+
+block:
+  type: item

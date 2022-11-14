@@ -1,0 +1,7 @@
+name: Stucco Red Vslab
+material: PAPER
+custom-model-data: 8099
+model: 'cocricotmod:block/stucco_red_vslab'
+
+block:
+  type: item

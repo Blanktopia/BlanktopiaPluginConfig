@@ -1,0 +1,7 @@
+name: Chest Retro Lightgreen
+material: PAPER
+custom-model-data: 3081
+model: 'cocricotmod:block/chest_retro_lightgreen'
+
+block:
+  type: item

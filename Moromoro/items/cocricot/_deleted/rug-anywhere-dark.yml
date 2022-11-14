@@ -1,0 +1,7 @@
+name: Rug Anywhere Dark
+material: PAPER
+custom-model-data: 6917
+model: 'cocricotmod:block/rug_anywhere_dark'
+
+block:
+  type: item

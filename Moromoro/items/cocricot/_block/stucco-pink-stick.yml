@@ -1,0 +1,7 @@
+name: Stucco Pink Stick
+material: PAPER
+custom-model-data: 8085
+model: 'cocricotmod:block/stucco_pink_stick'
+
+block:
+  type: item

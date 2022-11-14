@@ -1,0 +1,7 @@
+name: Mortar Slab Upper
+material: PAPER
+custom-model-data: 6135
+model: 'cocricotmod:block/mortar_slab_upper'
+
+block:
+  type: item

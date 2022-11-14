@@ -1,0 +1,7 @@
+name: Table American Silver
+material: PAPER
+custom-model-data: 8156
+model: cocricotmod:block/table_american_silver
+block:
+  type: item
+  collision: true

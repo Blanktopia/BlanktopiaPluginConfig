@@ -1,0 +1,7 @@
+name: Cushion Brown Slipper
+material: PAPER
+custom-model-data: 3326
+model: 'cocricotmod:block/cushion_brown_slipper'
+
+block:
+  type: item

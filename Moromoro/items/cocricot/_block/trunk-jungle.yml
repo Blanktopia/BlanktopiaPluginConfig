@@ -1,0 +1,7 @@
+name: Trunk Jungle
+material: PAPER
+custom-model-data: 8332
+model: 'cocricotmod:block/trunk_jungle'
+
+block:
+  type: item

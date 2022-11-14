@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Marineblue Bottom O
+material: PAPER
+custom-model-data: 3993
+model: 'cocricotmod:block/door_tall_2glass3panel_marineblue_bottom_o'
+
+block:
+  type: item

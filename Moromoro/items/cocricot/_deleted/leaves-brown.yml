@@ -1,0 +1,7 @@
+name: Leaves Brown
+material: PAPER
+custom-model-data: 5936
+model: 'cocricotmod:block/leaves_brown'
+
+block:
+  type: item

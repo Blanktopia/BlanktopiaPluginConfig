@@ -1,0 +1,7 @@
+name: Masonjar Bluepunch Table
+material: PAPER
+custom-model-data: 6098
+model: 'cocricotmod:block/masonjar_bluepunch_table'
+
+block:
+  type: item

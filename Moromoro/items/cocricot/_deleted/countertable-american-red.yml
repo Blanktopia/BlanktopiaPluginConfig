@@ -1,0 +1,7 @@
+name: Countertable American Red
+material: PAPER
+custom-model-data: 3232
+model: 'cocricotmod:block/countertable_american_red'
+
+block:
+  type: item

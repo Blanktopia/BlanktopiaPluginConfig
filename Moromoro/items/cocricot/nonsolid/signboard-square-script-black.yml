@@ -1,0 +1,7 @@
+name: Signboard Square Script Black
+material: PAPER
+custom-model-data: 7261
+model: 'cocricotmod:block/signboard_square_script_black'
+
+block:
+  type: item

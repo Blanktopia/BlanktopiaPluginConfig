@@ -1,0 +1,7 @@
+name: Table Ironleg Seadrift
+material: PAPER
+custom-model-data: 8204
+model: cocricotmod:block/table_ironleg_seadrift
+block:
+  type: item
+  collision: true

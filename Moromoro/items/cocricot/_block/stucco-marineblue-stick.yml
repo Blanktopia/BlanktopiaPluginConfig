@@ -1,0 +1,7 @@
+name: Stucco Marineblue Stick
+material: PAPER
+custom-model-data: 8056
+model: 'cocricotmod:block/stucco_marineblue_stick'
+
+block:
+  type: item

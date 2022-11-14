@@ -1,0 +1,7 @@
+name: Coffeetable Iron Dark Right
+material: PAPER
+custom-model-data: 3161
+model: cocricotmod:block/coffeetable_iron_dark_right
+block:
+  type: item
+  collision: true

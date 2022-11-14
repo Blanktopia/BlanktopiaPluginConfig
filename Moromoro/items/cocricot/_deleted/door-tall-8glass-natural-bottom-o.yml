@@ -1,0 +1,7 @@
+name: Door Tall  8glass Natural Bottom O
+material: PAPER
+custom-model-data: 4457
+model: 'cocricotmod:block/door_tall_8glass_natural_bottom_o'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Coffeemill
+material: PAPER
+custom-model-data: 3141
+model: 'cocricotmod:block/coffeemill'
+
+block:
+  type: item

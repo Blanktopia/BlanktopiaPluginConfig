@@ -1,0 +1,7 @@
+name: Roof Incline Vslab Front
+material: PAPER
+custom-model-data: 6618
+model: 'cocricotmod:block/roof_incline_vslab_front'
+
+block:
+  type: item

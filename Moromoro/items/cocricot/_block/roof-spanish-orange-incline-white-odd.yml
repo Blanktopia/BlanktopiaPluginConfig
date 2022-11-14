@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Incline White Odd
+material: PAPER
+custom-model-data: 6722
+model: 'cocricotmod:block/roof_spanish_orange_incline_white_odd'
+
+block:
+  type: item

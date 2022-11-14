@@ -1,0 +1,7 @@
+name: Sofa Midcentury Black Right
+material: PAPER
+custom-model-data: 7367
+model: cocricotmod:block/sofa_midcentury_black_right
+block:
+  type: item
+  sit-height: 0.4375

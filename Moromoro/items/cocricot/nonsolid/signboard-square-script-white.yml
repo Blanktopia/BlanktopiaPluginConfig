@@ -1,0 +1,7 @@
+name: Signboard Square Script White
+material: PAPER
+custom-model-data: 7262
+model: 'cocricotmod:block/signboard_square_script_white'
+
+block:
+  type: item

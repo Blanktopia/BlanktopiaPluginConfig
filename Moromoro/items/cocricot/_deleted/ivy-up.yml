@@ -1,0 +1,7 @@
+name: Ivy Up
+material: PAPER
+custom-model-data: 5868
+model: 'cocricotmod:block/ivy_up'
+
+block:
+  type: item

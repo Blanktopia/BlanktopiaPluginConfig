@@ -1,0 +1,7 @@
+name: Wood Clear Slab
+material: PAPER
+custom-model-data: 9691
+model: 'cocricotmod:block/wood_clear_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Claytile Orange Stairs Outer
+material: PAPER
+custom-model-data: 6423
+model: 'cocricotmod:block/roof_claytile_orange_stairs_outer'
+
+block:
+  type: item

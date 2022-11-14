@@ -1,0 +1,7 @@
+name: Laundrypole Blue Left
+material: PAPER
+custom-model-data: 5920
+model: 'cocricotmod:block/laundrypole_blue_left'
+
+block:
+  type: item

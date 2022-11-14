@@ -1,0 +1,7 @@
+name: Rug Jute Round True Three
+material: PAPER
+custom-model-data: 6932
+model: 'cocricotmod:block/rug_jute_round_true_three'
+
+block:
+  type: item

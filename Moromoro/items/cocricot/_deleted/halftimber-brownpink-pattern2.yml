@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Pattern 2
+material: PAPER
+custom-model-data: 5257
+model: 'cocricotmod:block/halftimber_brownpink_pattern2'
+
+block:
+  type: item

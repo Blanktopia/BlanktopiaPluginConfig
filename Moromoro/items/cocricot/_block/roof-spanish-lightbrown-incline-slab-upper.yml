@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Incline Slab Upper
+material: PAPER
+custom-model-data: 6699
+model: 'cocricotmod:block/roof_spanish_lightbrown_incline_slab_upper'
+
+block:
+  type: item

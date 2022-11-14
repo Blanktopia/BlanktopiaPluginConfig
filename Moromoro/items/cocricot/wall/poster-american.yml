@@ -1,0 +1,7 @@
+name: Poster American
+material: PAPER
+custom-model-data: 6280
+model: 'cocricotmod:block/poster_american'
+
+block:
+  type: item

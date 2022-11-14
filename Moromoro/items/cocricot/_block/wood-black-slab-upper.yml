@@ -1,0 +1,7 @@
+name: Wood Black Slab Upper
+material: PAPER
+custom-model-data: 9668
+model: 'cocricotmod:block/wood_black_slab_upper'
+
+block:
+  type: item

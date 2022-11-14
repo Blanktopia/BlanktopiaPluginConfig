@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels White Slab Upper
+material: PAPER
+custom-model-data: 9860
+model: 'cocricotmod:block/wood_wainscot_panels_white_slab_upper'
+
+block:
+  type: item

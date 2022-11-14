@@ -1,0 +1,7 @@
+name: Windowframe Simple Sand Lower
+material: PAPER
+custom-model-data: 9164
+model: 'cocricotmod:block/windowframe_simple_sand_lower'
+
+block:
+  type: item

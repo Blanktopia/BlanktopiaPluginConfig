@@ -1,0 +1,7 @@
+name: Table Cloth Blue
+material: PAPER
+custom-model-data: 8160
+model: 'cocricotmod:block/table_cloth_blue'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Quartz Slant
+material: PAPER
+custom-model-data: 5570
+model: 'cocricotmod:block/handrail_turnedleg_quartz_slant'
+
+block:
+  type: item

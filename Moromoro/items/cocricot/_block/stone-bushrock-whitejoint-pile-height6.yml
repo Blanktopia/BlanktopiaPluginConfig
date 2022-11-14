@@ -1,0 +1,7 @@
+name: Stone Bushrock Whitejoint Pile Height 6
+material: PAPER
+custom-model-data: 7663
+model: 'cocricotmod:block/stone_bushrock_whitejoint_pile_height6'
+
+block:
+  type: item

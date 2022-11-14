@@ -1,0 +1,7 @@
+name: Windowframe Classic Dark Upper
+material: PAPER
+custom-model-data: 9074
+model: 'cocricotmod:block/windowframe_classic_dark_upper'
+
+block:
+  type: item

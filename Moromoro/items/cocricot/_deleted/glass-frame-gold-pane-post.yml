@@ -1,0 +1,7 @@
+name: Glass Frame Gold Pane Post
+material: PAPER
+custom-model-data: 5099
+model: 'cocricotmod:block/glass_frame_gold_pane_post'
+
+block:
+  type: item

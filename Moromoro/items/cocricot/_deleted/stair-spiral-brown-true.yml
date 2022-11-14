@@ -1,0 +1,7 @@
+name: Stair Spiral Brown True
+material: PAPER
+custom-model-data: 7593
+model: 'cocricotmod:block/stair_spiral_brown_true'
+
+block:
+  type: item

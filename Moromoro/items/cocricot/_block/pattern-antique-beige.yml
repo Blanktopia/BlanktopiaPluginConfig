@@ -1,0 +1,7 @@
+name: Pattern Antique Beige
+material: PAPER
+custom-model-data: 6186
+model: 'cocricotmod:block/pattern_antique_beige'
+
+block:
+  type: item

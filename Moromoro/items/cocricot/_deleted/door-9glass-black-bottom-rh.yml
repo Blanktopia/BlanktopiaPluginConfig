@@ -1,0 +1,7 @@
+name: Door  9glass Black Bottom Rh
+material: PAPER
+custom-model-data: 3746
+model: 'cocricotmod:block/door_9glass_black_bottom_rh'
+
+block:
+  type: item

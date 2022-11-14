@@ -1,0 +1,7 @@
+name: Cakestand Tart Yellow
+material: PAPER
+custom-model-data: 2848
+model: 'cocricotmod:block/cakestand_tart_yellow'
+
+block:
+  type: item

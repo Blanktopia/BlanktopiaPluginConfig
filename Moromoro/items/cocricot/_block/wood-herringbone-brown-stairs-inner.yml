@@ -1,0 +1,7 @@
+name: Wood Herringbone Brown Stairs Inner
+material: PAPER
+custom-model-data: 9728
+model: 'cocricotmod:block/wood_herringbone_brown_stairs_inner'
+
+block:
+  type: item

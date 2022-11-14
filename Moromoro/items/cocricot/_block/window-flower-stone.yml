@@ -1,0 +1,7 @@
+name: Window Flower Stone
+material: PAPER
+custom-model-data: 8918
+model: 'cocricotmod:block/window_flower_stone'
+
+block:
+  type: item

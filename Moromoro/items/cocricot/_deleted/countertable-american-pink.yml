@@ -1,0 +1,7 @@
+name: Countertable American Pink
+material: PAPER
+custom-model-data: 3231
+model: 'cocricotmod:block/countertable_american_pink'
+
+block:
+  type: item

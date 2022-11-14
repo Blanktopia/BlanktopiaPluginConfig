@@ -1,0 +1,7 @@
+name: Garland Happy Post
+material: PAPER
+custom-model-data: 5018
+model: 'cocricotmod:block/garland_happy_post'
+
+block:
+  type: item

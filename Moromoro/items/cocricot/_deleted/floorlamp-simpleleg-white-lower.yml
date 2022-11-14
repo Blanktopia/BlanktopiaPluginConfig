@@ -1,0 +1,7 @@
+name: Floorlamp Simpleleg White Lower
+material: PAPER
+custom-model-data: 4862
+model: 'cocricotmod:block/floorlamp_simpleleg_white_lower'
+
+block:
+  type: item

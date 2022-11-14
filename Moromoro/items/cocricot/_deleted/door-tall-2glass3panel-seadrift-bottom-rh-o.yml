@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Seadrift Bottom Rh O
+material: PAPER
+custom-model-data: 4027
+model: 'cocricotmod:block/door_tall_2glass3panel_seadrift_bottom_rh_o'
+
+block:
+  type: item

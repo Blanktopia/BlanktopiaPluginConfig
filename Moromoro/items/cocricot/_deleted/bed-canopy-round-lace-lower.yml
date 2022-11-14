@@ -1,0 +1,7 @@
+name: Bed Canopy Round Lace Lower
+material: PAPER
+custom-model-data: 2389
+model: 'cocricotmod:block/bed_canopy_round_lace_lower'
+
+block:
+  type: item

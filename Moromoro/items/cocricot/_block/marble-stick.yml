@@ -1,0 +1,7 @@
+name: Marble Stick
+material: PAPER
+custom-model-data: 6064
+model: 'cocricotmod:block/marble_stick'
+
+block:
+  type: item

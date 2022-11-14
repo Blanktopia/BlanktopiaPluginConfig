@@ -1,0 +1,7 @@
+name: Towel Lightbrown
+material: PAPER
+custom-model-data: 8321
+model: 'cocricotmod:block/towel_lightbrown'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Steam Food
+material: PAPER
+custom-model-data: 7619
+model: 'cocricotmod:block/steam_food'
+
+block:
+  type: item

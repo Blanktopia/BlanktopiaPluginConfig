@@ -1,0 +1,7 @@
+name: Brick Castlestone Dark Stairs
+material: PAPER
+custom-model-data: 2636
+model: 'cocricotmod:block/brick_castlestone_dark_stairs'
+
+block:
+  type: item

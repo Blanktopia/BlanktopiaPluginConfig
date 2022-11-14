@@ -1,0 +1,7 @@
+name: Halftimber Darkwhite Allinone
+material: PAPER
+custom-model-data: 5398
+model: 'cocricotmod:block/halftimber_darkwhite_allinone'
+
+block:
+  type: item

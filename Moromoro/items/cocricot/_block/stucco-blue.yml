@@ -1,0 +1,7 @@
+name: Stucco Blue
+material: PAPER
+custom-model-data: 8019
+model: 'cocricotmod:block/stucco_blue'
+
+block:
+  type: item

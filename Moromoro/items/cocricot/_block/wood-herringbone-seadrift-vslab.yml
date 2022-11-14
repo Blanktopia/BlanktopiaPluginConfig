@@ -1,0 +1,7 @@
+name: Wood Herringbone Seadrift Vslab
+material: PAPER
+custom-model-data: 9770
+model: 'cocricotmod:block/wood_herringbone_seadrift_vslab'
+
+block:
+  type: item

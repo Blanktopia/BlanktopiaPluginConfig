@@ -1,0 +1,7 @@
+name: Curtain Separate Green Left
+material: PAPER
+custom-model-data: 3269
+model: 'cocricotmod:block/curtain_separate_green_left'
+
+block:
+  type: item

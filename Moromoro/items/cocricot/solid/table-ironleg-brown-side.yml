@@ -1,0 +1,7 @@
+name: Table Ironleg Brown Side
+material: PAPER
+custom-model-data: 8184
+model: cocricotmod:block/table_ironleg_brown_side
+block:
+  type: item
+  collision: true

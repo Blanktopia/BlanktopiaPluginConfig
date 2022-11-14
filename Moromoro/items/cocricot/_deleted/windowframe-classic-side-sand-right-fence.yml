@@ -1,0 +1,7 @@
+name: Windowframe Classic Side Sand Right Fence
+material: PAPER
+custom-model-data: 9109
+model: 'cocricotmod:block/windowframe_classic_side_sand_right_fence'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Frame Clear Pane All
+material: PAPER
+custom-model-data: 8947
+model: 'cocricotmod:block/window_frame_clear_pane_all'
+
+block:
+  type: item

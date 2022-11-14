@@ -1,0 +1,7 @@
+name: Newspaper Table
+material: PAPER
+custom-model-data: 6152
+model: 'cocricotmod:block/newspaper_table'
+
+block:
+  type: item

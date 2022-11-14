@@ -1,0 +1,7 @@
+name: Sofa Simple Green Both
+material: PAPER
+custom-model-data: 7413
+model: cocricotmod:block/sofa_simple_green_both
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Bed Frame Wood Simple Dark
+material: PAPER
+custom-model-data: 2404
+model: cocricotmod:block/bed_frame_wood_simple_dark
+block:
+  type: item
+  collision: true

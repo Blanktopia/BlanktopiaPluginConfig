@@ -1,0 +1,7 @@
+name: Drainpipe Elbows
+material: PAPER
+custom-model-data: 4506
+model: 'cocricotmod:block/drainpipe_elbows'
+
+block:
+  type: item

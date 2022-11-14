@@ -1,0 +1,7 @@
+name: Countertable American Mintgreen
+material: PAPER
+custom-model-data: 3230
+model: 'cocricotmod:block/countertable_american_mintgreen'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Base Nothickness Side
+material: PAPER
+custom-model-data: 2323
+model: 'cocricotmod:block/base_nothickness_side'
+
+block:
+  type: item

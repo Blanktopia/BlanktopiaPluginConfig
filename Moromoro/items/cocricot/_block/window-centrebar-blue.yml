@@ -1,0 +1,7 @@
+name: Window Centrebar Blue
+material: PAPER
+custom-model-data: 8596
+model: 'cocricotmod:block/window_centrebar_blue'
+
+block:
+  type: item

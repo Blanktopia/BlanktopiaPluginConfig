@@ -1,0 +1,7 @@
+name: Window Diamond Lightblue Pane Post
+material: PAPER
+custom-model-data: 8844
+model: 'cocricotmod:block/window_diamond_lightblue_pane_post'
+
+block:
+  type: item

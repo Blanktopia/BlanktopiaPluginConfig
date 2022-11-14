@@ -1,0 +1,7 @@
+name: Door  1glass Brown Bottom O
+material: PAPER
+custom-model-data: 3521
+model: 'cocricotmod:block/door_1glass_brown_bottom_o'
+
+block:
+  type: item

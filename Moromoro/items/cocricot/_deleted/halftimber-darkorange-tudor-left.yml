@@ -1,0 +1,7 @@
+name: Halftimber Darkorange Tudor Left
+material: PAPER
+custom-model-data: 5381
+model: 'cocricotmod:block/halftimber_darkorange_tudor_left'
+
+block:
+  type: item

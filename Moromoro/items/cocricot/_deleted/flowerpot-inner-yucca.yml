@@ -1,0 +1,7 @@
+name: Flowerpot Inner Yucca
+material: PAPER
+custom-model-data: 4918
+model: 'cocricotmod:block/flowerpot_inner_yucca'
+
+block:
+  type: item

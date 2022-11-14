@@ -1,0 +1,7 @@
+name: Door  9glass Black Bottom
+material: PAPER
+custom-model-data: 3744
+model: 'cocricotmod:block/door_9glass_black_bottom'
+
+block:
+  type: item

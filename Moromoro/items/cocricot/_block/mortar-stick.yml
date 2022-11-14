@@ -1,0 +1,7 @@
+name: Mortar Stick
+material: PAPER
+custom-model-data: 6139
+model: 'cocricotmod:block/mortar_stick'
+
+block:
+  type: item

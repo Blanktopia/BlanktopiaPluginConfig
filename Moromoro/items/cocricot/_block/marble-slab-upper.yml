@@ -1,0 +1,7 @@
+name: Marble Slab Upper
+material: PAPER
+custom-model-data: 6060
+model: 'cocricotmod:block/marble_slab_upper'
+
+block:
+  type: item

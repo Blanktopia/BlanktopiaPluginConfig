@@ -1,0 +1,7 @@
+name: Sofa Vintage Brown Both
+material: PAPER
+custom-model-data: 7525
+model: cocricotmod:block/sofa_vintage_brown_both
+block:
+  type: item
+  sit-height: 0.4375

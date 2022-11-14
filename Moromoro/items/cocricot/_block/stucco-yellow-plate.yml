@@ -1,0 +1,7 @@
+name: Stucco Yellow Plate
+material: PAPER
+custom-model-data: 8117
+model: 'cocricotmod:block/stucco_yellow_plate'
+
+block:
+  type: item

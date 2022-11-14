@@ -1,0 +1,7 @@
+name: Window Centrebar Blue Pane Slant
+material: PAPER
+custom-model-data: 8601
+model: 'cocricotmod:block/window_centrebar_blue_pane_slant'
+
+block:
+  type: item

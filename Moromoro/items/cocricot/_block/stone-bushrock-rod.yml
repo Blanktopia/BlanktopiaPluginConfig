@@ -1,0 +1,7 @@
+name: Stone Bushrock Rod
+material: PAPER
+custom-model-data: 7650
+model: 'cocricotmod:block/stone_bushrock_rod'
+
+block:
+  type: item

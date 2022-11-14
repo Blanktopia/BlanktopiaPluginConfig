@@ -1,0 +1,7 @@
+name: Door  2panel Blue Bottom Rh
+material: PAPER
+custom-model-data: 3578
+model: 'cocricotmod:block/door_2panel_blue_bottom_rh'
+
+block:
+  type: item

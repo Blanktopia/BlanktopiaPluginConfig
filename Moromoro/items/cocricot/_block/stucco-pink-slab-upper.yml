@@ -1,0 +1,7 @@
+name: Stucco Pink Slab Upper
+material: PAPER
+custom-model-data: 8081
+model: 'cocricotmod:block/stucco_pink_slab_upper'
+
+block:
+  type: item

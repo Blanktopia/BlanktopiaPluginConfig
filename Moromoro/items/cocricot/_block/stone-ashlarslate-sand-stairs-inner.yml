@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Stairs Inner
+material: PAPER
+custom-model-data: 7635
+model: 'cocricotmod:block/stone_ashlarslate_sand_stairs_inner'
+
+block:
+  type: item

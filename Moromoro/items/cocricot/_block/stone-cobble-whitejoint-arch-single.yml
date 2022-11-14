@@ -1,0 +1,7 @@
+name: Stone Cobble Whitejoint Arch Single
+material: PAPER
+custom-model-data: 7679
+model: 'cocricotmod:block/stone_cobble_whitejoint_arch_single'
+
+block:
+  type: item

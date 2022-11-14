@@ -1,0 +1,7 @@
+name: Roof Spanish Green Slab
+material: PAPER
+custom-model-data: 6685
+model: 'cocricotmod:block/roof_spanish_green_slab'
+
+block:
+  type: item

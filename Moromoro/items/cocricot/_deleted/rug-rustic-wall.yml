@@ -1,0 +1,7 @@
+name: Rug Rustic Wall
+material: PAPER
+custom-model-data: 6935
+model: 'cocricotmod:block/rug_rustic_wall'
+
+block:
+  type: item

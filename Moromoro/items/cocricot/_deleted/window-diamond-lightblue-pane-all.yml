@@ -1,0 +1,7 @@
+name: Window Diamond Lightblue Pane All
+material: PAPER
+custom-model-data: 8842
+model: 'cocricotmod:block/window_diamond_lightblue_pane_all'
+
+block:
+  type: item

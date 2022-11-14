@@ -1,0 +1,7 @@
+name: Ceilingspotlights Brown
+material: PAPER
+custom-model-data: 2954
+model: 'cocricotmod:block/ceilingspotlights_brown'
+
+block:
+  type: item

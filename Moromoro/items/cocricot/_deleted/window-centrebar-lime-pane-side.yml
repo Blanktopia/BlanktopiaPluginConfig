@@ -1,0 +1,7 @@
+name: Window Centrebar Lime Pane Side
+material: PAPER
+custom-model-data: 8642
+model: 'cocricotmod:block/window_centrebar_lime_pane_side'
+
+block:
+  type: item

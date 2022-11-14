@@ -1,0 +1,7 @@
+name: Door Tall  2panel Seadrift Bottom
+material: PAPER
+custom-model-data: 4144
+model: 'cocricotmod:block/door_tall_2panel_seadrift_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Brown Single False
+material: PAPER
+custom-model-data: 8397
+model: 'cocricotmod:block/wallshelf_bracket_antique_brown_single_false'
+
+block:
+  type: item

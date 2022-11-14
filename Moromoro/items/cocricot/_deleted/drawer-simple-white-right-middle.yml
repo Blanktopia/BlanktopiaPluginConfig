@@ -1,0 +1,7 @@
+name: Drawer Simple White Right Middle
+material: PAPER
+custom-model-data: 4638
+model: 'cocricotmod:block/drawer_simple_white_right_middle'
+
+block:
+  type: item

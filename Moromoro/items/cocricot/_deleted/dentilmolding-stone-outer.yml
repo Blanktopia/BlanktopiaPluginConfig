@@ -1,0 +1,7 @@
+name: Dentilmolding Stone Outer
+material: PAPER
+custom-model-data: 3416
+model: 'cocricotmod:block/dentilmolding_stone_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drawer Simple Clear Both Up
+material: PAPER
+custom-model-data: 4567
+model: 'cocricotmod:block/drawer_simple_clear_both_up'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  2board H Clear Plate
+material: PAPER
+custom-model-data: 9313
+model: 'cocricotmod:block/wood_2board_h_clear_plate'
+
+block:
+  type: item

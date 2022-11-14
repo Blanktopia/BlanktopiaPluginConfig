@@ -1,0 +1,7 @@
+name: Awning Green Lower
+material: PAPER
+custom-model-data: 2058
+model: 'cocricotmod:block/awning_green_lower'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Diamond Yellow Pane Three
+material: PAPER
+custom-model-data: 8903
+model: 'cocricotmod:block/window_diamond_yellow_pane_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Stainless Both
+material: PAPER
+custom-model-data: 2833
+model: cocricotmod:block/cabinet_stainless_both
+block:
+  type: item
+  collision: true

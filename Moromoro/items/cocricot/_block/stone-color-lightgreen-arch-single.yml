@@ -1,0 +1,7 @@
+name: Stone Color Lightgreen Arch Single
+material: PAPER
+custom-model-data: 7789
+model: 'cocricotmod:block/stone_color_lightgreen_arch_single'
+
+block:
+  type: item

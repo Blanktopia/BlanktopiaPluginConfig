@@ -1,0 +1,7 @@
+name: Roof Copper Blue Vslab
+material: PAPER
+custom-model-data: 6440
+model: 'cocricotmod:block/roof_copper_blue_vslab'
+
+block:
+  type: item

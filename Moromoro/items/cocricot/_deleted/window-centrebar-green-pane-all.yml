@@ -1,0 +1,7 @@
+name: Window Centrebar Green Pane All
+material: PAPER
+custom-model-data: 8625
+model: 'cocricotmod:block/window_centrebar_green_pane_all'
+
+block:
+  type: item

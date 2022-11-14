@@ -1,0 +1,7 @@
+name: Gardenbench Pink Right
+material: PAPER
+custom-model-data: 4978
+model: cocricotmod:block/gardenbench_pink_right
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Windowframe Side
+material: PAPER
+custom-model-data: 9137
+model: 'cocricotmod:block/windowframe_side'
+
+block:
+  type: item

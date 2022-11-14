@@ -1,0 +1,7 @@
+name: Faucet Wall Black
+material: PAPER
+custom-model-data: 4687
+model: 'cocricotmod:block/faucet_wall_black'
+
+block:
+  type: item

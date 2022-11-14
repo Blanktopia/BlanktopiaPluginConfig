@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Gray
+material: PAPER
+custom-model-data: 9880
+model: 'cocricotmod:block/wood_wrapsiding_gray'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Bluewhite Frame Slab
+material: PAPER
+custom-model-data: 5192
+model: 'cocricotmod:block/halftimber_bluewhite_frame_slab'
+
+block:
+  type: item

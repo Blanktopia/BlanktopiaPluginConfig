@@ -1,0 +1,7 @@
+name: Windowframe Arch Black
+material: PAPER
+custom-model-data: 9032
+model: 'cocricotmod:block/windowframe_arch_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Yellow Pane Post
+material: PAPER
+custom-model-data: 8795
+model: 'cocricotmod:block/window_color_yellow_pane_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Floorlamp Turnedleg White
+material: PAPER
+custom-model-data: 4872
+model: 'cocricotmod:block/floorlamp_turnedleg_white'
+
+block:
+  type: item

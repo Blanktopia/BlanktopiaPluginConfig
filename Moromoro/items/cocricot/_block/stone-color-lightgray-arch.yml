@@ -1,0 +1,7 @@
+name: Stone Color Lightgray Arch
+material: PAPER
+custom-model-data: 7775
+model: 'cocricotmod:block/stone_color_lightgray_arch'
+
+block:
+  type: item

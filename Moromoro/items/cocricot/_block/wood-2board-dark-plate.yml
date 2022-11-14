@@ -1,0 +1,7 @@
+name: Wood  2board Dark Plate
+material: PAPER
+custom-model-data: 9289
+model: 'cocricotmod:block/wood_2board_dark_plate'
+
+block:
+  type: item

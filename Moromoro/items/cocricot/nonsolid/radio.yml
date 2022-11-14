@@ -1,0 +1,7 @@
+name: Radio
+material: PAPER
+custom-model-data: 6301
+model: 'cocricotmod:block/radio'
+
+block:
+  type: item

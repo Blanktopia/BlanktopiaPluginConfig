@@ -1,0 +1,7 @@
+name: Table Cloth Topcloth Red
+material: PAPER
+custom-model-data: 8169
+model: 'cocricotmod:block/table_cloth_topcloth_red'
+
+block:
+  type: item

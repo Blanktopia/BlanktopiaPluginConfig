@@ -1,0 +1,7 @@
+name: Ceilingspotlight Rail Brown
+material: PAPER
+custom-model-data: 2947
+model: 'cocricotmod:block/ceilingspotlight_rail_brown'
+
+block:
+  type: item

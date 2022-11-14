@@ -1,0 +1,7 @@
+name: Ironfence Chain White Item
+material: PAPER
+custom-model-data: 5856
+model: 'cocricotmod:block/ironfence_chain_white_item'
+
+block:
+  type: item

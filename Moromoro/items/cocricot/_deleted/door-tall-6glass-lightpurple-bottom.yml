@@ -1,0 +1,7 @@
+name: Door Tall  6glass Lightpurple Bottom
+material: PAPER
+custom-model-data: 4360
+model: 'cocricotmod:block/door_tall_6glass_lightpurple_bottom'
+
+block:
+  type: item

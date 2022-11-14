@@ -1,0 +1,7 @@
+name: Base Slab H Upper
+material: PAPER
+custom-model-data: 2345
+model: 'cocricotmod:block/base_slab_h_upper'
+
+block:
+  type: item

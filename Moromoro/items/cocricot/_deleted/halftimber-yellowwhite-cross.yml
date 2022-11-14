@@ -1,0 +1,7 @@
+name: Halftimber Yellowwhite Cross
+material: PAPER
+custom-model-data: 5537
+model: 'cocricotmod:block/halftimber_yellowwhite_cross'
+
+block:
+  type: item

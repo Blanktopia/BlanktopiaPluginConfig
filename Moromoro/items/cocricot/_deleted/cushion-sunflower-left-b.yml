@@ -1,0 +1,7 @@
+name: Cushion Sunflower Left B
+material: PAPER
+custom-model-data: 3366
+model: 'cocricotmod:block/cushion_sunflower_left_b'
+
+block:
+  type: item

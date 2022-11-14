@@ -1,0 +1,7 @@
+name: Ironlight Round Gold
+material: PAPER
+custom-model-data: 5860
+model: 'cocricotmod:block/ironlight_round_gold'
+
+block:
+  type: item

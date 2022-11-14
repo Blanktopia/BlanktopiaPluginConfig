@@ -1,0 +1,7 @@
+name: Coffeetable Midcentury Brown Single
+material: PAPER
+custom-model-data: 3178
+model: cocricotmod:block/coffeetable_midcentury_brown_single
+block:
+  type: item
+  collision: true

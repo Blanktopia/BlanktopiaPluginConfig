@@ -1,0 +1,7 @@
+name: Window Centrebar Red Pane Post
+material: PAPER
+custom-model-data: 8669
+model: 'cocricotmod:block/window_centrebar_red_pane_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Cross Dark Side
+material: PAPER
+custom-model-data: 4701
+model: 'cocricotmod:block/fence_cross_dark_side'
+
+block:
+  type: item

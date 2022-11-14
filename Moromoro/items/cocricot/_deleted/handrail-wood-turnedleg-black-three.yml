@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Black Three
+material: PAPER
+custom-model-data: 5687
+model: 'cocricotmod:block/handrail_wood_turnedleg_black_three'
+
+block:
+  type: item

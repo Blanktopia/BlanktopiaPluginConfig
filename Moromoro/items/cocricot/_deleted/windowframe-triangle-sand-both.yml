@@ -1,0 +1,7 @@
+name: Windowframe Triangle Sand Both
+material: PAPER
+custom-model-data: 9238
+model: 'cocricotmod:block/windowframe_triangle_sand_both'
+
+block:
+  type: item

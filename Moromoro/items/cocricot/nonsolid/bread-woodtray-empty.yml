@@ -1,0 +1,7 @@
+name: Bread Woodtray Empty
+material: PAPER
+custom-model-data: 2616
+model: 'cocricotmod:block/bread_woodtray_empty'
+
+block:
+  type: item

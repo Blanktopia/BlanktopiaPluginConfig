@@ -1,0 +1,7 @@
+name: Wallphoto Big Beach Shift
+material: PAPER
+custom-model-data: 8383
+model: 'cocricotmod:block/wallphoto_big_beach_shift'
+
+block:
+  type: item

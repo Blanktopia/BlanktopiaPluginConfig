@@ -1,0 +1,7 @@
+name: Door Tall  6glass Green Top O
+material: PAPER
+custom-model-data: 4333
+model: 'cocricotmod:block/door_tall_6glass_green_top_o'
+
+block:
+  type: item

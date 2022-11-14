@@ -1,0 +1,7 @@
+name: Roof Spanish Yellow Incline
+material: PAPER
+custom-model-data: 6775
+model: 'cocricotmod:block/roof_spanish_yellow_incline'
+
+block:
+  type: item

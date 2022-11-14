@@ -1,0 +1,7 @@
+name: Chair Dining Normal Black
+material: PAPER
+custom-model-data: 3003
+model: cocricotmod:block/chair_dining_normal_black
+block:
+  type: item
+  sit-height: 0.4375

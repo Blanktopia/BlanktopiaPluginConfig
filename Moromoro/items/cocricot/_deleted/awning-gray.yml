@@ -1,0 +1,7 @@
+name: Awning Gray
+material: PAPER
+custom-model-data: 2045
+model: 'cocricotmod:block/awning_gray'
+
+block:
+  type: item

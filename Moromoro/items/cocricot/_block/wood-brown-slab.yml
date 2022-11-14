@@ -1,0 +1,7 @@
+name: Wood Brown Slab
+material: PAPER
+custom-model-data: 9679
+model: 'cocricotmod:block/wood_brown_slab'
+
+block:
+  type: item

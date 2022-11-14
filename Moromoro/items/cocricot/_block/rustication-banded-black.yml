@@ -1,0 +1,7 @@
+name: Rustication Banded Black
+material: PAPER
+custom-model-data: 7104
+model: 'cocricotmod:block/rustication_banded_black'
+
+block:
+  type: item

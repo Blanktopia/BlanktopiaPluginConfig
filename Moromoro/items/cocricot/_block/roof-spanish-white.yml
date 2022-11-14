@@ -1,0 +1,7 @@
+name: Roof Spanish White
+material: PAPER
+custom-model-data: 6754
+model: 'cocricotmod:block/roof_spanish_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Orange
+material: PAPER
+custom-model-data: 2675
+model: 'cocricotmod:block/brick_orange'
+
+block:
+  type: item

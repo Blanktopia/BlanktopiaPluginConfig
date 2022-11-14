@@ -1,0 +1,7 @@
+name: Window Arch White Pane All
+material: PAPER
+custom-model-data: 8583
+model: 'cocricotmod:block/window_arch_white_pane_all'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Centrebar Mintgreen Pane Post
+material: PAPER
+custom-model-data: 8655
+model: 'cocricotmod:block/window_centrebar_mintgreen_pane_post'
+
+block:
+  type: item

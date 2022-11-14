@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Seadrift Side
+material: PAPER
+custom-model-data: 5743
+model: 'cocricotmod:block/handrail_wood_turnedleg_seadrift_side'
+
+block:
+  type: item

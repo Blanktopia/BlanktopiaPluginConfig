@@ -1,0 +1,7 @@
+name: Awning Stripe Blue Stairs Inner
+material: PAPER
+custom-model-data: 2154
+model: 'cocricotmod:block/awning_stripe_blue_stairs_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Signpost Wood White 3
+material: PAPER
+custom-model-data: 7297
+model: 'cocricotmod:block/signpost_wood_white3'
+
+block:
+  type: item

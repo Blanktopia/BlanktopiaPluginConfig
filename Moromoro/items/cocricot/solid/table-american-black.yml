@@ -1,0 +1,7 @@
+name: Table American Black
+material: PAPER
+custom-model-data: 8151
+model: cocricotmod:block/table_american_black
+block:
+  type: item
+  collision: true

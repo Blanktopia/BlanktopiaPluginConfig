@@ -1,0 +1,7 @@
+name: Pendantlight Rattan Long Dark
+material: PAPER
+custom-model-data: 6216
+model: 'cocricotmod:block/pendantlight_rattan_long_dark'
+
+block:
+  type: item

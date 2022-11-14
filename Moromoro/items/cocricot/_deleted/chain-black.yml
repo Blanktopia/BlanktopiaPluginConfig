@@ -1,0 +1,7 @@
+name: Chain Black
+material: PAPER
+custom-model-data: 2964
+model: 'cocricotmod:block/chain_black'
+
+block:
+  type: item

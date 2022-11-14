@@ -1,0 +1,7 @@
+name: Shopfacade Paris Green
+material: PAPER
+custom-model-data: 7202
+model: 'cocricotmod:block/shopfacade_paris_green'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Yellow
+material: PAPER
+custom-model-data: 2281
+model: 'cocricotmod:block/awning_yellow'
+
+block:
+  type: item

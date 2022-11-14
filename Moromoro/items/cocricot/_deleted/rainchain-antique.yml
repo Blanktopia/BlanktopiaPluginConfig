@@ -1,0 +1,7 @@
+name: Rainchain Antique
+material: PAPER
+custom-model-data: 6303
+model: 'cocricotmod:block/rainchain_antique'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Hammock Simple
+material: PAPER
+custom-model-data: 5555
+model: 'cocricotmod:block/hammock_simple'
+
+block:
+  type: item

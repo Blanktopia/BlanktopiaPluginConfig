@@ -1,0 +1,7 @@
+name: Fence Cross Natural Side
+material: PAPER
+custom-model-data: 4707
+model: 'cocricotmod:block/fence_cross_natural_side'
+
+block:
+  type: item

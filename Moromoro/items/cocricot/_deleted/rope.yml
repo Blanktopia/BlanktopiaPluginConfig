@@ -1,0 +1,7 @@
+name: Rope
+material: PAPER
+custom-model-data: 6854
+model: 'cocricotmod:block/rope'
+
+block:
+  type: item

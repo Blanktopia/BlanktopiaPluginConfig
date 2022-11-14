@@ -1,0 +1,7 @@
+name: Roof Copper Red Incline
+material: PAPER
+custom-model-data: 6507
+model: 'cocricotmod:block/roof_copper_red_incline'
+
+block:
+  type: item

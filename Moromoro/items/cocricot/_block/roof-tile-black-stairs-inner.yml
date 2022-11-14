@@ -1,0 +1,7 @@
+name: Roof Tile Black Stairs Inner
+material: PAPER
+custom-model-data: 6810
+model: 'cocricotmod:block/roof_tile_black_stairs_inner'
+
+block:
+  type: item

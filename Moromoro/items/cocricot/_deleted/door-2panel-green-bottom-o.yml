@@ -1,0 +1,7 @@
+name: Door  2panel Green Bottom O
+material: PAPER
+custom-model-data: 3593
+model: 'cocricotmod:block/door_2panel_green_bottom_o'
+
+block:
+  type: item

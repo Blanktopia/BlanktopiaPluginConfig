@@ -1,0 +1,7 @@
+name: Drainpipe Leaderhead Black
+material: PAPER
+custom-model-data: 4528
+model: 'cocricotmod:block/drainpipe_leaderhead_black'
+
+block:
+  type: item

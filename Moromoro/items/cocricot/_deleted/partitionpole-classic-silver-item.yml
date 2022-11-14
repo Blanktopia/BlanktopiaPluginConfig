@@ -1,0 +1,7 @@
+name: Partitionpole Classic Silver Item
+material: PAPER
+custom-model-data: 6178
+model: 'cocricotmod:block/partitionpole_classic_silver_item'
+
+block:
+  type: item

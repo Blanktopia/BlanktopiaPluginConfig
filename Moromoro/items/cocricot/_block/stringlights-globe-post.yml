@@ -1,0 +1,7 @@
+name: Stringlights Globe Post
+material: PAPER
+custom-model-data: 8014
+model: 'cocricotmod:block/stringlights_globe_post'
+
+block:
+  type: item

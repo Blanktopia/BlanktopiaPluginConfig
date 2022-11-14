@@ -1,0 +1,7 @@
+name: Gaslamp Green
+material: PAPER
+custom-model-data: 5044
+model: 'cocricotmod:block/gaslamp_green'
+
+block:
+  type: item

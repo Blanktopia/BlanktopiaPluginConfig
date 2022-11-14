@@ -1,0 +1,7 @@
+name: Stainless
+material: PAPER
+custom-model-data: 7556
+model: 'cocricotmod:block/stainless'
+
+block:
+  type: item

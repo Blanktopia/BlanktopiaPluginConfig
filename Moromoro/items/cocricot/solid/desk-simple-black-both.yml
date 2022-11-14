@@ -1,0 +1,7 @@
+name: Desk Simple Black Both
+material: PAPER
+custom-model-data: 3421
+model: cocricotmod:block/desk_simple_black_both
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Tapioca Matcha
+material: PAPER
+custom-model-data: 8238
+model: 'cocricotmod:block/tapioca_matcha'
+
+block:
+  type: item

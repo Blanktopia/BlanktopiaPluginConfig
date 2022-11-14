@@ -1,0 +1,7 @@
+name: Cushion White Both B
+material: PAPER
+custom-model-data: 3382
+model: 'cocricotmod:block/cushion_white_both_b'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Cobble Whitejoint Pile Height 6
+material: PAPER
+custom-model-data: 7682
+model: 'cocricotmod:block/stone_cobble_whitejoint_pile_height6'
+
+block:
+  type: item

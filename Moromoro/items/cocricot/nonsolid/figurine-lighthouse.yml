@@ -1,0 +1,7 @@
+name: Figurine Lighthouse
+material: PAPER
+custom-model-data: 4832
+model: 'cocricotmod:block/figurine_lighthouse'
+
+block:
+  type: item

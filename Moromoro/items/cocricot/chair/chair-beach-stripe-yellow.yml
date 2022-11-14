@@ -1,0 +1,7 @@
+name: Chair Beach Stripe Yellow
+material: PAPER
+custom-model-data: 3001
+model: cocricotmod:block/chair_beach_stripe_yellow
+block:
+  type: item
+  sit-height: 0.4375

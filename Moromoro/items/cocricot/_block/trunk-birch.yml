@@ -1,0 +1,7 @@
+name: Trunk Birch
+material: PAPER
+custom-model-data: 8328
+model: 'cocricotmod:block/trunk_birch'
+
+block:
+  type: item

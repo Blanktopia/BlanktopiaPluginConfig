@@ -1,0 +1,7 @@
+name: Menu Board Black
+material: PAPER
+custom-model-data: 6107
+model: 'cocricotmod:block/menu_board_black'
+
+block:
+  type: item

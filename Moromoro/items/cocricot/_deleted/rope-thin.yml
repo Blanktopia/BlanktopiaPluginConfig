@@ -1,0 +1,7 @@
+name: Rope Thin
+material: PAPER
+custom-model-data: 6862
+model: 'cocricotmod:block/rope_thin'
+
+block:
+  type: item

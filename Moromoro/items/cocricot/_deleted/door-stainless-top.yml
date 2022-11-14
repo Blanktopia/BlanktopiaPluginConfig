@@ -1,0 +1,7 @@
+name: Door Stainless Top
+material: PAPER
+custom-model-data: 3868
+model: 'cocricotmod:block/door_stainless_top'
+
+block:
+  type: item

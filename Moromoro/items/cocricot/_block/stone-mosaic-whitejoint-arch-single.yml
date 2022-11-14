@@ -1,0 +1,7 @@
+name: Stone Mosaic Whitejoint Arch Single
+material: PAPER
+custom-model-data: 7895
+model: 'cocricotmod:block/stone_mosaic_whitejoint_arch_single'
+
+block:
+  type: item

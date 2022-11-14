@@ -1,0 +1,7 @@
+name: Wood  2board H Brown Stairs Outer
+material: PAPER
+custom-model-data: 9310
+model: 'cocricotmod:block/wood_2board_h_brown_stairs_outer'
+
+block:
+  type: item

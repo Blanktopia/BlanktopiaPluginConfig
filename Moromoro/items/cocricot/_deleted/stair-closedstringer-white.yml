@@ -1,0 +1,7 @@
+name: Stair Closedstringer White
+material: PAPER
+custom-model-data: 7569
+model: 'cocricotmod:block/stair_closedstringer_white'
+
+block:
+  type: item

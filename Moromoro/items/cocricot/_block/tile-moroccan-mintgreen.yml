@@ -1,0 +1,7 @@
+name: Tile Moroccan Mintgreen
+material: PAPER
+custom-model-data: 8288
+model: 'cocricotmod:block/tile_moroccan_mintgreen'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Tile Grid Blackwhite
+material: PAPER
+custom-model-data: 8265
+model: 'cocricotmod:block/tile_grid_blackwhite'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bicycle Black Set
+material: PAPER
+custom-model-data: 2464
+model: 'cocricotmod:block/bicycle_black_set'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish Yellow Vslab
+material: PAPER
+custom-model-data: 6793
+model: 'cocricotmod:block/roof_spanish_yellow_vslab'
+
+block:
+  type: item

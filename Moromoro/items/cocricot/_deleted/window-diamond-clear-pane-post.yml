@@ -1,0 +1,7 @@
+name: Window Diamond Clear Pane Post
+material: PAPER
+custom-model-data: 8823
+model: 'cocricotmod:block/window_diamond_clear_pane_post'
+
+block:
+  type: item

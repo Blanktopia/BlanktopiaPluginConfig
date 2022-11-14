@@ -1,0 +1,7 @@
+name: Coffeetable Glass Left
+material: PAPER
+custom-model-data: 3147
+model: 'cocricotmod:block/coffeetable_glass_left'
+
+block:
+  type: item

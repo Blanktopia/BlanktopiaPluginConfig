@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Clear Both
+material: PAPER
+custom-model-data: 5606
+model: 'cocricotmod:block/handrail_wood_straight_clear_both'
+
+block:
+  type: item

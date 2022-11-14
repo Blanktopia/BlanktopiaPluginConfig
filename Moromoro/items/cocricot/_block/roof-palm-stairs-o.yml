@@ -1,0 +1,7 @@
+name: Roof Palm Stairs O
+material: PAPER
+custom-model-data: 6630
+model: 'cocricotmod:block/roof_palm_stairs_o'
+
+block:
+  type: item

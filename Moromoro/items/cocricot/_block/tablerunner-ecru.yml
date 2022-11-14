@@ -1,0 +1,7 @@
+name: Tablerunner Ecru
+material: PAPER
+custom-model-data: 8234
+model: 'cocricotmod:block/tablerunner_ecru'
+
+block:
+  type: item

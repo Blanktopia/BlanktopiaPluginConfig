@@ -1,0 +1,7 @@
+name: Window Diamond Natural
+material: PAPER
+custom-model-data: 8869
+model: 'cocricotmod:block/window_diamond_natural'
+
+block:
+  type: item

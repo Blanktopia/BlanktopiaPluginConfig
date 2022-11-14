@@ -1,0 +1,7 @@
+name: Cushion Brown Jag Slipper
+material: PAPER
+custom-model-data: 3319
+model: 'cocricotmod:block/cushion_brown_jag_slipper'
+
+block:
+  type: item

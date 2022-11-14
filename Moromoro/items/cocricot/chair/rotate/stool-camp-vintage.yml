@@ -1,0 +1,8 @@
+name: Stool Camp Vintage
+material: PAPER
+custom-model-data: 7999
+model: cocricotmod:block/stool_camp_vintage
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

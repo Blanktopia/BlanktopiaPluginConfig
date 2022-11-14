@@ -1,0 +1,7 @@
+name: Sink Shabby Pink
+material: PAPER
+custom-model-data: 7328
+model: cocricotmod:block/sink_shabby_pink
+block:
+  type: item
+  collision: true

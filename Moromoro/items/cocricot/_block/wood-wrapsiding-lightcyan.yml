@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightcyan
+material: PAPER
+custom-model-data: 9888
+model: 'cocricotmod:block/wood_wrapsiding_lightcyan'
+
+block:
+  type: item

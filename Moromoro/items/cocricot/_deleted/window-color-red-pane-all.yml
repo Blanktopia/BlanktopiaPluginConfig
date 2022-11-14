@@ -1,0 +1,7 @@
+name: Window Color Red Pane All
+material: PAPER
+custom-model-data: 8772
+model: 'cocricotmod:block/window_color_red_pane_all'
+
+block:
+  type: item

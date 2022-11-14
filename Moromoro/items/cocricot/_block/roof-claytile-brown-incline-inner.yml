@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Incline Inner
+material: PAPER
+custom-model-data: 6388
+model: 'cocricotmod:block/roof_claytile_brown_incline_inner'
+
+block:
+  type: item

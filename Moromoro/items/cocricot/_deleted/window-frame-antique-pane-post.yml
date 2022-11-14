@@ -1,0 +1,7 @@
+name: Window Frame Antique Pane Post
+material: PAPER
+custom-model-data: 8935
+model: 'cocricotmod:block/window_frame_antique_pane_post'
+
+block:
+  type: item

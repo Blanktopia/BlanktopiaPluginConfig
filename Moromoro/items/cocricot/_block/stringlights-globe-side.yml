@@ -1,0 +1,7 @@
+name: Stringlights Globe Side
+material: PAPER
+custom-model-data: 8015
+model: 'cocricotmod:block/stringlights_globe_side'
+
+block:
+  type: item

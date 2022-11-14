@@ -1,0 +1,7 @@
+name: Sofa Slipper Green Outer
+material: PAPER
+custom-model-data: 7490
+model: cocricotmod:block/sofa_slipper_green_outer
+block:
+  type: item
+  sit-height: 0.4375

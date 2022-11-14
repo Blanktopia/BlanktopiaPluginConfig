@@ -1,0 +1,7 @@
+name: Door Tall  1glass White Top Rh O
+material: PAPER
+custom-model-data: 3927
+model: 'cocricotmod:block/door_tall_1glass_white_top_rh_o'
+
+block:
+  type: item

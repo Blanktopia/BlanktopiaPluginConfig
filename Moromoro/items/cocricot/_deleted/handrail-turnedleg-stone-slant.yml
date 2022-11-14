@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Stone Slant
+material: PAPER
+custom-model-data: 5586
+model: 'cocricotmod:block/handrail_turnedleg_stone_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Signboard Square Lighting Down
+material: PAPER
+custom-model-data: 7258
+model: 'cocricotmod:block/signboard_square_lighting_down'
+
+block:
+  type: item

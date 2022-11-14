@@ -1,0 +1,7 @@
+name: Wheel Small
+material: PAPER
+custom-model-data: 8543
+model: 'cocricotmod:block/wheel_small'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Black Right B
+material: PAPER
+custom-model-data: 3296
+model: 'cocricotmod:block/cushion_black_right_b'
+
+block:
+  type: item

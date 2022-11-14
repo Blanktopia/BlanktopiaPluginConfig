@@ -1,0 +1,7 @@
+name: Stucco Blue Plate
+material: PAPER
+custom-model-data: 8023
+model: 'cocricotmod:block/stucco_blue_plate'
+
+block:
+  type: item

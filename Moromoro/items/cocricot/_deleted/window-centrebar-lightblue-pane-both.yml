@@ -1,0 +1,7 @@
+name: Window Centrebar Lightblue Pane Both
+material: PAPER
+custom-model-data: 8633
+model: 'cocricotmod:block/window_centrebar_lightblue_pane_both'
+
+block:
+  type: item

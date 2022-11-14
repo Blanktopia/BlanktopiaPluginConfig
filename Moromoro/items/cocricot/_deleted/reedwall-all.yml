@@ -1,0 +1,7 @@
+name: Reedwall All
+material: PAPER
+custom-model-data: 6344
+model: 'cocricotmod:block/reedwall_all'
+
+block:
+  type: item

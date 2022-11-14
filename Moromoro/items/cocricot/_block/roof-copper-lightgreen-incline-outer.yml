@@ -1,0 +1,7 @@
+name: Roof Copper Lightgreen Incline Outer
+material: PAPER
+custom-model-data: 6496
+model: 'cocricotmod:block/roof_copper_lightgreen_incline_outer'
+
+block:
+  type: item

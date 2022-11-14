@@ -1,0 +1,7 @@
+name: Log All Birch
+material: PAPER
+custom-model-data: 6019
+model: 'cocricotmod:block/log_all_birch'
+
+block:
+  type: item

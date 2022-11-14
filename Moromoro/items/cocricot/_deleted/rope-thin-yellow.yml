@@ -1,0 +1,7 @@
+name: Rope Thin Yellow
+material: PAPER
+custom-model-data: 6885
+model: 'cocricotmod:block/rope_thin_yellow'
+
+block:
+  type: item

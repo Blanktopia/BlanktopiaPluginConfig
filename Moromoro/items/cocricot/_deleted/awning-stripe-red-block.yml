@@ -1,0 +1,7 @@
+name: Awning Stripe Red Block
+material: PAPER
+custom-model-data: 2247
+model: 'cocricotmod:block/awning_stripe_red_block'
+
+block:
+  type: item

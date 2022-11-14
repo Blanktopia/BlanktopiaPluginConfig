@@ -1,0 +1,7 @@
+name: Flowerpot Darkorange
+material: PAPER
+custom-model-data: 4889
+model: 'cocricotmod:block/flowerpot_darkorange'
+
+block:
+  type: item

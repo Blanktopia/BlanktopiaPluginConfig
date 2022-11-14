@@ -1,0 +1,7 @@
+name: Chair American Mintgreen Whiteline
+material: PAPER
+custom-model-data: 2989
+model: cocricotmod:block/chair_american_mintgreen_whiteline
+block:
+  type: item
+  sit-height: 0.4375

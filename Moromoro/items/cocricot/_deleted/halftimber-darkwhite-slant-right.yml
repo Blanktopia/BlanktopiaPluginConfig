@@ -1,0 +1,7 @@
+name: Halftimber Darkwhite Slant Right
+material: PAPER
+custom-model-data: 5409
+model: 'cocricotmod:block/halftimber_darkwhite_slant_right'
+
+block:
+  type: item

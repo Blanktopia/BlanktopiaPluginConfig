@@ -1,0 +1,7 @@
+name: Tapioca Milktea Table
+material: PAPER
+custom-model-data: 8243
+model: 'cocricotmod:block/tapioca_milktea_table'
+
+block:
+  type: item

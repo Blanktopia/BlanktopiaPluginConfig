@@ -1,0 +1,7 @@
+name: Roof Copper Blue Stairs Outer
+material: PAPER
+custom-model-data: 6438
+model: 'cocricotmod:block/roof_copper_blue_stairs_outer'
+
+block:
+  type: item

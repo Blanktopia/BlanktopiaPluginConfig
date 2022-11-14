@@ -1,0 +1,7 @@
+name: Chair Paris Red
+material: PAPER
+custom-model-data: 3048
+model: cocricotmod:block/chair_paris_red
+block:
+  type: item
+  sit-height: 0.4375

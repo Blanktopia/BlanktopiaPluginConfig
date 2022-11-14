@@ -1,0 +1,7 @@
+name: Handrail Wood Straight White Slanting
+material: PAPER
+custom-model-data: 5674
+model: 'cocricotmod:block/handrail_wood_straight_white_slanting'
+
+block:
+  type: item

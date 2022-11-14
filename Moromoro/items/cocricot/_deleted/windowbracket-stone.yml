@@ -1,0 +1,7 @@
+name: Windowbracket Stone
+material: PAPER
+custom-model-data: 9015
+model: 'cocricotmod:block/windowbracket_stone'
+
+block:
+  type: item

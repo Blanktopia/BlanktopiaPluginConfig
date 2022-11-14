@@ -1,0 +1,7 @@
+name: Roof Claytile Orange Stick
+material: PAPER
+custom-model-data: 6424
+model: 'cocricotmod:block/roof_claytile_orange_stick'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Stripe Lightblue Upper
+material: PAPER
+custom-model-data: 2200
+model: 'cocricotmod:block/awning_stripe_lightblue_upper'
+
+block:
+  type: item

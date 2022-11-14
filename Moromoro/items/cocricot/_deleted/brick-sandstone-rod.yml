@@ -1,0 +1,7 @@
+name: Brick Sandstone Rod
+material: PAPER
+custom-model-data: 2715
+model: 'cocricotmod:block/brick_sandstone_rod'
+
+block:
+  type: item

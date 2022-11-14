@@ -1,0 +1,7 @@
+name: Cabinet Stainless Right
+material: PAPER
+custom-model-data: 2835
+model: cocricotmod:block/cabinet_stainless_right
+block:
+  type: item
+  collision: true

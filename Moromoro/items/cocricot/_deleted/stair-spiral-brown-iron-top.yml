@@ -1,0 +1,7 @@
+name: Stair Spiral Brown Iron Top
+material: PAPER
+custom-model-data: 7590
+model: 'cocricotmod:block/stair_spiral_brown_iron_top'
+
+block:
+  type: item

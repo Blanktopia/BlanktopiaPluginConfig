@@ -1,0 +1,7 @@
+name: Photoframe Winter 2
+material: PAPER
+custom-model-data: 6245
+model: 'cocricotmod:block/photoframe_winter2'
+
+block:
+  type: item

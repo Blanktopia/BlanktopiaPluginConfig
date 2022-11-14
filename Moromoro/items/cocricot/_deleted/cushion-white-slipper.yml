@@ -1,0 +1,7 @@
+name: Cushion White Slipper
+material: PAPER
+custom-model-data: 3389
+model: 'cocricotmod:block/cushion_white_slipper'
+
+block:
+  type: item

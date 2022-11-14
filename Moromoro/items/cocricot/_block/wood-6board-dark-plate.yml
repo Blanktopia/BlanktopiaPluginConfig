@@ -1,0 +1,7 @@
+name: Wood  6board Dark Plate
+material: PAPER
+custom-model-data: 9561
+model: 'cocricotmod:block/wood_6board_dark_plate'
+
+block:
+  type: item

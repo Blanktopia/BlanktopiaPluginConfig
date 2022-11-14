@@ -1,0 +1,7 @@
+name: Wallshelf Chain Natural
+material: PAPER
+custom-model-data: 8493
+model: 'cocricotmod:block/wallshelf_chain_natural'
+
+block:
+  type: item

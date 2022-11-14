@@ -1,0 +1,7 @@
+name: Globe Black
+material: PAPER
+custom-model-data: 5158
+model: cocricotmod:block/globe_black
+block:
+  type: item
+  collision: true

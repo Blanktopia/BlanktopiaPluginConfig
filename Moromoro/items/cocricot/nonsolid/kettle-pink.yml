@@ -1,0 +1,7 @@
+name: Kettle Pink
+material: PAPER
+custom-model-data: 5880
+model: 'cocricotmod:block/kettle_pink'
+
+block:
+  type: item

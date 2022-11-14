@@ -1,0 +1,7 @@
+name: Bicycle Red Set
+material: PAPER
+custom-model-data: 2470
+model: 'cocricotmod:block/bicycle_red_set'
+
+block:
+  type: item

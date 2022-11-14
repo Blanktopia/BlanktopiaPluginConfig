@@ -1,0 +1,7 @@
+name: Roof Incline Outer
+material: PAPER
+custom-model-data: 6615
+model: 'cocricotmod:block/roof_incline_outer'
+
+block:
+  type: item

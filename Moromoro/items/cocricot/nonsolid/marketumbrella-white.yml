@@ -1,0 +1,7 @@
+name: Marketumbrella White
+material: PAPER
+custom-model-data: 6096
+model: 'cocricotmod:block/marketumbrella_white'
+
+block:
+  type: item

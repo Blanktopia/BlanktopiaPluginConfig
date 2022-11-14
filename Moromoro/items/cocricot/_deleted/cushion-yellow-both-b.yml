@@ -1,0 +1,7 @@
+name: Cushion Yellow Both B
+material: PAPER
+custom-model-data: 3400
+model: 'cocricotmod:block/cushion_yellow_both_b'
+
+block:
+  type: item

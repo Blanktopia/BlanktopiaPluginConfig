@@ -1,0 +1,7 @@
+name: Roof Copper Red Vslab
+material: PAPER
+custom-model-data: 6520
+model: 'cocricotmod:block/roof_copper_red_vslab'
+
+block:
+  type: item

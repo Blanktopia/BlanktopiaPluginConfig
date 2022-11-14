@@ -1,0 +1,7 @@
+name: Recordplayer Wood Natural
+material: PAPER
+custom-model-data: 6341
+model: 'cocricotmod:block/recordplayer_wood_natural'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drooping Rose Yellow
+material: PAPER
+custom-model-data: 4660
+model: 'cocricotmod:block/drooping_rose_yellow'
+
+block:
+  type: item

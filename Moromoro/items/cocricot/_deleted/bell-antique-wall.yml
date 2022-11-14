@@ -1,0 +1,7 @@
+name: Bell Antique Wall
+material: PAPER
+custom-model-data: 2443
+model: 'cocricotmod:block/bell_antique_wall'
+
+block:
+  type: item

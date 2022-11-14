@@ -1,0 +1,7 @@
+name: Tablelamp Geometric
+material: PAPER
+custom-model-data: 8223
+model: 'cocricotmod:block/tablelamp_geometric'
+
+block:
+  type: item

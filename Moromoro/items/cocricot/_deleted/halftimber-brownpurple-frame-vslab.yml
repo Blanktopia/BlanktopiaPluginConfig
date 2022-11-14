@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Frame Vslab
+material: PAPER
+custom-model-data: 5269
+model: 'cocricotmod:block/halftimber_brownpurple_frame_vslab'
+
+block:
+  type: item

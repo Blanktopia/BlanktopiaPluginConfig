@@ -1,0 +1,7 @@
+name: Window Centrebar Antique
+material: PAPER
+custom-model-data: 8589
+model: 'cocricotmod:block/window_centrebar_antique'
+
+block:
+  type: item

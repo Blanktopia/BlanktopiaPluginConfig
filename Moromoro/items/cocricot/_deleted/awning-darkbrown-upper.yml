@@ -1,0 +1,7 @@
+name: Awning Darkbrown Upper
+material: PAPER
+custom-model-data: 2043
+model: 'cocricotmod:block/awning_darkbrown_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Victorian Black Three
+material: PAPER
+custom-model-data: 4812
+model: 'cocricotmod:block/fence_victorian_black_three'
+
+block:
+  type: item

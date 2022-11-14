@@ -1,0 +1,7 @@
+name: Shower Rain Gold
+material: PAPER
+custom-model-data: 7237
+model: 'cocricotmod:block/shower_rain_gold'
+
+block:
+  type: item

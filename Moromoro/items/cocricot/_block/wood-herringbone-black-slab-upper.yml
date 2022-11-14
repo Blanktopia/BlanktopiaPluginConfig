@@ -1,0 +1,7 @@
+name: Wood Herringbone Black Slab Upper
+material: PAPER
+custom-model-data: 9716
+model: 'cocricotmod:block/wood_herringbone_black_slab_upper'
+
+block:
+  type: item

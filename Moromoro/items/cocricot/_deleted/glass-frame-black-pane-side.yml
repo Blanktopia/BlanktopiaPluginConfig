@@ -1,0 +1,7 @@
+name: Glass Frame Black Pane Side
+material: PAPER
+custom-model-data: 5052
+model: 'cocricotmod:block/glass_frame_black_pane_side'
+
+block:
+  type: item

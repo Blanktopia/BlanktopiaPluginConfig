@@ -1,0 +1,7 @@
+name: Range Retro Black
+material: PAPER
+custom-model-data: 6310
+model: cocricotmod:block/range_retro_black
+block:
+  type: item
+  collision: true

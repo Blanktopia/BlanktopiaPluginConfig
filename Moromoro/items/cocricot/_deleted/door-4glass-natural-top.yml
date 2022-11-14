@@ -1,0 +1,7 @@
+name: Door  4glass Natural Top
+material: PAPER
+custom-model-data: 3724
+model: 'cocricotmod:block/door_4glass_natural_top'
+
+block:
+  type: item

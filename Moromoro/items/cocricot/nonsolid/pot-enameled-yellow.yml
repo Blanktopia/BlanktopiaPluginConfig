@@ -1,0 +1,7 @@
+name: Pot Enameled Yellow
+material: PAPER
+custom-model-data: 6290
+model: 'cocricotmod:block/pot_enameled_yellow'
+
+block:
+  type: item

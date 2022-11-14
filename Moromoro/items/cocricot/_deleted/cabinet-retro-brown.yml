@@ -1,0 +1,7 @@
+name: Cabinet Retro Brown
+material: PAPER
+custom-model-data: 2810
+model: 'cocricotmod:block/cabinet_retro_brown'
+
+block:
+  type: item

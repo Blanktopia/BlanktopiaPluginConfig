@@ -1,0 +1,7 @@
+name: Window Frame Brown Pane Both
+material: PAPER
+custom-model-data: 8941
+model: 'cocricotmod:block/window_frame_brown_pane_both'
+
+block:
+  type: item

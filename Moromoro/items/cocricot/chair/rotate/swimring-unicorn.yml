@@ -1,0 +1,8 @@
+name: Swimring Unicorn
+material: PAPER
+custom-model-data: 8144
+model: cocricotmod:block/swimring_unicorn
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

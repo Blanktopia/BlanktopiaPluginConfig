@@ -1,0 +1,7 @@
+name: Glass Frame Silver
+material: PAPER
+custom-model-data: 5121
+model: 'cocricotmod:block/glass_frame_silver'
+
+block:
+  type: item

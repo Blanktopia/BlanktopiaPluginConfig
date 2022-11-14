@@ -1,0 +1,7 @@
+name: Wood Herringbone Dark Slab Upper
+material: PAPER
+custom-model-data: 9746
+model: 'cocricotmod:block/wood_herringbone_dark_slab_upper'
+
+block:
+  type: item

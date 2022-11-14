@@ -1,0 +1,7 @@
+name: Window Color Lightblue Pane Three
+material: PAPER
+custom-model-data: 8735
+model: 'cocricotmod:block/window_color_lightblue_pane_three'
+
+block:
+  type: item

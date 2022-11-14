@@ -1,0 +1,7 @@
+name: Barberspole Post
+material: PAPER
+custom-model-data: 2298
+model: 'cocricotmod:block/barberspole_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Rod
+material: PAPER
+custom-model-data: 6398
+model: 'cocricotmod:block/roof_claytile_brown_rod'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Sandstone Side
+material: PAPER
+custom-model-data: 5577
+model: 'cocricotmod:block/handrail_turnedleg_sandstone_side'
+
+block:
+  type: item

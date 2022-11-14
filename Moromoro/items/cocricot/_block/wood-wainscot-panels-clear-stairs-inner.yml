@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Clear Stairs Inner
+material: PAPER
+custom-model-data: 9826
+model: 'cocricotmod:block/wood_wainscot_panels_clear_stairs_inner'
+
+block:
+  type: item

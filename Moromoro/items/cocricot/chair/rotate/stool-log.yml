@@ -1,0 +1,8 @@
+name: Stool Log
+material: PAPER
+custom-model-data: 8005
+model: cocricotmod:block/stool_log
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

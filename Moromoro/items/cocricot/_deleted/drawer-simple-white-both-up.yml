@@ -1,0 +1,7 @@
+name: Drawer Simple White Both Up
+material: PAPER
+custom-model-data: 4631
+model: 'cocricotmod:block/drawer_simple_white_both_up'
+
+block:
+  type: item

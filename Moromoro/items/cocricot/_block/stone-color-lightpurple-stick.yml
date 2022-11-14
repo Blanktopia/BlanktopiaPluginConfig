@@ -1,0 +1,7 @@
+name: Stone Color Lightpurple Stick
+material: PAPER
+custom-model-data: 7810
+model: 'cocricotmod:block/stone_color_lightpurple_stick'
+
+block:
+  type: item

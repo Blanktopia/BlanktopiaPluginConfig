@@ -1,0 +1,7 @@
+name: Book Open Antique Table
+material: PAPER
+custom-model-data: 2489
+model: 'cocricotmod:block/book_open_antique_table'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Iron Classic Black All
+material: PAPER
+custom-model-data: 4723
+model: 'cocricotmod:block/fence_iron_classic_black_all'
+
+block:
+  type: item

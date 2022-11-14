@@ -1,0 +1,7 @@
+name: Hat Boater
+material: PAPER
+custom-model-data: 5806
+model: 'cocricotmod:block/hat_boater'
+
+block:
+  type: item

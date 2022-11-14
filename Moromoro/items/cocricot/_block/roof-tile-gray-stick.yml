@@ -1,0 +1,7 @@
+name: Roof Tile Gray Stick
+material: PAPER
+custom-model-data: 6832
+model: 'cocricotmod:block/roof_tile_gray_stick'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  1glass Natural Top
+material: PAPER
+custom-model-data: 3908
+model: 'cocricotmod:block/door_tall_1glass_natural_top'
+
+block:
+  type: item

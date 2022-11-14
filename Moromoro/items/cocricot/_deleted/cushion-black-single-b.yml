@@ -1,0 +1,7 @@
+name: Cushion Black Single B
+material: PAPER
+custom-model-data: 3298
+model: 'cocricotmod:block/cushion_black_single_b'
+
+block:
+  type: item

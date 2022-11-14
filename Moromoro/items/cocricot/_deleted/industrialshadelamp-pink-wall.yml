@@ -1,0 +1,7 @@
+name: Industrialshadelamp Pink Wall
+material: PAPER
+custom-model-data: 5844
+model: 'cocricotmod:block/industrialshadelamp_pink_wall'
+
+block:
+  type: item

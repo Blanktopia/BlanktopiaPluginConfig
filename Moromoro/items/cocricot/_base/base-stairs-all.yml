@@ -1,0 +1,7 @@
+name: Base Stairs All
+material: PAPER
+custom-model-data: 2347
+model: 'cocricotmod:block/base_stairs_all'
+
+block:
+  type: item

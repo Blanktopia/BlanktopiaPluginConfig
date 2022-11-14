@@ -1,0 +1,7 @@
+name: Window Color White
+material: PAPER
+custom-model-data: 8778
+model: 'cocricotmod:block/window_color_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cocktail Pink
+material: PAPER
+custom-model-data: 3126
+model: 'cocricotmod:block/cocktail_pink'
+
+block:
+  type: item

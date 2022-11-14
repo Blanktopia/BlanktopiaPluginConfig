@@ -1,0 +1,7 @@
+name: Marketumbrella Stand
+material: PAPER
+custom-model-data: 6095
+model: 'cocricotmod:block/marketumbrella_stand'
+
+block:
+  type: item

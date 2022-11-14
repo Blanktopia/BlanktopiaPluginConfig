@@ -1,0 +1,7 @@
+name: Roof Spanish Brown Vslab
+material: PAPER
+custom-model-data: 6671
+model: 'cocricotmod:block/roof_spanish_brown_vslab'
+
+block:
+  type: item

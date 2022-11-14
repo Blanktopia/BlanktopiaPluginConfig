@@ -1,0 +1,7 @@
+name: Tile Mosaic Big Black
+material: PAPER
+custom-model-data: 8292
+model: 'cocricotmod:block/tile_mosaic_big_black'
+
+block:
+  type: item

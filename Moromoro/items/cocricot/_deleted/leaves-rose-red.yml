@@ -1,0 +1,7 @@
+name: Leaves Rose Red
+material: PAPER
+custom-model-data: 5972
+model: 'cocricotmod:block/leaves_rose_red'
+
+block:
+  type: item

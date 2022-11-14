@@ -1,0 +1,7 @@
+name: Window Pane Three
+material: PAPER
+custom-model-data: 9001
+model: 'cocricotmod:block/window_pane_three'
+
+block:
+  type: item

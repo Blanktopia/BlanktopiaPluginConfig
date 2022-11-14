@@ -1,0 +1,7 @@
+name: Stucco Orange Rod
+material: PAPER
+custom-model-data: 8066
+model: 'cocricotmod:block/stucco_orange_rod'
+
+block:
+  type: item

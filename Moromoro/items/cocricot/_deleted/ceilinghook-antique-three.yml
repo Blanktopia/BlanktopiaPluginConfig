@@ -1,0 +1,7 @@
+name: Ceilinghook Antique Three
+material: PAPER
+custom-model-data: 2928
+model: 'cocricotmod:block/ceilinghook_antique_three'
+
+block:
+  type: item

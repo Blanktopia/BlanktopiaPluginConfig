@@ -1,0 +1,7 @@
+name: Espressomachine Silver
+material: PAPER
+custom-model-data: 4664
+model: cocricotmod:block/espressomachine_silver
+block:
+  type: item
+  collision: true

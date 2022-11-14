@@ -1,0 +1,7 @@
+name: Brick Castlestone Plate
+material: PAPER
+custom-model-data: 2641
+model: 'cocricotmod:block/brick_castlestone_plate'
+
+block:
+  type: item

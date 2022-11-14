@@ -1,0 +1,7 @@
+name: Window Arch Black Pane Three
+material: PAPER
+custom-model-data: 8567
+model: 'cocricotmod:block/window_arch_black_pane_three'
+
+block:
+  type: item

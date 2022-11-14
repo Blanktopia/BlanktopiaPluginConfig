@@ -1,0 +1,7 @@
+name: Rope Thin Mintgreen True
+material: PAPER
+custom-model-data: 6875
+model: 'cocricotmod:block/rope_thin_mintgreen_true'
+
+block:
+  type: item

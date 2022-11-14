@@ -1,0 +1,7 @@
+name: Speaker Small Antique
+material: PAPER
+custom-model-data: 7548
+model: 'cocricotmod:block/speaker_small_antique'
+
+block:
+  type: item

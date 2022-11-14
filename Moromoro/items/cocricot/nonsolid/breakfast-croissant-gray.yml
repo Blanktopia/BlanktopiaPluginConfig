@@ -1,0 +1,7 @@
+name: Breakfast Croissant Gray
+material: PAPER
+custom-model-data: 2619
+model: 'cocricotmod:block/breakfast_croissant_gray'
+
+block:
+  type: item

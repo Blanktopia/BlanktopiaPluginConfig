@@ -1,0 +1,7 @@
+name: Glass Frame Slab
+material: PAPER
+custom-model-data: 5133
+model: 'cocricotmod:block/glass_frame_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Gardenbench Dark Single
+material: PAPER
+custom-model-data: 4954
+model: cocricotmod:block/gardenbench_dark_single
+block:
+  type: item
+  sit-height: 0.4375

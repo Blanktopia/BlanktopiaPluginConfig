@@ -1,0 +1,7 @@
+name: Sink Cabinet White Ceramic
+material: PAPER
+custom-model-data: 7301
+model: cocricotmod:block/sink_cabinet_white_ceramic
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Climbing Rose Pink
+material: PAPER
+custom-model-data: 3101
+model: 'cocricotmod:block/climbing_rose_pink'
+
+block:
+  type: item

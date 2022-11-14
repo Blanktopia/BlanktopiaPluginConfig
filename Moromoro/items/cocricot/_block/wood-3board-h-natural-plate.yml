@@ -1,0 +1,7 @@
+name: Wood  3board H Natural Plate
+material: PAPER
+custom-model-data: 9463
+model: 'cocricotmod:block/wood_3board_h_natural_plate'
+
+block:
+  type: item

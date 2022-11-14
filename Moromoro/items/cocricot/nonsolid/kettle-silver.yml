@@ -1,0 +1,7 @@
+name: Kettle Silver
+material: PAPER
+custom-model-data: 5884
+model: 'cocricotmod:block/kettle_silver'
+
+block:
+  type: item

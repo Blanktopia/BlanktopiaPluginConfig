@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Blue Top Rh O
+material: PAPER
+custom-model-data: 3943
+model: 'cocricotmod:block/door_tall_2glass3panel_blue_top_rh_o'
+
+block:
+  type: item

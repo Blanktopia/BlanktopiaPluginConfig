@@ -1,0 +1,7 @@
+name: Windowframe Classic Side Black Right
+material: PAPER
+custom-model-data: 9090
+model: 'cocricotmod:block/windowframe_classic_side_black_right'
+
+block:
+  type: item

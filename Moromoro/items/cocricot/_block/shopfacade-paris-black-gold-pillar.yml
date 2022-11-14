@@ -1,0 +1,7 @@
+name: Shopfacade Paris Black Gold Pillar
+material: PAPER
+custom-model-data: 7189
+model: 'cocricotmod:block/shopfacade_paris_black_gold_pillar'
+
+block:
+  type: item

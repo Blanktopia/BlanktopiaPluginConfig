@@ -1,0 +1,7 @@
+name: Door Tall Top Rh O
+material: PAPER
+custom-model-data: 4495
+model: 'cocricotmod:block/door_tall_top_rh_o'
+
+block:
+  type: item

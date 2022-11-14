@@ -1,0 +1,7 @@
+name: Glass Frame Gold Pane Slant
+material: PAPER
+custom-model-data: 5101
+model: 'cocricotmod:block/glass_frame_gold_pane_slant'
+
+block:
+  type: item

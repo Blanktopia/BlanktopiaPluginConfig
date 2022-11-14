@@ -1,0 +1,7 @@
+name: Window Centrebar Clear Pane Three
+material: PAPER
+custom-model-data: 8616
+model: 'cocricotmod:block/window_centrebar_clear_pane_three'
+
+block:
+  type: item

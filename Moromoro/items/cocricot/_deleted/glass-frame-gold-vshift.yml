@@ -1,0 +1,7 @@
+name: Glass Frame Gold Vshift
+material: PAPER
+custom-model-data: 5107
+model: 'cocricotmod:block/glass_frame_gold_vshift'
+
+block:
+  type: item

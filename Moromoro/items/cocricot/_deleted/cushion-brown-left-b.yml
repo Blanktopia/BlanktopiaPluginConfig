@@ -1,0 +1,7 @@
+name: Cushion Brown Left B
+material: PAPER
+custom-model-data: 3321
+model: 'cocricotmod:block/cushion_brown_left_b'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Garland Cute Post
+material: PAPER
+custom-model-data: 5012
+model: 'cocricotmod:block/garland_cute_post'
+
+block:
+  type: item

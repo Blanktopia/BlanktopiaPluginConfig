@@ -1,0 +1,7 @@
+name: Stone Random
+material: PAPER
+custom-model-data: 7944
+model: 'cocricotmod:block/stone_random'
+
+block:
+  type: item

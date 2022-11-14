@@ -1,0 +1,7 @@
+name: Garland Black Three
+material: PAPER
+custom-model-data: 5003
+model: 'cocricotmod:block/garland_black_three'
+
+block:
+  type: item

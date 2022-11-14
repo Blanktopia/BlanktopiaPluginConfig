@@ -1,0 +1,7 @@
+name: Door  2panel Red Bottom Rh
+material: PAPER
+custom-model-data: 3650
+model: 'cocricotmod:block/door_2panel_red_bottom_rh'
+
+block:
+  type: item

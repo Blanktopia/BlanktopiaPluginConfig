@@ -1,0 +1,7 @@
+name: Globe Celestial Gold
+material: PAPER
+custom-model-data: 5161
+model: cocricotmod:block/globe_celestial_gold
+block:
+  type: item
+  collision: true

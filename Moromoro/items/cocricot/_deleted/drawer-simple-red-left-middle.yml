@@ -1,0 +1,7 @@
+name: Drawer Simple Red Left Middle
+material: PAPER
+custom-model-data: 4602
+model: 'cocricotmod:block/drawer_simple_red_left_middle'
+
+block:
+  type: item

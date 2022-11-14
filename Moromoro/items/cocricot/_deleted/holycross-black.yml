@@ -1,0 +1,7 @@
+name: Holycross Black
+material: PAPER
+custom-model-data: 5815
+model: 'cocricotmod:block/holycross_black'
+
+block:
+  type: item

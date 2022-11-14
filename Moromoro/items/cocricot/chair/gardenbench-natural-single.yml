@@ -1,0 +1,7 @@
+name: Gardenbench Natural Single
+material: PAPER
+custom-model-data: 4975
+model: cocricotmod:block/gardenbench_natural_single
+block:
+  type: item
+  sit-height: 0.4375

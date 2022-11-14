@@ -1,0 +1,7 @@
+name: Door  9glass Seadrift Bottom Rh
+material: PAPER
+custom-model-data: 3834
+model: 'cocricotmod:block/door_9glass_seadrift_bottom_rh'
+
+block:
+  type: item

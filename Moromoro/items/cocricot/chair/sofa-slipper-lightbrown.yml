@@ -1,0 +1,7 @@
+name: Sofa Slipper Lightbrown
+material: PAPER
+custom-model-data: 7494
+model: cocricotmod:block/sofa_slipper_lightbrown
+block:
+  type: item
+  sit-height: 0.4375

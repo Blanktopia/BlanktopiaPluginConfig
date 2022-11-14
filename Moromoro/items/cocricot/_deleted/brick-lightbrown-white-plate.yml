@@ -1,0 +1,7 @@
+name: Brick Lightbrown White Plate
+material: PAPER
+custom-model-data: 2666
+model: 'cocricotmod:block/brick_lightbrown_white_plate'
+
+block:
+  type: item

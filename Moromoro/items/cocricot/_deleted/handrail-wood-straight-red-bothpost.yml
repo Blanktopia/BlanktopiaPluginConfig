@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Red Bothpost
+material: PAPER
+custom-model-data: 5647
+model: 'cocricotmod:block/handrail_wood_straight_red_bothpost'
+
+block:
+  type: item

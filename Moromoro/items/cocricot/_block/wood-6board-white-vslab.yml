@@ -1,0 +1,7 @@
+name: Wood  6board White Vslab
+material: PAPER
+custom-model-data: 9661
+model: 'cocricotmod:block/wood_6board_white_vslab'
+
+block:
+  type: item

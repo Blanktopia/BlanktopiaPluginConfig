@@ -1,0 +1,7 @@
+name: Roof Fishscale Red
+material: PAPER
+custom-model-data: 6591
+model: 'cocricotmod:block/roof_fishscale_red'
+
+block:
+  type: item

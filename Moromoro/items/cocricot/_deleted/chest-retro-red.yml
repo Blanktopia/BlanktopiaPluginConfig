@@ -1,0 +1,7 @@
+name: Chest Retro Red
+material: PAPER
+custom-model-data: 3084
+model: 'cocricotmod:block/chest_retro_red'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Copper Yellow Plate
+material: PAPER
+custom-model-data: 6542
+model: 'cocricotmod:block/roof_copper_yellow_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stucco Marineblue White Stairs
+material: PAPER
+custom-model-data: 8058
+model: 'cocricotmod:block/stucco_marineblue_white_stairs'
+
+block:
+  type: item

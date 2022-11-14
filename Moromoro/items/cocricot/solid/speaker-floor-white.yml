@@ -1,0 +1,7 @@
+name: Speaker Floor White
+material: PAPER
+custom-model-data: 7543
+model: cocricotmod:block/speaker_floor_white
+block:
+  type: item
+  collision: true

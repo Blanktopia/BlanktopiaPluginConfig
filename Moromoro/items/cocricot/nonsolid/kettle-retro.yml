@@ -1,0 +1,7 @@
+name: Kettle Retro
+material: PAPER
+custom-model-data: 5883
+model: 'cocricotmod:block/kettle_retro'
+
+block:
+  type: item

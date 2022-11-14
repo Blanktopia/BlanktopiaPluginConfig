@@ -1,0 +1,7 @@
+name: Door Tall  8glass Clear Top Rh
+material: PAPER
+custom-model-data: 4446
+model: 'cocricotmod:block/door_tall_8glass_clear_top_rh'
+
+block:
+  type: item

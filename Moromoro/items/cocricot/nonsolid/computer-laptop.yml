@@ -1,0 +1,7 @@
+name: Computer Laptop
+material: PAPER
+custom-model-data: 3192
+model: 'cocricotmod:block/computer_laptop'
+
+block:
+  type: item

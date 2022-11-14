@@ -1,0 +1,7 @@
+name: Drainpipe Leaderhead
+material: PAPER
+custom-model-data: 4526
+model: 'cocricotmod:block/drainpipe_leaderhead'
+
+block:
+  type: item

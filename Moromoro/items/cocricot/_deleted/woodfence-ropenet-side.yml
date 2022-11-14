@@ -1,0 +1,7 @@
+name: Woodfence Ropenet Side
+material: PAPER
+custom-model-data: 9946
+model: 'cocricotmod:block/woodfence_ropenet_side'
+
+block:
+  type: item

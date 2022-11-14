@@ -1,0 +1,7 @@
+name: Curtain Separate White Left
+material: PAPER
+custom-model-data: 3286
+model: 'cocricotmod:block/curtain_separate_white_left'
+
+block:
+  type: item

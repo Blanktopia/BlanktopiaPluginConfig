@@ -1,0 +1,7 @@
+name: Rug Shag Round Black Corner
+material: PAPER
+custom-model-data: 6939
+model: 'cocricotmod:block/rug_shag_round_black_corner'
+
+block:
+  type: item

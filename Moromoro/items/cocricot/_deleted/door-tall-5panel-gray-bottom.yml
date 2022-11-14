@@ -1,0 +1,7 @@
+name: Door Tall  5panel Gray Bottom
+material: PAPER
+custom-model-data: 4192
+model: 'cocricotmod:block/door_tall_5panel_gray_bottom'
+
+block:
+  type: item

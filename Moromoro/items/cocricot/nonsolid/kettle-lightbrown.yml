@@ -1,0 +1,7 @@
+name: Kettle Lightbrown
+material: PAPER
+custom-model-data: 5878
+model: 'cocricotmod:block/kettle_lightbrown'
+
+block:
+  type: item

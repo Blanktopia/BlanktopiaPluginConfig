@@ -1,0 +1,7 @@
+name: Branch Spruce
+material: PAPER
+custom-model-data: 2607
+model: 'cocricotmod:block/branch_spruce'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowframe Classic Black Lower Inner
+material: PAPER
+custom-model-data: 9060
+model: 'cocricotmod:block/windowframe_classic_black_lower_inner'
+
+block:
+  type: item

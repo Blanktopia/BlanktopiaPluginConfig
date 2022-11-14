@@ -1,0 +1,7 @@
+name: Window Centrebar Yellow Pane Slant
+material: PAPER
+custom-model-data: 8692
+model: 'cocricotmod:block/window_centrebar_yellow_pane_slant'
+
+block:
+  type: item

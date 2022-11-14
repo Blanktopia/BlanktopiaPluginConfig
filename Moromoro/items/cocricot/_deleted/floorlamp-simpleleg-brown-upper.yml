@@ -1,0 +1,7 @@
+name: Floorlamp Simpleleg Brown Upper
+material: PAPER
+custom-model-data: 4853
+model: 'cocricotmod:block/floorlamp_simpleleg_brown_upper'
+
+block:
+  type: item

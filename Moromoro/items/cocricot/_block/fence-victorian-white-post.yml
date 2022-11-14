@@ -1,0 +1,7 @@
+name: Fence Victorian White Post
+material: PAPER
+custom-model-data: 4828
+model: 'cocricotmod:block/fence_victorian_white_post'
+
+block:
+  type: item

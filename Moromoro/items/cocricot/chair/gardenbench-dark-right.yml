@@ -1,0 +1,7 @@
+name: Gardenbench Dark Right
+material: PAPER
+custom-model-data: 4953
+model: cocricotmod:block/gardenbench_dark_right
+block:
+  type: item
+  sit-height: 0.4375

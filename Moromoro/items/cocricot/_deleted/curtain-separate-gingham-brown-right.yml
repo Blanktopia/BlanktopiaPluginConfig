@@ -1,0 +1,7 @@
+name: Curtain Separate Gingham Brown Right
+material: PAPER
+custom-model-data: 3258
+model: 'cocricotmod:block/curtain_separate_gingham_brown_right'
+
+block:
+  type: item

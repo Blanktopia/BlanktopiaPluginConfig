@@ -1,0 +1,7 @@
+name: Stucco White Vslab
+material: PAPER
+custom-model-data: 8112
+model: 'cocricotmod:block/stucco_white_vslab'
+
+block:
+  type: item

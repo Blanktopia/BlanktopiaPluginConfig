@@ -1,0 +1,7 @@
+name: Door Tall  2panel Blue Top Rh
+material: PAPER
+custom-model-data: 4070
+model: 'cocricotmod:block/door_tall_2panel_blue_top_rh'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Luggage Basket Stand
+material: PAPER
+custom-model-data: 6027
+model: 'cocricotmod:block/luggage_basket_stand'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Bracket White Left False
+material: PAPER
+custom-model-data: 8477
+model: 'cocricotmod:block/wallshelf_bracket_white_left_false'
+
+block:
+  type: item

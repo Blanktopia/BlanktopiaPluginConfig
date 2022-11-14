@@ -1,0 +1,7 @@
+name: Cabinet Color White Vslab
+material: PAPER
+custom-model-data: 2770
+model: 'cocricotmod:block/cabinet_color_white_vslab'
+
+block:
+  type: item

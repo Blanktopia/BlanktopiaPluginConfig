@@ -1,0 +1,7 @@
+name: Awning Gray Slab
+material: PAPER
+custom-model-data: 2049
+model: 'cocricotmod:block/awning_gray_slab'
+
+block:
+  type: item

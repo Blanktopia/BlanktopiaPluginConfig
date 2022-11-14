@@ -1,0 +1,7 @@
+name: Book Modern
+material: PAPER
+custom-model-data: 2486
+model: 'cocricotmod:block/book_modern'
+
+block:
+  type: item

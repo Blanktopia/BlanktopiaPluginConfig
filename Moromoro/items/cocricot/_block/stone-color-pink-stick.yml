@@ -1,0 +1,7 @@
+name: Stone Color Pink Stick
+material: PAPER
+custom-model-data: 7836
+model: 'cocricotmod:block/stone_color_pink_stick'
+
+block:
+  type: item

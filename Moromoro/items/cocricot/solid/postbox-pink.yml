@@ -1,0 +1,7 @@
+name: Postbox Pink
+material: PAPER
+custom-model-data: 6276
+model: cocricotmod:block/postbox_pink
+block:
+  type: item
+  collision: true

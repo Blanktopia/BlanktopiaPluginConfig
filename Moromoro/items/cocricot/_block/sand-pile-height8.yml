@@ -1,0 +1,7 @@
+name: Sand Pile Height 8
+material: PAPER
+custom-model-data: 7123
+model: 'cocricotmod:block/sand_pile_height8'
+
+block:
+  type: item

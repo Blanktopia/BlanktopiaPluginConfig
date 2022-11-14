@@ -1,0 +1,7 @@
+name: Roof Spanish Green Rod
+material: PAPER
+custom-model-data: 6684
+model: 'cocricotmod:block/roof_spanish_green_rod'
+
+block:
+  type: item

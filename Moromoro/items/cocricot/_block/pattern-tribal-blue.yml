@@ -1,0 +1,7 @@
+name: Pattern Tribal Blue
+material: PAPER
+custom-model-data: 6207
+model: 'cocricotmod:block/pattern_tribal_blue'
+
+block:
+  type: item

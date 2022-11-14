@@ -1,0 +1,7 @@
+name: Base Stairs H Inner
+material: PAPER
+custom-model-data: 2351
+model: 'cocricotmod:block/base_stairs_h_inner'
+
+block:
+  type: item

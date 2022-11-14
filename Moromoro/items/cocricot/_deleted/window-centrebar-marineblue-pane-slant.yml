@@ -1,0 +1,7 @@
+name: Window Centrebar Marineblue Pane Slant
+material: PAPER
+custom-model-data: 8650
+model: 'cocricotmod:block/window_centrebar_marineblue_pane_slant'
+
+block:
+  type: item

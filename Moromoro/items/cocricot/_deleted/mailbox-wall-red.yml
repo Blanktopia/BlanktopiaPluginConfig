@@ -1,0 +1,7 @@
+name: Mailbox Wall Red
+material: PAPER
+custom-model-data: 6041
+model: 'cocricotmod:block/mailbox_wall_red'
+
+block:
+  type: item

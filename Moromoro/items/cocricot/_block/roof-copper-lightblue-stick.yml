@@ -1,0 +1,7 @@
+name: Roof Copper Lightblue Stick
+material: PAPER
+custom-model-data: 6489
+model: 'cocricotmod:block/roof_copper_lightblue_stick'
+
+block:
+  type: item

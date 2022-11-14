@@ -1,0 +1,7 @@
+name: Cushion White Single B
+material: PAPER
+custom-model-data: 3388
+model: 'cocricotmod:block/cushion_white_single_b'
+
+block:
+  type: item

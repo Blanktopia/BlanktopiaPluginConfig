@@ -1,0 +1,7 @@
+name: Door Tall  5panel Gray Top Rh
+material: PAPER
+custom-model-data: 4198
+model: 'cocricotmod:block/door_tall_5panel_gray_top_rh'
+
+block:
+  type: item

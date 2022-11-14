@@ -1,0 +1,7 @@
+name: Awning White Stairs
+material: PAPER
+custom-model-data: 2276
+model: 'cocricotmod:block/awning_white_stairs'
+
+block:
+  type: item

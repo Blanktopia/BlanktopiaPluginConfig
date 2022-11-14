@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Slant Right
+material: PAPER
+custom-model-data: 5274
+model: 'cocricotmod:block/halftimber_brownpurple_slant_right'
+
+block:
+  type: item

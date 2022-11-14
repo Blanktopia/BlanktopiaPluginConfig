@@ -1,0 +1,7 @@
+name: Roof Claytile Orange Slab
+material: PAPER
+custom-model-data: 6419
+model: 'cocricotmod:block/roof_claytile_orange_slab'
+
+block:
+  type: item

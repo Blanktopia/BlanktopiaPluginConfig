@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Frame Slab
+material: PAPER
+custom-model-data: 5417
+model: 'cocricotmod:block/halftimber_darkyellow_frame_slab'
+
+block:
+  type: item

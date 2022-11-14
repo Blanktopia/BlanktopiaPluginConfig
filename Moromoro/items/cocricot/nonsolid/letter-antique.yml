@@ -1,0 +1,7 @@
+name: Letter Antique
+material: PAPER
+custom-model-data: 6009
+model: 'cocricotmod:block/letter_antique'
+
+block:
+  type: item

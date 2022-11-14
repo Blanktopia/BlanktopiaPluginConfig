@@ -1,0 +1,7 @@
+name: Bookshelf Antique Black Empty Slab Upper
+material: PAPER
+custom-model-data: 2501
+model: 'cocricotmod:block/bookshelf_antique_black_empty_slab_upper'
+
+block:
+  type: item

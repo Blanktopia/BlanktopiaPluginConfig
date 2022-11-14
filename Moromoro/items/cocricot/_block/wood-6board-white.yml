@@ -1,0 +1,7 @@
+name: Wood  6board White
+material: PAPER
+custom-model-data: 9650
+model: 'cocricotmod:block/wood_6board_white'
+
+block:
+  type: item

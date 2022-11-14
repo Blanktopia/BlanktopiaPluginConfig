@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Mesh
+material: PAPER
+custom-model-data: 5450
+model: 'cocricotmod:block/halftimber_limewhite_mesh'
+
+block:
+  type: item

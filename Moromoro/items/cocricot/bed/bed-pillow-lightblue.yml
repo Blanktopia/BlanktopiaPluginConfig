@@ -1,0 +1,7 @@
+name: Bed Pillow Lightblue
+material: PAPER
+custom-model-data: 2429
+model: 'cocricotmod:block/bed_pillow_lightblue'
+
+block:
+  type: item

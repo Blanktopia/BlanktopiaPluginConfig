@@ -1,0 +1,7 @@
+name: Stair Spiral Natural Top
+material: PAPER
+custom-model-data: 7604
+model: 'cocricotmod:block/stair_spiral_natural_top'
+
+block:
+  type: item

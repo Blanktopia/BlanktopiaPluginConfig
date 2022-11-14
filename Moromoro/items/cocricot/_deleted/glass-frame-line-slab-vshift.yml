@@ -1,0 +1,7 @@
+name: Glass Frame Line Slab Vshift
+material: PAPER
+custom-model-data: 5118
+model: 'cocricotmod:block/glass_frame_line_slab_vshift'
+
+block:
+  type: item

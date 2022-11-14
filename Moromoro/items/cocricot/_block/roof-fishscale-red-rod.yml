@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Rod
+material: PAPER
+custom-model-data: 6603
+model: 'cocricotmod:block/roof_fishscale_red_rod'
+
+block:
+  type: item

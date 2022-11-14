@@ -1,0 +1,7 @@
+name: Door  4glass Seadrift Bottom
+material: PAPER
+custom-model-data: 3728
+model: 'cocricotmod:block/door_4glass_seadrift_bottom'
+
+block:
+  type: item

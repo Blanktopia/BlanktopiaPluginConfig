@@ -1,0 +1,7 @@
+name: Carpet Block Fringe Blue
+material: PAPER
+custom-model-data: 2902
+model: 'cocricotmod:block/carpet_block_fringe_blue'
+
+block:
+  type: item

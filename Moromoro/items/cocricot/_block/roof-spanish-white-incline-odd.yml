@@ -1,0 +1,7 @@
+name: Roof Spanish White Incline Odd
+material: PAPER
+custom-model-data: 6757
+model: 'cocricotmod:block/roof_spanish_white_incline_odd'
+
+block:
+  type: item

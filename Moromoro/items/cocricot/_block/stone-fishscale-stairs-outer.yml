@@ -1,0 +1,7 @@
+name: Stone Fishscale Stairs Outer
+material: PAPER
+custom-model-data: 7891
+model: 'cocricotmod:block/stone_fishscale_stairs_outer'
+
+block:
+  type: item

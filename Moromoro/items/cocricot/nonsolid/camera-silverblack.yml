@@ -1,0 +1,7 @@
+name: Camera Silverblack
+material: PAPER
+custom-model-data: 2849
+model: 'cocricotmod:block/camera_silverblack'
+
+block:
+  type: item

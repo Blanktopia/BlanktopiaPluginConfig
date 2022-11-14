@@ -1,0 +1,7 @@
+name: Wood Brown Slab Upper
+material: PAPER
+custom-model-data: 9680
+model: 'cocricotmod:block/wood_brown_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chair Garden Natural
+material: PAPER
+custom-model-data: 3021
+model: cocricotmod:block/chair_garden_natural
+block:
+  type: item
+  sit-height: 0.4375

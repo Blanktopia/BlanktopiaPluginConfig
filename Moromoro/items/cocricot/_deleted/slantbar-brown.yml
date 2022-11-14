@@ -1,0 +1,7 @@
+name: Slantbar Brown
+material: PAPER
+custom-model-data: 7335
+model: 'cocricotmod:block/slantbar_brown'
+
+block:
+  type: item

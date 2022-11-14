@@ -1,0 +1,7 @@
+name: Fence Ranchrail Brown All
+material: PAPER
+custom-model-data: 4759
+model: 'cocricotmod:block/fence_ranchrail_brown_all'
+
+block:
+  type: item

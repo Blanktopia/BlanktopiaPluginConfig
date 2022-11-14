@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Black Stairs Outer
+material: PAPER
+custom-model-data: 9815
+model: 'cocricotmod:block/wood_wainscot_panels_black_stairs_outer'
+
+block:
+  type: item

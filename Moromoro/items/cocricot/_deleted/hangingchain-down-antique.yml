@@ -1,0 +1,7 @@
+name: Hangingchain Down Antique
+material: PAPER
+custom-model-data: 5788
+model: 'cocricotmod:block/hangingchain_down_antique'
+
+block:
+  type: item

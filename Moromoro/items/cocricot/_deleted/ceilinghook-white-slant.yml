@@ -1,0 +1,7 @@
+name: Ceilinghook White Slant
+material: PAPER
+custom-model-data: 2942
+model: 'cocricotmod:block/ceilinghook_white_slant'
+
+block:
+  type: item

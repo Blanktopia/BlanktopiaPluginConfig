@@ -1,0 +1,7 @@
+name: Captionplate Wood
+material: PAPER
+custom-model-data: 2887
+model: 'cocricotmod:block/captionplate_wood'
+
+block:
+  type: item

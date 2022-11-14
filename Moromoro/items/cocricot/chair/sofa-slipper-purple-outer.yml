@@ -1,0 +1,7 @@
+name: Sofa Slipper Purple Outer
+material: PAPER
+custom-model-data: 7511
+model: cocricotmod:block/sofa_slipper_purple_outer
+block:
+  type: item
+  sit-height: 0.4375

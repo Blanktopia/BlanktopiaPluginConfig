@@ -1,0 +1,7 @@
+name: Stone Color Blue Vslab
+material: PAPER
+custom-model-data: 7720
+model: 'cocricotmod:block/stone_color_blue_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Marineblue Corner
+material: PAPER
+custom-model-data: 5628
+model: 'cocricotmod:block/handrail_wood_straight_marineblue_corner'
+
+block:
+  type: item

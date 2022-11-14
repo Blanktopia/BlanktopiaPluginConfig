@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Stone Three
+material: PAPER
+custom-model-data: 5587
+model: 'cocricotmod:block/handrail_turnedleg_stone_three'
+
+block:
+  type: item

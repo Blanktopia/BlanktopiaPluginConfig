@@ -1,0 +1,7 @@
+name: Table Stainless Both
+material: PAPER
+custom-model-data: 8218
+model: cocricotmod:block/table_stainless_both
+block:
+  type: item
+  collision: true

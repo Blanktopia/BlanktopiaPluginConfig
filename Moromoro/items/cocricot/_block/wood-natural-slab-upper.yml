@@ -1,0 +1,7 @@
+name: Wood Natural Slab Upper
+material: PAPER
+custom-model-data: 9787
+model: 'cocricotmod:block/wood_natural_slab_upper'
+
+block:
+  type: item

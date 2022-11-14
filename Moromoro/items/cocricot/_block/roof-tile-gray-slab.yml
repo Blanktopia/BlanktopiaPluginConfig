@@ -1,0 +1,7 @@
+name: Roof Tile Gray Slab
+material: PAPER
+custom-model-data: 6827
+model: 'cocricotmod:block/roof_tile_gray_slab'
+
+block:
+  type: item

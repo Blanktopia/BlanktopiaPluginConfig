@@ -1,0 +1,7 @@
+name: Roof Spanish Red Stairs Inner
+material: PAPER
+custom-model-data: 6750
+model: 'cocricotmod:block/roof_spanish_red_stairs_inner'
+
+block:
+  type: item

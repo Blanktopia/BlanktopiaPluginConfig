@@ -1,0 +1,7 @@
+name: Awning Stripe Blue Vslab
+material: PAPER
+custom-model-data: 2157
+model: 'cocricotmod:block/awning_stripe_blue_vslab'
+
+block:
+  type: item

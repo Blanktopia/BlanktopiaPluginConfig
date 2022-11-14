@@ -1,0 +1,7 @@
+name: Stone Color Darkbrown Stairs
+material: PAPER
+custom-model-data: 7729
+model: 'cocricotmod:block/stone_color_darkbrown_stairs'
+
+block:
+  type: item

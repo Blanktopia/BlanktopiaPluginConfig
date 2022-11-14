@@ -1,0 +1,7 @@
+name: Door  2panel Yellow Bottom
+material: PAPER
+custom-model-data: 3680
+model: 'cocricotmod:block/door_2panel_yellow_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Yellow Left B
+material: PAPER
+custom-model-data: 3402
+model: 'cocricotmod:block/cushion_yellow_left_b'
+
+block:
+  type: item

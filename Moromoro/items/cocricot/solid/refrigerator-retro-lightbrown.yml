@@ -1,0 +1,7 @@
+name: Refrigerator Retro Lightbrown
+material: PAPER
+custom-model-data: 6356
+model: cocricotmod:block/refrigerator_retro_lightbrown
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Legplanter Modern Black Down
+material: PAPER
+custom-model-data: 5988
+model: 'cocricotmod:block/legplanter_modern_black_down'
+
+block:
+  type: item

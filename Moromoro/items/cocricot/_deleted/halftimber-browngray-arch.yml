@@ -1,0 +1,7 @@
+name: Halftimber Browngray Arch
+material: PAPER
+custom-model-data: 5204
+model: 'cocricotmod:block/halftimber_browngray_arch'
+
+block:
+  type: item

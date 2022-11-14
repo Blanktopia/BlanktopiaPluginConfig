@@ -1,0 +1,7 @@
+name: Door Tall  5panel Lightgray Top Rh
+material: PAPER
+custom-model-data: 4222
+model: 'cocricotmod:block/door_tall_5panel_lightgray_top_rh'
+
+block:
+  type: item

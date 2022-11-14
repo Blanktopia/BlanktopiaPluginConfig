@@ -1,0 +1,7 @@
+name: Awning Red Plate
+material: PAPER
+custom-model-data: 2125
+model: 'cocricotmod:block/awning_red_plate'
+
+block:
+  type: item

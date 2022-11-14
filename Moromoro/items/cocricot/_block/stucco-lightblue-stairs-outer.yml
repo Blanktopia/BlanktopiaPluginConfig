@@ -1,0 +1,7 @@
+name: Stucco Lightblue Stairs Outer
+material: PAPER
+custom-model-data: 8042
+model: 'cocricotmod:block/stucco_lightblue_stairs_outer'
+
+block:
+  type: item

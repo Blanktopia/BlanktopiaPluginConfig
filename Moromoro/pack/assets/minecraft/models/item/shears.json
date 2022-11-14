@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/shears"},"overrides":[{"model":"blanktopia:rares/scythe","predicate":{"custom_model_data":1}}]}

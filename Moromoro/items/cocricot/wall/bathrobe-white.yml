@@ -1,0 +1,7 @@
+name: Bathrobe White
+material: PAPER
+custom-model-data: 2380
+model: 'cocricotmod:block/bathrobe_white'
+
+block:
+  type: item

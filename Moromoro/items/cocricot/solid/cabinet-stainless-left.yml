@@ -1,0 +1,7 @@
+name: Cabinet Stainless Left
+material: PAPER
+custom-model-data: 2834
+model: cocricotmod:block/cabinet_stainless_left
+block:
+  type: item
+  collision: true

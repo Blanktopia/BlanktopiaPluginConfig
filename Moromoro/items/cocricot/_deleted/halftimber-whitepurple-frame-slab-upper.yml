@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Frame Slab Upper
+material: PAPER
+custom-model-data: 5510
+model: 'cocricotmod:block/halftimber_whitepurple_frame_slab_upper'
+
+block:
+  type: item

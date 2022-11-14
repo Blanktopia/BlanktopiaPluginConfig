@@ -1,0 +1,7 @@
+name: Stone Color Gray Slab
+material: PAPER
+custom-model-data: 7740
+model: 'cocricotmod:block/stone_color_gray_slab'
+
+block:
+  type: item

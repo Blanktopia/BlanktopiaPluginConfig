@@ -1,0 +1,7 @@
+name: Stone Color Pink Stairs Outer
+material: PAPER
+custom-model-data: 7835
+model: 'cocricotmod:block/stone_color_pink_stairs_outer'
+
+block:
+  type: item

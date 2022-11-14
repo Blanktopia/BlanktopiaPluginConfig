@@ -1,0 +1,7 @@
+name: Windowframe Simple Side White
+material: PAPER
+custom-model-data: 9200
+model: 'cocricotmod:block/windowframe_simple_side_white'
+
+block:
+  type: item

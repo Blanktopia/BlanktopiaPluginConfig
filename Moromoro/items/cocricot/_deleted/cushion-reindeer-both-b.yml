@@ -1,0 +1,7 @@
+name: Cushion Reindeer Both B
+material: PAPER
+custom-model-data: 3355
+model: 'cocricotmod:block/cushion_reindeer_both_b'
+
+block:
+  type: item

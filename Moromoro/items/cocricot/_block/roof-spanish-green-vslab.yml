@@ -1,0 +1,7 @@
+name: Roof Spanish Green Vslab
+material: PAPER
+custom-model-data: 6691
+model: 'cocricotmod:block/roof_spanish_green_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Gardenbench Lightblue Left
+material: PAPER
+custom-model-data: 4961
+model: cocricotmod:block/gardenbench_lightblue_left
+block:
+  type: item
+  sit-height: 0.4375

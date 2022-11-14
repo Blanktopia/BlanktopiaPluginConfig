@@ -1,0 +1,7 @@
+name: Cushion Deer Left B
+material: PAPER
+custom-model-data: 3330
+model: 'cocricotmod:block/cushion_deer_left_b'
+
+block:
+  type: item

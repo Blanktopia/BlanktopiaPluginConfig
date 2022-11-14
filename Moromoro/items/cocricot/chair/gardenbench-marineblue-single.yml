@@ -1,0 +1,7 @@
+name: Gardenbench Marineblue Single
+material: PAPER
+custom-model-data: 4967
+model: cocricotmod:block/gardenbench_marineblue_single
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Fence Iron White Both
+material: PAPER
+custom-model-data: 4748
+model: 'cocricotmod:block/fence_iron_white_both'
+
+block:
+  type: item

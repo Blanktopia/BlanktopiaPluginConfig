@@ -1,0 +1,7 @@
+name: Stone Color Gray Arch Single
+material: PAPER
+custom-model-data: 7737
+model: 'cocricotmod:block/stone_color_gray_arch_single'
+
+block:
+  type: item

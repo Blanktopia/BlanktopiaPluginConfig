@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Left
+material: PAPER
+custom-model-data: 8458
+model: 'cocricotmod:block/wallshelf_bracket_left'
+
+block:
+  type: item

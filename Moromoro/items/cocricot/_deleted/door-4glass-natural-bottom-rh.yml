@@ -1,0 +1,7 @@
+name: Door  4glass Natural Bottom Rh
+material: PAPER
+custom-model-data: 3722
+model: 'cocricotmod:block/door_4glass_natural_bottom_rh'
+
+block:
+  type: item

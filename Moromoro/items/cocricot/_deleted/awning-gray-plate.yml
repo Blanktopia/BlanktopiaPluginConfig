@@ -1,0 +1,7 @@
+name: Awning Gray Plate
+material: PAPER
+custom-model-data: 2048
+model: 'cocricotmod:block/awning_gray_plate'
+
+block:
+  type: item

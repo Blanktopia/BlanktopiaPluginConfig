@@ -1,0 +1,7 @@
+name: Brick Castlestone Vslab
+material: PAPER
+custom-model-data: 2650
+model: 'cocricotmod:block/brick_castlestone_vslab'
+
+block:
+  type: item

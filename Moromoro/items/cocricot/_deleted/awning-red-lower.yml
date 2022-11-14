@@ -1,0 +1,7 @@
+name: Awning Red Lower
+material: PAPER
+custom-model-data: 2124
+model: 'cocricotmod:block/awning_red_lower'
+
+block:
+  type: item

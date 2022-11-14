@@ -1,0 +1,7 @@
+name: Signboard Square Lighting Side
+material: PAPER
+custom-model-data: 7259
+model: 'cocricotmod:block/signboard_square_lighting_side'
+
+block:
+  type: item

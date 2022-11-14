@@ -1,0 +1,7 @@
+name: Wood  6board Black Rod
+material: PAPER
+custom-model-data: 9526
+model: 'cocricotmod:block/wood_6board_black_rod'
+
+block:
+  type: item

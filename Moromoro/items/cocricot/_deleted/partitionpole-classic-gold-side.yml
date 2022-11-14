@@ -1,0 +1,7 @@
+name: Partitionpole Classic Gold Side
+material: PAPER
+custom-model-data: 6177
+model: 'cocricotmod:block/partitionpole_classic_gold_side'
+
+block:
+  type: item

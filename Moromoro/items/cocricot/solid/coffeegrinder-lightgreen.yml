@@ -1,0 +1,7 @@
+name: Coffeegrinder Lightgreen
+material: PAPER
+custom-model-data: 3138
+model: cocricotmod:block/coffeegrinder_lightgreen
+block:
+  type: item
+  collision: true

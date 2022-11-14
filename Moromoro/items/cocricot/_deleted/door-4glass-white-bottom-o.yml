@@ -1,0 +1,7 @@
+name: Door  4glass White Bottom O
+material: PAPER
+custom-model-data: 3737
+model: 'cocricotmod:block/door_4glass_white_bottom_o'
+
+block:
+  type: item

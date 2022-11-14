@@ -1,0 +1,7 @@
+name: Door  4glass Natural Bottom O
+material: PAPER
+custom-model-data: 3721
+model: 'cocricotmod:block/door_4glass_natural_bottom_o'
+
+block:
+  type: item

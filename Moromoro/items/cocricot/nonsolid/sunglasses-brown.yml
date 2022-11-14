@@ -1,0 +1,7 @@
+name: Sunglasses Brown
+material: PAPER
+custom-model-data: 8127
+model: 'cocricotmod:block/sunglasses_brown'
+
+block:
+  type: item

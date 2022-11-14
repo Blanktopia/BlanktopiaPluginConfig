@@ -1,0 +1,7 @@
+name: Wheel Large
+material: PAPER
+custom-model-data: 8527
+model: 'cocricotmod:block/wheel_large'
+
+block:
+  type: item

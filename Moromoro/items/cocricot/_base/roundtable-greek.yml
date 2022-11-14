@@ -1,0 +1,7 @@
+name: Roundtable Greek
+material: PAPER
+custom-model-data: 6888
+model: 'cocricotmod:block/roundtable_greek'
+
+block:
+  type: item

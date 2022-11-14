@@ -1,0 +1,7 @@
+name: Chair Midcentury White
+material: PAPER
+custom-model-data: 3043
+model: cocricotmod:block/chair_midcentury_white
+block:
+  type: item
+  sit-height: 0.4375

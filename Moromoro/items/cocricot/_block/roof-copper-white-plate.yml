@@ -1,0 +1,7 @@
+name: Roof Copper White Plate
+material: PAPER
+custom-model-data: 6527
+model: 'cocricotmod:block/roof_copper_white_plate'
+
+block:
+  type: item

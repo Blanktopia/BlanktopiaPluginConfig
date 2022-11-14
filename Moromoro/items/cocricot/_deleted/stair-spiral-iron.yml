@@ -1,0 +1,7 @@
+name: Stair Spiral Iron
+material: PAPER
+custom-model-data: 7600
+model: 'cocricotmod:block/stair_spiral_iron'
+
+block:
+  type: item

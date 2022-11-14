@@ -1,0 +1,7 @@
+name: Roundtable Greek Green
+material: PAPER
+custom-model-data: 6889
+model: cocricotmod:block/roundtable_greek_green
+block:
+  type: item
+  collision: true

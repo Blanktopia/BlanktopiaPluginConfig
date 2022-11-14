@@ -1,0 +1,7 @@
+name: Shoes Flipflop White True
+material: PAPER
+custom-model-data: 7176
+model: 'cocricotmod:block/shoes_flipflop_white_true'
+
+block:
+  type: item

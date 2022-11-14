@@ -1,0 +1,7 @@
+name: Hat White Wall
+material: PAPER
+custom-model-data: 5809
+model: 'cocricotmod:block/hat_white_wall'
+
+block:
+  type: item

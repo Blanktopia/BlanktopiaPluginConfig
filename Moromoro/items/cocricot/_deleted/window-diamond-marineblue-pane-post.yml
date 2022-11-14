@@ -1,0 +1,7 @@
+name: Window Diamond Marineblue Pane Post
+material: PAPER
+custom-model-data: 8858
+model: 'cocricotmod:block/window_diamond_marineblue_pane_post'
+
+block:
+  type: item

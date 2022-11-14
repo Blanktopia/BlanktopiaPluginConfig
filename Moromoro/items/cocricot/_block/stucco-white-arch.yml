@@ -1,0 +1,7 @@
+name: Stucco White Arch
+material: PAPER
+custom-model-data: 8101
+model: 'cocricotmod:block/stucco_white_arch'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bed Pillow Darkblue
+material: PAPER
+custom-model-data: 2426
+model: 'cocricotmod:block/bed_pillow_darkblue'
+
+block:
+  type: item

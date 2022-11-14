@@ -1,0 +1,7 @@
+name: Walldecor Paper Antique
+material: PAPER
+custom-model-data: 8356
+model: 'cocricotmod:block/walldecor_paper_antique'
+
+block:
+  type: item

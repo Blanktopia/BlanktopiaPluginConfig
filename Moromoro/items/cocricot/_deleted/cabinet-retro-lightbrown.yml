@@ -1,0 +1,7 @@
+name: Cabinet Retro Lightbrown
+material: PAPER
+custom-model-data: 2812
+model: 'cocricotmod:block/cabinet_retro_lightbrown'
+
+block:
+  type: item

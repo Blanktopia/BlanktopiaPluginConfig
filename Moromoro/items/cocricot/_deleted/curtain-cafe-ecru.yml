@@ -1,0 +1,7 @@
+name: Curtain Cafe Ecru
+material: PAPER
+custom-model-data: 3242
+model: 'cocricotmod:block/curtain_cafe_ecru'
+
+block:
+  type: item

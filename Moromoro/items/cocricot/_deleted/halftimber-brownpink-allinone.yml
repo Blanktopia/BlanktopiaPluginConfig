@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Allinone
+material: PAPER
+custom-model-data: 5248
+model: 'cocricotmod:block/halftimber_brownpink_allinone'
+
+block:
+  type: item

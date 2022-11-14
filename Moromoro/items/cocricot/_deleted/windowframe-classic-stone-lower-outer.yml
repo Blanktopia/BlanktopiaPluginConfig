@@ -1,0 +1,7 @@
+name: Windowframe Classic Stone Lower Outer
+material: PAPER
+custom-model-data: 9124
+model: 'cocricotmod:block/windowframe_classic_stone_lower_outer'
+
+block:
+  type: item

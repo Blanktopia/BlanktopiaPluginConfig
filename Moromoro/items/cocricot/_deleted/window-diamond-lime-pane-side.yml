@@ -1,0 +1,7 @@
+name: Window Diamond Lime Pane Side
+material: PAPER
+custom-model-data: 8852
+model: 'cocricotmod:block/window_diamond_lime_pane_side'
+
+block:
+  type: item

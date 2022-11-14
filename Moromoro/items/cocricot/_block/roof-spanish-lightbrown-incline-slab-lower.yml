@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Incline Slab Lower
+material: PAPER
+custom-model-data: 6698
+model: 'cocricotmod:block/roof_spanish_lightbrown_incline_slab_lower'
+
+block:
+  type: item

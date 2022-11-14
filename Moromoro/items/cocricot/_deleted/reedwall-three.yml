@@ -1,0 +1,7 @@
+name: Reedwall Three
+material: PAPER
+custom-model-data: 6350
+model: 'cocricotmod:block/reedwall_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallhook Down Gold
+material: PAPER
+custom-model-data: 8368
+model: 'cocricotmod:block/wallhook_down_gold'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  4glass Dark Bottom Rh
+material: PAPER
+custom-model-data: 3714
+model: 'cocricotmod:block/door_4glass_dark_bottom_rh'
+
+block:
+  type: item

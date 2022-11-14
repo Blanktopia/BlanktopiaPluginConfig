@@ -1,0 +1,7 @@
+name: Sofa Slipper Mintgreen Inner
+material: PAPER
+custom-model-data: 7504
+model: cocricotmod:block/sofa_slipper_mintgreen_inner
+block:
+  type: item
+  sit-height: 0.4375

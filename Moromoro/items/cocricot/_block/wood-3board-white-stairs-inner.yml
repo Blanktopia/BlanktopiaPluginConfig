@@ -1,0 +1,7 @@
+name: Wood  3board White Stairs Inner
+material: PAPER
+custom-model-data: 9518
+model: 'cocricotmod:block/wood_3board_white_stairs_inner'
+
+block:
+  type: item

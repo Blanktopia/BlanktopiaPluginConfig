@@ -1,0 +1,7 @@
+name: Starlamp Moravian
+material: PAPER
+custom-model-data: 7614
+model: 'cocricotmod:block/starlamp_moravian'
+
+block:
+  type: item

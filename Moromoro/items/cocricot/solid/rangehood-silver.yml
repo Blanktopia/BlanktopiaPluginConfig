@@ -1,0 +1,7 @@
+name: Rangehood Silver
+material: PAPER
+custom-model-data: 6322
+model: cocricotmod:block/rangehood_silver
+block:
+  type: item
+  collision: true

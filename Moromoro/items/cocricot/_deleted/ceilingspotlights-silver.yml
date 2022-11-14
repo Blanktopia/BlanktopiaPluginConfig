@@ -1,0 +1,7 @@
+name: Ceilingspotlights Silver
+material: PAPER
+custom-model-data: 2955
+model: 'cocricotmod:block/ceilingspotlights_silver'
+
+block:
+  type: item

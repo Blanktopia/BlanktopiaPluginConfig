@@ -1,0 +1,7 @@
+name: Table Ironleg Natural Corner
+material: PAPER
+custom-model-data: 8201
+model: cocricotmod:block/table_ironleg_natural_corner
+block:
+  type: item
+  collision: true

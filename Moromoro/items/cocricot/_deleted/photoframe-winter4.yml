@@ -1,0 +1,7 @@
+name: Photoframe Winter 4
+material: PAPER
+custom-model-data: 6247
+model: 'cocricotmod:block/photoframe_winter4'
+
+block:
+  type: item

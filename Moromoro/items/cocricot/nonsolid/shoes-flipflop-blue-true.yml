@@ -1,0 +1,7 @@
+name: Shoes Flipflop Blue True
+material: PAPER
+custom-model-data: 7172
+model: 'cocricotmod:block/shoes_flipflop_blue_true'
+
+block:
+  type: item

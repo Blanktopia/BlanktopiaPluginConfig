@@ -1,0 +1,7 @@
+name: Bed Frame Wood Plain Brown
+material: PAPER
+custom-model-data: 2396
+model: cocricotmod:block/bed_frame_wood_plain_brown
+block:
+  type: item
+  collision: true

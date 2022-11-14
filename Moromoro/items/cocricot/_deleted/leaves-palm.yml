@@ -1,0 +1,7 @@
+name: Leaves Palm
+material: PAPER
+custom-model-data: 5962
+model: 'cocricotmod:block/leaves_palm'
+
+block:
+  type: item

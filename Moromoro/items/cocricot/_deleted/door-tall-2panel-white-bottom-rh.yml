@@ -1,0 +1,7 @@
+name: Door Tall  2panel White Bottom Rh
+material: PAPER
+custom-model-data: 4154
+model: 'cocricotmod:block/door_tall_2panel_white_bottom_rh'
+
+block:
+  type: item

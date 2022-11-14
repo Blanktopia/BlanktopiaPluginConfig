@@ -1,0 +1,7 @@
+name: Candleholder Antique Gold False
+material: PAPER
+custom-model-data: 2863
+model: 'cocricotmod:block/candleholder_antique_gold_false'
+
+block:
+  type: item

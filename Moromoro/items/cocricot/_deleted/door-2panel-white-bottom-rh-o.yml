@@ -1,0 +1,7 @@
+name: Door  2panel White Bottom Rh O
+material: PAPER
+custom-model-data: 3667
+model: 'cocricotmod:block/door_2panel_white_bottom_rh_o'
+
+block:
+  type: item

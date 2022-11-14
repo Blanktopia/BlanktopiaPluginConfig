@@ -1,0 +1,7 @@
+name: Captionplate White Stand
+material: PAPER
+custom-model-data: 2885
+model: 'cocricotmod:block/captionplate_white_stand'
+
+block:
+  type: item

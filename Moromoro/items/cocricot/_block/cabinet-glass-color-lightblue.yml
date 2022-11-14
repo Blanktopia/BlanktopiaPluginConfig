@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Lightblue
+material: PAPER
+custom-model-data: 2783
+model: 'cocricotmod:block/cabinet_glass_color_lightblue'
+
+block:
+  type: item

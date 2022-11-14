@@ -1,0 +1,7 @@
+name: Wallshelf Floating Clear
+material: PAPER
+custom-model-data: 8505
+model: 'cocricotmod:block/wallshelf_floating_clear'
+
+block:
+  type: item

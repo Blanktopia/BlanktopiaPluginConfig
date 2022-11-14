@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Black
+material: PAPER
+custom-model-data: 9810
+model: 'cocricotmod:block/wood_wainscot_panels_black'
+
+block:
+  type: item

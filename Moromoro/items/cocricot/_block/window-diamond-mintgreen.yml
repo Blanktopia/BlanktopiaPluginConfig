@@ -1,0 +1,7 @@
+name: Window Diamond Mintgreen
+material: PAPER
+custom-model-data: 8862
+model: 'cocricotmod:block/window_diamond_mintgreen'
+
+block:
+  type: item

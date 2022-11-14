@@ -1,0 +1,7 @@
+name: Windowframe Classic White Upper
+material: PAPER
+custom-model-data: 9134
+model: 'cocricotmod:block/windowframe_classic_white_upper'
+
+block:
+  type: item

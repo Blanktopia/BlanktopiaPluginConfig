@@ -1,0 +1,7 @@
+name: Cushion Brown Jag Both B
+material: PAPER
+custom-model-data: 3312
+model: 'cocricotmod:block/cushion_brown_jag_both_b'
+
+block:
+  type: item

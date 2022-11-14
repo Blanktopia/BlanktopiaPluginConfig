@@ -1,0 +1,7 @@
+name: Leaves Lightlime 1
+material: PAPER
+custom-model-data: 5956
+model: 'cocricotmod:block/leaves_lightlime1'
+
+block:
+  type: item

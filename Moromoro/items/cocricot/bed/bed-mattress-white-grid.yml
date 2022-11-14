@@ -1,0 +1,7 @@
+name: Bed Mattress White Grid
+material: PAPER
+custom-model-data: 2421
+model: cocricotmod:block/bed_mattress_white_grid
+block:
+  type: item
+  collision: true

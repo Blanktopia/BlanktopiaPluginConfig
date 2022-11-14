@@ -1,0 +1,7 @@
+name: Wood  2board Natural Plate
+material: PAPER
+custom-model-data: 9355
+model: 'cocricotmod:block/wood_2board_natural_plate'
+
+block:
+  type: item

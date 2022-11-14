@@ -1,0 +1,7 @@
+name: Door  2panel Lightgreen Top Rh
+material: PAPER
+custom-model-data: 3622
+model: 'cocricotmod:block/door_2panel_lightgreen_top_rh'
+
+block:
+  type: item

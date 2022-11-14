@@ -1,0 +1,7 @@
+name: Chain Thick Antique
+material: PAPER
+custom-model-data: 2973
+model: 'cocricotmod:block/chain_thick_antique'
+
+block:
+  type: item

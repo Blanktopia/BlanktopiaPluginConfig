@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Clear Three
+material: PAPER
+custom-model-data: 5707
+model: 'cocricotmod:block/handrail_wood_turnedleg_clear_three'
+
+block:
+  type: item

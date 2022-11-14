@@ -1,0 +1,7 @@
+name: Bench Turnedleg White Dark Right
+material: PAPER
+custom-model-data: 2459
+model: cocricotmod:block/bench_turnedleg_white_dark_right
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Halftimber Greenwhite Frame
+material: PAPER
+custom-model-data: 5431
+model: 'cocricotmod:block/halftimber_greenwhite_frame'
+
+block:
+  type: item

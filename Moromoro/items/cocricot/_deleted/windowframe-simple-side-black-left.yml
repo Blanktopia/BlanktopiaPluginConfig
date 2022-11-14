@@ -1,0 +1,7 @@
+name: Windowframe Simple Side Black Left
+material: PAPER
+custom-model-data: 9172
+model: 'cocricotmod:block/windowframe_simple_side_black_left'
+
+block:
+  type: item

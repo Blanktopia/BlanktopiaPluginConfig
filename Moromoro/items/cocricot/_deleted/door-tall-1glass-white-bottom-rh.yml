@@ -1,0 +1,7 @@
+name: Door Tall  1glass White Bottom Rh
+material: PAPER
+custom-model-data: 3922
+model: 'cocricotmod:block/door_tall_1glass_white_bottom_rh'
+
+block:
+  type: item

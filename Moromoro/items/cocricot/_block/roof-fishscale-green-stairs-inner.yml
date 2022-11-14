@@ -1,0 +1,7 @@
+name: Roof Fishscale Green Stairs Inner
+material: PAPER
+custom-model-data: 6587
+model: 'cocricotmod:block/roof_fishscale_green_stairs_inner'
+
+block:
+  type: item

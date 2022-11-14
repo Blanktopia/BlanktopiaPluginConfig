@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Black All
+material: PAPER
+custom-model-data: 3455
+model: 'cocricotmod:block/diningtable_turnedleg_black_all'
+
+block:
+  type: item

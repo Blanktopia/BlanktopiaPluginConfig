@@ -1,0 +1,7 @@
+name: Climbing Leaves
+material: PAPER
+custom-model-data: 3096
+model: 'cocricotmod:block/climbing_leaves'
+
+block:
+  type: item

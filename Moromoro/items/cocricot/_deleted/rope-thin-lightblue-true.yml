@@ -1,0 +1,7 @@
+name: Rope Thin Lightblue True
+material: PAPER
+custom-model-data: 6872
+model: 'cocricotmod:block/rope_thin_lightblue_true'
+
+block:
+  type: item

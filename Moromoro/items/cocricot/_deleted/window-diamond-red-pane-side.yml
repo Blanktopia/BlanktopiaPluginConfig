@@ -1,0 +1,7 @@
+name: Window Diamond Red Pane Side
+material: PAPER
+custom-model-data: 8880
+model: 'cocricotmod:block/window_diamond_red_pane_side'
+
+block:
+  type: item

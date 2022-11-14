@@ -1,0 +1,7 @@
+name: Picket Staggered Brown Item
+material: PAPER
+custom-model-data: 6253
+model: 'cocricotmod:block/picket_staggered_brown_item'
+
+block:
+  type: item

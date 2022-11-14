@@ -1,0 +1,7 @@
+name: Roundtable Greek Red
+material: PAPER
+custom-model-data: 6893
+model: cocricotmod:block/roundtable_greek_red
+block:
+  type: item
+  collision: true

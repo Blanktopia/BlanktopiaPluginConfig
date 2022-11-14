@@ -1,0 +1,7 @@
+name: Door Tall  1glass Dark Bottom Rh
+material: PAPER
+custom-model-data: 3898
+model: 'cocricotmod:block/door_tall_1glass_dark_bottom_rh'
+
+block:
+  type: item

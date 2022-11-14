@@ -1,0 +1,7 @@
+name: Luggage Picnic
+material: PAPER
+custom-model-data: 6028
+model: 'cocricotmod:block/luggage_picnic'
+
+block:
+  type: item

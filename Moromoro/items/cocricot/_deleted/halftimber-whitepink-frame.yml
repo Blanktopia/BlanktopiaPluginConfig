@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Frame
+material: PAPER
+custom-model-data: 5493
+model: 'cocricotmod:block/halftimber_whitepink_frame'
+
+block:
+  type: item

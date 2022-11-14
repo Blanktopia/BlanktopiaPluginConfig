@@ -1,0 +1,7 @@
+name: Wood Natural Arch Single
+material: PAPER
+custom-model-data: 9783
+model: 'cocricotmod:block/wood_natural_arch_single'
+
+block:
+  type: item

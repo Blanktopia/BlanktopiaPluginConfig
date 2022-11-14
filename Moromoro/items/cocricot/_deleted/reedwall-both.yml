@@ -1,0 +1,7 @@
+name: Reedwall Both
+material: PAPER
+custom-model-data: 6346
+model: 'cocricotmod:block/reedwall_both'
+
+block:
+  type: item

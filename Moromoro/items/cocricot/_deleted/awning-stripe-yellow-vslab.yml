@@ -1,0 +1,7 @@
+name: Awning Stripe Yellow Vslab
+material: PAPER
+custom-model-data: 2267
+model: 'cocricotmod:block/awning_stripe_yellow_vslab'
+
+block:
+  type: item

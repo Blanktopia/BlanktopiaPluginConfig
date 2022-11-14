@@ -1,0 +1,7 @@
+name: Rug Shag Round Purple Both
+material: PAPER
+custom-model-data: 7058
+model: 'cocricotmod:block/rug_shag_round_purple_both'
+
+block:
+  type: item

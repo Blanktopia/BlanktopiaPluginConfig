@@ -1,0 +1,7 @@
+name: Drawer Simple Red Both Up
+material: PAPER
+custom-model-data: 4599
+model: 'cocricotmod:block/drawer_simple_red_both_up'
+
+block:
+  type: item

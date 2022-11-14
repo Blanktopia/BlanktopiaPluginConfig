@@ -1,0 +1,7 @@
+name: Champagne Double
+material: PAPER
+custom-model-data: 3054
+model: 'cocricotmod:block/champagne_double'
+
+block:
+  type: item

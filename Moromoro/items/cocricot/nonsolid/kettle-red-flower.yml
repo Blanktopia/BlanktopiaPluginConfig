@@ -1,0 +1,7 @@
+name: Kettle Red Flower
+material: PAPER
+custom-model-data: 5882
+model: 'cocricotmod:block/kettle_red_flower'
+
+block:
+  type: item

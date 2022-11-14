@@ -1,0 +1,7 @@
+name: Door Tall  6glass Red Bottom Rh
+material: PAPER
+custom-model-data: 4386
+model: 'cocricotmod:block/door_tall_6glass_red_bottom_rh'
+
+block:
+  type: item

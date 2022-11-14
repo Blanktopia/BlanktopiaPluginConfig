@@ -1,0 +1,7 @@
+name: Wood  2board Brown Arch
+material: PAPER
+custom-model-data: 9267
+model: 'cocricotmod:block/wood_2board_brown_arch'
+
+block:
+  type: item

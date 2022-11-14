@@ -1,0 +1,7 @@
+name: Wood Dark
+material: PAPER
+custom-model-data: 9698
+model: 'cocricotmod:block/wood_dark'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Diamond Dark Pane All
+material: PAPER
+custom-model-data: 8828
+model: 'cocricotmod:block/window_diamond_dark_pane_all'
+
+block:
+  type: item

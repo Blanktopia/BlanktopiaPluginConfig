@@ -1,0 +1,7 @@
+name: Stone Color Orange
+material: PAPER
+custom-model-data: 7813
+model: 'cocricotmod:block/stone_color_orange'
+
+block:
+  type: item

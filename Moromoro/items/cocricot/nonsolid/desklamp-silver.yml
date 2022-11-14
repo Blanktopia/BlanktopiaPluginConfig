@@ -1,0 +1,7 @@
+name: Desklamp Silver
+material: PAPER
+custom-model-data: 3438
+model: 'cocricotmod:block/desklamp_silver'
+
+block:
+  type: item

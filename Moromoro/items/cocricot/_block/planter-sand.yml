@@ -1,0 +1,7 @@
+name: Planter Sand
+material: PAPER
+custom-model-data: 6270
+model: 'cocricotmod:block/planter_sand'
+
+block:
+  type: item

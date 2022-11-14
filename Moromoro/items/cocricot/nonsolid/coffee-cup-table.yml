@@ -1,0 +1,7 @@
+name: Coffee Cup Table
+material: PAPER
+custom-model-data: 3134
+model: 'cocricotmod:block/coffee_cup_table'
+
+block:
+  type: item

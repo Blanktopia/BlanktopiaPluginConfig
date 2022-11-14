@@ -1,0 +1,7 @@
+name: Beer Weizen
+material: PAPER
+custom-model-data: 2441
+model: 'cocricotmod:block/beer_weizen'
+
+block:
+  type: item

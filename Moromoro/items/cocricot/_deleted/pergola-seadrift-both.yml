@@ -1,0 +1,7 @@
+name: Pergola Seadrift Both
+material: PAPER
+custom-model-data: 6236
+model: 'cocricotmod:block/pergola_seadrift_both'
+
+block:
+  type: item

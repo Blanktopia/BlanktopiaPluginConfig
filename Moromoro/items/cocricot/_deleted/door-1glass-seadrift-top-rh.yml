@@ -1,0 +1,7 @@
+name: Door  1glass Seadrift Top Rh
+material: PAPER
+custom-model-data: 3558
+model: 'cocricotmod:block/door_1glass_seadrift_top_rh'
+
+block:
+  type: item

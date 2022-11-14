@@ -1,0 +1,7 @@
+name: Wallshelf Floating Iron False
+material: PAPER
+custom-model-data: 8511
+model: 'cocricotmod:block/wallshelf_floating_iron_false'
+
+block:
+  type: item

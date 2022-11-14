@@ -1,0 +1,7 @@
+name: Barrel Seadrift
+material: PAPER
+custom-model-data: 2303
+model: cocricotmod:block/barrel_seadrift
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Halftimber Whitewhite Tudor Right
+material: PAPER
+custom-model-data: 5534
+model: 'cocricotmod:block/halftimber_whitewhite_tudor_right'
+
+block:
+  type: item

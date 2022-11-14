@@ -1,0 +1,7 @@
+name: Stone Color Pink Vslab
+material: PAPER
+custom-model-data: 7837
+model: 'cocricotmod:block/stone_color_pink_vslab'
+
+block:
+  type: item

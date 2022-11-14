@@ -1,0 +1,7 @@
+name: Jar Cookie
+material: PAPER
+custom-model-data: 5870
+model: 'cocricotmod:block/jar_cookie'
+
+block:
+  type: item

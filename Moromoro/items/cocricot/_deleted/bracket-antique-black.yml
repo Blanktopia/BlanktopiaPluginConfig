@@ -1,0 +1,7 @@
+name: Bracket Antique Black
+material: PAPER
+custom-model-data: 2582
+model: 'cocricotmod:block/bracket_antique_black'
+
+block:
+  type: item

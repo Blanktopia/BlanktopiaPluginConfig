@@ -1,0 +1,7 @@
+name: Leg Turned Natural
+material: PAPER
+custom-model-data: 5983
+model: 'cocricotmod:block/leg_turned_natural'
+
+block:
+  type: item

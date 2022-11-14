@@ -1,0 +1,7 @@
+name: Mirror Plate
+material: PAPER
+custom-model-data: 6126
+model: 'cocricotmod:block/mirror_plate'
+
+block:
+  type: item

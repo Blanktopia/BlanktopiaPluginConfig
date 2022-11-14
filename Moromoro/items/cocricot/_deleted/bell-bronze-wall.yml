@@ -1,0 +1,7 @@
+name: Bell Bronze Wall
+material: PAPER
+custom-model-data: 2445
+model: 'cocricotmod:block/bell_bronze_wall'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Desk Simple Brown Left
+material: PAPER
+custom-model-data: 3426
+model: cocricotmod:block/desk_simple_brown_left
+block:
+  type: item
+  collision: true

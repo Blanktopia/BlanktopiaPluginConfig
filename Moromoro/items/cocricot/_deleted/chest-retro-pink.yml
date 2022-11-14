@@ -1,0 +1,7 @@
+name: Chest Retro Pink
+material: PAPER
+custom-model-data: 3083
+model: 'cocricotmod:block/chest_retro_pink'
+
+block:
+  type: item

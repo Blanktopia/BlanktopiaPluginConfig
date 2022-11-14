@@ -1,0 +1,7 @@
+name: Door  1glass Black Top Rh
+material: PAPER
+custom-model-data: 3518
+model: 'cocricotmod:block/door_1glass_black_top_rh'
+
+block:
+  type: item

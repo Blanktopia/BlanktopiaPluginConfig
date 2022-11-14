@@ -1,0 +1,7 @@
+name: Wood  6board Clear
+material: PAPER
+custom-model-data: 9546
+model: 'cocricotmod:block/wood_6board_clear'
+
+block:
+  type: item

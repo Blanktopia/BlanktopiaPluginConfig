@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Wide Dark
+material: PAPER
+custom-model-data: 6912
+model: cocricotmod:block/roundtable_turnedleg_wide_dark
+block:
+  type: item
+  collision: true

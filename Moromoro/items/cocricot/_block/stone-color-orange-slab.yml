@@ -1,0 +1,7 @@
+name: Stone Color Orange Slab
+material: PAPER
+custom-model-data: 7818
+model: 'cocricotmod:block/stone_color_orange_slab'
+
+block:
+  type: item

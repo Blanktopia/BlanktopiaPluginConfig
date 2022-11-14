@@ -1,0 +1,7 @@
+name: Awning White Plate
+material: PAPER
+custom-model-data: 2273
+model: 'cocricotmod:block/awning_white_plate'
+
+block:
+  type: item

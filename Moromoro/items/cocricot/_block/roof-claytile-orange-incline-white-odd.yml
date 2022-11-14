@@ -1,0 +1,7 @@
+name: Roof Claytile Orange Incline White Odd
+material: PAPER
+custom-model-data: 6414
+model: 'cocricotmod:block/roof_claytile_orange_incline_white_odd'
+
+block:
+  type: item

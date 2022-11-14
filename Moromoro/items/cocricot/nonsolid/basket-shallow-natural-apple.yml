@@ -1,0 +1,7 @@
+name: Basket Shallow Natural Apple
+material: PAPER
+custom-model-data: 2368
+model: 'cocricotmod:block/basket_shallow_natural_apple'
+
+block:
+  type: item

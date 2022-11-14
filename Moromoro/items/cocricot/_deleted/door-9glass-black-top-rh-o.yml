@@ -1,0 +1,7 @@
+name: Door  9glass Black Top Rh O
+material: PAPER
+custom-model-data: 3751
+model: 'cocricotmod:block/door_9glass_black_top_rh_o'
+
+block:
+  type: item

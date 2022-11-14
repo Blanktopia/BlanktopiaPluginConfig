@@ -1,0 +1,7 @@
+name: Toilet Tank
+material: PAPER
+custom-model-data: 8319
+model: 'cocricotmod:block/toilet_tank'
+
+block:
+  type: item

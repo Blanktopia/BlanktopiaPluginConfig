@@ -1,0 +1,7 @@
+name: Halftimber Greenwhite Frame Slab
+material: PAPER
+custom-model-data: 5432
+model: 'cocricotmod:block/halftimber_greenwhite_frame_slab'
+
+block:
+  type: item

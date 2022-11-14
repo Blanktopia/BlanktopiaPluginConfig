@@ -1,0 +1,7 @@
+name: Roundtable Greek White
+material: PAPER
+custom-model-data: 6894
+model: cocricotmod:block/roundtable_greek_white
+block:
+  type: item
+  collision: true

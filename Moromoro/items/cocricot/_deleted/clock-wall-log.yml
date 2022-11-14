@@ -1,0 +1,7 @@
+name: Clock Wall Log
+material: PAPER
+custom-model-data: 3113
+model: 'cocricotmod:block/clock_wall_log'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Figurine Eiffeltower
+material: PAPER
+custom-model-data: 4831
+model: 'cocricotmod:block/figurine_eiffeltower'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Tile Grid Small Blackwhite Stairs Outer
+material: PAPER
+custom-model-data: 8279
+model: 'cocricotmod:block/tile_grid_small_blackwhite_stairs_outer'
+
+block:
+  type: item

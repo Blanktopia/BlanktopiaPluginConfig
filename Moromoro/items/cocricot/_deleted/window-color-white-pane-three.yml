@@ -1,0 +1,7 @@
+name: Window Color White Pane Three
+material: PAPER
+custom-model-data: 8784
+model: 'cocricotmod:block/window_color_white_pane_three'
+
+block:
+  type: item

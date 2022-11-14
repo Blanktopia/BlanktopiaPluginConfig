@@ -1,0 +1,7 @@
+name: Laundrypole Red Both
+material: PAPER
+custom-model-data: 5924
+model: 'cocricotmod:block/laundrypole_red_both'
+
+block:
+  type: item

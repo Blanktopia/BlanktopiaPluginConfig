@@ -1,0 +1,8 @@
+name: Wheel Large Red
+material: PAPER
+custom-model-data: 8537
+model: 'cocricotmod:block/wheel_large_red'
+
+block:
+  type: item
+  collision: true

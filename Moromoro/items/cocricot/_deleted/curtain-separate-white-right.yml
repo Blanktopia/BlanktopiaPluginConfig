@@ -1,0 +1,7 @@
+name: Curtain Separate White Right
+material: PAPER
+custom-model-data: 3287
+model: 'cocricotmod:block/curtain_separate_white_right'
+
+block:
+  type: item

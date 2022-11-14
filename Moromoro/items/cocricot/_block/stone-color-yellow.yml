@@ -1,0 +1,7 @@
+name: Stone Color Yellow
+material: PAPER
+custom-model-data: 7865
+model: 'cocricotmod:block/stone_color_yellow'
+
+block:
+  type: item

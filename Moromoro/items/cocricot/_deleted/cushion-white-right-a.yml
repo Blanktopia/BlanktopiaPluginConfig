@@ -1,0 +1,7 @@
+name: Cushion White Right A
+material: PAPER
+custom-model-data: 3385
+model: 'cocricotmod:block/cushion_white_right_a'
+
+block:
+  type: item

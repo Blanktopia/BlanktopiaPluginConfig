@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Wide Shabby
+material: PAPER
+custom-model-data: 6914
+model: cocricotmod:block/roundtable_turnedleg_wide_shabby
+block:
+  type: item
+  collision: true

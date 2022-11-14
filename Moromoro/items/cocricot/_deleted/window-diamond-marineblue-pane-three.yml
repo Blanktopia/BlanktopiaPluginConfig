@@ -1,0 +1,7 @@
+name: Window Diamond Marineblue Pane Three
+material: PAPER
+custom-model-data: 8861
+model: 'cocricotmod:block/window_diamond_marineblue_pane_three'
+
+block:
+  type: item

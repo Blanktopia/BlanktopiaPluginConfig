@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Tudor Right
+material: PAPER
+custom-model-data: 5262
+model: 'cocricotmod:block/halftimber_brownpink_tudor_right'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Table Cloth Gingham Red
+material: PAPER
+custom-model-data: 8164
+model: 'cocricotmod:block/table_cloth_gingham_red'
+
+block:
+  type: item

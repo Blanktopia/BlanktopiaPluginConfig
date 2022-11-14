@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique White Single
+material: PAPER
+custom-model-data: 8432
+model: 'cocricotmod:block/wallshelf_bracket_antique_white_single'
+
+block:
+  type: item

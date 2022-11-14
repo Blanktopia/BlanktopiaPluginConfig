@@ -1,0 +1,7 @@
+name: Window Arch Black
+material: PAPER
+custom-model-data: 8561
+model: 'cocricotmod:block/window_arch_black'
+
+block:
+  type: item

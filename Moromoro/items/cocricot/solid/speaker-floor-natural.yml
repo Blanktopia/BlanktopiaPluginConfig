@@ -1,0 +1,7 @@
+name: Speaker Floor Natural
+material: PAPER
+custom-model-data: 7542
+model: cocricotmod:block/speaker_floor_natural
+block:
+  type: item
+  collision: true

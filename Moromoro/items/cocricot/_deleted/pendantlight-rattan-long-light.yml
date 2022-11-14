@@ -1,0 +1,7 @@
+name: Pendantlight Rattan Long Light
+material: PAPER
+custom-model-data: 6217
+model: 'cocricotmod:block/pendantlight_rattan_long_light'
+
+block:
+  type: item

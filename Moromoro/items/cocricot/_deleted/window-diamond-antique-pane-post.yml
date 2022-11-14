@@ -1,0 +1,7 @@
+name: Window Diamond Antique Pane Post
+material: PAPER
+custom-model-data: 8802
+model: 'cocricotmod:block/window_diamond_antique_pane_post'
+
+block:
+  type: item

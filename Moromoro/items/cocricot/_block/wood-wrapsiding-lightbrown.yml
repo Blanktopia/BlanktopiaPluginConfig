@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightbrown
+material: PAPER
+custom-model-data: 9886
+model: 'cocricotmod:block/wood_wrapsiding_lightbrown'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Glass Frame Silver Slab Vshift
+material: PAPER
+custom-model-data: 5131
+model: 'cocricotmod:block/glass_frame_silver_slab_vshift'
+
+block:
+  type: item

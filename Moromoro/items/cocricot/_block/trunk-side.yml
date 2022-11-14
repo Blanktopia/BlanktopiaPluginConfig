@@ -1,0 +1,7 @@
+name: Trunk Side
+material: PAPER
+custom-model-data: 8336
+model: 'cocricotmod:block/trunk_side'
+
+block:
+  type: item

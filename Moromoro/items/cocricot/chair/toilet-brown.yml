@@ -1,0 +1,8 @@
+name: Toilet Brown
+material: PAPER
+custom-model-data: 8315
+model: cocricotmod:block/toilet_brown
+block:
+  type: item
+  collision: true
+  sit-height: 0.4375

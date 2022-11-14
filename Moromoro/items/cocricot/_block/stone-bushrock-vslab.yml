@@ -1,0 +1,7 @@
+name: Stone Bushrock Vslab
+material: PAPER
+custom-model-data: 7657
+model: 'cocricotmod:block/stone_bushrock_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Orange Stairs
+material: PAPER
+custom-model-data: 2682
+model: 'cocricotmod:block/brick_orange_stairs'
+
+block:
+  type: item

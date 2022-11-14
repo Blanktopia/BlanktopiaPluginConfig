@@ -1,0 +1,7 @@
+name: Floorlamp Spot Black
+material: PAPER
+custom-model-data: 4864
+model: 'cocricotmod:block/floorlamp_spot_black'
+
+block:
+  type: item

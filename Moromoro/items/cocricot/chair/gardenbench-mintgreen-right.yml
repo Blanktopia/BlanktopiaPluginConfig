@@ -1,0 +1,7 @@
+name: Gardenbench Mintgreen Right
+material: PAPER
+custom-model-data: 4970
+model: cocricotmod:block/gardenbench_mintgreen_right
+block:
+  type: item
+  sit-height: 0.4375

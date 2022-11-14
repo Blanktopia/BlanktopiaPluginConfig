@@ -1,0 +1,7 @@
+name: Window Centrebar Clear Pane Both
+material: PAPER
+custom-model-data: 8612
+model: 'cocricotmod:block/window_centrebar_clear_pane_both'
+
+block:
+  type: item

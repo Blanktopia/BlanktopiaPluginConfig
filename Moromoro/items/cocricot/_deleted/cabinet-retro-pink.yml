@@ -1,0 +1,7 @@
+name: Cabinet Retro Pink
+material: PAPER
+custom-model-data: 2815
+model: 'cocricotmod:block/cabinet_retro_pink'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Shower Rain Head Antique
+material: PAPER
+custom-model-data: 7238
+model: 'cocricotmod:block/shower_rain_head_antique'
+
+block:
+  type: item

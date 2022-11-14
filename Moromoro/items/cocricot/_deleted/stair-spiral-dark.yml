@@ -1,0 +1,7 @@
+name: Stair Spiral Dark
+material: PAPER
+custom-model-data: 7597
+model: 'cocricotmod:block/stair_spiral_dark'
+
+block:
+  type: item

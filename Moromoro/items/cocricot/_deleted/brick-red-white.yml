@@ -1,0 +1,7 @@
+name: Brick Red White
+material: PAPER
+custom-model-data: 2698
+model: 'cocricotmod:block/brick_red_white'
+
+block:
+  type: item

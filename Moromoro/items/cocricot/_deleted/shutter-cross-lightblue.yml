@@ -1,0 +1,7 @@
+name: Shutter Cross Lightblue
+material: PAPER
+custom-model-data: 7245
+model: 'cocricotmod:block/shutter_cross_lightblue'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Floating Seadrift
+material: PAPER
+custom-model-data: 8514
+model: 'cocricotmod:block/wallshelf_floating_seadrift'
+
+block:
+  type: item

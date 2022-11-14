@@ -1,0 +1,7 @@
+name: Door Tall  2panel Yellow Top
+material: PAPER
+custom-model-data: 4172
+model: 'cocricotmod:block/door_tall_2panel_yellow_top'
+
+block:
+  type: item

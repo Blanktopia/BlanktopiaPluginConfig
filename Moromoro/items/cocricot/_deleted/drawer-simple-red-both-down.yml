@@ -1,0 +1,7 @@
+name: Drawer Simple Red Both Down
+material: PAPER
+custom-model-data: 4597
+model: 'cocricotmod:block/drawer_simple_red_both_down'
+
+block:
+  type: item

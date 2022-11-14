@@ -1,0 +1,7 @@
+name: Roof Claytile Brown
+material: PAPER
+custom-model-data: 6386
+model: 'cocricotmod:block/roof_claytile_brown'
+
+block:
+  type: item

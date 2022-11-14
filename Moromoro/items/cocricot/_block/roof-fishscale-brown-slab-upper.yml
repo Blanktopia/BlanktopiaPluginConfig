@@ -1,0 +1,7 @@
+name: Roof Fishscale Brown Slab Upper
+material: PAPER
+custom-model-data: 6565
+model: 'cocricotmod:block/roof_fishscale_brown_slab_upper'
+
+block:
+  type: item

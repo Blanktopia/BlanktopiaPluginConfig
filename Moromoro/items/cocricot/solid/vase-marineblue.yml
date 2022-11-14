@@ -1,0 +1,7 @@
+name: Vase Marineblue
+material: PAPER
+custom-model-data: 8344
+model: cocricotmod:block/vase_marineblue
+block:
+  type: item
+  collision: true

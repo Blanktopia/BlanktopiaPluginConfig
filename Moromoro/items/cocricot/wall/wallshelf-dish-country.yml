@@ -1,0 +1,7 @@
+name: Wallshelf Dish Country
+material: PAPER
+custom-model-data: 8499
+model: 'cocricotmod:block/wallshelf_dish_country'
+
+block:
+  type: item

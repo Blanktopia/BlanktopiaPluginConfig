@@ -1,0 +1,7 @@
+name: Table Cloth Gingham Lightbrown
+material: PAPER
+custom-model-data: 8163
+model: 'cocricotmod:block/table_cloth_gingham_lightbrown'
+
+block:
+  type: item

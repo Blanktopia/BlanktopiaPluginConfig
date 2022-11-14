@@ -1,0 +1,7 @@
+name: Roof Spanish Yellow Slab
+material: PAPER
+custom-model-data: 6787
+model: 'cocricotmod:block/roof_spanish_yellow_slab'
+
+block:
+  type: item

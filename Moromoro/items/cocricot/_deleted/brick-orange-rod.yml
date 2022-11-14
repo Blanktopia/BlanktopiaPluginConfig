@@ -1,0 +1,7 @@
+name: Brick Orange Rod
+material: PAPER
+custom-model-data: 2679
+model: 'cocricotmod:block/brick_orange_rod'
+
+block:
+  type: item

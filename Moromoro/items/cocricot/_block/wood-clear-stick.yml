@@ -1,0 +1,7 @@
+name: Wood Clear Stick
+material: PAPER
+custom-model-data: 9696
+model: 'cocricotmod:block/wood_clear_stick'
+
+block:
+  type: item

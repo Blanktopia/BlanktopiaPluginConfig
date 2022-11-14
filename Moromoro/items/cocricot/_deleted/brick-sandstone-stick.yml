@@ -1,0 +1,7 @@
+name: Brick Sandstone Stick
+material: PAPER
+custom-model-data: 2721
+model: 'cocricotmod:block/brick_sandstone_stick'
+
+block:
+  type: item

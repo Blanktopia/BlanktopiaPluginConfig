@@ -1,0 +1,7 @@
+name: Roof Tile Black Slab
+material: PAPER
+custom-model-data: 6807
+model: 'cocricotmod:block/roof_tile_black_slab'
+
+block:
+  type: item

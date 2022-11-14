@@ -1,0 +1,7 @@
+name: Rug Jute Round Corner
+material: PAPER
+custom-model-data: 6924
+model: 'cocricotmod:block/rug_jute_round_corner'
+
+block:
+  type: item

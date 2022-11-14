@@ -1,0 +1,7 @@
+name: Roof Tile Gray Plate
+material: PAPER
+custom-model-data: 6825
+model: 'cocricotmod:block/roof_tile_gray_plate'
+
+block:
+  type: item

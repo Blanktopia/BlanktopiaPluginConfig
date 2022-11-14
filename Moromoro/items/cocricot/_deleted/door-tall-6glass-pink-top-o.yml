@@ -1,0 +1,7 @@
+name: Door Tall  6glass Pink Top O
+material: PAPER
+custom-model-data: 4381
+model: 'cocricotmod:block/door_tall_6glass_pink_top_o'
+
+block:
+  type: item

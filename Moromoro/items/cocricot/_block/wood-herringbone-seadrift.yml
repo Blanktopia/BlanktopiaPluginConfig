@@ -1,0 +1,7 @@
+name: Wood Herringbone Seadrift
+material: PAPER
+custom-model-data: 9761
+model: 'cocricotmod:block/wood_herringbone_seadrift'
+
+block:
+  type: item

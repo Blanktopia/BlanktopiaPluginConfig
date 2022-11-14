@@ -1,0 +1,7 @@
+name: Register White
+material: PAPER
+custom-model-data: 6365
+model: cocricotmod:block/register_white
+block:
+  type: item
+  collision: true

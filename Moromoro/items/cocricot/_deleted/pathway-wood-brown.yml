@@ -1,0 +1,7 @@
+name: Pathway Wood Brown
+material: PAPER
+custom-model-data: 6183
+model: 'cocricotmod:block/pathway_wood_brown'
+
+block:
+  type: item

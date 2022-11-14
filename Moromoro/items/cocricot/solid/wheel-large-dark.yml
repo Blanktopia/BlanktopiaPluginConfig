@@ -1,0 +1,8 @@
+name: Wheel Large Dark
+material: PAPER
+custom-model-data: 8533
+model: 'cocricotmod:block/wheel_large_dark'
+
+block:
+  type: item
+  collision: true

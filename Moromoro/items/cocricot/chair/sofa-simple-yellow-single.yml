@@ -1,0 +1,7 @@
+name: Sofa Simple Yellow Single
+material: PAPER
+custom-model-data: 7436
+model: cocricotmod:block/sofa_simple_yellow_single
+block:
+  type: item
+  sit-height: 0.4375

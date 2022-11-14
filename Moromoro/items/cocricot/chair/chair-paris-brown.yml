@@ -1,0 +1,7 @@
+name: Chair Paris Brown
+material: PAPER
+custom-model-data: 3046
+model: cocricotmod:block/chair_paris_brown
+block:
+  type: item
+  sit-height: 0.4375

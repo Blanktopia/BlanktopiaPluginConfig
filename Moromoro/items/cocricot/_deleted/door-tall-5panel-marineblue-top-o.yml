@@ -1,0 +1,7 @@
+name: Door Tall  5panel Marineblue Top O
+material: PAPER
+custom-model-data: 4245
+model: 'cocricotmod:block/door_tall_5panel_marineblue_top_o'
+
+block:
+  type: item

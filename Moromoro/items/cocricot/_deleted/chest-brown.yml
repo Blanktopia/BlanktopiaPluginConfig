@@ -1,0 +1,7 @@
+name: Chest Brown
+material: PAPER
+custom-model-data: 3062
+model: 'cocricotmod:block/chest_brown'
+
+block:
+  type: item

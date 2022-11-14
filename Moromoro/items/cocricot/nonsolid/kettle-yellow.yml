@@ -1,0 +1,7 @@
+name: Kettle Yellow
+material: PAPER
+custom-model-data: 5886
+model: 'cocricotmod:block/kettle_yellow'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Gray Vslab
+material: PAPER
+custom-model-data: 2780
+model: 'cocricotmod:block/cabinet_glass_color_gray_vslab'
+
+block:
+  type: item

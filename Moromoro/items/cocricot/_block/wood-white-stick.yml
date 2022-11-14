@@ -1,0 +1,7 @@
+name: Wood White Stick
+material: PAPER
+custom-model-data: 9874
+model: 'cocricotmod:block/wood_white_stick'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Brownwhite Allinone
+material: PAPER
+custom-model-data: 5278
+model: 'cocricotmod:block/halftimber_brownwhite_allinone'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drainpipe Gutter Antique
+material: PAPER
+custom-model-data: 4512
+model: 'cocricotmod:block/drainpipe_gutter_antique'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Stripe Orange Upper
+material: PAPER
+custom-model-data: 2233
+model: 'cocricotmod:block/awning_stripe_orange_upper'
+
+block:
+  type: item

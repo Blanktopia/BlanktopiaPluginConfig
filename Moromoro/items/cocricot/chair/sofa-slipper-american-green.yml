@@ -1,0 +1,7 @@
+name: Sofa Slipper American Green
+material: PAPER
+custom-model-data: 7446
+model: cocricotmod:block/sofa_slipper_american_green
+block:
+  type: item
+  sit-height: 0.4375

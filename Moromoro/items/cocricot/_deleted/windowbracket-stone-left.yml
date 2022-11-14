@@ -1,0 +1,7 @@
+name: Windowbracket Stone Left
+material: PAPER
+custom-model-data: 9021
+model: 'cocricotmod:block/windowbracket_stone_left'
+
+block:
+  type: item

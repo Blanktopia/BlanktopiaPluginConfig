@@ -1,0 +1,7 @@
+name: Masonjar Sunset
+material: PAPER
+custom-model-data: 6103
+model: 'cocricotmod:block/masonjar_sunset'
+
+block:
+  type: item

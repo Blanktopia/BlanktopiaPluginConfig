@@ -1,0 +1,7 @@
+name: Door Tall  6glass White Top O
+material: PAPER
+custom-model-data: 4405
+model: 'cocricotmod:block/door_tall_6glass_white_top_o'
+
+block:
+  type: item

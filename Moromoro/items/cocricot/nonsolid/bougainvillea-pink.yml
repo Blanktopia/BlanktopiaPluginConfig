@@ -1,0 +1,7 @@
+name: Bougainvillea Pink
+material: PAPER
+custom-model-data: 2559
+model: 'cocricotmod:block/bougainvillea_pink'
+
+block:
+  type: item

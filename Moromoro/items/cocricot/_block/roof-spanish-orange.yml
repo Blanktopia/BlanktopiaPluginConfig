@@ -1,0 +1,7 @@
+name: Roof Spanish Orange
+material: PAPER
+custom-model-data: 6714
+model: 'cocricotmod:block/roof_spanish_orange'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drainpipe Leaderhead Bronze
+material: PAPER
+custom-model-data: 4529
+model: 'cocricotmod:block/drainpipe_leaderhead_bronze'
+
+block:
+  type: item

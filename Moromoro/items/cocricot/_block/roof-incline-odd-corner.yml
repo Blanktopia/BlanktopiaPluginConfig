@@ -1,0 +1,7 @@
+name: Roof Incline Odd Corner
+material: PAPER
+custom-model-data: 6614
+model: 'cocricotmod:block/roof_incline_odd_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Centrebar Brown Pane Side
+material: PAPER
+custom-model-data: 8607
+model: 'cocricotmod:block/window_centrebar_brown_pane_side'
+
+block:
+  type: item

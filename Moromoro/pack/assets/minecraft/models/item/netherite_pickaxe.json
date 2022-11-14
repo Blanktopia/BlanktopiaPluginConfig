@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/netherite_pickaxe"},"overrides":[{"model":"blanktopia:rares/cobalt_drill","predicate":{"custom_model_data":1}}]}

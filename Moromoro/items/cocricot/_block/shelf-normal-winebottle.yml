@@ -1,0 +1,7 @@
+name: Shelf Normal Winebottle
+material: PAPER
+custom-model-data: 7166
+model: 'cocricotmod:block/shelf_normal_winebottle'
+
+block:
+  type: item

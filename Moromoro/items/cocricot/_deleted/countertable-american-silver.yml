@@ -1,0 +1,7 @@
+name: Countertable American Silver
+material: PAPER
+custom-model-data: 3233
+model: 'cocricotmod:block/countertable_american_silver'
+
+block:
+  type: item

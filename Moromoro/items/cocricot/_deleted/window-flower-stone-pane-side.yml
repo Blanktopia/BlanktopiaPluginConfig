@@ -1,0 +1,7 @@
+name: Window Flower Stone Pane Side
+material: PAPER
+custom-model-data: 8923
+model: 'cocricotmod:block/window_flower_stone_pane_side'
+
+block:
+  type: item

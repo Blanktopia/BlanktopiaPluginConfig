@@ -1,0 +1,7 @@
+name: Wood  3board Seadrift Plate
+material: PAPER
+custom-model-data: 9502
+model: 'cocricotmod:block/wood_3board_seadrift_plate'
+
+block:
+  type: item

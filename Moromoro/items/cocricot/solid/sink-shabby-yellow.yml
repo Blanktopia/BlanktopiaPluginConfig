@@ -1,0 +1,7 @@
+name: Sink Shabby Yellow
+material: PAPER
+custom-model-data: 7331
+model: cocricotmod:block/sink_shabby_yellow
+block:
+  type: item
+  collision: true

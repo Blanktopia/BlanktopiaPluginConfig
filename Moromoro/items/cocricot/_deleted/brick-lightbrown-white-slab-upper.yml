@@ -1,0 +1,7 @@
+name: Brick Lightbrown White Slab Upper
+material: PAPER
+custom-model-data: 2669
+model: 'cocricotmod:block/brick_lightbrown_white_slab_upper'
+
+block:
+  type: item

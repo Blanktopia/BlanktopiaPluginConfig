@@ -1,0 +1,7 @@
+name: Hat Boater Wall
+material: PAPER
+custom-model-data: 5807
+model: 'cocricotmod:block/hat_boater_wall'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Red Stairs
+material: PAPER
+custom-model-data: 7846
+model: 'cocricotmod:block/stone_color_red_stairs'
+
+block:
+  type: item

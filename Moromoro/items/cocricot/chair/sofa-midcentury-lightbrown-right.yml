@@ -1,0 +1,7 @@
+name: Sofa Midcentury Lightbrown Right
+material: PAPER
+custom-model-data: 7391
+model: cocricotmod:block/sofa_midcentury_lightbrown_right
+block:
+  type: item
+  sit-height: 0.4375

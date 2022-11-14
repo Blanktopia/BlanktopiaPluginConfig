@@ -1,0 +1,7 @@
+name: Curtain Separate Gingham Redblack Right
+material: PAPER
+custom-model-data: 3261
+model: 'cocricotmod:block/curtain_separate_gingham_redblack_right'
+
+block:
+  type: item

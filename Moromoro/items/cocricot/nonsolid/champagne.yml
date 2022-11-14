@@ -1,0 +1,7 @@
+name: Champagne
+material: PAPER
+custom-model-data: 3053
+model: 'cocricotmod:block/champagne'
+
+block:
+  type: item

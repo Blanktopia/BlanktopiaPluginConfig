@@ -1,0 +1,7 @@
+name: Tablelamp Geometric Pink
+material: PAPER
+custom-model-data: 8224
+model: 'cocricotmod:block/tablelamp_geometric_pink'
+
+block:
+  type: item

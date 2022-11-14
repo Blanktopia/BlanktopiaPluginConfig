@@ -1,0 +1,7 @@
+name: Hangingchain Down Silver
+material: PAPER
+custom-model-data: 5791
+model: 'cocricotmod:block/hangingchain_down_silver'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Frame Seadrift Pane Slant
+material: PAPER
+custom-model-data: 8979
+model: 'cocricotmod:block/window_frame_seadrift_pane_slant'
+
+block:
+  type: item

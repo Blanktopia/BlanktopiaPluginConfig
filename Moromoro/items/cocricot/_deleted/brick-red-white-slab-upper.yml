@@ -1,0 +1,7 @@
+name: Brick Red White Slab Upper
+material: PAPER
+custom-model-data: 2704
+model: 'cocricotmod:block/brick_red_white_slab_upper'
+
+block:
+  type: item

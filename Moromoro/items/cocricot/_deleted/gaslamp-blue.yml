@@ -1,0 +1,7 @@
+name: Gaslamp Blue
+material: PAPER
+custom-model-data: 5043
+model: 'cocricotmod:block/gaslamp_blue'
+
+block:
+  type: item

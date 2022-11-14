@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Dark Corner
+material: PAPER
+custom-model-data: 5711
+model: 'cocricotmod:block/handrail_wood_turnedleg_dark_corner'
+
+block:
+  type: item

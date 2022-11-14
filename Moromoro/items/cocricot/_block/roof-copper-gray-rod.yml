@@ -1,0 +1,7 @@
+name: Roof Copper Gray Rod
+material: PAPER
+custom-model-data: 6448
+model: 'cocricotmod:block/roof_copper_gray_rod'
+
+block:
+  type: item

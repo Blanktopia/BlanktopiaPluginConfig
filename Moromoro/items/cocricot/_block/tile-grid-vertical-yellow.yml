@@ -1,0 +1,7 @@
+name: Tile Grid Vertical Yellow
+material: PAPER
+custom-model-data: 8282
+model: 'cocricotmod:block/tile_grid_vertical_yellow'
+
+block:
+  type: item

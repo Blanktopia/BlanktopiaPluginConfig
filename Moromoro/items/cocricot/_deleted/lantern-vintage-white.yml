@@ -1,0 +1,7 @@
+name: Lantern Vintage White
+material: PAPER
+custom-model-data: 5913
+model: 'cocricotmod:block/lantern_vintage_white'
+
+block:
+  type: item

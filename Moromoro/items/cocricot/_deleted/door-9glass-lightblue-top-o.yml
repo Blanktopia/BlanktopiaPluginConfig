@@ -1,0 +1,7 @@
+name: Door  9glass Lightblue Top O
+material: PAPER
+custom-model-data: 3781
+model: 'cocricotmod:block/door_9glass_lightblue_top_o'
+
+block:
+  type: item

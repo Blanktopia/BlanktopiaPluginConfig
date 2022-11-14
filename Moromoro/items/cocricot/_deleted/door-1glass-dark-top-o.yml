@@ -1,0 +1,7 @@
+name: Door  1glass Dark Top O
+material: PAPER
+custom-model-data: 3541
+model: 'cocricotmod:block/door_1glass_dark_top_o'
+
+block:
+  type: item

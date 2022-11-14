@@ -1,0 +1,7 @@
+name: Bed Mattress Black
+material: PAPER
+custom-model-data: 2407
+model: cocricotmod:block/bed_mattress_black
+block:
+  type: item
+  collision: true

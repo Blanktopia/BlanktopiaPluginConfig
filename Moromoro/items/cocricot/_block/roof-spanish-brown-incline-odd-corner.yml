@@ -1,0 +1,7 @@
+name: Roof Spanish Brown Incline Odd Corner
+material: PAPER
+custom-model-data: 6656
+model: 'cocricotmod:block/roof_spanish_brown_incline_odd_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Leaves Rose Yellow
+material: PAPER
+custom-model-data: 5974
+model: 'cocricotmod:block/leaves_rose_yellow'
+
+block:
+  type: item

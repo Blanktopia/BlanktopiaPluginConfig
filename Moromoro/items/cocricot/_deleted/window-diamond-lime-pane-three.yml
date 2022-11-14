@@ -1,0 +1,7 @@
+name: Window Diamond Lime Pane Three
+material: PAPER
+custom-model-data: 8854
+model: 'cocricotmod:block/window_diamond_lime_pane_three'
+
+block:
+  type: item

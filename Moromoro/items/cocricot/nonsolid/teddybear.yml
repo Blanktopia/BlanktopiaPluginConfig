@@ -1,0 +1,7 @@
+name: Teddybear
+material: PAPER
+custom-model-data: 8247
+model: 'cocricotmod:block/teddybear'
+
+block:
+  type: item

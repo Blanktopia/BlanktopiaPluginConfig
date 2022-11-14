@@ -1,0 +1,7 @@
+name: Wood  6board H Natural Vslab
+material: PAPER
+custom-model-data: 9609
+model: 'cocricotmod:block/wood_6board_h_natural_vslab'
+
+block:
+  type: item

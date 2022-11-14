@@ -1,0 +1,7 @@
+name: Door  2panel Lightgray Top O
+material: PAPER
+custom-model-data: 3613
+model: 'cocricotmod:block/door_2panel_lightgray_top_o'
+
+block:
+  type: item

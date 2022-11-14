@@ -1,0 +1,7 @@
+name: Halftimber Brownwhite Frame
+material: PAPER
+custom-model-data: 5281
+model: 'cocricotmod:block/halftimber_brownwhite_frame'
+
+block:
+  type: item

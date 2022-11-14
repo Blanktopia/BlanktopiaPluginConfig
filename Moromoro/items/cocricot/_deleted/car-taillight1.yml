@@ -1,0 +1,7 @@
+name: Car Taillight 1
+material: PAPER
+custom-model-data: 2895
+model: 'cocricotmod:block/car_taillight1'
+
+block:
+  type: item

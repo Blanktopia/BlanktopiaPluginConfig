@@ -1,0 +1,7 @@
+name: Awning Stripe Green Plate
+material: PAPER
+custom-model-data: 2183
+model: 'cocricotmod:block/awning_stripe_green_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Marble Hourglass
+material: PAPER
+custom-model-data: 6053
+model: 'cocricotmod:block/marble_hourglass'
+
+block:
+  type: item

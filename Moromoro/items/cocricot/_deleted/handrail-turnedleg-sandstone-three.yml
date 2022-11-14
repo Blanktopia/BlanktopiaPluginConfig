@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Sandstone Three
+material: PAPER
+custom-model-data: 5579
+model: 'cocricotmod:block/handrail_turnedleg_sandstone_three'
+
+block:
+  type: item

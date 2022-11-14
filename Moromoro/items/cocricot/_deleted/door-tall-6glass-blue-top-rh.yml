@@ -1,0 +1,7 @@
+name: Door Tall  6glass Blue Top Rh
+material: PAPER
+custom-model-data: 4318
+model: 'cocricotmod:block/door_tall_6glass_blue_top_rh'
+
+block:
+  type: item

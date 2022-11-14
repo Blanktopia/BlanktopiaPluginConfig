@@ -1,0 +1,7 @@
+name: Dentilmolding Black
+material: PAPER
+custom-model-data: 3408
+model: 'cocricotmod:block/dentilmolding_black'
+
+block:
+  type: item

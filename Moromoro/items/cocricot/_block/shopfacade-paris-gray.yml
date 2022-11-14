@@ -1,0 +1,7 @@
+name: Shopfacade Paris Gray
+material: PAPER
+custom-model-data: 7199
+model: 'cocricotmod:block/shopfacade_paris_gray'
+
+block:
+  type: item

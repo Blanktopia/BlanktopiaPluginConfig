@@ -1,0 +1,7 @@
+name: Hanging Plant Macrame
+material: PAPER
+custom-model-data: 5786
+model: 'cocricotmod:block/hanging_plant_macrame'
+
+block:
+  type: item

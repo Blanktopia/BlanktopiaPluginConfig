@@ -1,0 +1,7 @@
+name: Door Tall  2panel Black Bottom
+material: PAPER
+custom-model-data: 4056
+model: 'cocricotmod:block/door_tall_2panel_black_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Shopfacade Paris Wood Pillar
+material: PAPER
+custom-model-data: 7230
+model: 'cocricotmod:block/shopfacade_paris_wood_pillar'
+
+block:
+  type: item

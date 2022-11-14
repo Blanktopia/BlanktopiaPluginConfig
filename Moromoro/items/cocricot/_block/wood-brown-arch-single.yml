@@ -1,0 +1,7 @@
+name: Wood Brown Arch Single
+material: PAPER
+custom-model-data: 9676
+model: 'cocricotmod:block/wood_brown_arch_single'
+
+block:
+  type: item

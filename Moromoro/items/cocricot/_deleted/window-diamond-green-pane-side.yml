@@ -1,0 +1,7 @@
+name: Window Diamond Green Pane Side
+material: PAPER
+custom-model-data: 8838
+model: 'cocricotmod:block/window_diamond_green_pane_side'
+
+block:
+  type: item

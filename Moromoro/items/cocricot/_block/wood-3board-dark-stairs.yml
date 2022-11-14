@@ -1,0 +1,7 @@
+name: Wood  3board Dark Stairs
+material: PAPER
+custom-model-data: 9425
+model: 'cocricotmod:block/wood_3board_dark_stairs'
+
+block:
+  type: item

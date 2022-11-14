@@ -1,0 +1,7 @@
+name: Leg Turned Antique
+material: PAPER
+custom-model-data: 5978
+model: 'cocricotmod:block/leg_turned_antique'
+
+block:
+  type: item

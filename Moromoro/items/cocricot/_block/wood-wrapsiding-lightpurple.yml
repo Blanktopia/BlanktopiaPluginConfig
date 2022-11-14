@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightpurple
+material: PAPER
+custom-model-data: 9896
+model: 'cocricotmod:block/wood_wrapsiding_lightpurple'
+
+block:
+  type: item

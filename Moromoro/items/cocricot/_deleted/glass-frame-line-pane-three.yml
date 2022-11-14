@@ -1,0 +1,7 @@
+name: Glass Frame Line Pane Three
+material: PAPER
+custom-model-data: 5114
+model: 'cocricotmod:block/glass_frame_line_pane_three'
+
+block:
+  type: item

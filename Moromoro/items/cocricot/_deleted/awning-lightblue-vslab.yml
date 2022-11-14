@@ -1,0 +1,7 @@
+name: Awning Lightblue Vslab
+material: PAPER
+custom-model-data: 2077
+model: 'cocricotmod:block/awning_lightblue_vslab'
+
+block:
+  type: item

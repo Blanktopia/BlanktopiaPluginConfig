@@ -1,0 +1,7 @@
+name: Smoke Black
+material: PAPER
+custom-model-data: 7345
+model: 'cocricotmod:block/smoke_black'
+
+block:
+  type: item

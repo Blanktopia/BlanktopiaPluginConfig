@@ -1,0 +1,7 @@
+name: Bookshelf Antique Black Full Dslab
+material: PAPER
+custom-model-data: 2505
+model: 'cocricotmod:block/bookshelf_antique_black_full_dslab'
+
+block:
+  type: item

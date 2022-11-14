@@ -1,0 +1,7 @@
+name: Garland Cute Slant
+material: PAPER
+custom-model-data: 5014
+model: 'cocricotmod:block/garland_cute_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Pizza Quattroformaggi
+material: PAPER
+custom-model-data: 6261
+model: 'cocricotmod:block/pizza_quattroformaggi'
+
+block:
+  type: item

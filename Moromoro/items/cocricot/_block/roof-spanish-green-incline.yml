@@ -1,0 +1,7 @@
+name: Roof Spanish Green Incline
+material: PAPER
+custom-model-data: 6673
+model: 'cocricotmod:block/roof_spanish_green_incline'
+
+block:
+  type: item

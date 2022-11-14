@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg White Corner
+material: PAPER
+custom-model-data: 5753
+model: 'cocricotmod:block/handrail_wood_turnedleg_white_corner'
+
+block:
+  type: item

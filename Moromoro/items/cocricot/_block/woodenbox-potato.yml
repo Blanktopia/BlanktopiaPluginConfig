@@ -1,0 +1,7 @@
+name: Woodenbox Potato
+material: PAPER
+custom-model-data: 9925
+model: 'cocricotmod:block/woodenbox_potato'
+
+block:
+  type: item

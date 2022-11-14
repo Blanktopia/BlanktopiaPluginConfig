@@ -1,0 +1,7 @@
+name: Wallshelf Bracket White Single False
+material: PAPER
+custom-model-data: 8481
+model: 'cocricotmod:block/wallshelf_bracket_white_single_false'
+
+block:
+  type: item

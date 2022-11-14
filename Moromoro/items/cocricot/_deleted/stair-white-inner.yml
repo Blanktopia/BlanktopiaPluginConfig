@@ -1,0 +1,7 @@
+name: Stair White Inner
+material: PAPER
+custom-model-data: 7612
+model: 'cocricotmod:block/stair_white_inner'
+
+block:
+  type: item

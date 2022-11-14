@@ -1,0 +1,7 @@
+name: Door  4glass Clear Bottom
+material: PAPER
+custom-model-data: 3704
+model: 'cocricotmod:block/door_4glass_clear_bottom'
+
+block:
+  type: item

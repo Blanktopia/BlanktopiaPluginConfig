@@ -1,0 +1,7 @@
+name: Wood Clear Arch Single
+material: PAPER
+custom-model-data: 9688
+model: 'cocricotmod:block/wood_clear_arch_single'
+
+block:
+  type: item

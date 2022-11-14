@@ -1,0 +1,7 @@
+name: Glass Frame Brown Pane Three
+material: PAPER
+custom-model-data: 5066
+model: 'cocricotmod:block/glass_frame_brown_pane_three'
+
+block:
+  type: item

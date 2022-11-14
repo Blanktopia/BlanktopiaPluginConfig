@@ -1,0 +1,7 @@
+name: Awning Red Stairs
+material: PAPER
+custom-model-data: 2128
+model: 'cocricotmod:block/awning_red_stairs'
+
+block:
+  type: item

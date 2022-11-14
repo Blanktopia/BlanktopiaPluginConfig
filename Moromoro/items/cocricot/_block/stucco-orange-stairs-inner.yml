@@ -1,0 +1,7 @@
+name: Stucco Orange Stairs Inner
+material: PAPER
+custom-model-data: 8070
+model: 'cocricotmod:block/stucco_orange_stairs_inner'
+
+block:
+  type: item

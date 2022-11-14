@@ -1,0 +1,7 @@
+name: Wood  2board Clear Stairs Outer
+material: PAPER
+custom-model-data: 9284
+model: 'cocricotmod:block/wood_2board_clear_stairs_outer'
+
+block:
+  type: item

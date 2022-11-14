@@ -1,0 +1,7 @@
+name: Fence Ranchrail Seadrift Side
+material: PAPER
+custom-model-data: 4798
+model: 'cocricotmod:block/fence_ranchrail_seadrift_side'
+
+block:
+  type: item

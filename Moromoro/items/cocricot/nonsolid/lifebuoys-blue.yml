@@ -1,0 +1,7 @@
+name: Lifebuoys Blue
+material: PAPER
+custom-model-data: 6011
+model: 'cocricotmod:block/lifebuoys_blue'
+
+block:
+  type: item

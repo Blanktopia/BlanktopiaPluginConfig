@@ -1,0 +1,7 @@
+name: Stone Random Whitejoint Pile Height 2
+material: PAPER
+custom-model-data: 7953
+model: 'cocricotmod:block/stone_random_whitejoint_pile_height2'
+
+block:
+  type: item

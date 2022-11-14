@@ -1,0 +1,7 @@
+name: Sink Plate White Ceramic
+material: PAPER
+custom-model-data: 7325
+model: cocricotmod:block/sink_plate_white_ceramic
+block:
+  type: item
+  collision: true

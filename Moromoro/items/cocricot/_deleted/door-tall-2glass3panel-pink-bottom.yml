@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Pink Bottom
+material: PAPER
+custom-model-data: 4008
+model: 'cocricotmod:block/door_tall_2glass3panel_pink_bottom'
+
+block:
+  type: item

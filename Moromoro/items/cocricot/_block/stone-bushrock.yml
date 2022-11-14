@@ -1,0 +1,7 @@
+name: Stone Bushrock
+material: PAPER
+custom-model-data: 7639
+model: 'cocricotmod:block/stone_bushrock'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Cyan
+material: PAPER
+custom-model-data: 9878
+model: 'cocricotmod:block/wood_wrapsiding_cyan'
+
+block:
+  type: item

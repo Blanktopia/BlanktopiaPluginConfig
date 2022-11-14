@@ -1,0 +1,7 @@
+name: Mortar Stairs Outer
+material: PAPER
+custom-model-data: 6138
+model: 'cocricotmod:block/mortar_stairs_outer'
+
+block:
+  type: item

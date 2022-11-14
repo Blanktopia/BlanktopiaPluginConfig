@@ -1,0 +1,7 @@
+name: Shower Rain Silver
+material: PAPER
+custom-model-data: 7242
+model: 'cocricotmod:block/shower_rain_silver'
+
+block:
+  type: item

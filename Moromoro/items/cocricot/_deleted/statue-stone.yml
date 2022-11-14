@@ -1,0 +1,7 @@
+name: Statue Stone
+material: PAPER
+custom-model-data: 7615
+model: 'cocricotmod:block/statue_stone'
+
+block:
+  type: item

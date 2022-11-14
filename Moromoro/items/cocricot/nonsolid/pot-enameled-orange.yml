@@ -1,0 +1,7 @@
+name: Pot Enameled Orange
+material: PAPER
+custom-model-data: 6287
+model: 'cocricotmod:block/pot_enameled_orange'
+
+block:
+  type: item

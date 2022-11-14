@@ -1,0 +1,7 @@
+name: Cushion Blue Left B
+material: PAPER
+custom-model-data: 3303
+model: 'cocricotmod:block/cushion_blue_left_b'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Darkred Pattern 1
+material: PAPER
+custom-model-data: 5391
+model: 'cocricotmod:block/halftimber_darkred_pattern1'
+
+block:
+  type: item

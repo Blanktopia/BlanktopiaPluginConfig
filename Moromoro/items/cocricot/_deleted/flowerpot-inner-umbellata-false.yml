@@ -1,0 +1,7 @@
+name: Flowerpot Inner Umbellata False
+material: PAPER
+custom-model-data: 4915
+model: 'cocricotmod:block/flowerpot_inner_umbellata_false'
+
+block:
+  type: item

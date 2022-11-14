@@ -1,0 +1,7 @@
+name: Stone Color Green Stairs Outer
+material: PAPER
+custom-model-data: 7757
+model: 'cocricotmod:block/stone_color_green_stairs_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Marinelamp Deck Antique
+material: PAPER
+custom-model-data: 6073
+model: 'cocricotmod:block/marinelamp_deck_antique'
+
+block:
+  type: item

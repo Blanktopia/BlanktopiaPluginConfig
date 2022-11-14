@@ -1,0 +1,7 @@
+name: Fence Cross Marineblue Post
+material: PAPER
+custom-model-data: 4703
+model: 'cocricotmod:block/fence_cross_marineblue_post'
+
+block:
+  type: item

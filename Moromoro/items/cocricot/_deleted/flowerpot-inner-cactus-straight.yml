@@ -1,0 +1,7 @@
+name: Flowerpot Inner Cactus Straight
+material: PAPER
+custom-model-data: 4898
+model: 'cocricotmod:block/flowerpot_inner_cactus_straight'
+
+block:
+  type: item

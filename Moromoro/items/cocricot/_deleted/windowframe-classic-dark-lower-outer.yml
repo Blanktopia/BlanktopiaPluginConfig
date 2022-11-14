@@ -1,0 +1,7 @@
+name: Windowframe Classic Dark Lower Outer
+material: PAPER
+custom-model-data: 9073
+model: 'cocricotmod:block/windowframe_classic_dark_lower_outer'
+
+block:
+  type: item

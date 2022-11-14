@@ -1,0 +1,7 @@
+name: Window Centrebar Mintgreen Pane Three
+material: PAPER
+custom-model-data: 8658
+model: 'cocricotmod:block/window_centrebar_mintgreen_pane_three'
+
+block:
+  type: item

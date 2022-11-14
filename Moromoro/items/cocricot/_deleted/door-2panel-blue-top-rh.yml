@@ -1,0 +1,7 @@
+name: Door  2panel Blue Top Rh
+material: PAPER
+custom-model-data: 3582
+model: 'cocricotmod:block/door_2panel_blue_top_rh'
+
+block:
+  type: item

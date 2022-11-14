@@ -1,0 +1,7 @@
+name: Stucco White
+material: PAPER
+custom-model-data: 8100
+model: 'cocricotmod:block/stucco_white'
+
+block:
+  type: item

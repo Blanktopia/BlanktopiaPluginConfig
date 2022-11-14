@@ -1,0 +1,7 @@
+name: Refrigerator Retro Brown
+material: PAPER
+custom-model-data: 6354
+model: cocricotmod:block/refrigerator_retro_brown
+block:
+  type: item
+  collision: true

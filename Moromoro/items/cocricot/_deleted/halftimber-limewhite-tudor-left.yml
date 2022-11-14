@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Tudor Left
+material: PAPER
+custom-model-data: 5456
+model: 'cocricotmod:block/halftimber_limewhite_tudor_left'
+
+block:
+  type: item

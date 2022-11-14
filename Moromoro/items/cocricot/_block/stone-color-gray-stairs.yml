@@ -1,0 +1,7 @@
+name: Stone Color Gray Stairs
+material: PAPER
+custom-model-data: 7742
+model: 'cocricotmod:block/stone_color_gray_stairs'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Woodshake Black Rod
+material: PAPER
+custom-model-data: 6846
+model: 'cocricotmod:block/roof_woodshake_black_rod'
+
+block:
+  type: item

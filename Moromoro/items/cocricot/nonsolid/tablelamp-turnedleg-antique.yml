@@ -1,0 +1,7 @@
+name: Tablelamp Turnedleg Antique
+material: PAPER
+custom-model-data: 8231
+model: 'cocricotmod:block/tablelamp_turnedleg_antique'
+
+block:
+  type: item

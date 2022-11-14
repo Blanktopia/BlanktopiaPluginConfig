@@ -1,0 +1,7 @@
+name: Awning Blue Block
+material: PAPER
+custom-model-data: 2024
+model: 'cocricotmod:block/awning_blue_block'
+
+block:
+  type: item

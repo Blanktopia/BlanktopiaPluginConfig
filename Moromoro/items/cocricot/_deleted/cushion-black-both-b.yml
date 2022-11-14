@@ -1,0 +1,7 @@
+name: Cushion Black Both B
+material: PAPER
+custom-model-data: 3292
+model: 'cocricotmod:block/cushion_black_both_b'
+
+block:
+  type: item

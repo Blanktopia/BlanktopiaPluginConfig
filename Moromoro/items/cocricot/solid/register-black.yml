@@ -1,0 +1,7 @@
+name: Register Black
+material: PAPER
+custom-model-data: 6364
+model: cocricotmod:block/register_black
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Flowerpot Inner Goldcrest
+material: PAPER
+custom-model-data: 4902
+model: 'cocricotmod:block/flowerpot_inner_goldcrest'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rug Shag Round Green Three
+material: PAPER
+custom-model-data: 6989
+model: 'cocricotmod:block/rug_shag_round_green_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowbox Dark
+material: PAPER
+custom-model-data: 9011
+model: 'cocricotmod:block/windowbox_dark'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sofa Midcentury Gray Both
+material: PAPER
+custom-model-data: 7381
+model: cocricotmod:block/sofa_midcentury_gray_both
+block:
+  type: item
+  sit-height: 0.4375

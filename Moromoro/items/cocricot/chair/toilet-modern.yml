@@ -1,0 +1,8 @@
+name: Toilet Modern
+material: PAPER
+custom-model-data: 8318
+model: cocricotmod:block/toilet_modern
+block:
+  type: item
+  collision: true
+  sit-height: 0.4375

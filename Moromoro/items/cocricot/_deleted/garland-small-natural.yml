@@ -1,0 +1,7 @@
+name: Garland Small Natural
+material: PAPER
+custom-model-data: 5040
+model: 'cocricotmod:block/garland_small_natural'
+
+block:
+  type: item

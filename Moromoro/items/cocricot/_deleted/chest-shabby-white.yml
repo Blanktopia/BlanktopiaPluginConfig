@@ -1,0 +1,7 @@
+name: Chest Shabby White
+material: PAPER
+custom-model-data: 3091
+model: 'cocricotmod:block/chest_shabby_white'
+
+block:
+  type: item

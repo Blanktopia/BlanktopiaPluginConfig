@@ -1,0 +1,7 @@
+name: Window Centrebar Natural Pane Slant
+material: PAPER
+custom-model-data: 8664
+model: 'cocricotmod:block/window_centrebar_natural_pane_slant'
+
+block:
+  type: item

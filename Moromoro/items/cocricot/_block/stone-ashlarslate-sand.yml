@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand
+material: PAPER
+custom-model-data: 7620
+model: 'cocricotmod:block/stone_ashlarslate_sand'
+
+block:
+  type: item

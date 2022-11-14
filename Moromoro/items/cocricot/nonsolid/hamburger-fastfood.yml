@@ -1,0 +1,7 @@
+name: Hamburger Fastfood
+material: PAPER
+custom-model-data: 5551
+model: 'cocricotmod:block/hamburger_fastfood'
+
+block:
+  type: item

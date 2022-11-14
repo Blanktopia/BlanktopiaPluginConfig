@@ -1,0 +1,7 @@
+name: Glass Frame Brown Pane Post
+material: PAPER
+custom-model-data: 5063
+model: 'cocricotmod:block/glass_frame_brown_pane_post'
+
+block:
+  type: item

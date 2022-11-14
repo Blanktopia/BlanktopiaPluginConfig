@@ -1,0 +1,7 @@
+name: Window Flower Black
+material: PAPER
+custom-model-data: 8904
+model: 'cocricotmod:block/window_flower_black'
+
+block:
+  type: item

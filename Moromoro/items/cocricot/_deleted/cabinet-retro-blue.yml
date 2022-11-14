@@ -1,0 +1,7 @@
+name: Cabinet Retro Blue
+material: PAPER
+custom-model-data: 2809
+model: 'cocricotmod:block/cabinet_retro_blue'
+
+block:
+  type: item

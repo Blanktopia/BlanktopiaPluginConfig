@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Green
+material: PAPER
+custom-model-data: 9882
+model: 'cocricotmod:block/wood_wrapsiding_green'
+
+block:
+  type: item

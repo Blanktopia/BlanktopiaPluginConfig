@@ -1,0 +1,7 @@
+name: Food Pancake Berry
+material: PAPER
+custom-model-data: 4935
+model: 'cocricotmod:block/food_pancake_berry'
+
+block:
+  type: item

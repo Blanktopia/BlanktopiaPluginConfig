@@ -1,0 +1,7 @@
+name: Mailbox Black Black
+material: PAPER
+custom-model-data: 6031
+model: 'cocricotmod:block/mailbox_black_black'
+
+block:
+  type: item

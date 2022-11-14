@@ -1,0 +1,7 @@
+name: Falling Leaves Orange
+material: PAPER
+custom-model-data: 4678
+model: 'cocricotmod:block/falling_leaves_orange'
+
+block:
+  type: item

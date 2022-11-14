@@ -1,0 +1,7 @@
+name: Sawhorse Black Single
+material: PAPER
+custom-model-data: 7134
+model: 'cocricotmod:block/sawhorse_black_single'
+
+block:
+  type: item

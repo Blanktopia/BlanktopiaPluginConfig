@@ -1,0 +1,7 @@
+name: Leaves Cherryblossom Pink
+material: PAPER
+custom-model-data: 5940
+model: 'cocricotmod:block/leaves_cherryblossom_pink'
+
+block:
+  type: item

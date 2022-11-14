@@ -1,0 +1,7 @@
+name: Picket Staggered White Item
+material: PAPER
+custom-model-data: 6256
+model: 'cocricotmod:block/picket_staggered_white_item'
+
+block:
+  type: item

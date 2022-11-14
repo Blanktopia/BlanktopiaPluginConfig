@@ -1,0 +1,7 @@
+name: Bed Pillow Pink
+material: PAPER
+custom-model-data: 2432
+model: 'cocricotmod:block/bed_pillow_pink'
+
+block:
+  type: item

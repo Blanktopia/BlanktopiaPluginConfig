@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Stairs Outer
+material: PAPER
+custom-model-data: 6403
+model: 'cocricotmod:block/roof_claytile_brown_stairs_outer'
+
+block:
+  type: item

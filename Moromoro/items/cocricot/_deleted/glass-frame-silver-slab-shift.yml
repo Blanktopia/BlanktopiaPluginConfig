@@ -1,0 +1,7 @@
+name: Glass Frame Silver Slab Shift
+material: PAPER
+custom-model-data: 5130
+model: 'cocricotmod:block/glass_frame_silver_slab_shift'
+
+block:
+  type: item

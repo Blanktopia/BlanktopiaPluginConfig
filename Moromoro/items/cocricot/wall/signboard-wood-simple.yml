@@ -1,0 +1,7 @@
+name: Signboard Wood Simple
+material: PAPER
+custom-model-data: 7267
+model: 'cocricotmod:block/signboard_wood_simple'
+
+block:
+  type: item

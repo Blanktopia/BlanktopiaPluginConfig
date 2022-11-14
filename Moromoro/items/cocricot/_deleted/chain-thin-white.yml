@@ -1,0 +1,7 @@
+name: Chain Thin White
+material: PAPER
+custom-model-data: 2982
+model: 'cocricotmod:block/chain_thin_white'
+
+block:
+  type: item

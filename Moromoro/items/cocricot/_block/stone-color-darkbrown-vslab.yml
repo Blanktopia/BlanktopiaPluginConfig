@@ -1,0 +1,7 @@
+name: Stone Color Darkbrown Vslab
+material: PAPER
+custom-model-data: 7733
+model: 'cocricotmod:block/stone_color_darkbrown_vslab'
+
+block:
+  type: item

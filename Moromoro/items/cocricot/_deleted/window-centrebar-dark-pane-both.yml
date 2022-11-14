@@ -1,0 +1,7 @@
+name: Window Centrebar Dark Pane Both
+material: PAPER
+custom-model-data: 8619
+model: 'cocricotmod:block/window_centrebar_dark_pane_both'
+
+block:
+  type: item

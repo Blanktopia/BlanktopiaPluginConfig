@@ -1,0 +1,7 @@
+name: Garland Cool Post
+material: PAPER
+custom-model-data: 5006
+model: 'cocricotmod:block/garland_cool_post'
+
+block:
+  type: item

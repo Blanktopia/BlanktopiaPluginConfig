@@ -1,0 +1,7 @@
+name: Bamboo
+material: PAPER
+custom-model-data: 2295
+model: 'cocricotmod:block/bamboo'
+
+block:
+  type: item

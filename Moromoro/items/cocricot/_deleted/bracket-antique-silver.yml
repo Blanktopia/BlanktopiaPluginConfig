@@ -1,0 +1,7 @@
+name: Bracket Antique Silver
+material: PAPER
+custom-model-data: 2584
+model: 'cocricotmod:block/bracket_antique_silver'
+
+block:
+  type: item

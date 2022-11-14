@@ -1,0 +1,7 @@
+name: Sofa Log Birch Natural Single
+material: PAPER
+custom-model-data: 7352
+model: cocricotmod:block/sofa_log_birch_natural_single
+block:
+  type: item
+  sit-height: 0.4375

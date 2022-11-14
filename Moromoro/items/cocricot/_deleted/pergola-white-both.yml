@@ -1,0 +1,7 @@
+name: Pergola White Both
+material: PAPER
+custom-model-data: 6238
+model: 'cocricotmod:block/pergola_white_both'
+
+block:
+  type: item

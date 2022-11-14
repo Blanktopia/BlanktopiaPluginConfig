@@ -1,0 +1,7 @@
+name: Roof Spanish Yellow Stairs Inner
+material: PAPER
+custom-model-data: 6790
+model: 'cocricotmod:block/roof_spanish_yellow_stairs_inner'
+
+block:
+  type: item

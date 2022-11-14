@@ -1,0 +1,7 @@
+name: Counterstool American Red
+material: PAPER
+custom-model-data: 3204
+model: 'cocricotmod:block/counterstool_american_red'
+
+block:
+  type: item

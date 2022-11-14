@@ -1,0 +1,7 @@
+name: Awning White Vslab
+material: PAPER
+custom-model-data: 2280
+model: 'cocricotmod:block/awning_white_vslab'
+
+block:
+  type: item

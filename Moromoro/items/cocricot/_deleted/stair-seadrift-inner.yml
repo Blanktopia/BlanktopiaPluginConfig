@@ -1,0 +1,7 @@
+name: Stair Seadrift Inner
+material: PAPER
+custom-model-data: 7586
+model: 'cocricotmod:block/stair_seadrift_inner'
+
+block:
+  type: item

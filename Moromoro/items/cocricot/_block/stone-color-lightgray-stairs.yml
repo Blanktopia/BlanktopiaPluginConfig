@@ -1,0 +1,7 @@
+name: Stone Color Lightgray Stairs
+material: PAPER
+custom-model-data: 7781
+model: 'cocricotmod:block/stone_color_lightgray_stairs'
+
+block:
+  type: item

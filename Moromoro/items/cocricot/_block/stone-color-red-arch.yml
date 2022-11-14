@@ -1,0 +1,7 @@
+name: Stone Color Red Arch
+material: PAPER
+custom-model-data: 7840
+model: 'cocricotmod:block/stone_color_red_arch'
+
+block:
+  type: item

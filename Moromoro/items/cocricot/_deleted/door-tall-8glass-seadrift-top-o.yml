@@ -1,0 +1,7 @@
+name: Door Tall  8glass Seadrift Top O
+material: PAPER
+custom-model-data: 4469
+model: 'cocricotmod:block/door_tall_8glass_seadrift_top_o'
+
+block:
+  type: item

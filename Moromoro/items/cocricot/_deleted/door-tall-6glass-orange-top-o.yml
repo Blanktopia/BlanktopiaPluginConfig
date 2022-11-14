@@ -1,0 +1,7 @@
+name: Door Tall  6glass Orange Top O
+material: PAPER
+custom-model-data: 4373
+model: 'cocricotmod:block/door_tall_6glass_orange_top_o'
+
+block:
+  type: item

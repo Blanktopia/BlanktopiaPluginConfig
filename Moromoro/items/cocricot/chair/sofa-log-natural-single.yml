@@ -1,0 +1,7 @@
+name: Sofa Log Natural Single
+material: PAPER
+custom-model-data: 7362
+model: cocricotmod:block/sofa_log_natural_single
+block:
+  type: item
+  sit-height: 0.4375

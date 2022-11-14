@@ -1,0 +1,7 @@
+name: Wood  3board H Dark Stairs Outer
+material: PAPER
+custom-model-data: 9460
+model: 'cocricotmod:block/wood_3board_h_dark_stairs_outer'
+
+block:
+  type: item

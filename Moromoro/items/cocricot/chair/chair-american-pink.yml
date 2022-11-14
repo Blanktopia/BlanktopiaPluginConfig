@@ -1,0 +1,7 @@
+name: Chair American Pink
+material: PAPER
+custom-model-data: 2990
+model: cocricotmod:block/chair_american_pink
+block:
+  type: item
+  sit-height: 0.4375

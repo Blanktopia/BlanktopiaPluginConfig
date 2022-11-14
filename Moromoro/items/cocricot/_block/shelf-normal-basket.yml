@@ -1,0 +1,7 @@
+name: Shelf Normal Basket
+material: PAPER
+custom-model-data: 7157
+model: 'cocricotmod:block/shelf_normal_basket'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Clear Single
+material: PAPER
+custom-model-data: 8402
+model: 'cocricotmod:block/wallshelf_bracket_antique_clear_single'
+
+block:
+  type: item

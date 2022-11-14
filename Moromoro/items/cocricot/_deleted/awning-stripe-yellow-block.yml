@@ -1,0 +1,7 @@
+name: Awning Stripe Yellow Block
+material: PAPER
+custom-model-data: 2258
+model: 'cocricotmod:block/awning_stripe_yellow_block'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sofa Simple Gray Right
+material: PAPER
+custom-model-data: 7411
+model: cocricotmod:block/sofa_simple_gray_right
+block:
+  type: item
+  sit-height: 0.4375

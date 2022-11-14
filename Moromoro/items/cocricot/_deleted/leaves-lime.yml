@@ -1,0 +1,7 @@
+name: Leaves Lime
+material: PAPER
+custom-model-data: 5957
+model: 'cocricotmod:block/leaves_lime'
+
+block:
+  type: item

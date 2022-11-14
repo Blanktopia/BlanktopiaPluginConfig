@@ -1,0 +1,7 @@
+name: Roof Copper White Slab Upper
+material: PAPER
+custom-model-data: 6530
+model: 'cocricotmod:block/roof_copper_white_slab_upper'
+
+block:
+  type: item

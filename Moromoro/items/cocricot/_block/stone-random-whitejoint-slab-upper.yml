@@ -1,0 +1,7 @@
+name: Stone Random Whitejoint Slab Upper
+material: PAPER
+custom-model-data: 7963
+model: 'cocricotmod:block/stone_random_whitejoint_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Slab
+material: PAPER
+custom-model-data: 6707
+model: 'cocricotmod:block/roof_spanish_lightbrown_slab'
+
+block:
+  type: item

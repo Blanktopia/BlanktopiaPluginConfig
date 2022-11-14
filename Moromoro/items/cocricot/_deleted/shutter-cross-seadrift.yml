@@ -1,0 +1,7 @@
+name: Shutter Cross Seadrift
+material: PAPER
+custom-model-data: 7248
+model: 'cocricotmod:block/shutter_cross_seadrift'
+
+block:
+  type: item

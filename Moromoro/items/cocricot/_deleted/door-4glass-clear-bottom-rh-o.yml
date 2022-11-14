@@ -1,0 +1,7 @@
+name: Door  4glass Clear Bottom Rh O
+material: PAPER
+custom-model-data: 3707
+model: 'cocricotmod:block/door_4glass_clear_bottom_rh_o'
+
+block:
+  type: item

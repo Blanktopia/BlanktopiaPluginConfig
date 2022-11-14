@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightred Whiteframe
+material: PAPER
+custom-model-data: 9899
+model: 'cocricotmod:block/wood_wrapsiding_lightred_whiteframe'
+
+block:
+  type: item

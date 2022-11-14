@@ -1,0 +1,7 @@
+name: Drainpipe White
+material: PAPER
+custom-model-data: 4531
+model: 'cocricotmod:block/drainpipe_white'
+
+block:
+  type: item

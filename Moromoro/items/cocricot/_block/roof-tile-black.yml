@@ -1,0 +1,7 @@
+name: Roof Tile Black
+material: PAPER
+custom-model-data: 6794
+model: 'cocricotmod:block/roof_tile_black'
+
+block:
+  type: item

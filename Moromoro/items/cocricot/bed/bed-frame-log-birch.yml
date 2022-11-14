@@ -1,0 +1,7 @@
+name: Bed Frame Log Birch
+material: PAPER
+custom-model-data: 2395
+model: cocricotmod:block/bed_frame_log_birch
+block:
+  type: item
+  collision: true

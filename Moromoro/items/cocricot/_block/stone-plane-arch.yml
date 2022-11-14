@@ -1,0 +1,7 @@
+name: Stone Plane Arch
+material: PAPER
+custom-model-data: 7913
+model: 'cocricotmod:block/stone_plane_arch'
+
+block:
+  type: item

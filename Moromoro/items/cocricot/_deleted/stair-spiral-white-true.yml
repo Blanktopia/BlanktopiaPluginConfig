@@ -1,0 +1,7 @@
+name: Stair Spiral White True
+material: PAPER
+custom-model-data: 7611
+model: 'cocricotmod:block/stair_spiral_white_true'
+
+block:
+  type: item

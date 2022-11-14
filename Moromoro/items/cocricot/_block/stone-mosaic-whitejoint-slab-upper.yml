@@ -1,0 +1,7 @@
+name: Stone Mosaic Whitejoint Slab Upper
+material: PAPER
+custom-model-data: 7906
+model: 'cocricotmod:block/stone_mosaic_whitejoint_slab_upper'
+
+block:
+  type: item

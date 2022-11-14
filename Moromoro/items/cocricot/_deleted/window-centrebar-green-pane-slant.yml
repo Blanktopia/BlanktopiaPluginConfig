@@ -1,0 +1,7 @@
+name: Window Centrebar Green Pane Slant
+material: PAPER
+custom-model-data: 8629
+model: 'cocricotmod:block/window_centrebar_green_pane_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Refrigerator Retro Silver
+material: PAPER
+custom-model-data: 6361
+model: cocricotmod:block/refrigerator_retro_silver
+block:
+  type: item
+  collision: true

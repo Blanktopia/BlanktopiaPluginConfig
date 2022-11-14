@@ -1,0 +1,7 @@
+name: Door Tall  5panel Lightgreen Bottom
+material: PAPER
+custom-model-data: 4224
+model: 'cocricotmod:block/door_tall_5panel_lightgreen_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowframe Simple Side Dark
+material: PAPER
+custom-model-data: 9182
+model: 'cocricotmod:block/windowframe_simple_side_dark'
+
+block:
+  type: item

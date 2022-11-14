@@ -1,0 +1,7 @@
+name: Laundrypole Single
+material: PAPER
+custom-model-data: 5928
+model: 'cocricotmod:block/laundrypole_single'
+
+block:
+  type: item

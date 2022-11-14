@@ -1,0 +1,7 @@
+name: Sofa Slipper Pink Inner
+material: PAPER
+custom-model-data: 7507
+model: cocricotmod:block/sofa_slipper_pink_inner
+block:
+  type: item
+  sit-height: 0.4375

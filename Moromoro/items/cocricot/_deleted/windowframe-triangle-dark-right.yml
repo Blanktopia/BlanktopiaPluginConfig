@@ -1,0 +1,7 @@
+name: Windowframe Triangle Dark Right
+material: PAPER
+custom-model-data: 9234
+model: 'cocricotmod:block/windowframe_triangle_dark_right'
+
+block:
+  type: item

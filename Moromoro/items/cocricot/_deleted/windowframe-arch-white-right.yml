@@ -1,0 +1,7 @@
+name: Windowframe Arch White Right
+material: PAPER
+custom-model-data: 9058
+model: 'cocricotmod:block/windowframe_arch_white_right'
+
+block:
+  type: item

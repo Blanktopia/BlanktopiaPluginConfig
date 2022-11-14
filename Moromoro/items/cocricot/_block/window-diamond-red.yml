@@ -1,0 +1,7 @@
+name: Window Diamond Red
+material: PAPER
+custom-model-data: 8876
+model: 'cocricotmod:block/window_diamond_red'
+
+block:
+  type: item

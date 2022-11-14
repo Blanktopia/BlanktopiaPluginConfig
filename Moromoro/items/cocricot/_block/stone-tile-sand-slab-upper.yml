@@ -1,0 +1,7 @@
+name: Stone Tile Sand Slab Upper
+material: PAPER
+custom-model-data: 7982
+model: 'cocricotmod:block/stone_tile_sand_slab_upper'
+
+block:
+  type: item

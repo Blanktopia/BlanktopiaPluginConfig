@@ -1,0 +1,7 @@
+name: Stucco Orange
+material: PAPER
+custom-model-data: 8061
+model: 'cocricotmod:block/stucco_orange'
+
+block:
+  type: item

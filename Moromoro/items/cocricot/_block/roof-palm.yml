@@ -1,0 +1,7 @@
+name: Roof Palm
+material: PAPER
+custom-model-data: 6624
+model: 'cocricotmod:block/roof_palm'
+
+block:
+  type: item

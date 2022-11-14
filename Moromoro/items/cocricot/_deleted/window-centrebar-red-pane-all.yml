@@ -1,0 +1,7 @@
+name: Window Centrebar Red Pane All
+material: PAPER
+custom-model-data: 8667
+model: 'cocricotmod:block/window_centrebar_red_pane_all'
+
+block:
+  type: item

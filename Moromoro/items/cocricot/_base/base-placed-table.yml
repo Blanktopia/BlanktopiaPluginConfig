@@ -1,0 +1,7 @@
+name: Base Placed Table
+material: PAPER
+custom-model-data: 2333
+model: 'cocricotmod:block/base_placed_table'
+
+block:
+  type: item

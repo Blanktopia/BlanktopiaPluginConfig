@@ -1,0 +1,7 @@
+name: Wood Natural
+material: PAPER
+custom-model-data: 9781
+model: 'cocricotmod:block/wood_natural'
+
+block:
+  type: item

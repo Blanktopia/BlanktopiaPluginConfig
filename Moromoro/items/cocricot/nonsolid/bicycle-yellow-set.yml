@@ -1,0 +1,7 @@
+name: Bicycle Yellow Set
+material: PAPER
+custom-model-data: 2474
+model: 'cocricotmod:block/bicycle_yellow_set'
+
+block:
+  type: item

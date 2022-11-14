@@ -1,0 +1,7 @@
+name: Sofa Slipper Lightpurple
+material: PAPER
+custom-model-data: 7500
+model: cocricotmod:block/sofa_slipper_lightpurple
+block:
+  type: item
+  sit-height: 0.4375

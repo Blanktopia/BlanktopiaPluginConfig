@@ -1,0 +1,7 @@
+name: Wood  6board Seadrift Slab Upper
+material: PAPER
+custom-model-data: 9644
+model: 'cocricotmod:block/wood_6board_seadrift_slab_upper'
+
+block:
+  type: item

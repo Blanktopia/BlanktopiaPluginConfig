@@ -1,0 +1,7 @@
+name: Glass Frame Dark Slab Vshift
+material: PAPER
+custom-model-data: 5094
+model: 'cocricotmod:block/glass_frame_dark_slab_vshift'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowframe Classic Side Brown
+material: PAPER
+custom-model-data: 9092
+model: 'cocricotmod:block/windowframe_classic_side_brown'
+
+block:
+  type: item

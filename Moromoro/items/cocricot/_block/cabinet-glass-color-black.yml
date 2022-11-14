@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Black
+material: PAPER
+custom-model-data: 2775
+model: 'cocricotmod:block/cabinet_glass_color_black'
+
+block:
+  type: item

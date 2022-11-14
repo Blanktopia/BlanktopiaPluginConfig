@@ -1,0 +1,7 @@
+name: Glass Frame Silver Pane All
+material: PAPER
+custom-model-data: 5122
+model: 'cocricotmod:block/glass_frame_silver_pane_all'
+
+block:
+  type: item

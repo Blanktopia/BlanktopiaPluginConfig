@@ -1,0 +1,7 @@
+name: Slipper White True
+material: PAPER
+custom-model-data: 7344
+model: 'cocricotmod:block/slipper_white_true'
+
+block:
+  type: item

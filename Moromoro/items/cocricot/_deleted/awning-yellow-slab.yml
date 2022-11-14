@@ -1,0 +1,7 @@
+name: Awning Yellow Slab
+material: PAPER
+custom-model-data: 2285
+model: 'cocricotmod:block/awning_yellow_slab'
+
+block:
+  type: item

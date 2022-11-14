@@ -1,0 +1,7 @@
+name: Awning White Gold Lower
+material: PAPER
+custom-model-data: 2271
+model: 'cocricotmod:block/awning_white_gold_lower'
+
+block:
+  type: item

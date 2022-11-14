@@ -1,0 +1,7 @@
+name: Cushion White Left A
+material: PAPER
+custom-model-data: 3383
+model: 'cocricotmod:block/cushion_white_left_a'
+
+block:
+  type: item

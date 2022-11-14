@@ -1,0 +1,7 @@
+name: Gardenbench White Left
+material: PAPER
+custom-model-data: 4991
+model: cocricotmod:block/gardenbench_white_left
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Pizza Margherita
+material: PAPER
+custom-model-data: 6260
+model: 'cocricotmod:block/pizza_margherita'
+
+block:
+  type: item

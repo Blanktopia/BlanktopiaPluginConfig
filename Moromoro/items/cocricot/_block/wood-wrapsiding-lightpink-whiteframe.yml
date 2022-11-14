@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightpink Whiteframe
+material: PAPER
+custom-model-data: 9895
+model: 'cocricotmod:block/wood_wrapsiding_lightpink_whiteframe'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Color Green Vslab
+material: PAPER
+custom-model-data: 2760
+model: 'cocricotmod:block/cabinet_color_green_vslab'
+
+block:
+  type: item

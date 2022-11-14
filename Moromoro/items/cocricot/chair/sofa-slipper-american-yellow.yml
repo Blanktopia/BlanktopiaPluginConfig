@@ -1,0 +1,7 @@
+name: Sofa Slipper American Yellow
+material: PAPER
+custom-model-data: 7464
+model: cocricotmod:block/sofa_slipper_american_yellow
+block:
+  type: item
+  sit-height: 0.4375

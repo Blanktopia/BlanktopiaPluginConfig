@@ -1,0 +1,7 @@
+name: Flowerpot Inner Cactus False
+material: PAPER
+custom-model-data: 4897
+model: 'cocricotmod:block/flowerpot_inner_cactus_false'
+
+block:
+  type: item

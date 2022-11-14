@@ -1,0 +1,7 @@
+name: Roof Palm Fringe
+material: PAPER
+custom-model-data: 6625
+model: 'cocricotmod:block/roof_palm_fringe'
+
+block:
+  type: item

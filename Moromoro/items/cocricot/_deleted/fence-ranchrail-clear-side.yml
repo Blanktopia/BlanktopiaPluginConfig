@@ -1,0 +1,7 @@
+name: Fence Ranchrail Clear Side
+material: PAPER
+custom-model-data: 4768
+model: 'cocricotmod:block/fence_ranchrail_clear_side'
+
+block:
+  type: item

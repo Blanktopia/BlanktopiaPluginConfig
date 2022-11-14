@@ -1,0 +1,7 @@
+name: Door Tall  2panel Green Bottom
+material: PAPER
+custom-model-data: 4080
+model: 'cocricotmod:block/door_tall_2panel_green_bottom'
+
+block:
+  type: item

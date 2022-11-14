@@ -1,0 +1,7 @@
+name: Windowframe Arch Stone
+material: PAPER
+custom-model-data: 9051
+model: 'cocricotmod:block/windowframe_arch_stone'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Refrigerator Retro Lightgreen
+material: PAPER
+custom-model-data: 6357
+model: cocricotmod:block/refrigerator_retro_lightgreen
+block:
+  type: item
+  collision: true

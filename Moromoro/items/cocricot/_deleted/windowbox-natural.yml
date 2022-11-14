@@ -1,0 +1,7 @@
+name: Windowbox Natural
+material: PAPER
+custom-model-data: 9012
+model: 'cocricotmod:block/windowbox_natural'
+
+block:
+  type: item

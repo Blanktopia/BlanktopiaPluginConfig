@@ -1,0 +1,7 @@
+name: Door Tall  2panel Wood Bottom O
+material: PAPER
+custom-model-data: 4161
+model: 'cocricotmod:block/door_tall_2panel_wood_bottom_o'
+
+block:
+  type: item

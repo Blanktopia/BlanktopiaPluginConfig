@@ -1,0 +1,7 @@
+name: Door Tall  6glass Yellow Top Rh
+material: PAPER
+custom-model-data: 4422
+model: 'cocricotmod:block/door_tall_6glass_yellow_top_rh'
+
+block:
+  type: item

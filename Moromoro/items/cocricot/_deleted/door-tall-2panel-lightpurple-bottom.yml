@@ -1,0 +1,7 @@
+name: Door Tall  2panel Lightpurple Bottom
+material: PAPER
+custom-model-data: 4112
+model: 'cocricotmod:block/door_tall_2panel_lightpurple_bottom'
+
+block:
+  type: item

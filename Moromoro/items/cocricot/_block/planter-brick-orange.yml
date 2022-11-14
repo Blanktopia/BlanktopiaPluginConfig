@@ -1,0 +1,7 @@
+name: Planter Brick Orange
+material: PAPER
+custom-model-data: 6263
+model: 'cocricotmod:block/planter_brick_orange'
+
+block:
+  type: item

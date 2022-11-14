@@ -1,0 +1,7 @@
+name: Flowerpot Inner Dypsislutescens False
+material: PAPER
+custom-model-data: 4901
+model: 'cocricotmod:block/flowerpot_inner_dypsislutescens_false'
+
+block:
+  type: item

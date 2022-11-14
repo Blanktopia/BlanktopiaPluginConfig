@@ -1,0 +1,7 @@
+name: Bed Frame Wood Simple Clear
+material: PAPER
+custom-model-data: 2403
+model: cocricotmod:block/bed_frame_wood_simple_clear
+block:
+  type: item
+  collision: true

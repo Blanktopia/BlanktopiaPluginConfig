@@ -1,0 +1,7 @@
+name: Sunglasses Red
+material: PAPER
+custom-model-data: 8130
+model: 'cocricotmod:block/sunglasses_red'
+
+block:
+  type: item

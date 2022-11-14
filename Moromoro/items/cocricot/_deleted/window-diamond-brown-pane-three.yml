@@ -1,0 +1,7 @@
+name: Window Diamond Brown Pane Three
+material: PAPER
+custom-model-data: 8819
+model: 'cocricotmod:block/window_diamond_brown_pane_three'
+
+block:
+  type: item

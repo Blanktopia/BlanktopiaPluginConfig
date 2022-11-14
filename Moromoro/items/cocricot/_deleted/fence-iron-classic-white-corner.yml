@@ -1,0 +1,7 @@
+name: Fence Iron Classic White Corner
+material: PAPER
+custom-model-data: 4731
+model: 'cocricotmod:block/fence_iron_classic_white_corner'
+
+block:
+  type: item

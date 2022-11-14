@@ -1,0 +1,7 @@
+name: Stainless American
+material: PAPER
+custom-model-data: 7557
+model: 'cocricotmod:block/stainless_american'
+
+block:
+  type: item

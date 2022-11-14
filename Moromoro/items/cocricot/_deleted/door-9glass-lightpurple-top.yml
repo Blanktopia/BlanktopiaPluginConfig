@@ -1,0 +1,7 @@
+name: Door  9glass Lightpurple Top
+material: PAPER
+custom-model-data: 3804
+model: 'cocricotmod:block/door_9glass_lightpurple_top'
+
+block:
+  type: item

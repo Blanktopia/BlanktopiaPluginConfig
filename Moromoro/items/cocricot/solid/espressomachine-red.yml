@@ -1,0 +1,7 @@
+name: Espressomachine Red
+material: PAPER
+custom-model-data: 4663
+model: cocricotmod:block/espressomachine_red
+block:
+  type: item
+  collision: true

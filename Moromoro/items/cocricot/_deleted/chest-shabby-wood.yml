@@ -1,0 +1,7 @@
+name: Chest Shabby Wood
+material: PAPER
+custom-model-data: 3092
+model: 'cocricotmod:block/chest_shabby_wood'
+
+block:
+  type: item

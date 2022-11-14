@@ -1,0 +1,7 @@
+name: Wood White Vslab
+material: PAPER
+custom-model-data: 9875
+model: 'cocricotmod:block/wood_white_vslab'
+
+block:
+  type: item

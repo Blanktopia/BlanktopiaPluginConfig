@@ -1,0 +1,7 @@
+name: Roof Spanish Blue Slab
+material: PAPER
+custom-model-data: 6645
+model: 'cocricotmod:block/roof_spanish_blue_slab'
+
+block:
+  type: item

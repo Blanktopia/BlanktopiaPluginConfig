@@ -1,0 +1,7 @@
+name: Postbox White
+material: PAPER
+custom-model-data: 6278
+model: cocricotmod:block/postbox_white
+block:
+  type: item
+  collision: true

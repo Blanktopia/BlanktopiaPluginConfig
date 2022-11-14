@@ -1,0 +1,7 @@
+name: Handrail Both
+material: PAPER
+custom-model-data: 5557
+model: 'cocricotmod:block/handrail_both'
+
+block:
+  type: item

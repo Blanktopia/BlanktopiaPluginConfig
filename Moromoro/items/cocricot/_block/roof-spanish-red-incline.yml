@@ -1,0 +1,7 @@
+name: Roof Spanish Red Incline
+material: PAPER
+custom-model-data: 6735
+model: 'cocricotmod:block/roof_spanish_red_incline'
+
+block:
+  type: item

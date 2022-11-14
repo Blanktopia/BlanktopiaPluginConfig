@@ -1,0 +1,7 @@
+name: Window Diamond Seadrift
+material: PAPER
+custom-model-data: 8883
+model: 'cocricotmod:block/window_diamond_seadrift'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Stripe Black Slab Upper
+material: PAPER
+custom-model-data: 2141
+model: 'cocricotmod:block/awning_stripe_black_slab_upper'
+
+block:
+  type: item

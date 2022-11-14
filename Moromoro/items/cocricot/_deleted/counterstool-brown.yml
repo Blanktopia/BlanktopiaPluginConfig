@@ -1,0 +1,7 @@
+name: Counterstool Brown
+material: PAPER
+custom-model-data: 3212
+model: 'cocricotmod:block/counterstool_brown'
+
+block:
+  type: item

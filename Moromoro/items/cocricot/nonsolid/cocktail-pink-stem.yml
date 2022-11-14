@@ -1,0 +1,7 @@
+name: Cocktail Pink Stem
+material: PAPER
+custom-model-data: 3127
+model: 'cocricotmod:block/cocktail_pink_stem'
+
+block:
+  type: item

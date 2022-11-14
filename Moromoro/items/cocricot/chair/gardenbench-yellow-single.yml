@@ -1,0 +1,7 @@
+name: Gardenbench Yellow Single
+material: PAPER
+custom-model-data: 4997
+model: cocricotmod:block/gardenbench_yellow_single
+block:
+  type: item
+  sit-height: 0.4375

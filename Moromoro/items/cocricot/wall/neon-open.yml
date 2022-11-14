@@ -1,0 +1,7 @@
+name: Neon Open
+material: PAPER
+custom-model-data: 6147
+model: 'cocricotmod:block/neon_open'
+
+block:
+  type: item

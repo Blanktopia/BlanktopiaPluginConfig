@@ -1,0 +1,7 @@
+name: Bannerpost White Side
+material: PAPER
+custom-model-data: 2297
+model: 'cocricotmod:block/bannerpost_white_side'
+
+block:
+  type: item

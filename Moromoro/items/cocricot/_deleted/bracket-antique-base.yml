@@ -1,0 +1,7 @@
+name: Bracket Antique Base
+material: PAPER
+custom-model-data: 2581
+model: 'cocricotmod:block/bracket_antique_base'
+
+block:
+  type: item

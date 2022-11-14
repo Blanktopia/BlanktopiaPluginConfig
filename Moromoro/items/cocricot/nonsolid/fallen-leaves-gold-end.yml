@@ -1,0 +1,7 @@
+name: Fallen Leaves Gold End
+material: PAPER
+custom-model-data: 4670
+model: 'cocricotmod:block/fallen_leaves_gold_end'
+
+block:
+  type: item

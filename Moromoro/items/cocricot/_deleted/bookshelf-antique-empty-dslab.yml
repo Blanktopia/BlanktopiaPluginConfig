@@ -1,0 +1,7 @@
+name: Bookshelf Antique Empty Dslab
+material: PAPER
+custom-model-data: 2511
+model: 'cocricotmod:block/bookshelf_antique_empty_dslab'
+
+block:
+  type: item

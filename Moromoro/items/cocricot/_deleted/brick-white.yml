@@ -1,0 +1,7 @@
+name: Brick White
+material: PAPER
+custom-model-data: 2741
+model: 'cocricotmod:block/brick_white'
+
+block:
+  type: item

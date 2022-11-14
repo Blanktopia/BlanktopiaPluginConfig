@@ -1,0 +1,7 @@
+name: Wood  6board H Seadrift
+material: PAPER
+custom-model-data: 9610
+model: 'cocricotmod:block/wood_6board_h_seadrift'
+
+block:
+  type: item

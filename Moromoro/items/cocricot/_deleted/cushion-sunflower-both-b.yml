@@ -1,0 +1,7 @@
+name: Cushion Sunflower Both B
+material: PAPER
+custom-model-data: 3364
+model: 'cocricotmod:block/cushion_sunflower_both_b'
+
+block:
+  type: item

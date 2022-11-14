@@ -1,0 +1,7 @@
+name: Window Diamond White Pane Slant
+material: PAPER
+custom-model-data: 8895
+model: 'cocricotmod:block/window_diamond_white_pane_slant'
+
+block:
+  type: item

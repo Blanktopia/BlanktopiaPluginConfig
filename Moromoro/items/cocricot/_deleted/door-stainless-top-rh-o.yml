@@ -1,0 +1,7 @@
+name: Door Stainless Top Rh O
+material: PAPER
+custom-model-data: 3871
+model: 'cocricotmod:block/door_stainless_top_rh_o'
+
+block:
+  type: item

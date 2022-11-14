@@ -1,0 +1,7 @@
+name: Door  4glass Clear Top
+material: PAPER
+custom-model-data: 3708
+model: 'cocricotmod:block/door_4glass_clear_top'
+
+block:
+  type: item

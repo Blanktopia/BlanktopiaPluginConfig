@@ -1,0 +1,7 @@
+name: Sink Color Green
+material: PAPER
+custom-model-data: 7305
+model: cocricotmod:block/sink_color_green
+block:
+  type: item
+  collision: true

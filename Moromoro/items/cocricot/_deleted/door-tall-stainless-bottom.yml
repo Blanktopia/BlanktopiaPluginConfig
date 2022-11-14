@@ -1,0 +1,7 @@
+name: Door Tall Stainless Bottom
+material: PAPER
+custom-model-data: 4484
+model: 'cocricotmod:block/door_tall_stainless_bottom'
+
+block:
+  type: item

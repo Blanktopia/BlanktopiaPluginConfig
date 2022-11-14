@@ -1,0 +1,7 @@
+name: Windowframe Arch Left
+material: PAPER
+custom-model-data: 9045
+model: 'cocricotmod:block/windowframe_arch_left'
+
+block:
+  type: item

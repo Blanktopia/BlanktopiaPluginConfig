@@ -1,0 +1,7 @@
+name: Branch Birch
+material: PAPER
+custom-model-data: 2593
+model: 'cocricotmod:block/branch_birch'
+
+block:
+  type: item

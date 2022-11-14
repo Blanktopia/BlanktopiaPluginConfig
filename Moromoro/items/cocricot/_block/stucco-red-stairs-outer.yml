@@ -1,0 +1,7 @@
+name: Stucco Red Stairs Outer
+material: PAPER
+custom-model-data: 8097
+model: 'cocricotmod:block/stucco_red_stairs_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Leader Limp Leaves
+material: PAPER
+custom-model-data: 5930
+model: 'cocricotmod:block/leader_limp_leaves'
+
+block:
+  type: item

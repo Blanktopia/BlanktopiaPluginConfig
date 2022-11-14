@@ -1,0 +1,7 @@
+name: Chest Medicine Brown
+material: PAPER
+custom-model-data: 3075
+model: 'cocricotmod:block/chest_medicine_brown'
+
+block:
+  type: item

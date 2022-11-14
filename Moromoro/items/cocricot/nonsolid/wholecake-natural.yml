@@ -1,0 +1,7 @@
+name: Wholecake Natural
+material: PAPER
+custom-model-data: 8560
+model: 'cocricotmod:block/wholecake_natural'
+
+block:
+  type: item

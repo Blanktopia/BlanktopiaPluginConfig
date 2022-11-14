@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Frame Vslab
+material: PAPER
+custom-model-data: 5511
+model: 'cocricotmod:block/halftimber_whitepurple_frame_vslab'
+
+block:
+  type: item

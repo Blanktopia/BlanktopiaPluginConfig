@@ -1,0 +1,7 @@
+name: Table Wide Cloth Gingham Red
+material: PAPER
+custom-model-data: 8222
+model: cocricotmod:block/table_wide_cloth_gingham_red
+block:
+  type: item
+  collision: true

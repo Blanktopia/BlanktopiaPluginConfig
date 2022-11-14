@@ -1,0 +1,7 @@
+name: Signpost Iron Black 1
+material: PAPER
+custom-model-data: 7269
+model: 'cocricotmod:block/signpost_iron_black1'
+
+block:
+  type: item

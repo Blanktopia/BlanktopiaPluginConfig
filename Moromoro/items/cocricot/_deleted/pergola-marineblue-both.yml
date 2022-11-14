@@ -1,0 +1,7 @@
+name: Pergola Marineblue Both
+material: PAPER
+custom-model-data: 6230
+model: 'cocricotmod:block/pergola_marineblue_both'
+
+block:
+  type: item

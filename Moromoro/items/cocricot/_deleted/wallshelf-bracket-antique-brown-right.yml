@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Brown Right
+material: PAPER
+custom-model-data: 8394
+model: 'cocricotmod:block/wallshelf_bracket_antique_brown_right'
+
+block:
+  type: item

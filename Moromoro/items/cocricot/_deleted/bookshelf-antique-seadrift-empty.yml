@@ -1,0 +1,7 @@
+name: Bookshelf Antique Seadrift Empty
+material: PAPER
+custom-model-data: 2522
+model: 'cocricotmod:block/bookshelf_antique_seadrift_empty'
+
+block:
+  type: item

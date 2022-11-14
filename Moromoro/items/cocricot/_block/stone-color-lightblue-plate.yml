@@ -1,0 +1,7 @@
+name: Stone Color Lightblue Plate
+material: PAPER
+custom-model-data: 7764
+model: 'cocricotmod:block/stone_color_lightblue_plate'
+
+block:
+  type: item

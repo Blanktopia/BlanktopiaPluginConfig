@@ -1,0 +1,7 @@
+name: Sofa Slipper Lightorange Outer
+material: PAPER
+custom-model-data: 7499
+model: cocricotmod:block/sofa_slipper_lightorange_outer
+block:
+  type: item
+  sit-height: 0.4375

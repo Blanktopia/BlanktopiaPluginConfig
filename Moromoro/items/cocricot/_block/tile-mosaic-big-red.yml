@@ -1,0 +1,7 @@
+name: Tile Mosaic Big Red
+material: PAPER
+custom-model-data: 8300
+model: 'cocricotmod:block/tile_mosaic_big_red'
+
+block:
+  type: item

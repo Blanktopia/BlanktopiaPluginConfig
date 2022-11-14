@@ -1,0 +1,7 @@
+name: Halftimber Darkblue Frame
+material: PAPER
+custom-model-data: 5311
+model: 'cocricotmod:block/halftimber_darkblue_frame'
+
+block:
+  type: item

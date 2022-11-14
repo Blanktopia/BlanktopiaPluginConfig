@@ -1,0 +1,7 @@
+name: Candleholder Antique Silver False
+material: PAPER
+custom-model-data: 2865
+model: 'cocricotmod:block/candleholder_antique_silver_false'
+
+block:
+  type: item

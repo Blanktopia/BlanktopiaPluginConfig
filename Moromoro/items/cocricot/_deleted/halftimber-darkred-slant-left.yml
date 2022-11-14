@@ -1,0 +1,7 @@
+name: Halftimber Darkred Slant Left
+material: PAPER
+custom-model-data: 5393
+model: 'cocricotmod:block/halftimber_darkred_slant_left'
+
+block:
+  type: item

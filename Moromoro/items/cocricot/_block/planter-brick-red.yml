@@ -1,0 +1,7 @@
+name: Planter Brick Red
+material: PAPER
+custom-model-data: 6264
+model: 'cocricotmod:block/planter_brick_red'
+
+block:
+  type: item

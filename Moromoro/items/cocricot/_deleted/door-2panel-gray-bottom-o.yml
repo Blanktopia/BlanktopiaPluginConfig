@@ -1,0 +1,7 @@
+name: Door  2panel Gray Bottom O
+material: PAPER
+custom-model-data: 3585
+model: 'cocricotmod:block/door_2panel_gray_bottom_o'
+
+block:
+  type: item

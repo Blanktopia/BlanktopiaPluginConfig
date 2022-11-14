@@ -1,0 +1,7 @@
+name: Counterstool American White False
+material: PAPER
+custom-model-data: 3207
+model: 'cocricotmod:block/counterstool_american_white_false'
+
+block:
+  type: item

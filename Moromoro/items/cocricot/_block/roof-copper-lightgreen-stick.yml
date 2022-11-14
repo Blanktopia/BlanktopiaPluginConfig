@@ -1,0 +1,7 @@
+name: Roof Copper Lightgreen Stick
+material: PAPER
+custom-model-data: 6504
+model: 'cocricotmod:block/roof_copper_lightgreen_stick'
+
+block:
+  type: item

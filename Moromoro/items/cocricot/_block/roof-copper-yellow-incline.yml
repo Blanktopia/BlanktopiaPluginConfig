@@ -1,0 +1,7 @@
+name: Roof Copper Yellow Incline
+material: PAPER
+custom-model-data: 6537
+model: 'cocricotmod:block/roof_copper_yellow_incline'
+
+block:
+  type: item

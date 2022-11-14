@@ -1,0 +1,7 @@
+name: Marinelamp Lampshade Gold
+material: PAPER
+custom-model-data: 6083
+model: 'cocricotmod:block/marinelamp_lampshade_gold'
+
+block:
+  type: item

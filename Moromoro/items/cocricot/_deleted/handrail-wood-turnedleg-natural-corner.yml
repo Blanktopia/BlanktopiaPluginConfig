@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Natural Corner
+material: PAPER
+custom-model-data: 5731
+model: 'cocricotmod:block/handrail_wood_turnedleg_natural_corner'
+
+block:
+  type: item

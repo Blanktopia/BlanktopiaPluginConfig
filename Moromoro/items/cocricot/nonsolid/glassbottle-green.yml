@@ -1,0 +1,7 @@
+name: Glassbottle Green
+material: PAPER
+custom-model-data: 5153
+model: 'cocricotmod:block/glassbottle_green'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Table Ironleg White
+material: PAPER
+custom-model-data: 8210
+model: cocricotmod:block/table_ironleg_white
+block:
+  type: item
+  collision: true

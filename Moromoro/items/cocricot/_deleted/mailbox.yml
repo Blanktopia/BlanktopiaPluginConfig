@@ -1,0 +1,7 @@
+name: Mailbox
+material: PAPER
+custom-model-data: 6030
+model: 'cocricotmod:block/mailbox'
+
+block:
+  type: item

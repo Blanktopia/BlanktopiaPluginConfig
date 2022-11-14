@@ -1,0 +1,7 @@
+name: Cushion Wildflower
+material: PAPER
+custom-model-data: 3390
+model: 'cocricotmod:block/cushion_wildflower'
+
+block:
+  type: item

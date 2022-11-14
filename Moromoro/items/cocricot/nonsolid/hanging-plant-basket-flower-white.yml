@@ -1,0 +1,7 @@
+name: Hanging Plant Basket Flower White
+material: PAPER
+custom-model-data: 5785
+model: 'cocricotmod:block/hanging_plant_basket_flower_white'
+
+block:
+  type: item

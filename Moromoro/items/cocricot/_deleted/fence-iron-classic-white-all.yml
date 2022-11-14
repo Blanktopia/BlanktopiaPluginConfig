@@ -1,0 +1,7 @@
+name: Fence Iron Classic White All
+material: PAPER
+custom-model-data: 4729
+model: 'cocricotmod:block/fence_iron_classic_white_all'
+
+block:
+  type: item

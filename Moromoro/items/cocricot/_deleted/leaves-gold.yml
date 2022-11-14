@@ -1,0 +1,7 @@
+name: Leaves Gold
+material: PAPER
+custom-model-data: 5948
+model: 'cocricotmod:block/leaves_gold'
+
+block:
+  type: item

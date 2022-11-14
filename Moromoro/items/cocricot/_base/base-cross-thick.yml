@@ -1,0 +1,7 @@
+name: Base Cross Thick
+material: PAPER
+custom-model-data: 2309
+model: 'cocricotmod:block/base_cross_thick'
+
+block:
+  type: item

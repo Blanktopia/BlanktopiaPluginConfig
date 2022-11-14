@@ -1,0 +1,7 @@
+name: Pumpkin Small 3
+material: PAPER
+custom-model-data: 6294
+model: 'cocricotmod:block/pumpkin_small3'
+
+block:
+  type: item

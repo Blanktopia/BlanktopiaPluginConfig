@@ -1,0 +1,7 @@
+name: Stucco Marineblue Rod
+material: PAPER
+custom-model-data: 8050
+model: 'cocricotmod:block/stucco_marineblue_rod'
+
+block:
+  type: item

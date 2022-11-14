@@ -1,0 +1,7 @@
+name: Awning Lightgreen Upper
+material: PAPER
+custom-model-data: 2087
+model: 'cocricotmod:block/awning_lightgreen_upper'
+
+block:
+  type: item

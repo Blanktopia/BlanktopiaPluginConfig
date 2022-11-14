@@ -1,0 +1,7 @@
+name: Door  2panel Green Bottom
+material: PAPER
+custom-model-data: 3592
+model: 'cocricotmod:block/door_2panel_green_bottom'
+
+block:
+  type: item

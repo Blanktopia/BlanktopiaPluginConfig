@@ -1,0 +1,7 @@
+name: Fence Ranchrail Natural Both
+material: PAPER
+custom-model-data: 4784
+model: 'cocricotmod:block/fence_ranchrail_natural_both'
+
+block:
+  type: item

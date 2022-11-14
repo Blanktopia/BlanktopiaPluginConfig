@@ -1,0 +1,7 @@
+name: Sofa Midcentury Blue Left
+material: PAPER
+custom-model-data: 7370
+model: cocricotmod:block/sofa_midcentury_blue_left
+block:
+  type: item
+  sit-height: 0.4375

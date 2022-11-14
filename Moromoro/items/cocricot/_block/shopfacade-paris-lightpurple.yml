@@ -1,0 +1,7 @@
+name: Shopfacade Paris Lightpurple
+material: PAPER
+custom-model-data: 7214
+model: 'cocricotmod:block/shopfacade_paris_lightpurple'
+
+block:
+  type: item

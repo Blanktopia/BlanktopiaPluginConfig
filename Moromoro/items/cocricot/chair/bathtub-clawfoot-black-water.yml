@@ -1,0 +1,7 @@
+name: Bathtub Clawfoot Black Water
+material: PAPER
+custom-model-data: 2384
+model: cocricotmod:block/bathtub_clawfoot_black_water
+block:
+  type: item
+  sit-height: 0.4375

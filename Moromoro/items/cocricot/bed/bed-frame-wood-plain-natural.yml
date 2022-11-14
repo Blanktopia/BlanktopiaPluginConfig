@@ -1,0 +1,7 @@
+name: Bed Frame Wood Plain Natural
+material: PAPER
+custom-model-data: 2399
+model: cocricotmod:block/bed_frame_wood_plain_natural
+block:
+  type: item
+  collision: true

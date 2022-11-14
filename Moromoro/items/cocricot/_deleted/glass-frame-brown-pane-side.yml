@@ -1,0 +1,7 @@
+name: Glass Frame Brown Pane Side
+material: PAPER
+custom-model-data: 5064
+model: 'cocricotmod:block/glass_frame_brown_pane_side'
+
+block:
+  type: item

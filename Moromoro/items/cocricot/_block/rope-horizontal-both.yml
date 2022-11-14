@@ -1,0 +1,7 @@
+name: Rope Horizontal Both
+material: PAPER
+custom-model-data: 6856
+model: 'cocricotmod:block/rope_horizontal_both'
+
+block:
+  type: item

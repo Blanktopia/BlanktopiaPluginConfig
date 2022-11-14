@@ -1,0 +1,7 @@
+name: Kettle Green
+material: PAPER
+custom-model-data: 5876
+model: 'cocricotmod:block/kettle_green'
+
+block:
+  type: item

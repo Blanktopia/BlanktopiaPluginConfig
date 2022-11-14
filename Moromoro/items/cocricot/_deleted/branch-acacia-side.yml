@@ -1,0 +1,7 @@
+name: Branch Acacia Side
+material: PAPER
+custom-model-data: 2591
+model: 'cocricotmod:block/branch_acacia_side'
+
+block:
+  type: item

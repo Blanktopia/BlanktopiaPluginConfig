@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Clear Left False
+material: PAPER
+custom-model-data: 8447
+model: 'cocricotmod:block/wallshelf_bracket_clear_left_false'
+
+block:
+  type: item

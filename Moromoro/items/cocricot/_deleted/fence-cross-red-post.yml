@@ -1,0 +1,7 @@
+name: Fence Cross Red Post
+material: PAPER
+custom-model-data: 4709
+model: 'cocricotmod:block/fence_cross_red_post'
+
+block:
+  type: item

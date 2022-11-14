@@ -1,0 +1,7 @@
+name: Window Centrebar Lightblue Pane Three
+material: PAPER
+custom-model-data: 8637
+model: 'cocricotmod:block/window_centrebar_lightblue_pane_three'
+
+block:
+  type: item

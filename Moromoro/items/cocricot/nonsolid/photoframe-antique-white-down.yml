@@ -1,0 +1,7 @@
+name: Photoframe Antique White Down
+material: PAPER
+custom-model-data: 6242
+model: 'cocricotmod:block/photoframe_antique_white_down'
+
+block:
+  type: item

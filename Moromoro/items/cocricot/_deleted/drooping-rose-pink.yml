@@ -1,0 +1,7 @@
+name: Drooping Rose Pink
+material: PAPER
+custom-model-data: 4656
+model: 'cocricotmod:block/drooping_rose_pink'
+
+block:
+  type: item

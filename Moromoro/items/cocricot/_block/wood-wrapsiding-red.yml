@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Red
+material: PAPER
+custom-model-data: 9904
+model: 'cocricotmod:block/wood_wrapsiding_red'
+
+block:
+  type: item

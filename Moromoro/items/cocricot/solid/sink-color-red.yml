@@ -1,0 +1,7 @@
+name: Sink Color Red
+material: PAPER
+custom-model-data: 7309
+model: cocricotmod:block/sink_color_red
+block:
+  type: item
+  collision: true

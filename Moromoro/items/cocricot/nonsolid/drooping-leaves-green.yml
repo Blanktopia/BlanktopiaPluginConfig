@@ -1,0 +1,7 @@
+name: Drooping Leaves Green
+material: PAPER
+custom-model-data: 4650
+model: 'cocricotmod:block/drooping_leaves_green'
+
+block:
+  type: item

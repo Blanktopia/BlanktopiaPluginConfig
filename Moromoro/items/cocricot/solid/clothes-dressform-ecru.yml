@@ -1,0 +1,7 @@
+name: Clothes Dressform Ecru
+material: PAPER
+custom-model-data: 3118
+model: cocricotmod:block/clothes_dressform_ecru
+block:
+  type: item
+  collision: true

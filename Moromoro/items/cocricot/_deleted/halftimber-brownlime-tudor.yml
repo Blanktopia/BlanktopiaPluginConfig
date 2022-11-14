@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Tudor
+material: PAPER
+custom-model-data: 5245
+model: 'cocricotmod:block/halftimber_brownlime_tudor'
+
+block:
+  type: item

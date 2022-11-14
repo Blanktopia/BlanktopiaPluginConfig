@@ -1,0 +1,7 @@
+name: Hangerrack Iron Black
+material: PAPER
+custom-model-data: 5772
+model: cocricotmod:block/hangerrack_iron_black
+block:
+  type: item
+  collision: true

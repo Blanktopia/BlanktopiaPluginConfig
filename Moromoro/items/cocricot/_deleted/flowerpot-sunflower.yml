@@ -1,0 +1,7 @@
+name: Flowerpot Sunflower
+material: PAPER
+custom-model-data: 4921
+model: 'cocricotmod:block/flowerpot_sunflower'
+
+block:
+  type: item

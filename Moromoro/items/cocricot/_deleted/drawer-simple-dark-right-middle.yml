@@ -1,0 +1,7 @@
+name: Drawer Simple Dark Right Middle
+material: PAPER
+custom-model-data: 4590
+model: 'cocricotmod:block/drawer_simple_dark_right_middle'
+
+block:
+  type: item

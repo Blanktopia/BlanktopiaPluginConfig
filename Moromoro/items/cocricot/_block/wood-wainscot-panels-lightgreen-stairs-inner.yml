@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Lightgreen Stairs Inner
+material: PAPER
+custom-model-data: 9838
+model: 'cocricotmod:block/wood_wainscot_panels_lightgreen_stairs_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  2panel Lightblue Top Rh
+material: PAPER
+custom-model-data: 4094
+model: 'cocricotmod:block/door_tall_2panel_lightblue_top_rh'
+
+block:
+  type: item

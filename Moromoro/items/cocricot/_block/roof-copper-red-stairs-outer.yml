@@ -1,0 +1,7 @@
+name: Roof Copper Red Stairs Outer
+material: PAPER
+custom-model-data: 6518
+model: 'cocricotmod:block/roof_copper_red_stairs_outer'
+
+block:
+  type: item

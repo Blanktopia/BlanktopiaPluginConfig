@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Frame Slab Upper
+material: PAPER
+custom-model-data: 5253
+model: 'cocricotmod:block/halftimber_brownpink_frame_slab_upper'
+
+block:
+  type: item

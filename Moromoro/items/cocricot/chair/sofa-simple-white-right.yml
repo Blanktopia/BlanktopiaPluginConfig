@@ -1,0 +1,7 @@
+name: Sofa Simple White Right
+material: PAPER
+custom-model-data: 7431
+model: cocricotmod:block/sofa_simple_white_right
+block:
+  type: item
+  sit-height: 0.4375

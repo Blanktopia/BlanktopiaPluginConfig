@@ -1,0 +1,7 @@
+name: Awning Stripe Gray Stairs
+material: PAPER
+custom-model-data: 2175
+model: 'cocricotmod:block/awning_stripe_gray_stairs'
+
+block:
+  type: item

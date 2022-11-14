@@ -1,0 +1,7 @@
+name: Door Tall  2panel Lightgreen Bottom
+material: PAPER
+custom-model-data: 4104
+model: 'cocricotmod:block/door_tall_2panel_lightgreen_bottom'
+
+block:
+  type: item

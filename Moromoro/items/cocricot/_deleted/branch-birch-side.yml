@@ -1,0 +1,7 @@
+name: Branch Birch Side
+material: PAPER
+custom-model-data: 2594
+model: 'cocricotmod:block/branch_birch_side'
+
+block:
+  type: item

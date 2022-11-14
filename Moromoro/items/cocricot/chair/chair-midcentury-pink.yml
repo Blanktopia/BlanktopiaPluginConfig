@@ -1,0 +1,7 @@
+name: Chair Midcentury Pink
+material: PAPER
+custom-model-data: 3041
+model: cocricotmod:block/chair_midcentury_pink
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Axe
+material: PAPER
+custom-model-data: 2292
+model: 'cocricotmod:block/axe'
+
+block:
+  type: item

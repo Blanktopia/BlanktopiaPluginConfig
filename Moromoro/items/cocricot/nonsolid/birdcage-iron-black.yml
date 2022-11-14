@@ -1,0 +1,7 @@
+name: Birdcage Iron Black
+material: PAPER
+custom-model-data: 2476
+model: 'cocricotmod:block/birdcage_iron_black'
+
+block:
+  type: item

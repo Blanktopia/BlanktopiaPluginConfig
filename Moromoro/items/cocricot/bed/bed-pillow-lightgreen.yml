@@ -1,0 +1,7 @@
+name: Bed Pillow Lightgreen
+material: PAPER
+custom-model-data: 2430
+model: 'cocricotmod:block/bed_pillow_lightgreen'
+
+block:
+  type: item

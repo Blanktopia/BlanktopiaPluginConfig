@@ -1,0 +1,7 @@
+name: Hangingchain Up Gold
+material: PAPER
+custom-model-data: 5795
+model: 'cocricotmod:block/hangingchain_up_gold'
+
+block:
+  type: item

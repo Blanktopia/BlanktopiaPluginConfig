@@ -1,0 +1,7 @@
+name: Sunglasses Blue
+material: PAPER
+custom-model-data: 8126
+model: 'cocricotmod:block/sunglasses_blue'
+
+block:
+  type: item

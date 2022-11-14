@@ -1,0 +1,7 @@
+name: Floorlamp Turnedleg Dark
+material: PAPER
+custom-model-data: 4870
+model: 'cocricotmod:block/floorlamp_turnedleg_dark'
+
+block:
+  type: item

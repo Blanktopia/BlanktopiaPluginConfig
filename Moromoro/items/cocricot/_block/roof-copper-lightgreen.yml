@@ -1,0 +1,7 @@
+name: Roof Copper Lightgreen
+material: PAPER
+custom-model-data: 6491
+model: 'cocricotmod:block/roof_copper_lightgreen'
+
+block:
+  type: item

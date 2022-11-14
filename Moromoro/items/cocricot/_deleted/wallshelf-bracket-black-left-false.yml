@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Black Left False
+material: PAPER
+custom-model-data: 8435
+model: 'cocricotmod:block/wallshelf_bracket_black_left_false'
+
+block:
+  type: item

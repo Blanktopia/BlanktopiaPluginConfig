@@ -1,0 +1,7 @@
+name: Mintchocolatechip Glass Table
+material: PAPER
+custom-model-data: 6123
+model: 'cocricotmod:block/mintchocolatechip_glass_table'
+
+block:
+  type: item

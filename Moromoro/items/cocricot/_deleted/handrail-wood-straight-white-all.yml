@@ -1,0 +1,7 @@
+name: Handrail Wood Straight White All
+material: PAPER
+custom-model-data: 5667
+model: 'cocricotmod:block/handrail_wood_straight_white_all'
+
+block:
+  type: item

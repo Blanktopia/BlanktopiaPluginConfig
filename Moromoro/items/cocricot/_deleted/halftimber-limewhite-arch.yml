@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Arch
+material: PAPER
+custom-model-data: 5444
+model: 'cocricotmod:block/halftimber_limewhite_arch'
+
+block:
+  type: item

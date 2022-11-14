@@ -1,0 +1,7 @@
+name: Hangingrope Down Black
+material: PAPER
+custom-model-data: 5799
+model: 'cocricotmod:block/hangingrope_down_black'
+
+block:
+  type: item

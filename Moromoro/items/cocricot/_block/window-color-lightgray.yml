@@ -1,0 +1,7 @@
+name: Window Color Lightgray
+material: PAPER
+custom-model-data: 8736
+model: 'cocricotmod:block/window_color_lightgray'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Castlestone Dark
+material: PAPER
+custom-model-data: 2628
+model: 'cocricotmod:block/brick_castlestone_dark'
+
+block:
+  type: item

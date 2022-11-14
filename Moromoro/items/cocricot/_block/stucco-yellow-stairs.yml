@@ -1,0 +1,7 @@
+name: Stucco Yellow Stairs
+material: PAPER
+custom-model-data: 8121
+model: 'cocricotmod:block/stucco_yellow_stairs'
+
+block:
+  type: item

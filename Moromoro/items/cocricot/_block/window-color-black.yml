@@ -1,0 +1,7 @@
+name: Window Color Black
+material: PAPER
+custom-model-data: 8694
+model: 'cocricotmod:block/window_color_black'
+
+block:
+  type: item

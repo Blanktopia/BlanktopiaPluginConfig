@@ -1,0 +1,7 @@
+name: Signpost Wood Brown 2
+material: PAPER
+custom-model-data: 7282
+model: 'cocricotmod:block/signpost_wood_brown2'
+
+block:
+  type: item

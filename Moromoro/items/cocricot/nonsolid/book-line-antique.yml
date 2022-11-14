@@ -1,0 +1,7 @@
+name: Book Line Antique
+material: PAPER
+custom-model-data: 2484
+model: 'cocricotmod:block/book_line_antique'
+
+block:
+  type: item

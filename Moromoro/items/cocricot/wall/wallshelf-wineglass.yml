@@ -1,0 +1,7 @@
+name: Wallshelf Wineglass
+material: PAPER
+custom-model-data: 8525
+model: 'cocricotmod:block/wallshelf_wineglass'
+
+block:
+  type: item

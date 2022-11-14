@@ -1,0 +1,7 @@
+name: Range Retro Pink
+material: PAPER
+custom-model-data: 6317
+model: cocricotmod:block/range_retro_pink
+block:
+  type: item
+  collision: true

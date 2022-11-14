@@ -1,0 +1,7 @@
+name: Roof Spanish White Plate
+material: PAPER
+custom-model-data: 6765
+model: 'cocricotmod:block/roof_spanish_white_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Green Pane All
+material: PAPER
+custom-model-data: 8723
+model: 'cocricotmod:block/window_color_green_pane_all'
+
+block:
+  type: item

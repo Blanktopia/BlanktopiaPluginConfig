@@ -1,0 +1,7 @@
+name: Clock Wall Classic
+material: PAPER
+custom-model-data: 3111
+model: 'cocricotmod:block/clock_wall_classic'
+
+block:
+  type: item

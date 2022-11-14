@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Cross
+material: PAPER
+custom-model-data: 5265
+model: 'cocricotmod:block/halftimber_brownpurple_cross'
+
+block:
+  type: item

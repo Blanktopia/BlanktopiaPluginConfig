@@ -1,0 +1,7 @@
+name: Rustication Banded White Vslab
+material: PAPER
+custom-model-data: 7118
+model: 'cocricotmod:block/rustication_banded_white_vslab'
+
+block:
+  type: item

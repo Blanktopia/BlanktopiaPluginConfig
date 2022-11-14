@@ -1,0 +1,7 @@
+name: Awning Green Slab
+material: PAPER
+custom-model-data: 2060
+model: 'cocricotmod:block/awning_green_slab'
+
+block:
+  type: item

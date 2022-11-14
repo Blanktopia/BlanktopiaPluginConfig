@@ -1,0 +1,7 @@
+name: Wood  2board Dark Arch Single
+material: PAPER
+custom-model-data: 9288
+model: 'cocricotmod:block/wood_2board_dark_arch_single'
+
+block:
+  type: item

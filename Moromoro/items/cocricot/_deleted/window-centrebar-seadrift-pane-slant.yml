@@ -1,0 +1,7 @@
+name: Window Centrebar Seadrift Pane Slant
+material: PAPER
+custom-model-data: 8678
+model: 'cocricotmod:block/window_centrebar_seadrift_pane_slant'
+
+block:
+  type: item

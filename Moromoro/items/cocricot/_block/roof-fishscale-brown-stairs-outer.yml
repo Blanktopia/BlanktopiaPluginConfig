@@ -1,0 +1,7 @@
+name: Roof Fishscale Brown Stairs Outer
+material: PAPER
+custom-model-data: 6568
+model: 'cocricotmod:block/roof_fishscale_brown_stairs_outer'
+
+block:
+  type: item

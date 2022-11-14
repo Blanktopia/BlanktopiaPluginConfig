@@ -1,0 +1,7 @@
+name: Statue White
+material: PAPER
+custom-model-data: 7616
+model: 'cocricotmod:block/statue_white'
+
+block:
+  type: item

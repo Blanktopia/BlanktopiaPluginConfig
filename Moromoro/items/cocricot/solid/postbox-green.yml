@@ -1,0 +1,7 @@
+name: Postbox Green
+material: PAPER
+custom-model-data: 6275
+model: cocricotmod:block/postbox_green
+block:
+  type: item
+  collision: true

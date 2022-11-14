@@ -1,0 +1,7 @@
+name: Reedwall Post
+material: PAPER
+custom-model-data: 6347
+model: 'cocricotmod:block/reedwall_post'
+
+block:
+  type: item

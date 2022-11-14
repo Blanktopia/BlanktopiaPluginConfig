@@ -1,0 +1,7 @@
+name: Wood Herringbone White
+material: PAPER
+custom-model-data: 9771
+model: 'cocricotmod:block/wood_herringbone_white'
+
+block:
+  type: item

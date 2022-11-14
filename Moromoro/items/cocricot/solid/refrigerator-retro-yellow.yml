@@ -1,0 +1,7 @@
+name: Refrigerator Retro Yellow
+material: PAPER
+custom-model-data: 6363
+model: cocricotmod:block/refrigerator_retro_yellow
+block:
+  type: item
+  collision: true

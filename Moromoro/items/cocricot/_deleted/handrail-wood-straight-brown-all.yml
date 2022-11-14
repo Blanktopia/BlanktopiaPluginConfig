@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Brown All
+material: PAPER
+custom-model-data: 5595
+model: 'cocricotmod:block/handrail_wood_straight_brown_all'
+
+block:
+  type: item

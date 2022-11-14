@@ -1,0 +1,7 @@
+name: Door  2panel Lightblue Bottom Rh
+material: PAPER
+custom-model-data: 3602
+model: 'cocricotmod:block/door_2panel_lightblue_bottom_rh'
+
+block:
+  type: item

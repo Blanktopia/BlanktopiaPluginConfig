@@ -1,0 +1,7 @@
+name: Roof Palm Slab L
+material: PAPER
+custom-model-data: 6626
+model: 'cocricotmod:block/roof_palm_slab_l'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Browngray Frame
+material: PAPER
+custom-model-data: 5206
+model: 'cocricotmod:block/halftimber_browngray_frame'
+
+block:
+  type: item

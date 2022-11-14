@@ -1,0 +1,7 @@
+name: Stucco Lightblue Stick
+material: PAPER
+custom-model-data: 8043
+model: 'cocricotmod:block/stucco_lightblue_stick'
+
+block:
+  type: item

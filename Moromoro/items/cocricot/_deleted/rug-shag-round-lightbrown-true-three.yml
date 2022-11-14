@@ -1,0 +1,7 @@
+name: Rug Shag Round Lightbrown True Three
+material: PAPER
+custom-model-data: 7019
+model: 'cocricotmod:block/rug_shag_round_lightbrown_true_three'
+
+block:
+  type: item

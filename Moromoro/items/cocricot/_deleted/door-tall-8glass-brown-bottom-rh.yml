@@ -1,0 +1,7 @@
+name: Door Tall  8glass Brown Bottom Rh
+material: PAPER
+custom-model-data: 4434
+model: 'cocricotmod:block/door_tall_8glass_brown_bottom_rh'
+
+block:
+  type: item

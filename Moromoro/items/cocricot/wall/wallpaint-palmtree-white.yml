@@ -1,0 +1,7 @@
+name: Wallpaint Palmtree White
+material: PAPER
+custom-model-data: 8377
+model: 'cocricotmod:block/wallpaint_palmtree_white'
+
+block:
+  type: item

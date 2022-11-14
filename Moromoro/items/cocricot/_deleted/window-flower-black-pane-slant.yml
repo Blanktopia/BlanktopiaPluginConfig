@@ -1,0 +1,7 @@
+name: Window Flower Black Pane Slant
+material: PAPER
+custom-model-data: 8910
+model: 'cocricotmod:block/window_flower_black_pane_slant'
+
+block:
+  type: item

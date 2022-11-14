@@ -1,0 +1,7 @@
+name: Window Centrebar Blue Pane Post
+material: PAPER
+custom-model-data: 8599
+model: 'cocricotmod:block/window_centrebar_blue_pane_post'
+
+block:
+  type: item

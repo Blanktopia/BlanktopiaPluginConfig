@@ -1,0 +1,7 @@
+name: Chair Pool Gray
+material: PAPER
+custom-model-data: 3049
+model: cocricotmod:block/chair_pool_gray
+block:
+  type: item
+  sit-height: 0.4375

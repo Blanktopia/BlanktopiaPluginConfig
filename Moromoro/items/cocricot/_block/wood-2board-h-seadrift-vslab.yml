@@ -1,0 +1,7 @@
+name: Wood  2board H Seadrift Vslab
+material: PAPER
+custom-model-data: 9343
+model: 'cocricotmod:block/wood_2board_h_seadrift_vslab'
+
+block:
+  type: item

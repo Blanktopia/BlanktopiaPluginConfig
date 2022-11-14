@@ -1,0 +1,7 @@
+name: Refrigerator Retro
+material: PAPER
+custom-model-data: 6351
+model: 'cocricotmod:block/refrigerator_retro'
+
+block:
+  type: item

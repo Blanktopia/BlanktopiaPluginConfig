@@ -1,0 +1,7 @@
+name: Mailbox Green Brown
+material: PAPER
+custom-model-data: 6035
+model: 'cocricotmod:block/mailbox_green_brown'
+
+block:
+  type: item

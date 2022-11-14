@@ -1,0 +1,7 @@
+name: Tapioca Strawberrymilk
+material: PAPER
+custom-model-data: 8244
+model: 'cocricotmod:block/tapioca_strawberrymilk'
+
+block:
+  type: item

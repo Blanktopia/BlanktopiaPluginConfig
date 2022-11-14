@@ -1,0 +1,7 @@
+name: Shopfacade Paris Darkbrown Pillar
+material: PAPER
+custom-model-data: 7197
+model: 'cocricotmod:block/shopfacade_paris_darkbrown_pillar'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Photoframe Antique White
+material: PAPER
+custom-model-data: 6241
+model: 'cocricotmod:block/photoframe_antique_white'
+
+block:
+  type: item

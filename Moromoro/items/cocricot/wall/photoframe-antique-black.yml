@@ -1,0 +1,7 @@
+name: Photoframe Antique Black
+material: PAPER
+custom-model-data: 6239
+model: 'cocricotmod:block/photoframe_antique_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Lightpurple Pane Slant
+material: PAPER
+custom-model-data: 8755
+model: 'cocricotmod:block/window_color_lightpurple_pane_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bottle Brown
+material: PAPER
+custom-model-data: 2546
+model: 'cocricotmod:block/bottle_brown'
+
+block:
+  type: item

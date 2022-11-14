@@ -1,0 +1,7 @@
+name: Shoes Flipflop Black
+material: PAPER
+custom-model-data: 7169
+model: 'cocricotmod:block/shoes_flipflop_black'
+
+block:
+  type: item

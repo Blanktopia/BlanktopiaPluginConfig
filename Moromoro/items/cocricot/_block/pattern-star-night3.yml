@@ -1,0 +1,7 @@
+name: Pattern Star Night 3
+material: PAPER
+custom-model-data: 6205
+model: 'cocricotmod:block/pattern_star_night3'
+
+block:
+  type: item

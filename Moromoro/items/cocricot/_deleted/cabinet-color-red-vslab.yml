@@ -1,0 +1,7 @@
+name: Cabinet Color Red Vslab
+material: PAPER
+custom-model-data: 2768
+model: 'cocricotmod:block/cabinet_color_red_vslab'
+
+block:
+  type: item

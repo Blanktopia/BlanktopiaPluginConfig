@@ -1,0 +1,7 @@
+name: Cabinet Glass Shabby Lightgreen Vslab
+material: PAPER
+custom-model-data: 2798
+model: 'cocricotmod:block/cabinet_glass_shabby_lightgreen_vslab'
+
+block:
+  type: item

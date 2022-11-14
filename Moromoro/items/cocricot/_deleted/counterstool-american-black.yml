@@ -1,0 +1,7 @@
+name: Counterstool American Black
+material: PAPER
+custom-model-data: 3196
+model: 'cocricotmod:block/counterstool_american_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Curtain Separate Lightbrown Right
+material: PAPER
+custom-model-data: 3274
+model: 'cocricotmod:block/curtain_separate_lightbrown_right'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Candle Shell
+material: PAPER
+custom-model-data: 2856
+model: 'cocricotmod:block/candle_shell'
+
+block:
+  type: item

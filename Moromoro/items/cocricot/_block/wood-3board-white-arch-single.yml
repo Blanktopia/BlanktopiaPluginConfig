@@ -1,0 +1,7 @@
+name: Wood  3board White Arch Single
+material: PAPER
+custom-model-data: 9512
+model: 'cocricotmod:block/wood_3board_white_arch_single'
+
+block:
+  type: item

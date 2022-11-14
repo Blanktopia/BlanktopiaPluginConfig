@@ -1,0 +1,7 @@
+name: Fence Cross Red Item
+material: PAPER
+custom-model-data: 4708
+model: 'cocricotmod:block/fence_cross_red_item'
+
+block:
+  type: item

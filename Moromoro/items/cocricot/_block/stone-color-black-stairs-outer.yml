@@ -1,0 +1,7 @@
+name: Stone Color Black Stairs Outer
+material: PAPER
+custom-model-data: 7705
+model: 'cocricotmod:block/stone_color_black_stairs_outer'
+
+block:
+  type: item

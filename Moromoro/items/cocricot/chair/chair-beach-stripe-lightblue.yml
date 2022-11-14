@@ -1,0 +1,7 @@
+name: Chair Beach Stripe Lightblue
+material: PAPER
+custom-model-data: 2999
+model: cocricotmod:block/chair_beach_stripe_lightblue
+block:
+  type: item
+  sit-height: 0.4375

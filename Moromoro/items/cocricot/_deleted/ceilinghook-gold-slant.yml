@@ -1,0 +1,7 @@
+name: Ceilinghook Gold Slant
+material: PAPER
+custom-model-data: 2937
+model: 'cocricotmod:block/ceilinghook_gold_slant'
+
+block:
+  type: item

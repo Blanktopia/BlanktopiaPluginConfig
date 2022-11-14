@@ -1,0 +1,7 @@
+name: Roundtable Greek Lightblue
+material: PAPER
+custom-model-data: 6890
+model: cocricotmod:block/roundtable_greek_lightblue
+block:
+  type: item
+  collision: true

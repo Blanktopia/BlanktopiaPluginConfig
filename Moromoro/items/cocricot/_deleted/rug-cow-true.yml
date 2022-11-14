@@ -1,0 +1,7 @@
+name: Rug Cow True
+material: PAPER
+custom-model-data: 6920
+model: 'cocricotmod:block/rug_cow_true'
+
+block:
+  type: item

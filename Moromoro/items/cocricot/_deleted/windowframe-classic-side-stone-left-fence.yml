@@ -1,0 +1,7 @@
+name: Windowframe Classic Side Stone Left Fence
+material: PAPER
+custom-model-data: 9113
+model: 'cocricotmod:block/windowframe_classic_side_stone_left_fence'
+
+block:
+  type: item

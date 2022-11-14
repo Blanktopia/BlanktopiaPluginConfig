@@ -1,0 +1,7 @@
+name: Halftimber Darkred Frame Slab
+material: PAPER
+custom-model-data: 5387
+model: 'cocricotmod:block/halftimber_darkred_frame_slab'
+
+block:
+  type: item

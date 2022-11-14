@@ -1,0 +1,7 @@
+name: Flowerpot Big Lightbrown
+material: PAPER
+custom-model-data: 4885
+model: 'cocricotmod:block/flowerpot_big_lightbrown'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rug Shag Round Lime Corner
+material: PAPER
+custom-model-data: 7035
+model: 'cocricotmod:block/rug_shag_round_lime_corner'
+
+block:
+  type: item

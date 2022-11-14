@@ -1,0 +1,7 @@
+name: Cabinet Glass Shabby Pink Vslab
+material: PAPER
+custom-model-data: 2800
+model: 'cocricotmod:block/cabinet_glass_shabby_pink_vslab'
+
+block:
+  type: item

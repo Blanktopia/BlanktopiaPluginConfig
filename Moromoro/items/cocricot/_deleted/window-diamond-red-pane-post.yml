@@ -1,0 +1,7 @@
+name: Window Diamond Red Pane Post
+material: PAPER
+custom-model-data: 8879
+model: 'cocricotmod:block/window_diamond_red_pane_post'
+
+block:
+  type: item

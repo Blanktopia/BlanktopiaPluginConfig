@@ -1,0 +1,7 @@
+name: Door  4glass Dark Top Rh O
+material: PAPER
+custom-model-data: 3719
+model: 'cocricotmod:block/door_4glass_dark_top_rh_o'
+
+block:
+  type: item

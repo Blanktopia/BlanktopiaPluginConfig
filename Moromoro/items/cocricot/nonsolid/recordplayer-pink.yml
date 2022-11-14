@@ -1,0 +1,7 @@
+name: Recordplayer Pink
+material: PAPER
+custom-model-data: 6334
+model: 'cocricotmod:block/recordplayer_pink'
+
+block:
+  type: item

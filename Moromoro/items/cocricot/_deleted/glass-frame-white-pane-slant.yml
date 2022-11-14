@@ -1,0 +1,7 @@
+name: Glass Frame White Pane Slant
+material: PAPER
+custom-model-data: 5142
+model: 'cocricotmod:block/glass_frame_white_pane_slant'
+
+block:
+  type: item

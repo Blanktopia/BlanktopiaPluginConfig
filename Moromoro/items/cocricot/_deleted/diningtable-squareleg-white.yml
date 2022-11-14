@@ -1,0 +1,7 @@
+name: Diningtable Squareleg White
+material: PAPER
+custom-model-data: 3444
+model: 'cocricotmod:block/diningtable_squareleg_white'
+
+block:
+  type: item

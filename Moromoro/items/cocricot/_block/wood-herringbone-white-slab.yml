@@ -1,0 +1,7 @@
+name: Wood Herringbone White Slab
+material: PAPER
+custom-model-data: 9775
+model: 'cocricotmod:block/wood_herringbone_white_slab'
+
+block:
+  type: item

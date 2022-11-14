@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Slab
+material: PAPER
+custom-model-data: 6604
+model: 'cocricotmod:block/roof_fishscale_red_slab'
+
+block:
+  type: item

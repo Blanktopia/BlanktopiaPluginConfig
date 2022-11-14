@@ -1,0 +1,7 @@
+name: Sofa Log Birch Rustic Left
+material: PAPER
+custom-model-data: 7354
+model: cocricotmod:block/sofa_log_birch_rustic_left
+block:
+  type: item
+  sit-height: 0.4375

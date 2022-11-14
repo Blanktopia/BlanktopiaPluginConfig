@@ -1,0 +1,7 @@
+name: Pattern Antique Black
+material: PAPER
+custom-model-data: 6187
+model: 'cocricotmod:block/pattern_antique_black'
+
+block:
+  type: item

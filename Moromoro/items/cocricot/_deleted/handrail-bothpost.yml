@@ -1,0 +1,7 @@
+name: Handrail Bothpost
+material: PAPER
+custom-model-data: 5558
+model: 'cocricotmod:block/handrail_bothpost'
+
+block:
+  type: item

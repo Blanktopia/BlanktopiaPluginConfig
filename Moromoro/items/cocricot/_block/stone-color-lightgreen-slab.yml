@@ -1,0 +1,7 @@
+name: Stone Color Lightgreen Slab
+material: PAPER
+custom-model-data: 7792
+model: 'cocricotmod:block/stone_color_lightgreen_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Glass Shabby Pink
+material: PAPER
+custom-model-data: 2799
+model: 'cocricotmod:block/cabinet_glass_shabby_pink'
+
+block:
+  type: item

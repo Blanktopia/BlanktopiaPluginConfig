@@ -1,0 +1,7 @@
+name: Bed Frame Wood Simple Brown
+material: PAPER
+custom-model-data: 2402
+model: cocricotmod:block/bed_frame_wood_simple_brown
+block:
+  type: item
+  collision: true

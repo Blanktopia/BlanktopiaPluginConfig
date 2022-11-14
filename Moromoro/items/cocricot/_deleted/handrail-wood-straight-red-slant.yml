@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Red Slant
+material: PAPER
+custom-model-data: 5651
+model: 'cocricotmod:block/handrail_wood_straight_red_slant'
+
+block:
+  type: item

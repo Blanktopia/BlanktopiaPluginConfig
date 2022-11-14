@@ -1,0 +1,7 @@
+name: Awning Darkbrown Lower
+material: PAPER
+custom-model-data: 2036
+model: 'cocricotmod:block/awning_darkbrown_lower'
+
+block:
+  type: item

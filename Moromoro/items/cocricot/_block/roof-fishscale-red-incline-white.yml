@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Incline White
+material: PAPER
+custom-model-data: 6597
+model: 'cocricotmod:block/roof_fishscale_red_incline_white'
+
+block:
+  type: item

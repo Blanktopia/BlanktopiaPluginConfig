@@ -1,0 +1,7 @@
+name: Champagne Rose
+material: PAPER
+custom-model-data: 3055
+model: 'cocricotmod:block/champagne_rose'
+
+block:
+  type: item

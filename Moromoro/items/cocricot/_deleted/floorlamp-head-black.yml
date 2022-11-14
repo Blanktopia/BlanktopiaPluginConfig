@@ -1,0 +1,7 @@
+name: Floorlamp Head Black
+material: PAPER
+custom-model-data: 4847
+model: 'cocricotmod:block/floorlamp_head_black'
+
+block:
+  type: item

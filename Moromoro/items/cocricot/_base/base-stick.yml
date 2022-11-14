@@ -1,0 +1,7 @@
+name: Base Stick
+material: PAPER
+custom-model-data: 2353
+model: 'cocricotmod:block/base_stick'
+
+block:
+  type: item

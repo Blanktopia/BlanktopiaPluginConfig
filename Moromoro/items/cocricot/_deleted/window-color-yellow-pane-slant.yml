@@ -1,0 +1,7 @@
+name: Window Color Yellow Pane Slant
+material: PAPER
+custom-model-data: 8797
+model: 'cocricotmod:block/window_color_yellow_pane_slant'
+
+block:
+  type: item

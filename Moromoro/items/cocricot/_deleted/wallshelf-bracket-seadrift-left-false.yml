@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Seadrift Left False
+material: PAPER
+custom-model-data: 8469
+model: 'cocricotmod:block/wallshelf_bracket_seadrift_left_false'
+
+block:
+  type: item

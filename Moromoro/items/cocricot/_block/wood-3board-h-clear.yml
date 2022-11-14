@@ -1,0 +1,7 @@
+name: Wood  3board H Clear
+material: PAPER
+custom-model-data: 9446
+model: 'cocricotmod:block/wood_3board_h_clear'
+
+block:
+  type: item

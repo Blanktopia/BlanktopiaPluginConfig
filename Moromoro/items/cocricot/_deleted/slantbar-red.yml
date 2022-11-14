@@ -1,0 +1,7 @@
+name: Slantbar Red
+material: PAPER
+custom-model-data: 7340
+model: 'cocricotmod:block/slantbar_red'
+
+block:
+  type: item

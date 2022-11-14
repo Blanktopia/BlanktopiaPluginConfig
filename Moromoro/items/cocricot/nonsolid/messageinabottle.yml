@@ -1,0 +1,7 @@
+name: Messageinabottle
+material: PAPER
+custom-model-data: 6114
+model: 'cocricotmod:block/messageinabottle'
+
+block:
+  type: item

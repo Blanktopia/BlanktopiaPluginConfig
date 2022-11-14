@@ -1,0 +1,7 @@
+name: Fence Ranchrail White Side
+material: PAPER
+custom-model-data: 4804
+model: 'cocricotmod:block/fence_ranchrail_white_side'
+
+block:
+  type: item

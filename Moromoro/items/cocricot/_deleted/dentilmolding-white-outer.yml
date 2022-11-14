@@ -1,0 +1,7 @@
+name: Dentilmolding White Outer
+material: PAPER
+custom-model-data: 3419
+model: 'cocricotmod:block/dentilmolding_white_outer'
+
+block:
+  type: item

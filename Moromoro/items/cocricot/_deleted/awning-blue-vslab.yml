@@ -1,0 +1,7 @@
+name: Awning Blue Vslab
+material: PAPER
+custom-model-data: 2033
+model: 'cocricotmod:block/awning_blue_vslab'
+
+block:
+  type: item

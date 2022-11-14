@@ -1,0 +1,7 @@
+name: Bottle Glass Water
+material: PAPER
+custom-model-data: 2550
+model: 'cocricotmod:block/bottle_glass_water'
+
+block:
+  type: item

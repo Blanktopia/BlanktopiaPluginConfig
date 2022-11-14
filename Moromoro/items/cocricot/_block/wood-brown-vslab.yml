@@ -1,0 +1,7 @@
+name: Wood Brown Vslab
+material: PAPER
+custom-model-data: 9685
+model: 'cocricotmod:block/wood_brown_vslab'
+
+block:
+  type: item

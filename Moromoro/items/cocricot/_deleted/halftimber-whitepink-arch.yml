@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Arch
+material: PAPER
+custom-model-data: 5491
+model: 'cocricotmod:block/halftimber_whitepink_arch'
+
+block:
+  type: item

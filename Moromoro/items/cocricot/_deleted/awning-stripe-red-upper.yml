@@ -1,0 +1,7 @@
+name: Awning Stripe Red Upper
+material: PAPER
+custom-model-data: 2255
+model: 'cocricotmod:block/awning_stripe_red_upper'
+
+block:
+  type: item

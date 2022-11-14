@@ -1,0 +1,7 @@
+name: Wood  6board Clear Plate
+material: PAPER
+custom-model-data: 9549
+model: 'cocricotmod:block/wood_6board_clear_plate'
+
+block:
+  type: item

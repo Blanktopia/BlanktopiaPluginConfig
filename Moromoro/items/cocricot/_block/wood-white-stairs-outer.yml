@@ -1,0 +1,7 @@
+name: Wood White Stairs Outer
+material: PAPER
+custom-model-data: 9873
+model: 'cocricotmod:block/wood_white_stairs_outer'
+
+block:
+  type: item

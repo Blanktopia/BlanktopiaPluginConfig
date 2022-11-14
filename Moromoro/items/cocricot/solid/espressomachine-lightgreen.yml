@@ -1,0 +1,7 @@
+name: Espressomachine Lightgreen
+material: PAPER
+custom-model-data: 4662
+model: cocricotmod:block/espressomachine_lightgreen
+block:
+  type: item
+  collision: true

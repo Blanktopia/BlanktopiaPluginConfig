@@ -1,0 +1,7 @@
+name: Roof Claytile Blue Incline White Odd Corner
+material: PAPER
+custom-model-data: 6375
+model: 'cocricotmod:block/roof_claytile_blue_incline_white_odd_corner'
+
+block:
+  type: item

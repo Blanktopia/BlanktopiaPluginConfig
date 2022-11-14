@@ -1,0 +1,7 @@
+name: Bracket Antique White
+material: PAPER
+custom-model-data: 2585
+model: 'cocricotmod:block/bracket_antique_white'
+
+block:
+  type: item

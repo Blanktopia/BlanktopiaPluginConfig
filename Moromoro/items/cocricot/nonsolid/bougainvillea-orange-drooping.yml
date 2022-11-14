@@ -1,0 +1,7 @@
+name: Bougainvillea Orange Drooping
+material: PAPER
+custom-model-data: 2558
+model: 'cocricotmod:block/bougainvillea_orange_drooping'
+
+block:
+  type: item

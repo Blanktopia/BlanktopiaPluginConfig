@@ -1,0 +1,7 @@
+name: Heater Kerosene 0 Lightgreen
+material: PAPER
+custom-model-data: 5812
+model: cocricotmod:block/heater_kerosene360_lightgreen
+block:
+  type: item
+  collision: true

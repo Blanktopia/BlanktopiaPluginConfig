@@ -1,0 +1,7 @@
+name: Carpet Block Gorgeous Red
+material: PAPER
+custom-model-data: 2913
+model: 'cocricotmod:block/carpet_block_gorgeous_red'
+
+block:
+  type: item

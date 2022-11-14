@@ -1,0 +1,7 @@
+name: Roof Copper Blue Stick
+material: PAPER
+custom-model-data: 6439
+model: 'cocricotmod:block/roof_copper_blue_stick'
+
+block:
+  type: item

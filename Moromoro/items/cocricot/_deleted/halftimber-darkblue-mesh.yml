@@ -1,0 +1,7 @@
+name: Halftimber Darkblue Mesh
+material: PAPER
+custom-model-data: 5315
+model: 'cocricotmod:block/halftimber_darkblue_mesh'
+
+block:
+  type: item

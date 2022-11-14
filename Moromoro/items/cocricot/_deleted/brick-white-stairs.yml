@@ -1,0 +1,7 @@
+name: Brick White Stairs
+material: PAPER
+custom-model-data: 2748
+model: 'cocricotmod:block/brick_white_stairs'
+
+block:
+  type: item

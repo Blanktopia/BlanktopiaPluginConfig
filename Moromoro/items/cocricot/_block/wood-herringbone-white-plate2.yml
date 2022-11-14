@@ -1,0 +1,7 @@
+name: Wood Herringbone White Plate 2
+material: PAPER
+custom-model-data: 9774
+model: 'cocricotmod:block/wood_herringbone_white_plate2'
+
+block:
+  type: item

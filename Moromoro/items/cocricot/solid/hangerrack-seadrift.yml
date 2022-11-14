@@ -1,0 +1,7 @@
+name: Hangerrack Seadrift
+material: PAPER
+custom-model-data: 5775
+model: cocricotmod:block/hangerrack_seadrift
+block:
+  type: item
+  collision: true

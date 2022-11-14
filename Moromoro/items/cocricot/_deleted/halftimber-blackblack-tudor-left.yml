@@ -1,0 +1,7 @@
+name: Halftimber Blackblack Tudor Left
+material: PAPER
+custom-model-data: 5186
+model: 'cocricotmod:block/halftimber_blackblack_tudor_left'
+
+block:
+  type: item

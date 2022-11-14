@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Tudor
+material: PAPER
+custom-model-data: 5260
+model: 'cocricotmod:block/halftimber_brownpink_tudor'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Base Shelf
+material: PAPER
+custom-model-data: 2341
+model: 'cocricotmod:block/base_shelf'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Gardenbench White Both
+material: PAPER
+custom-model-data: 4990
+model: cocricotmod:block/gardenbench_white_both
+block:
+  type: item
+  sit-height: 0.4375

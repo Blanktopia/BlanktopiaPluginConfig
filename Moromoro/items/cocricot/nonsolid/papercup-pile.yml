@@ -1,0 +1,7 @@
+name: Papercup Pile
+material: PAPER
+custom-model-data: 6158
+model: 'cocricotmod:block/papercup_pile'
+
+block:
+  type: item

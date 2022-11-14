@@ -1,0 +1,7 @@
+name: Signboard Square Lighting Up
+material: PAPER
+custom-model-data: 7260
+model: 'cocricotmod:block/signboard_square_lighting_up'
+
+block:
+  type: item

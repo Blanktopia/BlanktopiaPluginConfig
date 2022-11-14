@@ -1,0 +1,7 @@
+name: Coffeegrinder Black
+material: PAPER
+custom-model-data: 3137
+model: cocricotmod:block/coffeegrinder_black
+block:
+  type: item
+  collision: true

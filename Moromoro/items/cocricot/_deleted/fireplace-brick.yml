@@ -1,0 +1,7 @@
+name: Fireplace Brick
+material: PAPER
+custom-model-data: 4837
+model: 'cocricotmod:block/fireplace_brick'
+
+block:
+  type: item

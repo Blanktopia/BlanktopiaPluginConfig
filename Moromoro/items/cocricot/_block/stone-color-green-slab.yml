@@ -1,0 +1,7 @@
+name: Stone Color Green Slab
+material: PAPER
+custom-model-data: 7753
+model: 'cocricotmod:block/stone_color_green_slab'
+
+block:
+  type: item

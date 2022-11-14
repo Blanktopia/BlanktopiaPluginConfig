@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Natural Slanting
+material: PAPER
+custom-model-data: 5735
+model: 'cocricotmod:block/handrail_wood_turnedleg_natural_slanting'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Mirror Rattan
+material: PAPER
+custom-model-data: 6127
+model: 'cocricotmod:block/mirror_rattan'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Herringbone Natural Slab
+material: PAPER
+custom-model-data: 9755
+model: 'cocricotmod:block/wood_herringbone_natural_slab'
+
+block:
+  type: item

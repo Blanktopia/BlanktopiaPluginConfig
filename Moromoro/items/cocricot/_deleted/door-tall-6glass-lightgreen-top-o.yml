@@ -1,0 +1,7 @@
+name: Door Tall  6glass Lightgreen Top O
+material: PAPER
+custom-model-data: 4357
+model: 'cocricotmod:block/door_tall_6glass_lightgreen_top_o'
+
+block:
+  type: item

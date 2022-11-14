@@ -1,0 +1,7 @@
+name: Cabinet Shabby Black Vslab
+material: PAPER
+custom-model-data: 2821
+model: 'cocricotmod:block/cabinet_shabby_black_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  2panel Red Top Rh O
+material: PAPER
+custom-model-data: 3655
+model: 'cocricotmod:block/door_2panel_red_top_rh_o'
+
+block:
+  type: item

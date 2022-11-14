@@ -1,0 +1,7 @@
+name: Garland Black Post
+material: PAPER
+custom-model-data: 5000
+model: 'cocricotmod:block/garland_black_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Green Both B
+material: PAPER
+custom-model-data: 3337
+model: 'cocricotmod:block/cushion_green_both_b'
+
+block:
+  type: item

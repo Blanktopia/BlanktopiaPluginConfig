@@ -1,0 +1,7 @@
+name: Stucco Lightblue Slab Upper
+material: PAPER
+custom-model-data: 8039
+model: 'cocricotmod:block/stucco_lightblue_slab_upper'
+
+block:
+  type: item

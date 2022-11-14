@@ -1,0 +1,7 @@
+name: Stucco Marineblue Vslab
+material: PAPER
+custom-model-data: 8057
+model: 'cocricotmod:block/stucco_marineblue_vslab'
+
+block:
+  type: item

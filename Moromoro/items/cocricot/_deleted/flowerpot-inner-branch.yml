@@ -1,0 +1,7 @@
+name: Flowerpot Inner Branch
+material: PAPER
+custom-model-data: 4894
+model: 'cocricotmod:block/flowerpot_inner_branch'
+
+block:
+  type: item

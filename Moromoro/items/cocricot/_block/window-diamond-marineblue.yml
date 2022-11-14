@@ -1,0 +1,7 @@
+name: Window Diamond Marineblue
+material: PAPER
+custom-model-data: 8855
+model: 'cocricotmod:block/window_diamond_marineblue'
+
+block:
+  type: item

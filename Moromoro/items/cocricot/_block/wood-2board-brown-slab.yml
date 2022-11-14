@@ -1,0 +1,7 @@
+name: Wood  2board Brown Slab
+material: PAPER
+custom-model-data: 9270
+model: 'cocricotmod:block/wood_2board_brown_slab'
+
+block:
+  type: item

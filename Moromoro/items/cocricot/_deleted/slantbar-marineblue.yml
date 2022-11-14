@@ -1,0 +1,7 @@
+name: Slantbar Marineblue
+material: PAPER
+custom-model-data: 7338
+model: 'cocricotmod:block/slantbar_marineblue'
+
+block:
+  type: item

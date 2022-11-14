@@ -1,0 +1,7 @@
+name: Awning White
+material: PAPER
+custom-model-data: 2268
+model: 'cocricotmod:block/awning_white'
+
+block:
+  type: item

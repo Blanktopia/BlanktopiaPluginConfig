@@ -1,0 +1,7 @@
+name: Sofa Slipper American Mintgreen
+material: PAPER
+custom-model-data: 7452
+model: cocricotmod:block/sofa_slipper_american_mintgreen
+block:
+  type: item
+  sit-height: 0.4375

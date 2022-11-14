@@ -1,0 +1,7 @@
+name: Gardenbench Brown Single
+material: PAPER
+custom-model-data: 4946
+model: cocricotmod:block/gardenbench_brown_single
+block:
+  type: item
+  sit-height: 0.4375

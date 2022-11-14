@@ -1,0 +1,7 @@
+name: Window Color Darkbrown Pane Post
+material: PAPER
+custom-model-data: 8711
+model: 'cocricotmod:block/window_color_darkbrown_pane_post'
+
+block:
+  type: item

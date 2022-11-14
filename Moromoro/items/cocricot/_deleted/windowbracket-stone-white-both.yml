@@ -1,0 +1,7 @@
+name: Windowbracket Stone White Both
+material: PAPER
+custom-model-data: 9028
+model: 'cocricotmod:block/windowbracket_stone_white_both'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Counterstool Industrial Brown False
+material: PAPER
+custom-model-data: 3215
+model: 'cocricotmod:block/counterstool_industrial_brown_false'
+
+block:
+  type: item

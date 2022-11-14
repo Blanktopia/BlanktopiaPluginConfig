@@ -1,0 +1,7 @@
+name: Counterstool American Red False
+material: PAPER
+custom-model-data: 3205
+model: 'cocricotmod:block/counterstool_american_red_false'
+
+block:
+  type: item

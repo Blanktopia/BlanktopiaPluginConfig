@@ -1,0 +1,7 @@
+name: Fishbowl
+material: PAPER
+custom-model-data: 4844
+model: 'cocricotmod:block/fishbowl'
+
+block:
+  type: item

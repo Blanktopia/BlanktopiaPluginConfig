@@ -1,0 +1,7 @@
+name: Car Headlight 1
+material: PAPER
+custom-model-data: 2892
+model: 'cocricotmod:block/car_headlight1'
+
+block:
+  type: item

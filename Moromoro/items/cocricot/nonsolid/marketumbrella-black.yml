@@ -1,0 +1,7 @@
+name: Marketumbrella Black
+material: PAPER
+custom-model-data: 6090
+model: 'cocricotmod:block/marketumbrella_black'
+
+block:
+  type: item

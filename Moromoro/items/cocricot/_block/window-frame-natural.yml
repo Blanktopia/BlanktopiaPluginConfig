@@ -1,0 +1,7 @@
+name: Window Frame Natural
+material: PAPER
+custom-model-data: 8967
+model: 'cocricotmod:block/window_frame_natural'
+
+block:
+  type: item

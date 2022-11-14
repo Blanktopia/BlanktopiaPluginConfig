@@ -1,0 +1,7 @@
+name: Climbing Rose Yellow
+material: PAPER
+custom-model-data: 3105
+model: 'cocricotmod:block/climbing_rose_yellow'
+
+block:
+  type: item

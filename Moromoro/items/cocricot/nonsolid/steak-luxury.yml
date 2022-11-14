@@ -1,0 +1,7 @@
+name: Steak Luxury
+material: PAPER
+custom-model-data: 7618
+model: 'cocricotmod:block/steak_luxury'
+
+block:
+  type: item

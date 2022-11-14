@@ -1,0 +1,7 @@
+name: Door Tall  2panel Gray Top Rh O
+material: PAPER
+custom-model-data: 4079
+model: 'cocricotmod:block/door_tall_2panel_gray_top_rh_o'
+
+block:
+  type: item

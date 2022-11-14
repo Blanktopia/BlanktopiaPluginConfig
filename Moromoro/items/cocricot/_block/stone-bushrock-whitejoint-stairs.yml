@@ -1,0 +1,7 @@
+name: Stone Bushrock Whitejoint Stairs
+material: PAPER
+custom-model-data: 7672
+model: 'cocricotmod:block/stone_bushrock_whitejoint_stairs'
+
+block:
+  type: item

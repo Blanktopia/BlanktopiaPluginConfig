@@ -1,0 +1,7 @@
+name: Glassdome Specimen
+material: PAPER
+custom-model-data: 5154
+model: cocricotmod:block/glassdome_specimen
+block:
+  type: item
+  collision: true

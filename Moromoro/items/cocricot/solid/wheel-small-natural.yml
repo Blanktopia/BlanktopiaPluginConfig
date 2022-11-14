@@ -1,0 +1,8 @@
+name: Wheel Small Natural
+material: PAPER
+custom-model-data: 8551
+model: 'cocricotmod:block/wheel_small_natural'
+
+block:
+  type: item
+  collision: true

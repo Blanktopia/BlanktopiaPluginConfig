@@ -1,0 +1,7 @@
+name: Window Diamond Dark
+material: PAPER
+custom-model-data: 8827
+model: 'cocricotmod:block/window_diamond_dark'
+
+block:
+  type: item

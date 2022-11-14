@@ -1,0 +1,7 @@
+name: Window Frame Brown Pane Three
+material: PAPER
+custom-model-data: 8945
+model: 'cocricotmod:block/window_frame_brown_pane_three'
+
+block:
+  type: item

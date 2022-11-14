@@ -1,0 +1,7 @@
+name: Armscandleholder Antique White
+material: PAPER
+custom-model-data: 2008
+model: 'cocricotmod:block/armscandleholder_antique_white'
+
+block:
+  type: item

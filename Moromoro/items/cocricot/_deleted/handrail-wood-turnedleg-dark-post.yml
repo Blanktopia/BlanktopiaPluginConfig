@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Dark Post
+material: PAPER
+custom-model-data: 5712
+model: 'cocricotmod:block/handrail_wood_turnedleg_dark_post'
+
+block:
+  type: item

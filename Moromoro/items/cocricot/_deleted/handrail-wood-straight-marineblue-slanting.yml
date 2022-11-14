@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Marineblue Slanting
+material: PAPER
+custom-model-data: 5632
+model: 'cocricotmod:block/handrail_wood_straight_marineblue_slanting'
+
+block:
+  type: item

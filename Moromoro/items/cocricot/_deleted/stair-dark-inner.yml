@@ -1,0 +1,7 @@
+name: Stair Dark Inner
+material: PAPER
+custom-model-data: 7570
+model: 'cocricotmod:block/stair_dark_inner'
+
+block:
+  type: item

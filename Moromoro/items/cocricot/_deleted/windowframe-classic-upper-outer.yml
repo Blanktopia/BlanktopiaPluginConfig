@@ -1,0 +1,7 @@
+name: Windowframe Classic Upper Outer
+material: PAPER
+custom-model-data: 9130
+model: 'cocricotmod:block/windowframe_classic_upper_outer'
+
+block:
+  type: item

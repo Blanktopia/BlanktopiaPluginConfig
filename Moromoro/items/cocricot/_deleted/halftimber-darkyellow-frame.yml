@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Frame
+material: PAPER
+custom-model-data: 5416
+model: 'cocricotmod:block/halftimber_darkyellow_frame'
+
+block:
+  type: item

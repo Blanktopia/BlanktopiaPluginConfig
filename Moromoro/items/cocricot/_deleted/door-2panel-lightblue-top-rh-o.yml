@@ -1,0 +1,7 @@
+name: Door  2panel Lightblue Top Rh O
+material: PAPER
+custom-model-data: 3607
+model: 'cocricotmod:block/door_2panel_lightblue_top_rh_o'
+
+block:
+  type: item

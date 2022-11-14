@@ -1,0 +1,7 @@
+name: Brick Sandstone Slab Upper
+material: PAPER
+custom-model-data: 2717
+model: 'cocricotmod:block/brick_sandstone_slab_upper'
+
+block:
+  type: item

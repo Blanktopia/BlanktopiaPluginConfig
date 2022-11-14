@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Natural Stairs
+material: PAPER
+custom-model-data: 9843
+model: 'cocricotmod:block/wood_wainscot_panels_natural_stairs'
+
+block:
+  type: item

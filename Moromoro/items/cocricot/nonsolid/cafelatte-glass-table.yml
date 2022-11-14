@@ -1,0 +1,7 @@
+name: Cafelatte Glass Table
+material: PAPER
+custom-model-data: 2837
+model: 'cocricotmod:block/cafelatte_glass_table'
+
+block:
+  type: item

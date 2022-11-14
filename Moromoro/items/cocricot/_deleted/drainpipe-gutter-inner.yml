@@ -1,0 +1,7 @@
+name: Drainpipe Gutter Inner
+material: PAPER
+custom-model-data: 4521
+model: 'cocricotmod:block/drainpipe_gutter_inner'
+
+block:
+  type: item

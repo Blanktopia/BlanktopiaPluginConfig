@@ -1,0 +1,7 @@
+name: Roof Spanish Yellow Stairs Outer
+material: PAPER
+custom-model-data: 6791
+model: 'cocricotmod:block/roof_spanish_yellow_stairs_outer'
+
+block:
+  type: item

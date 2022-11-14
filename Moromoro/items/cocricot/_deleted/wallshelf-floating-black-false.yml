@@ -1,0 +1,7 @@
+name: Wallshelf Floating Black False
+material: PAPER
+custom-model-data: 8502
+model: 'cocricotmod:block/wallshelf_floating_black_false'
+
+block:
+  type: item

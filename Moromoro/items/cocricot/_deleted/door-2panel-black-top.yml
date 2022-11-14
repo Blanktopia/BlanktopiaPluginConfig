@@ -1,0 +1,7 @@
+name: Door  2panel Black Top
+material: PAPER
+custom-model-data: 3572
+model: 'cocricotmod:block/door_2panel_black_top'
+
+block:
+  type: item

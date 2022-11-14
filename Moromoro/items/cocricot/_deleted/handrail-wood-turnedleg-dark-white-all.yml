@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Dark White All
+material: PAPER
+custom-model-data: 5718
+model: 'cocricotmod:block/handrail_wood_turnedleg_dark_white_all'
+
+block:
+  type: item

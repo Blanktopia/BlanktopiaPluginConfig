@@ -1,0 +1,7 @@
+name: Pumpkin Small 4
+material: PAPER
+custom-model-data: 6295
+model: 'cocricotmod:block/pumpkin_small4'
+
+block:
+  type: item

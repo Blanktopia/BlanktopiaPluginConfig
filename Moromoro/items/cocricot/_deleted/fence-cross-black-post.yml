@@ -1,0 +1,7 @@
+name: Fence Cross Black Post
+material: PAPER
+custom-model-data: 4691
+model: 'cocricotmod:block/fence_cross_black_post'
+
+block:
+  type: item

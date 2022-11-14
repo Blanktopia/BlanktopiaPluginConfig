@@ -1,0 +1,7 @@
+name: Stone Plane Plate
+material: PAPER
+custom-model-data: 7917
+model: 'cocricotmod:block/stone_plane_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Base Plate H
+material: PAPER
+custom-model-data: 2336
+model: 'cocricotmod:block/base_plate_h'
+
+block:
+  type: item

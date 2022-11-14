@@ -1,0 +1,7 @@
+name: Rangehood Stainless Three
+material: PAPER
+custom-model-data: 6328
+model: 'cocricotmod:block/rangehood_stainless_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sofa Slipper Lightblue Inner
+material: PAPER
+custom-model-data: 7492
+model: cocricotmod:block/sofa_slipper_lightblue_inner
+block:
+  type: item
+  sit-height: 0.4375

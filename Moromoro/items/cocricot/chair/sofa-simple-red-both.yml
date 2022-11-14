@@ -1,0 +1,7 @@
+name: Sofa Simple Red Both
+material: PAPER
+custom-model-data: 7425
+model: cocricotmod:block/sofa_simple_red_both
+block:
+  type: item
+  sit-height: 0.4375

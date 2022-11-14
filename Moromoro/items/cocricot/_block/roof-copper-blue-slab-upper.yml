@@ -1,0 +1,7 @@
+name: Roof Copper Blue Slab Upper
+material: PAPER
+custom-model-data: 6435
+model: 'cocricotmod:block/roof_copper_blue_slab_upper'
+
+block:
+  type: item

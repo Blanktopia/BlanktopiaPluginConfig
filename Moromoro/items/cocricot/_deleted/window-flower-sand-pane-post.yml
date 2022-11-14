@@ -1,0 +1,7 @@
+name: Window Flower Sand Pane Post
+material: PAPER
+custom-model-data: 8915
+model: 'cocricotmod:block/window_flower_sand_pane_post'
+
+block:
+  type: item

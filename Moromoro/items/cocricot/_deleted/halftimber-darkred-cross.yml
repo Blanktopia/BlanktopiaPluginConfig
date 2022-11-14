@@ -1,0 +1,7 @@
+name: Halftimber Darkred Cross
+material: PAPER
+custom-model-data: 5385
+model: 'cocricotmod:block/halftimber_darkred_cross'
+
+block:
+  type: item

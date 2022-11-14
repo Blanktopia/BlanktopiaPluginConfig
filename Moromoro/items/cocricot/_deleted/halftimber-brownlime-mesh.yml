@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Mesh
+material: PAPER
+custom-model-data: 5240
+model: 'cocricotmod:block/halftimber_brownlime_mesh'
+
+block:
+  type: item

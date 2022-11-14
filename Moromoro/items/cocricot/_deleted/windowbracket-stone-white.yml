@@ -1,0 +1,7 @@
+name: Windowbracket Stone White
+material: PAPER
+custom-model-data: 9027
+model: 'cocricotmod:block/windowbracket_stone_white'
+
+block:
+  type: item

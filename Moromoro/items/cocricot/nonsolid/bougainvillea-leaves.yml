@@ -1,0 +1,7 @@
+name: Bougainvillea Leaves
+material: PAPER
+custom-model-data: 2555
+model: 'cocricotmod:block/bougainvillea_leaves'
+
+block:
+  type: item

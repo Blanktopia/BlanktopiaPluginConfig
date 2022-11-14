@@ -1,0 +1,7 @@
+name: Gardenbench Clear Single
+material: PAPER
+custom-model-data: 4950
+model: cocricotmod:block/gardenbench_clear_single
+block:
+  type: item
+  sit-height: 0.4375

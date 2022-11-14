@@ -1,0 +1,7 @@
+name: Stone Color Red Plate
+material: PAPER
+custom-model-data: 7842
+model: 'cocricotmod:block/stone_color_red_plate'
+
+block:
+  type: item

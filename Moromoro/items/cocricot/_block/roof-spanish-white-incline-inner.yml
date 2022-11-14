@@ -1,0 +1,7 @@
+name: Roof Spanish White Incline Inner
+material: PAPER
+custom-model-data: 6756
+model: 'cocricotmod:block/roof_spanish_white_incline_inner'
+
+block:
+  type: item

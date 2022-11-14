@@ -1,0 +1,7 @@
+name: Wallplate Sweet
+material: PAPER
+custom-model-data: 8384
+model: 'cocricotmod:block/wallplate_sweet'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color White Vslab
+material: PAPER
+custom-model-data: 7863
+model: 'cocricotmod:block/stone_color_white_vslab'
+
+block:
+  type: item

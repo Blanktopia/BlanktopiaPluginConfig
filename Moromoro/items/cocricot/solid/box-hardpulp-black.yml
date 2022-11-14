@@ -1,0 +1,7 @@
+name: Box Hardpulp Black
+material: PAPER
+custom-model-data: 2568
+model: cocricotmod:block/box_hardpulp_black
+block:
+  type: item
+  collision: true

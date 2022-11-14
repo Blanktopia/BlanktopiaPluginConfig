@@ -1,0 +1,7 @@
+name: Coconutwater
+material: PAPER
+custom-model-data: 3128
+model: 'cocricotmod:block/coconutwater'
+
+block:
+  type: item

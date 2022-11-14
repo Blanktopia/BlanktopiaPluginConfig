@@ -1,0 +1,7 @@
+name: Mailbox Yellow Brown
+material: PAPER
+custom-model-data: 6046
+model: 'cocricotmod:block/mailbox_yellow_brown'
+
+block:
+  type: item

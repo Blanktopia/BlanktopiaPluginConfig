@@ -1,0 +1,7 @@
+name: Wood  2board Natural Vslab
+material: PAPER
+custom-model-data: 9361
+model: 'cocricotmod:block/wood_2board_natural_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Pink Pane Three
+material: PAPER
+custom-model-data: 8770
+model: 'cocricotmod:block/window_color_pink_pane_three'
+
+block:
+  type: item

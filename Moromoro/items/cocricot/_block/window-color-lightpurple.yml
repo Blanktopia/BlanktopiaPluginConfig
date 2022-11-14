@@ -1,0 +1,7 @@
+name: Window Color Lightpurple
+material: PAPER
+custom-model-data: 8750
+model: 'cocricotmod:block/window_color_lightpurple'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Shopfacade Paris Blue Pillar
+material: PAPER
+custom-model-data: 7194
+model: 'cocricotmod:block/shopfacade_paris_blue_pillar'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Signpost Wood Post
+material: PAPER
+custom-model-data: 7287
+model: 'cocricotmod:block/signpost_wood_post'
+
+block:
+  type: item

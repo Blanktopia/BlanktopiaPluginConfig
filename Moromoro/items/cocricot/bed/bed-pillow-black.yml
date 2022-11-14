@@ -1,0 +1,7 @@
+name: Bed Pillow Black
+material: PAPER
+custom-model-data: 2423
+model: 'cocricotmod:block/bed_pillow_black'
+
+block:
+  type: item

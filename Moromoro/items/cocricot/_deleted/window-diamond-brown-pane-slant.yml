@@ -1,0 +1,7 @@
+name: Window Diamond Brown Pane Slant
+material: PAPER
+custom-model-data: 8818
+model: 'cocricotmod:block/window_diamond_brown_pane_slant'
+
+block:
+  type: item

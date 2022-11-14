@@ -1,0 +1,7 @@
+name: Captionplate Black Upper
+material: PAPER
+custom-model-data: 2880
+model: 'cocricotmod:block/captionplate_black_upper'
+
+block:
+  type: item

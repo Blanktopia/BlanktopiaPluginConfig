@@ -1,0 +1,7 @@
+name: Wood Rustic Clear
+material: PAPER
+custom-model-data: 9794
+model: 'cocricotmod:block/wood_rustic_clear'
+
+block:
+  type: item

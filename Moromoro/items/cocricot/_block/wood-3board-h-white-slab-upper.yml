@@ -1,0 +1,7 @@
+name: Wood  3board H White Slab Upper
+material: PAPER
+custom-model-data: 9481
+model: 'cocricotmod:block/wood_3board_h_white_slab_upper'
+
+block:
+  type: item

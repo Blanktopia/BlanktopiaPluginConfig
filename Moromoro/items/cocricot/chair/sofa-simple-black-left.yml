@@ -1,0 +1,7 @@
+name: Sofa Simple Black Left
+material: PAPER
+custom-model-data: 7402
+model: cocricotmod:block/sofa_simple_black_left
+block:
+  type: item
+  sit-height: 0.4375

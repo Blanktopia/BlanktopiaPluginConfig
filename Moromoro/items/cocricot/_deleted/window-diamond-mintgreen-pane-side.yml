@@ -1,0 +1,7 @@
+name: Window Diamond Mintgreen Pane Side
+material: PAPER
+custom-model-data: 8866
+model: 'cocricotmod:block/window_diamond_mintgreen_pane_side'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bed Mattress Yellow
+material: PAPER
+custom-model-data: 2422
+model: cocricotmod:block/bed_mattress_yellow
+block:
+  type: item
+  collision: true

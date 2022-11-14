@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Arch
+material: PAPER
+custom-model-data: 5234
+model: 'cocricotmod:block/halftimber_brownlime_arch'
+
+block:
+  type: item

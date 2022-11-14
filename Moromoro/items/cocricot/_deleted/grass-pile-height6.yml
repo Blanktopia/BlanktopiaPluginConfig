@@ -1,0 +1,7 @@
+name: Grass Pile Height 6
+material: PAPER
+custom-model-data: 5168
+model: 'cocricotmod:block/grass_pile_height6'
+
+block:
+  type: item

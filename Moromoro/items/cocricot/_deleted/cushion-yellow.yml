@@ -1,0 +1,7 @@
+name: Cushion Yellow
+material: PAPER
+custom-model-data: 3399
+model: 'cocricotmod:block/cushion_yellow'
+
+block:
+  type: item

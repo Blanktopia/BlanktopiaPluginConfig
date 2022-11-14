@@ -1,0 +1,7 @@
+name: Roof Copper Gray Vslab
+material: PAPER
+custom-model-data: 6455
+model: 'cocricotmod:block/roof_copper_gray_vslab'
+
+block:
+  type: item

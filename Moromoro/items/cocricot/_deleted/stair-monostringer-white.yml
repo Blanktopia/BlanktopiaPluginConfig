@@ -1,0 +1,7 @@
+name: Stair Monostringer White
+material: PAPER
+custom-model-data: 7582
+model: 'cocricotmod:block/stair_monostringer_white'
+
+block:
+  type: item

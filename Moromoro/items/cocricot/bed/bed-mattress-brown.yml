@@ -1,0 +1,7 @@
+name: Bed Mattress Brown
+material: PAPER
+custom-model-data: 2409
+model: cocricotmod:block/bed_mattress_brown
+block:
+  type: item
+  collision: true

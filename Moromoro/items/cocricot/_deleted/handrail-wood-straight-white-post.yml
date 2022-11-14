@@ -1,0 +1,7 @@
+name: Handrail Wood Straight White Post
+material: PAPER
+custom-model-data: 5671
+model: 'cocricotmod:block/handrail_wood_straight_white_post'
+
+block:
+  type: item

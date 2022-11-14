@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Seadrift Slant
+material: PAPER
+custom-model-data: 5744
+model: 'cocricotmod:block/handrail_wood_turnedleg_seadrift_slant'
+
+block:
+  type: item

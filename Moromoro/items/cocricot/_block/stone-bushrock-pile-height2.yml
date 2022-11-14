@@ -1,0 +1,7 @@
+name: Stone Bushrock Pile Height 2
+material: PAPER
+custom-model-data: 7642
+model: 'cocricotmod:block/stone_bushrock_pile_height2'
+
+block:
+  type: item

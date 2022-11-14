@@ -1,0 +1,7 @@
+name: Wallshelf Chain Brown False
+material: PAPER
+custom-model-data: 8487
+model: 'cocricotmod:block/wallshelf_chain_brown_false'
+
+block:
+  type: item

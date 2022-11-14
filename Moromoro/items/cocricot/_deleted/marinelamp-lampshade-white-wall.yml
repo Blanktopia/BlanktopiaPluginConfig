@@ -1,0 +1,7 @@
+name: Marinelamp Lampshade White Wall
+material: PAPER
+custom-model-data: 6089
+model: 'cocricotmod:block/marinelamp_lampshade_white_wall'
+
+block:
+  type: item

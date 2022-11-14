@@ -1,0 +1,7 @@
+name: Roof Spanish Blue Incline White Odd Corner
+material: PAPER
+custom-model-data: 6641
+model: 'cocricotmod:block/roof_spanish_blue_incline_white_odd_corner'
+
+block:
+  type: item

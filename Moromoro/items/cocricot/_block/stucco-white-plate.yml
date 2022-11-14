@@ -1,0 +1,7 @@
+name: Stucco White Plate
+material: PAPER
+custom-model-data: 8104
+model: 'cocricotmod:block/stucco_white_plate'
+
+block:
+  type: item

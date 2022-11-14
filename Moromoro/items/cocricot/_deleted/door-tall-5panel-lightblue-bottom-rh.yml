@@ -1,0 +1,7 @@
+name: Door Tall  5panel Lightblue Bottom Rh
+material: PAPER
+custom-model-data: 4210
+model: 'cocricotmod:block/door_tall_5panel_lightblue_bottom_rh'
+
+block:
+  type: item

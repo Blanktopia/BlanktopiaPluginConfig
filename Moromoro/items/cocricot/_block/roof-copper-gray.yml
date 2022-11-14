@@ -1,0 +1,7 @@
+name: Roof Copper Gray
+material: PAPER
+custom-model-data: 6441
+model: 'cocricotmod:block/roof_copper_gray'
+
+block:
+  type: item

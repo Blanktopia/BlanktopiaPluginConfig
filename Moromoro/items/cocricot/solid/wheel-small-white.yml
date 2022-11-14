@@ -1,0 +1,8 @@
+name: Wheel Small White
+material: PAPER
+custom-model-data: 8557
+model: 'cocricotmod:block/wheel_small_white'
+
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Awning Black Vslab
+material: PAPER
+custom-model-data: 2022
+model: 'cocricotmod:block/awning_black_vslab'
+
+block:
+  type: item

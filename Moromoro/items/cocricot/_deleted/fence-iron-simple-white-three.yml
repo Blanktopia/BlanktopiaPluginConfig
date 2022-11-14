@@ -1,0 +1,7 @@
+name: Fence Iron Simple White Three
+material: PAPER
+custom-model-data: 4746
+model: 'cocricotmod:block/fence_iron_simple_white_three'
+
+block:
+  type: item

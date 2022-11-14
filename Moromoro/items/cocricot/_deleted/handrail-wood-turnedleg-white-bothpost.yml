@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg White Bothpost
+material: PAPER
+custom-model-data: 5752
+model: 'cocricotmod:block/handrail_wood_turnedleg_white_bothpost'
+
+block:
+  type: item

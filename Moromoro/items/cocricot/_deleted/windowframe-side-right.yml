@@ -1,0 +1,7 @@
+name: Windowframe Side Right
+material: PAPER
+custom-model-data: 9141
+model: 'cocricotmod:block/windowframe_side_right'
+
+block:
+  type: item

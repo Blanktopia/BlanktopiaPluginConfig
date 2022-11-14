@@ -1,0 +1,7 @@
+name: Basket
+material: PAPER
+custom-model-data: 2358
+model: 'cocricotmod:block/basket'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Woodshake Gray Whiteframe
+material: PAPER
+custom-model-data: 9911
+model: 'cocricotmod:block/wood_wrapsiding_woodshake_gray_whiteframe'
+
+block:
+  type: item

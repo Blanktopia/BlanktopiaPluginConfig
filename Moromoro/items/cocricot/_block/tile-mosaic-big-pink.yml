@@ -1,0 +1,7 @@
+name: Tile Mosaic Big Pink
+material: PAPER
+custom-model-data: 8299
+model: 'cocricotmod:block/tile_mosaic_big_pink'
+
+block:
+  type: item

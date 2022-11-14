@@ -1,0 +1,7 @@
+name: Door  4glass Brown Bottom O
+material: PAPER
+custom-model-data: 3697
+model: 'cocricotmod:block/door_4glass_brown_bottom_o'
+
+block:
+  type: item

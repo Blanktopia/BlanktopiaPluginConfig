@@ -1,0 +1,7 @@
+name: Stone Color Yellow Arch
+material: PAPER
+custom-model-data: 7866
+model: 'cocricotmod:block/stone_color_yellow_arch'
+
+block:
+  type: item

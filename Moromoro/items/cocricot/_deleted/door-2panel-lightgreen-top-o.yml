@@ -1,0 +1,7 @@
+name: Door  2panel Lightgreen Top O
+material: PAPER
+custom-model-data: 3621
+model: 'cocricotmod:block/door_2panel_lightgreen_top_o'
+
+block:
+  type: item

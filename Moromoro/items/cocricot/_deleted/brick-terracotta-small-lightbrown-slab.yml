@@ -1,0 +1,7 @@
+name: Brick Terracotta Small Lightbrown Slab
+material: PAPER
+custom-model-data: 2731
+model: 'cocricotmod:block/brick_terracotta_small_lightbrown_slab'
+
+block:
+  type: item

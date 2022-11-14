@@ -1,0 +1,7 @@
+name: Awning Black Slab
+material: PAPER
+custom-model-data: 2016
+model: 'cocricotmod:block/awning_black_slab'
+
+block:
+  type: item

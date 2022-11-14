@@ -1,0 +1,7 @@
+name: Windowbracket Stone Black
+material: PAPER
+custom-model-data: 9016
+model: 'cocricotmod:block/windowbracket_stone_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stair Spiral Natural True
+material: PAPER
+custom-model-data: 7605
+model: 'cocricotmod:block/stair_spiral_natural_true'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Shopfacade Paris Orange Pillar
+material: PAPER
+custom-model-data: 7218
+model: 'cocricotmod:block/shopfacade_paris_orange_pillar'
+
+block:
+  type: item

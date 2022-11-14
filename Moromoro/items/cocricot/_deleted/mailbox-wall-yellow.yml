@@ -1,0 +1,7 @@
+name: Mailbox Wall Yellow
+material: PAPER
+custom-model-data: 6043
+model: 'cocricotmod:block/mailbox_wall_yellow'
+
+block:
+  type: item

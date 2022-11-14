@@ -1,0 +1,7 @@
+name: Stucco Yellow Stick
+material: PAPER
+custom-model-data: 8124
+model: 'cocricotmod:block/stucco_yellow_stick'
+
+block:
+  type: item

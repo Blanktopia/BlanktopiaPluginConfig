@@ -1,0 +1,7 @@
+name: Door Tall  6glass Lightblue Bottom Rh
+material: PAPER
+custom-model-data: 4338
+model: 'cocricotmod:block/door_tall_6glass_lightblue_bottom_rh'
+
+block:
+  type: item

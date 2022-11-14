@@ -1,0 +1,7 @@
+name: Ladder Iron Black
+material: PAPER
+custom-model-data: 5887
+model: 'cocricotmod:block/ladder_iron_black'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Quartz Three
+material: PAPER
+custom-model-data: 5571
+model: 'cocricotmod:block/handrail_turnedleg_quartz_three'
+
+block:
+  type: item

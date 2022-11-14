@@ -1,0 +1,7 @@
+name: Chair Dining Windsor Antique
+material: PAPER
+custom-model-data: 3016
+model: cocricotmod:block/chair_dining_windsor_antique
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Sofa Slipper American Darkbrown
+material: PAPER
+custom-model-data: 7443
+model: cocricotmod:block/sofa_slipper_american_darkbrown
+block:
+  type: item
+  sit-height: 0.4375

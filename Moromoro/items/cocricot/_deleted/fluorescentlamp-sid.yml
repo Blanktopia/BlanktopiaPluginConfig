@@ -1,0 +1,7 @@
+name: Fluorescentlamp Sid
+material: PAPER
+custom-model-data: 4928
+model: 'cocricotmod:block/fluorescentlamp_sid'
+
+block:
+  type: item

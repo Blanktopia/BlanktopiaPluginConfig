@@ -1,0 +1,7 @@
+name: Wallshelf Chain Black False
+material: PAPER
+custom-model-data: 8485
+model: 'cocricotmod:block/wallshelf_chain_black_false'
+
+block:
+  type: item

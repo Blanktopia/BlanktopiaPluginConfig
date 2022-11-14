@@ -1,0 +1,7 @@
+name: Stone Plane Sand Plate
+material: PAPER
+custom-model-data: 7926
+model: 'cocricotmod:block/stone_plane_sand_plate'
+
+block:
+  type: item

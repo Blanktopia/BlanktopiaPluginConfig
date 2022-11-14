@@ -1,0 +1,7 @@
+name: Table Ironleg Dark All
+material: PAPER
+custom-model-data: 8193
+model: cocricotmod:block/table_ironleg_dark_all
+block:
+  type: item
+  collision: true

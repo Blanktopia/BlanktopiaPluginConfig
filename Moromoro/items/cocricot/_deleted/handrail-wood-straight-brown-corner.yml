@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Brown Corner
+material: PAPER
+custom-model-data: 5598
+model: 'cocricotmod:block/handrail_wood_straight_brown_corner'
+
+block:
+  type: item

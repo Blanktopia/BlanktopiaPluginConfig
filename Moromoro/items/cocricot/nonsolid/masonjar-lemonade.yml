@@ -1,0 +1,7 @@
+name: Masonjar Lemonade
+material: PAPER
+custom-model-data: 6099
+model: 'cocricotmod:block/masonjar_lemonade'
+
+block:
+  type: item

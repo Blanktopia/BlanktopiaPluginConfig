@@ -1,0 +1,7 @@
+name: Wood  2board Clear Arch
+material: PAPER
+custom-model-data: 9277
+model: 'cocricotmod:block/wood_2board_clear_arch'
+
+block:
+  type: item

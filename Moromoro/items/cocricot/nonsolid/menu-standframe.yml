@@ -1,0 +1,7 @@
+name: Menu Standframe
+material: PAPER
+custom-model-data: 6113
+model: 'cocricotmod:block/menu_standframe'
+
+block:
+  type: item

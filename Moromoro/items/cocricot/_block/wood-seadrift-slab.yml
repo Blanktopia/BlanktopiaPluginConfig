@@ -1,0 +1,7 @@
+name: Wood Seadrift Slab
+material: PAPER
+custom-model-data: 9803
+model: 'cocricotmod:block/wood_seadrift_slab'
+
+block:
+  type: item

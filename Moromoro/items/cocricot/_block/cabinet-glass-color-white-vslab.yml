@@ -1,0 +1,7 @@
+name: Cabinet Glass Color White Vslab
+material: PAPER
+custom-model-data: 2792
+model: 'cocricotmod:block/cabinet_glass_color_white_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowframe Classic Brown Upper
+material: PAPER
+custom-model-data: 9068
+model: 'cocricotmod:block/windowframe_classic_brown_upper'
+
+block:
+  type: item

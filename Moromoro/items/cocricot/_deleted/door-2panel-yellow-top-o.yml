@@ -1,0 +1,7 @@
+name: Door  2panel Yellow Top O
+material: PAPER
+custom-model-data: 3685
+model: 'cocricotmod:block/door_2panel_yellow_top_o'
+
+block:
+  type: item

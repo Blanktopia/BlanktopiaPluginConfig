@@ -1,0 +1,7 @@
+name: Lightboxsign Coffee
+material: PAPER
+custom-model-data: 6015
+model: 'cocricotmod:block/lightboxsign_coffee'
+
+block:
+  type: item

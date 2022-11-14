@@ -1,0 +1,7 @@
+name: Window Diamond Lime Pane All
+material: PAPER
+custom-model-data: 8849
+model: 'cocricotmod:block/window_diamond_lime_pane_all'
+
+block:
+  type: item

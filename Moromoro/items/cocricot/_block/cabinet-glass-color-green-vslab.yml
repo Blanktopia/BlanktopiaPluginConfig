@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Green Vslab
+material: PAPER
+custom-model-data: 2782
+model: 'cocricotmod:block/cabinet_glass_color_green_vslab'
+
+block:
+  type: item

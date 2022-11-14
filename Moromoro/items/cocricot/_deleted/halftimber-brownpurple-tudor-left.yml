@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Tudor Left
+material: PAPER
+custom-model-data: 5276
+model: 'cocricotmod:block/halftimber_brownpurple_tudor_left'
+
+block:
+  type: item

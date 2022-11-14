@@ -1,0 +1,7 @@
+name: Window Diamond Clear
+material: PAPER
+custom-model-data: 8820
+model: 'cocricotmod:block/window_diamond_clear'
+
+block:
+  type: item

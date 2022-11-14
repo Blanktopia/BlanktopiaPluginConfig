@@ -1,0 +1,7 @@
+name: Stone Tile Sand Stick
+material: PAPER
+custom-model-data: 7986
+model: 'cocricotmod:block/stone_tile_sand_stick'
+
+block:
+  type: item

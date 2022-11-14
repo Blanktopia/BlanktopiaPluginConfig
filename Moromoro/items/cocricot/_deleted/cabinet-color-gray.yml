@@ -1,0 +1,7 @@
+name: Cabinet Color Gray
+material: PAPER
+custom-model-data: 2757
+model: 'cocricotmod:block/cabinet_color_gray'
+
+block:
+  type: item

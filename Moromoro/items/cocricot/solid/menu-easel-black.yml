@@ -1,0 +1,7 @@
+name: Menu Easel Black
+material: PAPER
+custom-model-data: 6111
+model: cocricotmod:block/menu_easel_black
+block:
+  type: item
+  collision: true

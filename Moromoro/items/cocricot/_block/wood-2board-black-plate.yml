@@ -1,0 +1,7 @@
+name: Wood  2board Black Plate
+material: PAPER
+custom-model-data: 9259
+model: 'cocricotmod:block/wood_2board_black_plate'
+
+block:
+  type: item

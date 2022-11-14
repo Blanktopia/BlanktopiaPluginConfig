@@ -1,0 +1,7 @@
+name: Brick Lightbrown Stick
+material: PAPER
+custom-model-data: 2661
+model: 'cocricotmod:block/brick_lightbrown_stick'
+
+block:
+  type: item

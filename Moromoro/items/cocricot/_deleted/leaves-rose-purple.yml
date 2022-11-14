@@ -1,0 +1,7 @@
+name: Leaves Rose Purple
+material: PAPER
+custom-model-data: 5971
+model: 'cocricotmod:block/leaves_rose_purple'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallphoto Big Beach
+material: PAPER
+custom-model-data: 8378
+model: 'cocricotmod:block/wallphoto_big_beach'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bookshelf Antique Seadrift Full Dslab
+material: PAPER
+custom-model-data: 2529
+model: 'cocricotmod:block/bookshelf_antique_seadrift_full_dslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Yellow
+material: PAPER
+custom-model-data: 9912
+model: 'cocricotmod:block/wood_wrapsiding_yellow'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Recordplayer Red
+material: PAPER
+custom-model-data: 6335
+model: 'cocricotmod:block/recordplayer_red'
+
+block:
+  type: item

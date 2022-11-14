@@ -1,0 +1,7 @@
+name: Wood Brown Stairs
+material: PAPER
+custom-model-data: 9681
+model: 'cocricotmod:block/wood_brown_stairs'
+
+block:
+  type: item

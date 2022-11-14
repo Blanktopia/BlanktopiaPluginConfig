@@ -1,0 +1,7 @@
+name: Stone Color Lightpurple Slab
+material: PAPER
+custom-model-data: 7805
+model: 'cocricotmod:block/stone_color_lightpurple_slab'
+
+block:
+  type: item

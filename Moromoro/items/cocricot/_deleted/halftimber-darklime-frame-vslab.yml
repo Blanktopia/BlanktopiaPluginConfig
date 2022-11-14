@@ -1,0 +1,7 @@
+name: Halftimber Darklime Frame Vslab
+material: PAPER
+custom-model-data: 5344
+model: 'cocricotmod:block/halftimber_darklime_frame_vslab'
+
+block:
+  type: item

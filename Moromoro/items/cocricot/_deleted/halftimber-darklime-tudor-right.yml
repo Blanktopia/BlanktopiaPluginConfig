@@ -1,0 +1,7 @@
+name: Halftimber Darklime Tudor Right
+material: PAPER
+custom-model-data: 5352
+model: 'cocricotmod:block/halftimber_darklime_tudor_right'
+
+block:
+  type: item

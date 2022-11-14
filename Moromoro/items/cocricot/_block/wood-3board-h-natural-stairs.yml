@@ -1,0 +1,7 @@
+name: Wood  3board H Natural Stairs
+material: PAPER
+custom-model-data: 9466
+model: 'cocricotmod:block/wood_3board_h_natural_stairs'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Glass Frame Black Slab
+material: PAPER
+custom-model-data: 5056
+model: 'cocricotmod:block/glass_frame_black_slab'
+
+block:
+  type: item

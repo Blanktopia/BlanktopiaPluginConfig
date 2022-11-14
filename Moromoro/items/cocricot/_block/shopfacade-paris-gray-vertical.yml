@@ -1,0 +1,7 @@
+name: Shopfacade Paris Gray Vertical
+material: PAPER
+custom-model-data: 7201
+model: 'cocricotmod:block/shopfacade_paris_gray_vertical'
+
+block:
+  type: item

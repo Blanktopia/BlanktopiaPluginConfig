@@ -1,0 +1,7 @@
+name: Ceilinghook Black Slant
+material: PAPER
+custom-model-data: 2932
+model: 'cocricotmod:block/ceilinghook_black_slant'
+
+block:
+  type: item

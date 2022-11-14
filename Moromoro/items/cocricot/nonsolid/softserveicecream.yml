@@ -1,0 +1,7 @@
+name: Softserveicecream
+material: PAPER
+custom-model-data: 7529
+model: 'cocricotmod:block/softserveicecream'
+
+block:
+  type: item

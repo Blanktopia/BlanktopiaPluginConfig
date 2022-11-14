@@ -1,0 +1,7 @@
+name: Stone Fishscale Pile Height 8
+material: PAPER
+custom-model-data: 7882
+model: 'cocricotmod:block/stone_fishscale_pile_height8'
+
+block:
+  type: item

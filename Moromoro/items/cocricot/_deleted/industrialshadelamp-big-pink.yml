@@ -1,0 +1,7 @@
+name: Industrialshadelamp Big Pink
+material: PAPER
+custom-model-data: 5828
+model: 'cocricotmod:block/industrialshadelamp_big_pink'
+
+block:
+  type: item

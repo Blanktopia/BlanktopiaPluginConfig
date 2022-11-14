@@ -1,0 +1,7 @@
+name: Car Grille 1
+material: PAPER
+custom-model-data: 2891
+model: 'cocricotmod:block/car_grille1'
+
+block:
+  type: item

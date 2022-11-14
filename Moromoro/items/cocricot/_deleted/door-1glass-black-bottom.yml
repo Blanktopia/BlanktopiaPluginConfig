@@ -1,0 +1,7 @@
+name: Door  1glass Black Bottom
+material: PAPER
+custom-model-data: 3512
+model: 'cocricotmod:block/door_1glass_black_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Hangingchain Down White
+material: PAPER
+custom-model-data: 5792
+model: 'cocricotmod:block/hangingchain_down_white'
+
+block:
+  type: item

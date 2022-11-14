@@ -1,0 +1,7 @@
+name: Wood Herringbone Dark Slab
+material: PAPER
+custom-model-data: 9745
+model: 'cocricotmod:block/wood_herringbone_dark_slab'
+
+block:
+  type: item

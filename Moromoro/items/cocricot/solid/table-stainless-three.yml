@@ -1,0 +1,7 @@
+name: Table Stainless Three
+material: PAPER
+custom-model-data: 8221
+model: cocricotmod:block/table_stainless_three
+block:
+  type: item
+  collision: true

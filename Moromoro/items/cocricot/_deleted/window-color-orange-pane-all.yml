@@ -1,0 +1,7 @@
+name: Window Color Orange Pane All
+material: PAPER
+custom-model-data: 8758
+model: 'cocricotmod:block/window_color_orange_pane_all'
+
+block:
+  type: item

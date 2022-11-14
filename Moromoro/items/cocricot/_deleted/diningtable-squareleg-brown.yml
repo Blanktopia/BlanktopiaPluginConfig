@@ -1,0 +1,7 @@
+name: Diningtable Squareleg Brown
+material: PAPER
+custom-model-data: 3441
+model: 'cocricotmod:block/diningtable_squareleg_brown'
+
+block:
+  type: item

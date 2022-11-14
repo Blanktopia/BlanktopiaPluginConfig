@@ -1,0 +1,7 @@
+name: Window Color Blue Pane All
+material: PAPER
+custom-model-data: 8702
+model: 'cocricotmod:block/window_color_blue_pane_all'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Clear
+material: PAPER
+custom-model-data: 9822
+model: 'cocricotmod:block/wood_wainscot_panels_clear'
+
+block:
+  type: item

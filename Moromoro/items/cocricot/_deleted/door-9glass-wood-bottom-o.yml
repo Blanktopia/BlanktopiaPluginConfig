@@ -1,0 +1,7 @@
+name: Door  9glass Wood Bottom O
+material: PAPER
+custom-model-data: 3849
+model: 'cocricotmod:block/door_9glass_wood_bottom_o'
+
+block:
+  type: item

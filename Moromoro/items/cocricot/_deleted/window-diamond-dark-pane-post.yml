@@ -1,0 +1,7 @@
+name: Window Diamond Dark Pane Post
+material: PAPER
+custom-model-data: 8830
+model: 'cocricotmod:block/window_diamond_dark_pane_post'
+
+block:
+  type: item

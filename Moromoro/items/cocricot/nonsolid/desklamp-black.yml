@@ -1,0 +1,7 @@
+name: Desklamp Black
+material: PAPER
+custom-model-data: 3433
+model: 'cocricotmod:block/desklamp_black'
+
+block:
+  type: item

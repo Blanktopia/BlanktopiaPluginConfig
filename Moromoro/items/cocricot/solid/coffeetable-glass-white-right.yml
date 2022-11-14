@@ -1,0 +1,7 @@
+name: Coffeetable Glass White Right
+material: PAPER
+custom-model-data: 3152
+model: cocricotmod:block/coffeetable_glass_white_right
+block:
+  type: item
+  collision: true

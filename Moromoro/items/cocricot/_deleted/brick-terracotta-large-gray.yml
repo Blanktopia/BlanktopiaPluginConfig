@@ -1,0 +1,7 @@
+name: Brick Terracotta Large Gray
+material: PAPER
+custom-model-data: 2724
+model: 'cocricotmod:block/brick_terracotta_large_gray'
+
+block:
+  type: item

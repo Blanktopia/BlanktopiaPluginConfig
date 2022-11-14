@@ -1,0 +1,7 @@
+name: Reedmat
+material: PAPER
+custom-model-data: 6343
+model: 'cocricotmod:block/reedmat'
+
+block:
+  type: item

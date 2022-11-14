@@ -1,0 +1,7 @@
+name: Chair Greek Pink
+material: PAPER
+custom-model-data: 3027
+model: cocricotmod:block/chair_greek_pink
+block:
+  type: item
+  sit-height: 0.4375

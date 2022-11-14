@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg White
+material: PAPER
+custom-model-data: 6906
+model: cocricotmod:block/roundtable_turnedleg_white
+block:
+  type: item
+  collision: true

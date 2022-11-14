@@ -1,0 +1,7 @@
+name: Windowframe Simple Side White Fence
+material: PAPER
+custom-model-data: 9201
+model: 'cocricotmod:block/windowframe_simple_side_white_fence'
+
+block:
+  type: item

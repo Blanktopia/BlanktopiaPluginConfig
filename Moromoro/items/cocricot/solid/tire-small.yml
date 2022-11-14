@@ -1,0 +1,8 @@
+name: Tire Small
+material: PAPER
+custom-model-data: 8308
+model: 'cocricotmod:block/tire_small'
+
+block:
+  type: item
+  collision: true

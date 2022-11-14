@@ -1,0 +1,7 @@
+name: Roof Spanish White Slab
+material: PAPER
+custom-model-data: 6767
+model: 'cocricotmod:block/roof_spanish_white_slab'
+
+block:
+  type: item

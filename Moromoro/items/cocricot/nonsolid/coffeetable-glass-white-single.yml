@@ -1,0 +1,7 @@
+name: Coffeetable Glass White Single
+material: PAPER
+custom-model-data: 3153
+model: 'cocricotmod:block/coffeetable_glass_white_single'
+
+block:
+  type: item

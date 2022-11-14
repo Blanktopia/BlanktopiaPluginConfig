@@ -1,0 +1,7 @@
+name: Window Diamond White
+material: PAPER
+custom-model-data: 8890
+model: 'cocricotmod:block/window_diamond_white'
+
+block:
+  type: item

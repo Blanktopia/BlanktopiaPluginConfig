@@ -1,0 +1,7 @@
+name: Rug Shag Round Gray Side
+material: PAPER
+custom-model-data: 6976
+model: 'cocricotmod:block/rug_shag_round_gray_side'
+
+block:
+  type: item

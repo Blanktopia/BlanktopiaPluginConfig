@@ -1,0 +1,8 @@
+name: Stool Shabby
+material: PAPER
+custom-model-data: 8009
+model: cocricotmod:block/stool_shabby
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

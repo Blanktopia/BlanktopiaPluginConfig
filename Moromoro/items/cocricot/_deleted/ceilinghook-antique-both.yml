@@ -1,0 +1,7 @@
+name: Ceilinghook Antique Both
+material: PAPER
+custom-model-data: 2925
+model: 'cocricotmod:block/ceilinghook_antique_both'
+
+block:
+  type: item

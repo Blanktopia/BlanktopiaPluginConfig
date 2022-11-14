@@ -1,0 +1,7 @@
+name: Stucco Orange Arch
+material: PAPER
+custom-model-data: 8062
+model: 'cocricotmod:block/stucco_orange_arch'
+
+block:
+  type: item

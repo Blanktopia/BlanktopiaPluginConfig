@@ -1,0 +1,7 @@
+name: Leaves Orange Corner
+material: PAPER
+custom-model-data: 5960
+model: 'cocricotmod:block/leaves_orange_corner'
+
+block:
+  type: item

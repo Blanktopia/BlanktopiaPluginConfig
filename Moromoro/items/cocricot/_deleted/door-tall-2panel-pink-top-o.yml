@@ -1,0 +1,7 @@
+name: Door Tall  2panel Pink Top O
+material: PAPER
+custom-model-data: 4133
+model: 'cocricotmod:block/door_tall_2panel_pink_top_o'
+
+block:
+  type: item

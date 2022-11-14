@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Incline White Odd
+material: PAPER
+custom-model-data: 6702
+model: 'cocricotmod:block/roof_spanish_lightbrown_incline_white_odd'
+
+block:
+  type: item

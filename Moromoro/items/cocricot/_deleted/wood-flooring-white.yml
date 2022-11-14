@@ -1,0 +1,7 @@
+name: Wood Flooring White
+material: PAPER
+custom-model-data: 9710
+model: 'cocricotmod:block/wood_flooring_white'
+
+block:
+  type: item

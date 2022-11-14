@@ -1,0 +1,7 @@
+name: Shopfacade Paris Lightgray Pillar
+material: PAPER
+custom-model-data: 7209
+model: 'cocricotmod:block/shopfacade_paris_lightgray_pillar'
+
+block:
+  type: item

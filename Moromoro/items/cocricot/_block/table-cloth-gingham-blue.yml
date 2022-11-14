@@ -1,0 +1,7 @@
+name: Table Cloth Gingham Blue
+material: PAPER
+custom-model-data: 8161
+model: 'cocricotmod:block/table_cloth_gingham_blue'
+
+block:
+  type: item

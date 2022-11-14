@@ -1,0 +1,7 @@
+name: Roof Claytile Blue Vslab
+material: PAPER
+custom-model-data: 6385
+model: 'cocricotmod:block/roof_claytile_blue_vslab'
+
+block:
+  type: item

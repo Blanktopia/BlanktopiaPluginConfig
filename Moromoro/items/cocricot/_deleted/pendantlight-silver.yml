@@ -1,0 +1,7 @@
+name: Pendantlight Silver
+material: PAPER
+custom-model-data: 6220
+model: 'cocricotmod:block/pendantlight_silver'
+
+block:
+  type: item

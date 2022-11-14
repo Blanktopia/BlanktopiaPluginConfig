@@ -1,0 +1,7 @@
+name: Sink Color Black
+material: PAPER
+custom-model-data: 7302
+model: cocricotmod:block/sink_color_black
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Window Diamond Clear Pane Three
+material: PAPER
+custom-model-data: 8826
+model: 'cocricotmod:block/window_diamond_clear_pane_three'
+
+block:
+  type: item

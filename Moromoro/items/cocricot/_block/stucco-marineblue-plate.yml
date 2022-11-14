@@ -1,0 +1,7 @@
+name: Stucco Marineblue Plate
+material: PAPER
+custom-model-data: 8049
+model: 'cocricotmod:block/stucco_marineblue_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Coffeetable Iron Natural Single
+material: PAPER
+custom-model-data: 3167
+model: cocricotmod:block/coffeetable_iron_natural_single
+block:
+  type: item
+  collision: true

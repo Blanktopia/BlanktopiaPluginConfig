@@ -1,0 +1,7 @@
+name: Box Paper Black
+material: PAPER
+custom-model-data: 2572
+model: cocricotmod:block/box_paper_black
+block:
+  type: item
+  collision: true

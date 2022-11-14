@@ -1,0 +1,7 @@
+name: Door Tall  6glass Lightblue Top O
+material: PAPER
+custom-model-data: 4341
+model: 'cocricotmod:block/door_tall_6glass_lightblue_top_o'
+
+block:
+  type: item

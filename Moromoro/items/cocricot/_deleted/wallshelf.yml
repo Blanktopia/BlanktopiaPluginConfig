@@ -1,0 +1,7 @@
+name: Wallshelf
+material: PAPER
+custom-model-data: 8385
+model: 'cocricotmod:block/wallshelf'
+
+block:
+  type: item

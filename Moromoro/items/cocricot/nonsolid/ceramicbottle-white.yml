@@ -1,0 +1,7 @@
+name: Ceramicbottle White
+material: PAPER
+custom-model-data: 2962
+model: 'cocricotmod:block/ceramicbottle_white'
+
+block:
+  type: item

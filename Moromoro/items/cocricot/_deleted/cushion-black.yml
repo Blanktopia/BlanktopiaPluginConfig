@@ -1,0 +1,7 @@
+name: Cushion Black
+material: PAPER
+custom-model-data: 3291
+model: 'cocricotmod:block/cushion_black'
+
+block:
+  type: item

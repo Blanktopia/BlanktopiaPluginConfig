@@ -1,0 +1,7 @@
+name: Ironlight Square Black
+material: PAPER
+custom-model-data: 5862
+model: 'cocricotmod:block/ironlight_square_black'
+
+block:
+  type: item

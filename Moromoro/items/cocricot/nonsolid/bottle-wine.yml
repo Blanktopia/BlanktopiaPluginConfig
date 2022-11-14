@@ -1,0 +1,7 @@
+name: Bottle Wine
+material: PAPER
+custom-model-data: 2551
+model: 'cocricotmod:block/bottle_wine'
+
+block:
+  type: item

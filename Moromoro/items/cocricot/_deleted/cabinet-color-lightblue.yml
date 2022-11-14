@@ -1,0 +1,7 @@
+name: Cabinet Color Lightblue
+material: PAPER
+custom-model-data: 2761
+model: 'cocricotmod:block/cabinet_color_lightblue'
+
+block:
+  type: item

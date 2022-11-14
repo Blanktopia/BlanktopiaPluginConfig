@@ -1,0 +1,7 @@
+name: Marble Diagonal Large Blackwhite
+material: PAPER
+custom-model-data: 6050
+model: 'cocricotmod:block/marble_diagonal_large_blackwhite'
+
+block:
+  type: item

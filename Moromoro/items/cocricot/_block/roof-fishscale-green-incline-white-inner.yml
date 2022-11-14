@@ -1,0 +1,7 @@
+name: Roof Fishscale Green Incline White Inner
+material: PAPER
+custom-model-data: 6578
+model: 'cocricotmod:block/roof_fishscale_green_incline_white_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Wood Pane Post
+material: PAPER
+custom-model-data: 8788
+model: 'cocricotmod:block/window_color_wood_pane_post'
+
+block:
+  type: item

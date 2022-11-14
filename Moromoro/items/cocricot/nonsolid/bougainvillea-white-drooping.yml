@@ -1,0 +1,7 @@
+name: Bougainvillea White Drooping
+material: PAPER
+custom-model-data: 2564
+model: 'cocricotmod:block/bougainvillea_white_drooping'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Path Grass Sand
+material: PAPER
+custom-model-data: 6182
+model: 'cocricotmod:block/path_grass_sand'
+
+block:
+  type: item

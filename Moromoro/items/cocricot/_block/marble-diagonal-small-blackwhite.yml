@@ -1,0 +1,7 @@
+name: Marble Diagonal Small Blackwhite
+material: PAPER
+custom-model-data: 6051
+model: 'cocricotmod:block/marble_diagonal_small_blackwhite'
+
+block:
+  type: item

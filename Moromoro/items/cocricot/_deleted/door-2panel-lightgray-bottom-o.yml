@@ -1,0 +1,7 @@
+name: Door  2panel Lightgray Bottom O
+material: PAPER
+custom-model-data: 3609
+model: 'cocricotmod:block/door_2panel_lightgray_bottom_o'
+
+block:
+  type: item

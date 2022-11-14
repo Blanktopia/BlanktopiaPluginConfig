@@ -1,0 +1,7 @@
+name: Brick Vslab
+material: PAPER
+custom-model-data: 2740
+model: 'cocricotmod:block/brick_vslab'
+
+block:
+  type: item

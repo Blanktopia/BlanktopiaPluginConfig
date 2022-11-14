@@ -1,0 +1,7 @@
+name: Windowframe Simple Side Black Right Fence
+material: PAPER
+custom-model-data: 9175
+model: 'cocricotmod:block/windowframe_simple_side_black_right_fence'
+
+block:
+  type: item

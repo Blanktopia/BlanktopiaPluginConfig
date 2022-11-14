@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Frame Slab
+material: PAPER
+custom-model-data: 5267
+model: 'cocricotmod:block/halftimber_brownpurple_frame_slab'
+
+block:
+  type: item

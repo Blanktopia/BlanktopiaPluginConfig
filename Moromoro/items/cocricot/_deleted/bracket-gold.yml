@@ -1,0 +1,7 @@
+name: Bracket Gold
+material: PAPER
+custom-model-data: 2587
+model: 'cocricotmod:block/bracket_gold'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Cross White Side
+material: PAPER
+custom-model-data: 4716
+model: 'cocricotmod:block/fence_cross_white_side'
+
+block:
+  type: item

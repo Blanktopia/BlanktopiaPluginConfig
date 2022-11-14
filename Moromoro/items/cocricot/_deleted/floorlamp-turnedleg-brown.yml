@@ -1,0 +1,7 @@
+name: Floorlamp Turnedleg Brown
+material: PAPER
+custom-model-data: 4869
+model: 'cocricotmod:block/floorlamp_turnedleg_brown'
+
+block:
+  type: item

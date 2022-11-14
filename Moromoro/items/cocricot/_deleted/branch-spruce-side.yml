@@ -1,0 +1,7 @@
+name: Branch Spruce Side
+material: PAPER
+custom-model-data: 2608
+model: 'cocricotmod:block/branch_spruce_side'
+
+block:
+  type: item

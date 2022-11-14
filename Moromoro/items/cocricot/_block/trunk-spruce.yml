@@ -1,0 +1,7 @@
+name: Trunk Spruce
+material: PAPER
+custom-model-data: 8337
+model: 'cocricotmod:block/trunk_spruce'
+
+block:
+  type: item

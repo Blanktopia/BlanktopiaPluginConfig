@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Pattern 2
+material: PAPER
+custom-model-data: 5452
+model: 'cocricotmod:block/halftimber_limewhite_pattern2'
+
+block:
+  type: item

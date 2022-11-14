@@ -1,0 +1,7 @@
+name: Recordplayer Yellow
+material: PAPER
+custom-model-data: 6342
+model: 'cocricotmod:block/recordplayer_yellow'
+
+block:
+  type: item

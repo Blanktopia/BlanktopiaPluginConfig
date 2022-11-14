@@ -1,0 +1,7 @@
+name: Shutter Cross White
+material: PAPER
+custom-model-data: 7249
+model: 'cocricotmod:block/shutter_cross_white'
+
+block:
+  type: item

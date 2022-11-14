@@ -1,0 +1,7 @@
+name: Hangerrack Clothes Simple
+material: PAPER
+custom-model-data: 5770
+model: 'cocricotmod:block/hangerrack_clothes_simple'
+
+block:
+  type: item

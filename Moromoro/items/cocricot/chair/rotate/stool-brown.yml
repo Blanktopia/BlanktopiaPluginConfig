@@ -1,0 +1,8 @@
+name: Stool Brown
+material: PAPER
+custom-model-data: 7996
+model: cocricotmod:block/stool_brown
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

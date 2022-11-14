@@ -1,0 +1,7 @@
+name: Stringlights Globe Three
+material: PAPER
+custom-model-data: 8017
+model: 'cocricotmod:block/stringlights_globe_three'
+
+block:
+  type: item

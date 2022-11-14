@@ -1,0 +1,7 @@
+name: Awning Yellow Lower
+material: PAPER
+custom-model-data: 2283
+model: 'cocricotmod:block/awning_yellow_lower'
+
+block:
+  type: item

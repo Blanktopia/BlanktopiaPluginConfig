@@ -1,0 +1,7 @@
+name: Shutter
+material: PAPER
+custom-model-data: 7243
+model: 'cocricotmod:block/shutter'
+
+block:
+  type: item

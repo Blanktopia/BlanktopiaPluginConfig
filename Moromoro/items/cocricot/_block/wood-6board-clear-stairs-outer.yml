@@ -1,0 +1,7 @@
+name: Wood  6board Clear Stairs Outer
+material: PAPER
+custom-model-data: 9555
+model: 'cocricotmod:block/wood_6board_clear_stairs_outer'
+
+block:
+  type: item

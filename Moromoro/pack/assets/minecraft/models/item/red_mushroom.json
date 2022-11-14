@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/red_mushroom"},"overrides":[{"model":"blanktopia:hats/red_mushroom_hat","predicate":{"custom_model_data":1}}]}

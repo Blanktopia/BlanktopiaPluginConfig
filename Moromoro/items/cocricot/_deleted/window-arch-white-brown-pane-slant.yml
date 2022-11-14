@@ -1,0 +1,7 @@
+name: Window Arch White Brown Pane Slant
+material: PAPER
+custom-model-data: 8581
+model: 'cocricotmod:block/window_arch_white_brown_pane_slant'
+
+block:
+  type: item

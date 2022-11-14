@@ -1,0 +1,7 @@
+name: Condiment Ketchup
+material: PAPER
+custom-model-data: 3195
+model: 'cocricotmod:block/condiment_ketchup'
+
+block:
+  type: item

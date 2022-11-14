@@ -1,0 +1,7 @@
+name: Chest Color Blue
+material: PAPER
+custom-model-data: 3065
+model: 'cocricotmod:block/chest_color_blue'
+
+block:
+  type: item

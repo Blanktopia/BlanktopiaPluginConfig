@@ -1,0 +1,7 @@
+name: Window Pane Post
+material: PAPER
+custom-model-data: 8998
+model: 'cocricotmod:block/window_pane_post'
+
+block:
+  type: item

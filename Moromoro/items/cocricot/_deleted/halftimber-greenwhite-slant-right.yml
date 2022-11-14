@@ -1,0 +1,7 @@
+name: Halftimber Greenwhite Slant Right
+material: PAPER
+custom-model-data: 5439
+model: 'cocricotmod:block/halftimber_greenwhite_slant_right'
+
+block:
+  type: item

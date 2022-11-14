@@ -1,0 +1,7 @@
+name: Stone Color Black Arch Single
+material: PAPER
+custom-model-data: 7698
+model: 'cocricotmod:block/stone_color_black_arch_single'
+
+block:
+  type: item

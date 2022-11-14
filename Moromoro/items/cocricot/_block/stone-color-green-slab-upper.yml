@@ -1,0 +1,7 @@
+name: Stone Color Green Slab Upper
+material: PAPER
+custom-model-data: 7754
+model: 'cocricotmod:block/stone_color_green_slab_upper'
+
+block:
+  type: item

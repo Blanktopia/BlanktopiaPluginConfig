@@ -1,0 +1,7 @@
+name: Glass Frame White Pane Three
+material: PAPER
+custom-model-data: 5143
+model: 'cocricotmod:block/glass_frame_white_pane_three'
+
+block:
+  type: item

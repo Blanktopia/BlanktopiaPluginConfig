@@ -1,0 +1,7 @@
+name: Floorlamp Spot White
+material: PAPER
+custom-model-data: 4866
+model: 'cocricotmod:block/floorlamp_spot_white'
+
+block:
+  type: item

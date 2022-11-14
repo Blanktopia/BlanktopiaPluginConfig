@@ -1,0 +1,7 @@
+name: Shopfacade Paris Blue
+material: PAPER
+custom-model-data: 7193
+model: 'cocricotmod:block/shopfacade_paris_blue'
+
+block:
+  type: item

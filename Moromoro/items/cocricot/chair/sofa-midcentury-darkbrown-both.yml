@@ -1,0 +1,7 @@
+name: Sofa Midcentury Darkbrown Both
+material: PAPER
+custom-model-data: 7377
+model: cocricotmod:block/sofa_midcentury_darkbrown_both
+block:
+  type: item
+  sit-height: 0.4375

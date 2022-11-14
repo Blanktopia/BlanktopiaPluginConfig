@@ -1,0 +1,8 @@
+name: Stool Camp Camouflage
+material: PAPER
+custom-model-data: 7997
+model: cocricotmod:block/stool_camp_camouflage
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

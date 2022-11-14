@@ -1,0 +1,7 @@
+name: Window Diamond Antique Pane Side
+material: PAPER
+custom-model-data: 8803
+model: 'cocricotmod:block/window_diamond_antique_pane_side'
+
+block:
+  type: item

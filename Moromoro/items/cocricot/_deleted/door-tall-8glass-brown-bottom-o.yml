@@ -1,0 +1,7 @@
+name: Door Tall  8glass Brown Bottom O
+material: PAPER
+custom-model-data: 4433
+model: 'cocricotmod:block/door_tall_8glass_brown_bottom_o'
+
+block:
+  type: item

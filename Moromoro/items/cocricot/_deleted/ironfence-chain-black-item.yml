@@ -1,0 +1,7 @@
+name: Ironfence Chain Black Item
+material: PAPER
+custom-model-data: 5853
+model: 'cocricotmod:block/ironfence_chain_black_item'
+
+block:
+  type: item

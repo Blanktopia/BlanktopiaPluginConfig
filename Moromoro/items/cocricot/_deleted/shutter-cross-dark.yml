@@ -1,0 +1,7 @@
+name: Shutter Cross Dark
+material: PAPER
+custom-model-data: 7244
+model: 'cocricotmod:block/shutter_cross_dark'
+
+block:
+  type: item

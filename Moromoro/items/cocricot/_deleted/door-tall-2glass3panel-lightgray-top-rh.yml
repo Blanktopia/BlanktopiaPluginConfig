@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Lightgray Top Rh
+material: PAPER
+custom-model-data: 3974
+model: 'cocricotmod:block/door_tall_2glass3panel_lightgray_top_rh'
+
+block:
+  type: item

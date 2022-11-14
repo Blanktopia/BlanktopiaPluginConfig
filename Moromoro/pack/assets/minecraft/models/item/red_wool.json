@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/red_wool","overrides":[{"model":"blanktopia:hats/santa","predicate":{"custom_model_data":1}}]}

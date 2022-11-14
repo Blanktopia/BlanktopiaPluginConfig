@@ -1,0 +1,7 @@
+name: Window Color Yellow Pane Both
+material: PAPER
+custom-model-data: 8794
+model: 'cocricotmod:block/window_color_yellow_pane_both'
+
+block:
+  type: item

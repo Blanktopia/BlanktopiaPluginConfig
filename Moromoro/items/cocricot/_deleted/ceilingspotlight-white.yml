@@ -1,0 +1,7 @@
+name: Ceilingspotlight White
+material: PAPER
+custom-model-data: 2952
+model: 'cocricotmod:block/ceilingspotlight_white'
+
+block:
+  type: item

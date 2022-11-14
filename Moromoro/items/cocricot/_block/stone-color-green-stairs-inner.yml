@@ -1,0 +1,7 @@
+name: Stone Color Green Stairs Inner
+material: PAPER
+custom-model-data: 7756
+model: 'cocricotmod:block/stone_color_green_stairs_inner'
+
+block:
+  type: item

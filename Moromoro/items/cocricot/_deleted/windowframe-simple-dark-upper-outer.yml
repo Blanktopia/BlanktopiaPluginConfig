@@ -1,0 +1,7 @@
+name: Windowframe Simple Dark Upper Outer
+material: PAPER
+custom-model-data: 9160
+model: 'cocricotmod:block/windowframe_simple_dark_upper_outer'
+
+block:
+  type: item

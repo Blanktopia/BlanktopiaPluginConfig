@@ -1,0 +1,7 @@
+name: Glass Frame Line Pane Slant
+material: PAPER
+custom-model-data: 5113
+model: 'cocricotmod:block/glass_frame_line_pane_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Darkwhite Cross
+material: PAPER
+custom-model-data: 5400
+model: 'cocricotmod:block/halftimber_darkwhite_cross'
+
+block:
+  type: item

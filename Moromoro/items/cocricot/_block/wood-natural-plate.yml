@@ -1,0 +1,7 @@
+name: Wood Natural Plate
+material: PAPER
+custom-model-data: 9784
+model: 'cocricotmod:block/wood_natural_plate'
+
+block:
+  type: item

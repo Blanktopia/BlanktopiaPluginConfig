@@ -1,0 +1,7 @@
+name: Shopfacade Paris Gray Pillar
+material: PAPER
+custom-model-data: 7200
+model: 'cocricotmod:block/shopfacade_paris_gray_pillar'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  9glass Green Bottom Rh O
+material: PAPER
+custom-model-data: 3771
+model: 'cocricotmod:block/door_9glass_green_bottom_rh_o'
+
+block:
+  type: item

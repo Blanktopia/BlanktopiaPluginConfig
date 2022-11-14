@@ -1,0 +1,7 @@
+name: Window Color Lightpurple Pane All
+material: PAPER
+custom-model-data: 8751
+model: 'cocricotmod:block/window_color_lightpurple_pane_all'
+
+block:
+  type: item

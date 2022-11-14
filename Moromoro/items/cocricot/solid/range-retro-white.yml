@@ -1,0 +1,7 @@
+name: Range Retro White
+material: PAPER
+custom-model-data: 6319
+model: cocricotmod:block/range_retro_white
+block:
+  type: item
+  collision: true

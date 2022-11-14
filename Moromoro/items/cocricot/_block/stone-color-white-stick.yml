@@ -1,0 +1,7 @@
+name: Stone Color White Stick
+material: PAPER
+custom-model-data: 7862
+model: 'cocricotmod:block/stone_color_white_stick'
+
+block:
+  type: item

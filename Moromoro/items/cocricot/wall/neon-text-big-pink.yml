@@ -1,0 +1,7 @@
+name: Neon Text Big Pink
+material: PAPER
+custom-model-data: 6149
+model: 'cocricotmod:block/neon_text_big_pink'
+
+block:
+  type: item

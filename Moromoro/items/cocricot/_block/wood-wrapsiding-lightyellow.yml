@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightyellow
+material: PAPER
+custom-model-data: 9900
+model: 'cocricotmod:block/wood_wrapsiding_lightyellow'
+
+block:
+  type: item

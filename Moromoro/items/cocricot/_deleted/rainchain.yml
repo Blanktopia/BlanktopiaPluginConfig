@@ -1,0 +1,7 @@
+name: Rainchain
+material: PAPER
+custom-model-data: 6302
+model: 'cocricotmod:block/rainchain'
+
+block:
+  type: item

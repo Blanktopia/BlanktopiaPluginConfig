@@ -1,0 +1,7 @@
+name: Base Cross Odd
+material: PAPER
+custom-model-data: 2307
+model: 'cocricotmod:block/base_cross_odd'
+
+block:
+  type: item

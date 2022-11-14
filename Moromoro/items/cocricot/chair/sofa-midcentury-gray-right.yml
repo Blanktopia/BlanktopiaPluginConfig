@@ -1,0 +1,7 @@
+name: Sofa Midcentury Gray Right
+material: PAPER
+custom-model-data: 7383
+model: cocricotmod:block/sofa_midcentury_gray_right
+block:
+  type: item
+  sit-height: 0.4375

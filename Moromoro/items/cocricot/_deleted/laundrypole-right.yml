@@ -1,0 +1,7 @@
+name: Laundrypole Right
+material: PAPER
+custom-model-data: 5927
+model: 'cocricotmod:block/laundrypole_right'
+
+block:
+  type: item

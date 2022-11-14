@@ -1,0 +1,7 @@
+name: Breakfast Toast Gray
+material: PAPER
+custom-model-data: 2622
+model: 'cocricotmod:block/breakfast_toast_gray'
+
+block:
+  type: item

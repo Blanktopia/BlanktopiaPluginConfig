@@ -1,0 +1,7 @@
+name: Chest Retro Silver
+material: PAPER
+custom-model-data: 3085
+model: 'cocricotmod:block/chest_retro_silver'
+
+block:
+  type: item

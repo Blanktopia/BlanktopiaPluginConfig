@@ -1,0 +1,7 @@
+name: Sofa Slipper Black Inner
+material: PAPER
+custom-model-data: 7468
+model: cocricotmod:block/sofa_slipper_black_inner
+block:
+  type: item
+  sit-height: 0.4375

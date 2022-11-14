@@ -1,0 +1,7 @@
+name: Firewood 1
+material: PAPER
+custom-model-data: 4842
+model: 'cocricotmod:block/firewood1'
+
+block:
+  type: item

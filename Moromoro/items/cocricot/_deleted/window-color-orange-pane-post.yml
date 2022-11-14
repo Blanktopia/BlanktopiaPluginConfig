@@ -1,0 +1,7 @@
+name: Window Color Orange Pane Post
+material: PAPER
+custom-model-data: 8760
+model: 'cocricotmod:block/window_color_orange_pane_post'
+
+block:
+  type: item

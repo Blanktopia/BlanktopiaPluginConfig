@@ -1,0 +1,7 @@
+name: Shower Rain Head Gold
+material: PAPER
+custom-model-data: 7240
+model: 'cocricotmod:block/shower_rain_head_gold'
+
+block:
+  type: item

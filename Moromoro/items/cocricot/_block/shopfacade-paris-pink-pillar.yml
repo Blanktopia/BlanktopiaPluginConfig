@@ -1,0 +1,7 @@
+name: Shopfacade Paris Pink Pillar
+material: PAPER
+custom-model-data: 7221
+model: 'cocricotmod:block/shopfacade_paris_pink_pillar'
+
+block:
+  type: item

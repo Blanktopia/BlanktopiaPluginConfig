@@ -1,0 +1,7 @@
+name: Window Color Wood Pane Three
+material: PAPER
+custom-model-data: 8791
+model: 'cocricotmod:block/window_color_wood_pane_three'
+
+block:
+  type: item

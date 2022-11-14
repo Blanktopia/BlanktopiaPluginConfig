@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Red
+material: PAPER
+custom-model-data: 2789
+model: 'cocricotmod:block/cabinet_glass_color_red'
+
+block:
+  type: item

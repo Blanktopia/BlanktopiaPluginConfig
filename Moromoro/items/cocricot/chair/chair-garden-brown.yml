@@ -1,0 +1,7 @@
+name: Chair Garden Brown
+material: PAPER
+custom-model-data: 3020
+model: cocricotmod:block/chair_garden_brown
+block:
+  type: item
+  sit-height: 0.4375

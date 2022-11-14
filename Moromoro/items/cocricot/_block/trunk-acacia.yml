@@ -1,0 +1,7 @@
+name: Trunk Acacia
+material: PAPER
+custom-model-data: 8326
+model: 'cocricotmod:block/trunk_acacia'
+
+block:
+  type: item

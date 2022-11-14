@@ -1,0 +1,7 @@
+name: Door  1glass Clear Bottom Rh O
+material: PAPER
+custom-model-data: 3531
+model: 'cocricotmod:block/door_1glass_clear_bottom_rh_o'
+
+block:
+  type: item

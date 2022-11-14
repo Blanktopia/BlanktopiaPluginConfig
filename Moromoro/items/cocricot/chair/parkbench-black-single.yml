@@ -1,0 +1,7 @@
+name: Parkbench Black Single
+material: PAPER
+custom-model-data: 6162
+model: cocricotmod:block/parkbench_black_single
+block:
+  type: item
+  sit-height: 0.4375

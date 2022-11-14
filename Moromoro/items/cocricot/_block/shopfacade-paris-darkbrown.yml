@@ -1,0 +1,7 @@
+name: Shopfacade Paris Darkbrown
+material: PAPER
+custom-model-data: 7196
+model: 'cocricotmod:block/shopfacade_paris_darkbrown'
+
+block:
+  type: item

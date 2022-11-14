@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Clear Left
+material: PAPER
+custom-model-data: 8398
+model: 'cocricotmod:block/wallshelf_bracket_antique_clear_left'
+
+block:
+  type: item

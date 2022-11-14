@@ -1,0 +1,7 @@
+name: Roof Claytile Brown Slab Upper
+material: PAPER
+custom-model-data: 6400
+model: 'cocricotmod:block/roof_claytile_brown_slab_upper'
+
+block:
+  type: item

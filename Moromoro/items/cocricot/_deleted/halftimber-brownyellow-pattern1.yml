@@ -1,0 +1,7 @@
+name: Halftimber Brownyellow Pattern 1
+material: PAPER
+custom-model-data: 5301
+model: 'cocricotmod:block/halftimber_brownyellow_pattern1'
+
+block:
+  type: item

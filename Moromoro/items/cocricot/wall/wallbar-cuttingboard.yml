@@ -1,0 +1,7 @@
+name: Wallbar Cuttingboard
+material: PAPER
+custom-model-data: 8350
+model: 'cocricotmod:block/wallbar_cuttingboard'
+
+block:
+  type: item

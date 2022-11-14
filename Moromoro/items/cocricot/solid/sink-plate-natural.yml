@@ -1,0 +1,7 @@
+name: Sink Plate Natural
+material: PAPER
+custom-model-data: 7320
+model: cocricotmod:block/sink_plate_natural
+block:
+  type: item
+  collision: true

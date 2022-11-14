@@ -1,0 +1,7 @@
+name: Door Tall  2panel Yellow Top Rh
+material: PAPER
+custom-model-data: 4174
+model: 'cocricotmod:block/door_tall_2panel_yellow_top_rh'
+
+block:
+  type: item

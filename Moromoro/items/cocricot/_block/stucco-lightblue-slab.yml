@@ -1,0 +1,7 @@
+name: Stucco Lightblue Slab
+material: PAPER
+custom-model-data: 8038
+model: 'cocricotmod:block/stucco_lightblue_slab'
+
+block:
+  type: item

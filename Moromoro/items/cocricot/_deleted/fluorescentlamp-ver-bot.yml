@@ -1,0 +1,7 @@
+name: Fluorescentlamp Ver Bot
+material: PAPER
+custom-model-data: 4930
+model: 'cocricotmod:block/fluorescentlamp_ver_bot'
+
+block:
+  type: item

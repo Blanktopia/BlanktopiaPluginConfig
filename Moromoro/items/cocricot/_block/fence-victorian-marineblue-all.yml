@@ -1,0 +1,7 @@
+name: Fence Victorian Marineblue All
+material: PAPER
+custom-model-data: 4813
+model: 'cocricotmod:block/fence_victorian_marineblue_all'
+
+block:
+  type: item

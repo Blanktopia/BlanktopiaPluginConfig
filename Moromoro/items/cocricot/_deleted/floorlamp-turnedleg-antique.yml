@@ -1,0 +1,7 @@
+name: Floorlamp Turnedleg Antique
+material: PAPER
+custom-model-data: 4867
+model: 'cocricotmod:block/floorlamp_turnedleg_antique'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  2panel Lightpurple Bottom Rh O
+material: PAPER
+custom-model-data: 4115
+model: 'cocricotmod:block/door_tall_2panel_lightpurple_bottom_rh_o'
+
+block:
+  type: item

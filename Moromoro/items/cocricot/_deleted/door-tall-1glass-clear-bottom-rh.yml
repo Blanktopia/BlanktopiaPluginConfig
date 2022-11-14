@@ -1,0 +1,7 @@
+name: Door Tall  1glass Clear Bottom Rh
+material: PAPER
+custom-model-data: 3890
+model: 'cocricotmod:block/door_tall_1glass_clear_bottom_rh'
+
+block:
+  type: item

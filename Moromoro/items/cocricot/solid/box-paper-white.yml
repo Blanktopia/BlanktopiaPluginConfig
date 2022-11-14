@@ -1,0 +1,7 @@
+name: Box Paper White
+material: PAPER
+custom-model-data: 2576
+model: cocricotmod:block/box_paper_white
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Cabinet Color White
+material: PAPER
+custom-model-data: 2769
+model: 'cocricotmod:block/cabinet_color_white'
+
+block:
+  type: item

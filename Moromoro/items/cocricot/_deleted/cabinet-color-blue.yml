@@ -1,0 +1,7 @@
+name: Cabinet Color Blue
+material: PAPER
+custom-model-data: 2755
+model: 'cocricotmod:block/cabinet_color_blue'
+
+block:
+  type: item

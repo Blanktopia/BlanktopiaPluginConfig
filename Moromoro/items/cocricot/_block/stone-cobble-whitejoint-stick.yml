@@ -1,0 +1,7 @@
+name: Stone Cobble Whitejoint Stick
+material: PAPER
+custom-model-data: 7694
+model: 'cocricotmod:block/stone_cobble_whitejoint_stick'
+
+block:
+  type: item

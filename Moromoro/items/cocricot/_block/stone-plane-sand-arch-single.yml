@@ -1,0 +1,7 @@
+name: Stone Plane Sand Arch Single
+material: PAPER
+custom-model-data: 7923
+model: 'cocricotmod:block/stone_plane_sand_arch_single'
+
+block:
+  type: item

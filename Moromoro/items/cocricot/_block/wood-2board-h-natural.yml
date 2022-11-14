@@ -1,0 +1,7 @@
+name: Wood  2board H Natural
+material: PAPER
+custom-model-data: 9328
+model: 'cocricotmod:block/wood_2board_h_natural'
+
+block:
+  type: item

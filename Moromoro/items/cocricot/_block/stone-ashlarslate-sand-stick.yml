@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Stick
+material: PAPER
+custom-model-data: 7637
+model: 'cocricotmod:block/stone_ashlarslate_sand_stick'
+
+block:
+  type: item

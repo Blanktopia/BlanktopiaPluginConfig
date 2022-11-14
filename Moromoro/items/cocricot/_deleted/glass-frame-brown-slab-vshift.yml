@@ -1,0 +1,7 @@
+name: Glass Frame Brown Slab Vshift
+material: PAPER
+custom-model-data: 5070
+model: 'cocricotmod:block/glass_frame_brown_slab_vshift'
+
+block:
+  type: item

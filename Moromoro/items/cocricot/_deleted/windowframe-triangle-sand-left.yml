@@ -1,0 +1,7 @@
+name: Windowframe Triangle Sand Left
+material: PAPER
+custom-model-data: 9239
+model: 'cocricotmod:block/windowframe_triangle_sand_left'
+
+block:
+  type: item

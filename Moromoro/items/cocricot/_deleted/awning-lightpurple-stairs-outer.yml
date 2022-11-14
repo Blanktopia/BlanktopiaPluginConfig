@@ -1,0 +1,7 @@
+name: Awning Lightpurple Stairs Outer
+material: PAPER
+custom-model-data: 2097
+model: 'cocricotmod:block/awning_lightpurple_stairs_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Arch White Pane Post
+material: PAPER
+custom-model-data: 8585
+model: 'cocricotmod:block/window_arch_white_pane_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Red Pane Post
+material: PAPER
+custom-model-data: 8774
+model: 'cocricotmod:block/window_color_red_pane_post'
+
+block:
+  type: item

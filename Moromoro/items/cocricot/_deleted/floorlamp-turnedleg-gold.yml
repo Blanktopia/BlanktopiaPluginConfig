@@ -1,0 +1,7 @@
+name: Floorlamp Turnedleg Gold
+material: PAPER
+custom-model-data: 4871
+model: 'cocricotmod:block/floorlamp_turnedleg_gold'
+
+block:
+  type: item

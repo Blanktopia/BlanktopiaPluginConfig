@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Brown
+material: PAPER
+custom-model-data: 6901
+model: cocricotmod:block/roundtable_turnedleg_brown
+block:
+  type: item
+  collision: true

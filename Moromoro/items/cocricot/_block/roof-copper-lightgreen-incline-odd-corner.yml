@@ -1,0 +1,7 @@
+name: Roof Copper Lightgreen Incline Odd Corner
+material: PAPER
+custom-model-data: 6495
+model: 'cocricotmod:block/roof_copper_lightgreen_incline_odd_corner'
+
+block:
+  type: item

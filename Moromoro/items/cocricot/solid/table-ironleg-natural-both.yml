@@ -1,0 +1,7 @@
+name: Table Ironleg Natural Both
+material: PAPER
+custom-model-data: 8200
+model: cocricotmod:block/table_ironleg_natural_both
+block:
+  type: item
+  collision: true

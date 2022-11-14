@@ -1,0 +1,7 @@
+name: Stone Color Lightblue
+material: PAPER
+custom-model-data: 7761
+model: 'cocricotmod:block/stone_color_lightblue'
+
+block:
+  type: item

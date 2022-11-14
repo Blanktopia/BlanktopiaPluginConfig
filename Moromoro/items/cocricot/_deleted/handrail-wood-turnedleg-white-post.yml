@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg White Post
+material: PAPER
+custom-model-data: 5754
+model: 'cocricotmod:block/handrail_wood_turnedleg_white_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  2board H Dark Stairs Outer
+material: PAPER
+custom-model-data: 9326
+model: 'cocricotmod:block/wood_2board_h_dark_stairs_outer'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Plane Sand Rod
+material: PAPER
+custom-model-data: 7929
+model: 'cocricotmod:block/stone_plane_sand_rod'
+
+block:
+  type: item

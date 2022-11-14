@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Tudor Right
+material: PAPER
+custom-model-data: 5427
+model: 'cocricotmod:block/halftimber_darkyellow_tudor_right'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drooping Leaves Darkgreen
+material: PAPER
+custom-model-data: 4649
+model: 'cocricotmod:block/drooping_leaves_darkgreen'
+
+block:
+  type: item

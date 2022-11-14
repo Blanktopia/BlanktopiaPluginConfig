@@ -1,0 +1,7 @@
+name: Curtain Separate Both
+material: PAPER
+custom-model-data: 3249
+model: 'cocricotmod:block/curtain_separate_both'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drawer Simple Red Left Down
+material: PAPER
+custom-model-data: 4601
+model: 'cocricotmod:block/drawer_simple_red_left_down'
+
+block:
+  type: item

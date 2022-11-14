@@ -1,0 +1,8 @@
+name: Wheel Small Seadrift
+material: PAPER
+custom-model-data: 8555
+model: 'cocricotmod:block/wheel_small_seadrift'
+
+block:
+  type: item
+  collision: true

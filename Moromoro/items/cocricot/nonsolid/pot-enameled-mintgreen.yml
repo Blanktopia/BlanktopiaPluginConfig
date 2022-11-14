@@ -1,0 +1,7 @@
+name: Pot Enameled Mintgreen
+material: PAPER
+custom-model-data: 6286
+model: 'cocricotmod:block/pot_enameled_mintgreen'
+
+block:
+  type: item

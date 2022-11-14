@@ -1,0 +1,7 @@
+name: Glass Frame Silver Slab
+material: PAPER
+custom-model-data: 5129
+model: 'cocricotmod:block/glass_frame_silver_slab'
+
+block:
+  type: item

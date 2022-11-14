@@ -1,0 +1,7 @@
+name: Glass Frame White Slab Shift
+material: PAPER
+custom-model-data: 5146
+model: 'cocricotmod:block/glass_frame_white_slab_shift'
+
+block:
+  type: item

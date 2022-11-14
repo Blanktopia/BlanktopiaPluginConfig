@@ -1,0 +1,7 @@
+name: Window Color Blue
+material: PAPER
+custom-model-data: 8701
+model: 'cocricotmod:block/window_color_blue'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Centrebar Red Pane Both
+material: PAPER
+custom-model-data: 8668
+model: 'cocricotmod:block/window_centrebar_red_pane_both'
+
+block:
+  type: item

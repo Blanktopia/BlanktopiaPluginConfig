@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Stairs
+material: PAPER
+custom-model-data: 6606
+model: 'cocricotmod:block/roof_fishscale_red_stairs'
+
+block:
+  type: item

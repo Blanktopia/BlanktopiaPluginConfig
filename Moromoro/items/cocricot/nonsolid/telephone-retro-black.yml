@@ -1,0 +1,7 @@
+name: Telephone Retro Black
+material: PAPER
+custom-model-data: 8249
+model: 'cocricotmod:block/telephone_retro_black'
+
+block:
+  type: item

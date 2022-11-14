@@ -1,0 +1,7 @@
+name: Mortar Arch
+material: PAPER
+custom-model-data: 6130
+model: 'cocricotmod:block/mortar_arch'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Plate
+material: PAPER
+custom-model-data: 6705
+model: 'cocricotmod:block/roof_spanish_lightbrown_plate'
+
+block:
+  type: item

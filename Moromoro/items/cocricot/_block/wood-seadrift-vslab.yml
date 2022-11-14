@@ -1,0 +1,7 @@
+name: Wood Seadrift Vslab
+material: PAPER
+custom-model-data: 9809
+model: 'cocricotmod:block/wood_seadrift_vslab'
+
+block:
+  type: item

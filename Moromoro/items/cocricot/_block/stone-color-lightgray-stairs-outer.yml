@@ -1,0 +1,7 @@
+name: Stone Color Lightgray Stairs Outer
+material: PAPER
+custom-model-data: 7783
+model: 'cocricotmod:block/stone_color_lightgray_stairs_outer'
+
+block:
+  type: item

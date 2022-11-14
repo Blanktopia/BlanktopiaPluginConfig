@@ -1,0 +1,7 @@
+name: Shopfacade Paris Green Pillar
+material: PAPER
+custom-model-data: 7203
+model: 'cocricotmod:block/shopfacade_paris_green_pillar'
+
+block:
+  type: item

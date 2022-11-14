@@ -1,0 +1,7 @@
+name: Handrail All
+material: PAPER
+custom-model-data: 5556
+model: 'cocricotmod:block/handrail_all'
+
+block:
+  type: item

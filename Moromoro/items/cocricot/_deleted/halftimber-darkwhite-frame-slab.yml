@@ -1,0 +1,7 @@
+name: Halftimber Darkwhite Frame Slab
+material: PAPER
+custom-model-data: 5402
+model: 'cocricotmod:block/halftimber_darkwhite_frame_slab'
+
+block:
+  type: item

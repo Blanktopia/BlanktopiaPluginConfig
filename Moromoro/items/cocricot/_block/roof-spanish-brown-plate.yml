@@ -1,0 +1,7 @@
+name: Roof Spanish Brown Plate
+material: PAPER
+custom-model-data: 6663
+model: 'cocricotmod:block/roof_spanish_brown_plate'
+
+block:
+  type: item

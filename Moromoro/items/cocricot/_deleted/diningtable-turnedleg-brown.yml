@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Brown
+material: PAPER
+custom-model-data: 3466
+model: 'cocricotmod:block/diningtable_turnedleg_brown'
+
+block:
+  type: item

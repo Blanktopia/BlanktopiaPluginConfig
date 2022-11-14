@@ -1,0 +1,7 @@
+name: Industrialshadelamp Big Lightblue
+material: PAPER
+custom-model-data: 5826
+model: 'cocricotmod:block/industrialshadelamp_big_lightblue'
+
+block:
+  type: item

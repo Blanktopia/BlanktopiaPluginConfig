@@ -1,0 +1,7 @@
+name: Stone Fishscale Pile Height 2
+material: PAPER
+custom-model-data: 7879
+model: 'cocricotmod:block/stone_fishscale_pile_height2'
+
+block:
+  type: item

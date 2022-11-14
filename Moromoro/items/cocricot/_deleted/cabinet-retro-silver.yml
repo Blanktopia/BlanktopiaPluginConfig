@@ -1,0 +1,7 @@
+name: Cabinet Retro Silver
+material: PAPER
+custom-model-data: 2817
+model: 'cocricotmod:block/cabinet_retro_silver'
+
+block:
+  type: item

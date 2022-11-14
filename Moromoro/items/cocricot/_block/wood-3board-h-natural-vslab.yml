@@ -1,0 +1,7 @@
+name: Wood  3board H Natural Vslab
+material: PAPER
+custom-model-data: 9469
+model: 'cocricotmod:block/wood_3board_h_natural_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Table Ironleg Clear Both
+material: PAPER
+custom-model-data: 8188
+model: cocricotmod:block/table_ironleg_clear_both
+block:
+  type: item
+  collision: true

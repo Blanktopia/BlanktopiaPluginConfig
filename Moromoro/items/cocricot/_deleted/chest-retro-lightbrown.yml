@@ -1,0 +1,7 @@
+name: Chest Retro Lightbrown
+material: PAPER
+custom-model-data: 3080
+model: 'cocricotmod:block/chest_retro_lightbrown'
+
+block:
+  type: item

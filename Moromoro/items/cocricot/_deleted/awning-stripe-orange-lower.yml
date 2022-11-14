@@ -1,0 +1,7 @@
+name: Awning Stripe Orange Lower
+material: PAPER
+custom-model-data: 2226
+model: 'cocricotmod:block/awning_stripe_orange_lower'
+
+block:
+  type: item

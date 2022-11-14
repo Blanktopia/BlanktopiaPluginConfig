@@ -1,0 +1,7 @@
+name: Wood Rustic Brown
+material: PAPER
+custom-model-data: 9793
+model: 'cocricotmod:block/wood_rustic_brown'
+
+block:
+  type: item

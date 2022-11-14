@@ -1,0 +1,7 @@
+name: Curtain Separate Yellow Left
+material: PAPER
+custom-model-data: 3289
+model: 'cocricotmod:block/curtain_separate_yellow_left'
+
+block:
+  type: item

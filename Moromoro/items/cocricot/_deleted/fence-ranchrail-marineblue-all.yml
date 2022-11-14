@@ -1,0 +1,7 @@
+name: Fence Ranchrail Marineblue All
+material: PAPER
+custom-model-data: 4777
+model: 'cocricotmod:block/fence_ranchrail_marineblue_all'
+
+block:
+  type: item

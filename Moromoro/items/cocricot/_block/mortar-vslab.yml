@@ -1,0 +1,7 @@
+name: Mortar Vslab
+material: PAPER
+custom-model-data: 6140
+model: 'cocricotmod:block/mortar_vslab'
+
+block:
+  type: item

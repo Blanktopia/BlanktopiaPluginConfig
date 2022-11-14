@@ -1,0 +1,7 @@
+name: Door Tall  5panel Pink Bottom
+material: PAPER
+custom-model-data: 4256
+model: 'cocricotmod:block/door_tall_5panel_pink_bottom'
+
+block:
+  type: item

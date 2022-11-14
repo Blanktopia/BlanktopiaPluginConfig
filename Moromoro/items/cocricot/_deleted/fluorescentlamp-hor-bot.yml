@@ -1,0 +1,7 @@
+name: Fluorescentlamp Hor Bot
+material: PAPER
+custom-model-data: 4926
+model: 'cocricotmod:block/fluorescentlamp_hor_bot'
+
+block:
+  type: item

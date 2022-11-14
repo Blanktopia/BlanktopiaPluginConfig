@@ -1,0 +1,7 @@
+name: Glass Frame Line Vshift
+material: PAPER
+custom-model-data: 5119
+model: 'cocricotmod:block/glass_frame_line_vshift'
+
+block:
+  type: item

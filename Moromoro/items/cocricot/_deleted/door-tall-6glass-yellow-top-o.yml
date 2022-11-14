@@ -1,0 +1,7 @@
+name: Door Tall  6glass Yellow Top O
+material: PAPER
+custom-model-data: 4421
+model: 'cocricotmod:block/door_tall_6glass_yellow_top_o'
+
+block:
+  type: item

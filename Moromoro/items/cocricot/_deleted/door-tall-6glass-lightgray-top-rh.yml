@@ -1,0 +1,7 @@
+name: Door Tall  6glass Lightgray Top Rh
+material: PAPER
+custom-model-data: 4350
+model: 'cocricotmod:block/door_tall_6glass_lightgray_top_rh'
+
+block:
+  type: item

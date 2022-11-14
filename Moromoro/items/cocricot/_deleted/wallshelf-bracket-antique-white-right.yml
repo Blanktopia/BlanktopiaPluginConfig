@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique White Right
+material: PAPER
+custom-model-data: 8430
+model: 'cocricotmod:block/wallshelf_bracket_antique_white_right'
+
+block:
+  type: item

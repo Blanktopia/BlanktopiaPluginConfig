@@ -1,0 +1,7 @@
+name: Car Fender 1
+material: PAPER
+custom-model-data: 2890
+model: 'cocricotmod:block/car_fender1'
+
+block:
+  type: item

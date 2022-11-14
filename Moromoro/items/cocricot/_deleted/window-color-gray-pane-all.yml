@@ -1,0 +1,7 @@
+name: Window Color Gray Pane All
+material: PAPER
+custom-model-data: 8716
+model: 'cocricotmod:block/window_color_gray_pane_all'
+
+block:
+  type: item

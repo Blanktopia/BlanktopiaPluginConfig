@@ -1,0 +1,7 @@
+name: Breakfast Toast
+material: PAPER
+custom-model-data: 2620
+model: 'cocricotmod:block/breakfast_toast'
+
+block:
+  type: item

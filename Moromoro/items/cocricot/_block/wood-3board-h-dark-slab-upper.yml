@@ -1,0 +1,7 @@
+name: Wood  3board H Dark Slab Upper
+material: PAPER
+custom-model-data: 9457
+model: 'cocricotmod:block/wood_3board_h_dark_slab_upper'
+
+block:
+  type: item

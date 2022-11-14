@@ -1,0 +1,7 @@
+name: Roof Copper Yellow Rod
+material: PAPER
+custom-model-data: 6543
+model: 'cocricotmod:block/roof_copper_yellow_rod'
+
+block:
+  type: item

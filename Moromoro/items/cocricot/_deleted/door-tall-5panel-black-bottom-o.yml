@@ -1,0 +1,7 @@
+name: Door Tall  5panel Black Bottom O
+material: PAPER
+custom-model-data: 4177
+model: 'cocricotmod:block/door_tall_5panel_black_bottom_o'
+
+block:
+  type: item

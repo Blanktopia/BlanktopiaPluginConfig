@@ -1,0 +1,7 @@
+name: Tile Grid Blackwhite Vslab
+material: PAPER
+custom-model-data: 8272
+model: 'cocricotmod:block/tile_grid_blackwhite_vslab'
+
+block:
+  type: item

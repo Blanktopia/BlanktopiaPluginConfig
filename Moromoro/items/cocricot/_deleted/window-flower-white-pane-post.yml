@@ -1,0 +1,7 @@
+name: Window Flower White Pane Post
+material: PAPER
+custom-model-data: 8929
+model: 'cocricotmod:block/window_flower_white_pane_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish Red Rod
+material: PAPER
+custom-model-data: 6746
+model: 'cocricotmod:block/roof_spanish_red_rod'
+
+block:
+  type: item

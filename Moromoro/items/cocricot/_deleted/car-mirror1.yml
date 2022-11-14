@@ -1,0 +1,7 @@
+name: Car Mirror 1
+material: PAPER
+custom-model-data: 2893
+model: 'cocricotmod:block/car_mirror1'
+
+block:
+  type: item

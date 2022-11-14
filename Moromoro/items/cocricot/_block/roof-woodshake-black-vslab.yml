@@ -1,0 +1,7 @@
+name: Roof Woodshake Black Vslab
+material: PAPER
+custom-model-data: 6853
+model: 'cocricotmod:block/roof_woodshake_black_vslab'
+
+block:
+  type: item

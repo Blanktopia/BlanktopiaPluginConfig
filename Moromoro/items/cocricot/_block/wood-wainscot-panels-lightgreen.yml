@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Lightgreen
+material: PAPER
+custom-model-data: 9834
+model: 'cocricotmod:block/wood_wainscot_panels_lightgreen'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Reindeer Single A
+material: PAPER
+custom-model-data: 3360
+model: 'cocricotmod:block/cushion_reindeer_single_a'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Diamond Lime
+material: PAPER
+custom-model-data: 8848
+model: 'cocricotmod:block/window_diamond_lime'
+
+block:
+  type: item

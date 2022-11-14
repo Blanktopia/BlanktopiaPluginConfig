@@ -1,0 +1,7 @@
+name: Chair Greek Red
+material: PAPER
+custom-model-data: 3028
+model: cocricotmod:block/chair_greek_red
+block:
+  type: item
+  sit-height: 0.4375

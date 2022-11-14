@@ -1,0 +1,7 @@
+name: Branch Jungle Side Trunk
+material: PAPER
+custom-model-data: 2601
+model: 'cocricotmod:block/branch_jungle_side_trunk'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Glass Shabby Wood Vslab
+material: PAPER
+custom-model-data: 2804
+model: 'cocricotmod:block/cabinet_glass_shabby_wood_vslab'
+
+block:
+  type: item

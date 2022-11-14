@@ -1,0 +1,7 @@
+name: Door  9glass Lightpurple Bottom Rh
+material: PAPER
+custom-model-data: 3802
+model: 'cocricotmod:block/door_9glass_lightpurple_bottom_rh'
+
+block:
+  type: item

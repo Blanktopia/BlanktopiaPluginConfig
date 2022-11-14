@@ -1,0 +1,7 @@
+name: Chair Dining Waterhyacinth
+material: PAPER
+custom-model-data: 3015
+model: cocricotmod:block/chair_dining_waterhyacinth
+block:
+  type: item
+  sit-height: 0.4375

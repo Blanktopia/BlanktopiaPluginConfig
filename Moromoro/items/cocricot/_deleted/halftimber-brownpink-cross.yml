@@ -1,0 +1,7 @@
+name: Halftimber Brownpink Cross
+material: PAPER
+custom-model-data: 5250
+model: 'cocricotmod:block/halftimber_brownpink_cross'
+
+block:
+  type: item

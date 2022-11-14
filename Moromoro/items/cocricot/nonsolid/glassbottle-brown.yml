@@ -1,0 +1,7 @@
+name: Glassbottle Brown
+material: PAPER
+custom-model-data: 5149
+model: 'cocricotmod:block/glassbottle_brown'
+
+block:
+  type: item

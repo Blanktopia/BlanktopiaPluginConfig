@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Frame
+material: PAPER
+custom-model-data: 5266
+model: 'cocricotmod:block/halftimber_brownpurple_frame'
+
+block:
+  type: item

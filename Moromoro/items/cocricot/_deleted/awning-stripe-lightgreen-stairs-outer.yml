@@ -1,0 +1,7 @@
+name: Awning Stripe Lightgreen Stairs Outer
+material: PAPER
+custom-model-data: 2210
+model: 'cocricotmod:block/awning_stripe_lightgreen_stairs_outer'
+
+block:
+  type: item

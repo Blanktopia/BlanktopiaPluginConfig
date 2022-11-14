@@ -1,0 +1,7 @@
+name: Coffeetable Glass Right
+material: PAPER
+custom-model-data: 3148
+model: 'cocricotmod:block/coffeetable_glass_right'
+
+block:
+  type: item

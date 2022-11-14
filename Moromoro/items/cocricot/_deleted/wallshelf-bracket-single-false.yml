@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Single False
+material: PAPER
+custom-model-data: 8475
+model: 'cocricotmod:block/wallshelf_bracket_single_false'
+
+block:
+  type: item

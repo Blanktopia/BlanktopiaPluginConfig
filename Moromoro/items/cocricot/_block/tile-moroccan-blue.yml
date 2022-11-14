@@ -1,0 +1,7 @@
+name: Tile Moroccan Blue
+material: PAPER
+custom-model-data: 8283
+model: 'cocricotmod:block/tile_moroccan_blue'
+
+block:
+  type: item

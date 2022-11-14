@@ -1,0 +1,7 @@
+name: Chair Beach Stripe Blue
+material: PAPER
+custom-model-data: 2998
+model: cocricotmod:block/chair_beach_stripe_blue
+block:
+  type: item
+  sit-height: 0.4375

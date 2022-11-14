@@ -1,0 +1,7 @@
+name: Stone Color Darkbrown Arch Single
+material: PAPER
+custom-model-data: 7724
+model: 'cocricotmod:block/stone_color_darkbrown_arch_single'
+
+block:
+  type: item

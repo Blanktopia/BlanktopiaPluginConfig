@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Orange Bottom Rh
+material: PAPER
+custom-model-data: 4002
+model: 'cocricotmod:block/door_tall_2glass3panel_orange_bottom_rh'
+
+block:
+  type: item

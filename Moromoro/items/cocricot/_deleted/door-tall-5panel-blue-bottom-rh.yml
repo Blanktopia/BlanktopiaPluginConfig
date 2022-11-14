@@ -1,0 +1,7 @@
+name: Door Tall  5panel Blue Bottom Rh
+material: PAPER
+custom-model-data: 4186
+model: 'cocricotmod:block/door_tall_5panel_blue_bottom_rh'
+
+block:
+  type: item

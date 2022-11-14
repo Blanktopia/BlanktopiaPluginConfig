@@ -1,0 +1,7 @@
+name: Door Tall  6glass Red Top
+material: PAPER
+custom-model-data: 4388
+model: 'cocricotmod:block/door_tall_6glass_red_top'
+
+block:
+  type: item

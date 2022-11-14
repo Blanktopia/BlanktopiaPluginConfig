@@ -1,0 +1,7 @@
+name: Bed Pillow Red
+material: PAPER
+custom-model-data: 2434
+model: 'cocricotmod:block/bed_pillow_red'
+
+block:
+  type: item

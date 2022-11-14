@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Brown Post
+material: PAPER
+custom-model-data: 5599
+model: 'cocricotmod:block/handrail_wood_straight_brown_post'
+
+block:
+  type: item

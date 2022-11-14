@@ -1,0 +1,7 @@
+name: Panrack Empty
+material: PAPER
+custom-model-data: 6156
+model: cocricotmod:block/panrack_empty
+block:
+  type: item
+  collision: true

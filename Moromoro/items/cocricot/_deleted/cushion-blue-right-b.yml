@@ -1,0 +1,7 @@
+name: Cushion Blue Right B
+material: PAPER
+custom-model-data: 3305
+model: 'cocricotmod:block/cushion_blue_right_b'
+
+block:
+  type: item

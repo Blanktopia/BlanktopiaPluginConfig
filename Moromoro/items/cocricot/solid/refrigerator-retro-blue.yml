@@ -1,0 +1,7 @@
+name: Refrigerator Retro Blue
+material: PAPER
+custom-model-data: 6353
+model: cocricotmod:block/refrigerator_retro_blue
+block:
+  type: item
+  collision: true

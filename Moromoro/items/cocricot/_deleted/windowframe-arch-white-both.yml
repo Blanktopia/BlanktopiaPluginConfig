@@ -1,0 +1,7 @@
+name: Windowframe Arch White Both
+material: PAPER
+custom-model-data: 9056
+model: 'cocricotmod:block/windowframe_arch_white_both'
+
+block:
+  type: item

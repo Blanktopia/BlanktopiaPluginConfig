@@ -1,0 +1,7 @@
+name: Halftimber Brownwhite Mesh
+material: PAPER
+custom-model-data: 5285
+model: 'cocricotmod:block/halftimber_brownwhite_mesh'
+
+block:
+  type: item

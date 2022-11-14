@@ -1,0 +1,7 @@
+name: Stucco Blue Slab
+material: PAPER
+custom-model-data: 8025
+model: 'cocricotmod:block/stucco_blue_slab'
+
+block:
+  type: item

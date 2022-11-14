@@ -1,0 +1,7 @@
+name: Rug Rustic
+material: PAPER
+custom-model-data: 6933
+model: 'cocricotmod:block/rug_rustic'
+
+block:
+  type: item

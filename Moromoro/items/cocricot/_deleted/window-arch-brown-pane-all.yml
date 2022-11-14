@@ -1,0 +1,7 @@
+name: Window Arch Brown Pane All
+material: PAPER
+custom-model-data: 8569
+model: 'cocricotmod:block/window_arch_brown_pane_all'
+
+block:
+  type: item

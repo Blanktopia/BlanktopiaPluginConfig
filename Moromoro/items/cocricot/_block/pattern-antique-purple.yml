@@ -1,0 +1,7 @@
+name: Pattern Antique Purple
+material: PAPER
+custom-model-data: 6191
+model: 'cocricotmod:block/pattern_antique_purple'
+
+block:
+  type: item

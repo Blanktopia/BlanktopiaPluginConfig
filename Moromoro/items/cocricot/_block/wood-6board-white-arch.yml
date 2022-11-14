@@ -1,0 +1,7 @@
+name: Wood  6board White Arch
+material: PAPER
+custom-model-data: 9651
+model: 'cocricotmod:block/wood_6board_white_arch'
+
+block:
+  type: item

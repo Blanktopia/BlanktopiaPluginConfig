@@ -1,0 +1,7 @@
+name: Door  2panel Orange Bottom Rh O
+material: PAPER
+custom-model-data: 3635
+model: 'cocricotmod:block/door_2panel_orange_bottom_rh_o'
+
+block:
+  type: item

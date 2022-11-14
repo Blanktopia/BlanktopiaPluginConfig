@@ -1,0 +1,7 @@
+name: Back White
+material: PAPER
+custom-model-data: 2294
+model: 'cocricotmod:block/back_white'
+
+block:
+  type: item

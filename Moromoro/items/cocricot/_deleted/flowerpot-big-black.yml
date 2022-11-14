@@ -1,0 +1,7 @@
+name: Flowerpot Big Black
+material: PAPER
+custom-model-data: 4882
+model: 'cocricotmod:block/flowerpot_big_black'
+
+block:
+  type: item

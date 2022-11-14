@@ -1,0 +1,7 @@
+name: Diningtable Taperedleg Clear
+material: PAPER
+custom-model-data: 3446
+model: 'cocricotmod:block/diningtable_taperedleg_clear'
+
+block:
+  type: item

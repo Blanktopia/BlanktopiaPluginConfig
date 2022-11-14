@@ -1,0 +1,7 @@
+name: Leg Turned Black
+material: PAPER
+custom-model-data: 5979
+model: 'cocricotmod:block/leg_turned_black'
+
+block:
+  type: item

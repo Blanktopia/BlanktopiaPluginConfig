@@ -1,0 +1,7 @@
+name: Flowerpot Inner Benjamin False
+material: PAPER
+custom-model-data: 4893
+model: 'cocricotmod:block/flowerpot_inner_benjamin_false'
+
+block:
+  type: item

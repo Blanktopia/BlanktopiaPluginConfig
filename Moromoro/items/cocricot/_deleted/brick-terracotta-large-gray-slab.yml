@@ -1,0 +1,7 @@
+name: Brick Terracotta Large Gray Slab
+material: PAPER
+custom-model-data: 2725
+model: 'cocricotmod:block/brick_terracotta_large_gray_slab'
+
+block:
+  type: item

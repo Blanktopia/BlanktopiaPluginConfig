@@ -1,0 +1,7 @@
+name: Roof Copper Green Slab
+material: PAPER
+custom-model-data: 6464
+model: 'cocricotmod:block/roof_copper_green_slab'
+
+block:
+  type: item

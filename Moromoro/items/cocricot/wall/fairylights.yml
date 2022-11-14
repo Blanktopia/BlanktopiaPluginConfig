@@ -1,0 +1,7 @@
+name: Fairylights
+material: PAPER
+custom-model-data: 4667
+model: 'cocricotmod:block/fairylights'
+
+block:
+  type: item

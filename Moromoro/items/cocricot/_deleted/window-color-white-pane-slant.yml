@@ -1,0 +1,7 @@
+name: Window Color White Pane Slant
+material: PAPER
+custom-model-data: 8783
+model: 'cocricotmod:block/window_color_white_pane_slant'
+
+block:
+  type: item

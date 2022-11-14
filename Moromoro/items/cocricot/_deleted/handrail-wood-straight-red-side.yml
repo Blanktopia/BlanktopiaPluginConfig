@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Red Side
+material: PAPER
+custom-model-data: 5650
+model: 'cocricotmod:block/handrail_wood_straight_red_side'
+
+block:
+  type: item

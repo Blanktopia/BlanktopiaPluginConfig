@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown Stairs Outer
+material: PAPER
+custom-model-data: 6711
+model: 'cocricotmod:block/roof_spanish_lightbrown_stairs_outer'
+
+block:
+  type: item

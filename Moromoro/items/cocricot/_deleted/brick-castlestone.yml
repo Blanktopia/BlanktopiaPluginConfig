@@ -1,0 +1,7 @@
+name: Brick Castlestone
+material: PAPER
+custom-model-data: 2625
+model: 'cocricotmod:block/brick_castlestone'
+
+block:
+  type: item

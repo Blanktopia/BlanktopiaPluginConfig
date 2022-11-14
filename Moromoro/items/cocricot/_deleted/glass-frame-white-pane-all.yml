@@ -1,0 +1,7 @@
+name: Glass Frame White Pane All
+material: PAPER
+custom-model-data: 5138
+model: 'cocricotmod:block/glass_frame_white_pane_all'
+
+block:
+  type: item

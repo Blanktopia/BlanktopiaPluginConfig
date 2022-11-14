@@ -1,0 +1,7 @@
+name: Wood  3board H Clear Slab Upper
+material: PAPER
+custom-model-data: 9449
+model: 'cocricotmod:block/wood_3board_h_clear_slab_upper'
+
+block:
+  type: item

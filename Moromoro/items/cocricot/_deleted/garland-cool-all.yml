@@ -1,0 +1,7 @@
+name: Garland Cool All
+material: PAPER
+custom-model-data: 5004
+model: 'cocricotmod:block/garland_cool_all'
+
+block:
+  type: item

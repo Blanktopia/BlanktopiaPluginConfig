@@ -1,0 +1,7 @@
+name: Awning Gray Stairs
+material: PAPER
+custom-model-data: 2051
+model: 'cocricotmod:block/awning_gray_stairs'
+
+block:
+  type: item

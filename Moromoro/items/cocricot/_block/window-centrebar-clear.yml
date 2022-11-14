@@ -1,0 +1,7 @@
+name: Window Centrebar Clear
+material: PAPER
+custom-model-data: 8610
+model: 'cocricotmod:block/window_centrebar_clear'
+
+block:
+  type: item

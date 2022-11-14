@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Black Single
+material: PAPER
+custom-model-data: 8438
+model: 'cocricotmod:block/wallshelf_bracket_black_single'
+
+block:
+  type: item

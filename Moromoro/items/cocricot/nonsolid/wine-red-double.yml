@@ -1,0 +1,7 @@
+name: Wine Red Double
+material: PAPER
+custom-model-data: 9251
+model: 'cocricotmod:block/wine_red_double'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Tropical Both B
+material: PAPER
+custom-model-data: 3373
+model: 'cocricotmod:block/cushion_tropical_both_b'
+
+block:
+  type: item

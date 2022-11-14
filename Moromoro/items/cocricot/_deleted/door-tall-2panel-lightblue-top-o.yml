@@ -1,0 +1,7 @@
+name: Door Tall  2panel Lightblue Top O
+material: PAPER
+custom-model-data: 4093
+model: 'cocricotmod:block/door_tall_2panel_lightblue_top_o'
+
+block:
+  type: item

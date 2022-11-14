@@ -1,0 +1,7 @@
+name: Diningtable Squareleg Shabby
+material: PAPER
+custom-model-data: 3443
+model: 'cocricotmod:block/diningtable_squareleg_shabby'
+
+block:
+  type: item

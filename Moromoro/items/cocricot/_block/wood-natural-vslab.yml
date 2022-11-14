@@ -1,0 +1,7 @@
+name: Wood Natural Vslab
+material: PAPER
+custom-model-data: 9792
+model: 'cocricotmod:block/wood_natural_vslab'
+
+block:
+  type: item

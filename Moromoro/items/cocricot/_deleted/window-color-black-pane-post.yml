@@ -1,0 +1,7 @@
+name: Window Color Black Pane Post
+material: PAPER
+custom-model-data: 8697
+model: 'cocricotmod:block/window_color_black_pane_post'
+
+block:
+  type: item

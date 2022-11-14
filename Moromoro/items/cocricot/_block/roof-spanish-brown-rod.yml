@@ -1,0 +1,7 @@
+name: Roof Spanish Brown Rod
+material: PAPER
+custom-model-data: 6664
+model: 'cocricotmod:block/roof_spanish_brown_rod'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Curtain Separate Green Both
+material: PAPER
+custom-model-data: 3268
+model: 'cocricotmod:block/curtain_separate_green_both'
+
+block:
+  type: item

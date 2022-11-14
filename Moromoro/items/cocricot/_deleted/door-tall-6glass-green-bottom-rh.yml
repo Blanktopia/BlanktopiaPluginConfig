@@ -1,0 +1,7 @@
+name: Door Tall  6glass Green Bottom Rh
+material: PAPER
+custom-model-data: 4330
+model: 'cocricotmod:block/door_tall_6glass_green_bottom_rh'
+
+block:
+  type: item

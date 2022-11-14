@@ -1,0 +1,7 @@
+name: Range Retro Red
+material: PAPER
+custom-model-data: 6318
+model: cocricotmod:block/range_retro_red
+block:
+  type: item
+  collision: true

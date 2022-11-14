@@ -1,0 +1,7 @@
+name: Halftimber Darkred Tudor Right
+material: PAPER
+custom-model-data: 5397
+model: 'cocricotmod:block/halftimber_darkred_tudor_right'
+
+block:
+  type: item

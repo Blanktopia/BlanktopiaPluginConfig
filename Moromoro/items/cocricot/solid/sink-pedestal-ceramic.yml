@@ -1,0 +1,7 @@
+name: Sink Pedestal Ceramic
+material: PAPER
+custom-model-data: 7313
+model: cocricotmod:block/sink_pedestal_ceramic
+block:
+  type: item
+  collision: true

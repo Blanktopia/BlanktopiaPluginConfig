@@ -1,0 +1,7 @@
+name: Book Pile Antique
+material: PAPER
+custom-model-data: 2492
+model: 'cocricotmod:block/book_pile_antique'
+
+block:
+  type: item

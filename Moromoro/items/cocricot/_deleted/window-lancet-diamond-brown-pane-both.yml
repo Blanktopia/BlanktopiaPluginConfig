@@ -1,0 +1,7 @@
+name: Window Lancet Diamond Brown Pane Both
+material: PAPER
+custom-model-data: 8990
+model: 'cocricotmod:block/window_lancet_diamond_brown_pane_both'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color White Pane Side
+material: PAPER
+custom-model-data: 8782
+model: 'cocricotmod:block/window_color_white_pane_side'
+
+block:
+  type: item

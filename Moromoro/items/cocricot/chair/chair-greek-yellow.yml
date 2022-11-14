@@ -1,0 +1,7 @@
+name: Chair Greek Yellow
+material: PAPER
+custom-model-data: 3030
+model: cocricotmod:block/chair_greek_yellow
+block:
+  type: item
+  sit-height: 0.4375

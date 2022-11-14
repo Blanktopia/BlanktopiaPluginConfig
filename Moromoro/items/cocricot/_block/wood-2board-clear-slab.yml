@@ -1,0 +1,7 @@
+name: Wood  2board Clear Slab
+material: PAPER
+custom-model-data: 9280
+model: 'cocricotmod:block/wood_2board_clear_slab'
+
+block:
+  type: item

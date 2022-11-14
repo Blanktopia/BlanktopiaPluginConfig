@@ -1,0 +1,7 @@
+name: Pendantlight Lightblue
+material: PAPER
+custom-model-data: 6211
+model: 'cocricotmod:block/pendantlight_lightblue'
+
+block:
+  type: item

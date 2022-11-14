@@ -1,0 +1,7 @@
+name: Chain Antique
+material: PAPER
+custom-model-data: 2963
+model: 'cocricotmod:block/chain_antique'
+
+block:
+  type: item

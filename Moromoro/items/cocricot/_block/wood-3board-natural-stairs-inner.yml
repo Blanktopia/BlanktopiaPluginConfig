@@ -1,0 +1,7 @@
+name: Wood  3board Natural Stairs Inner
+material: PAPER
+custom-model-data: 9494
+model: 'cocricotmod:block/wood_3board_natural_stairs_inner'
+
+block:
+  type: item

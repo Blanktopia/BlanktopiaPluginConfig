@@ -1,0 +1,7 @@
+name: Door  2panel Green Top Rh O
+material: PAPER
+custom-model-data: 3599
+model: 'cocricotmod:block/door_2panel_green_top_rh_o'
+
+block:
+  type: item

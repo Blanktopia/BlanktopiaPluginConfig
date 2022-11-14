@@ -1,0 +1,7 @@
+name: Awning Lightgreen Lower
+material: PAPER
+custom-model-data: 2080
+model: 'cocricotmod:block/awning_lightgreen_lower'
+
+block:
+  type: item

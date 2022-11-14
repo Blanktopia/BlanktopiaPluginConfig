@@ -1,0 +1,7 @@
+name: Box Paper Natural Double
+material: PAPER
+custom-model-data: 2575
+model: cocricotmod:block/box_paper_natural_double
+block:
+  type: item
+  collision: true

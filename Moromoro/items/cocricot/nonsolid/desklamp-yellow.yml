@@ -1,0 +1,7 @@
+name: Desklamp Yellow
+material: PAPER
+custom-model-data: 3440
+model: 'cocricotmod:block/desklamp_yellow'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  6glass Wood Top Rh
+material: PAPER
+custom-model-data: 4414
+model: 'cocricotmod:block/door_tall_6glass_wood_top_rh'
+
+block:
+  type: item

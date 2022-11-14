@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightblue Whiteframe
+material: PAPER
+custom-model-data: 9885
+model: 'cocricotmod:block/wood_wrapsiding_lightblue_whiteframe'
+
+block:
+  type: item

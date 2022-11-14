@@ -1,0 +1,7 @@
+name: Wallshelf Jar Long
+material: PAPER
+custom-model-data: 8519
+model: 'cocricotmod:block/wallshelf_jar_long'
+
+block:
+  type: item

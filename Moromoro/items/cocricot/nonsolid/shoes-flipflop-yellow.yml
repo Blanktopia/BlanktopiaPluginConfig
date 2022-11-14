@@ -1,0 +1,7 @@
+name: Shoes Flipflop Yellow
+material: PAPER
+custom-model-data: 7177
+model: 'cocricotmod:block/shoes_flipflop_yellow'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door Tall  2panel Red Top Rh
+material: PAPER
+custom-model-data: 4142
+model: 'cocricotmod:block/door_tall_2panel_red_top_rh'
+
+block:
+  type: item

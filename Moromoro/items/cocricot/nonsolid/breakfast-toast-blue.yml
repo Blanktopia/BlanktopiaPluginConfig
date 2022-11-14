@@ -1,0 +1,7 @@
+name: Breakfast Toast Blue
+material: PAPER
+custom-model-data: 2621
+model: 'cocricotmod:block/breakfast_toast_blue'
+
+block:
+  type: item

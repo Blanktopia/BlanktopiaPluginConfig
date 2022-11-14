@@ -1,0 +1,7 @@
+name: Table Ironleg Dark Side
+material: PAPER
+custom-model-data: 8196
+model: cocricotmod:block/table_ironleg_dark_side
+block:
+  type: item
+  collision: true

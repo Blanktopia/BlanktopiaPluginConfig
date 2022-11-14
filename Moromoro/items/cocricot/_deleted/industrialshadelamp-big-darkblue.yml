@@ -1,0 +1,7 @@
+name: Industrialshadelamp Big Darkblue
+material: PAPER
+custom-model-data: 5824
+model: 'cocricotmod:block/industrialshadelamp_big_darkblue'
+
+block:
+  type: item

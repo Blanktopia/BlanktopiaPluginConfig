@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Pink Whiteframe
+material: PAPER
+custom-model-data: 9903
+model: 'cocricotmod:block/wood_wrapsiding_pink_whiteframe'
+
+block:
+  type: item

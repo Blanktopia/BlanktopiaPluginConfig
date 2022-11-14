@@ -1,0 +1,8 @@
+name: Wheel Small White Rubber
+material: PAPER
+custom-model-data: 8558
+model: 'cocricotmod:block/wheel_small_white_rubber'
+
+block:
+  type: item
+  collision: true

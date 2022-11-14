@@ -1,0 +1,7 @@
+name: Drainpipe Elbow Bronze
+material: PAPER
+custom-model-data: 4504
+model: 'cocricotmod:block/drainpipe_elbow_bronze'
+
+block:
+  type: item

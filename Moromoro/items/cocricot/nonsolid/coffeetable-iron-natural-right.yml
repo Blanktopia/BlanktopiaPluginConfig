@@ -1,0 +1,7 @@
+name: Coffeetable Iron Natural Right
+material: PAPER
+custom-model-data: 3166
+model: 'cocricotmod:block/coffeetable_iron_natural_right'
+
+block:
+  type: item

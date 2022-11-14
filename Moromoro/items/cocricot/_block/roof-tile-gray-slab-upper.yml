@@ -1,0 +1,7 @@
+name: Roof Tile Gray Slab Upper
+material: PAPER
+custom-model-data: 6828
+model: 'cocricotmod:block/roof_tile_gray_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stucco Yellow Vslab
+material: PAPER
+custom-model-data: 8125
+model: 'cocricotmod:block/stucco_yellow_vslab'
+
+block:
+  type: item

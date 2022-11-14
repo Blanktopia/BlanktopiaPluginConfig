@@ -1,0 +1,7 @@
+name: Windowframe Triangle White
+material: PAPER
+custom-model-data: 9245
+model: 'cocricotmod:block/windowframe_triangle_white'
+
+block:
+  type: item

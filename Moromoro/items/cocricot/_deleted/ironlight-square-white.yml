@@ -1,0 +1,7 @@
+name: Ironlight Square White
+material: PAPER
+custom-model-data: 5864
+model: 'cocricotmod:block/ironlight_square_white'
+
+block:
+  type: item

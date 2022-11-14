@@ -1,0 +1,7 @@
+name: Stucco Blue Stairs
+material: PAPER
+custom-model-data: 8027
+model: 'cocricotmod:block/stucco_blue_stairs'
+
+block:
+  type: item

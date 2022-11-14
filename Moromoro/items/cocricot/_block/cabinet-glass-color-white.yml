@@ -1,0 +1,7 @@
+name: Cabinet Glass Color White
+material: PAPER
+custom-model-data: 2791
+model: 'cocricotmod:block/cabinet_glass_color_white'
+
+block:
+  type: item

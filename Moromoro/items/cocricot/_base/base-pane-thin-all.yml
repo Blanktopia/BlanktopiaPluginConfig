@@ -1,0 +1,7 @@
+name: Base Pane Thin All
+material: PAPER
+custom-model-data: 2326
+model: 'cocricotmod:block/base_pane_thin_all'
+
+block:
+  type: item

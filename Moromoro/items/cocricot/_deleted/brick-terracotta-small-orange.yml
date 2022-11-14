@@ -1,0 +1,7 @@
+name: Brick Terracotta Small Orange
+material: PAPER
+custom-model-data: 2734
+model: 'cocricotmod:block/brick_terracotta_small_orange'
+
+block:
+  type: item

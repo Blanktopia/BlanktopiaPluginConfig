@@ -1,0 +1,7 @@
+name: Garland Small Pop
+material: PAPER
+custom-model-data: 5041
+model: 'cocricotmod:block/garland_small_pop'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  6board Clear Slab
+material: PAPER
+custom-model-data: 9551
+model: 'cocricotmod:block/wood_6board_clear_slab'
+
+block:
+  type: item

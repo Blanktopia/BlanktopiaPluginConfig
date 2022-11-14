@@ -1,0 +1,7 @@
+name: Faucet Bridge
+material: PAPER
+custom-model-data: 4680
+model: 'cocricotmod:block/faucet_bridge'
+
+block:
+  type: item

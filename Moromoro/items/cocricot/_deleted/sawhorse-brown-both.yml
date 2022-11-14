@@ -1,0 +1,7 @@
+name: Sawhorse Brown Both
+material: PAPER
+custom-model-data: 7136
+model: 'cocricotmod:block/sawhorse_brown_both'
+
+block:
+  type: item

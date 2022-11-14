@@ -1,0 +1,7 @@
+name: Wood Black Slab
+material: PAPER
+custom-model-data: 9667
+model: 'cocricotmod:block/wood_black_slab'
+
+block:
+  type: item

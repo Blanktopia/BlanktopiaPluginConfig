@@ -1,0 +1,7 @@
+name: Roof Copper Incline Odd Corner
+material: PAPER
+custom-model-data: 6474
+model: 'cocricotmod:block/roof_copper_incline_odd_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Rug Shag Round White All
+material: PAPER
+custom-model-data: 7081
+model: 'cocricotmod:block/rug_shag_round_white_all'
+
+block:
+  type: item

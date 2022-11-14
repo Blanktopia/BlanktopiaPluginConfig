@@ -1,0 +1,7 @@
+name: Masonjar Sunset Table
+material: PAPER
+custom-model-data: 6104
+model: 'cocricotmod:block/masonjar_sunset_table'
+
+block:
+  type: item

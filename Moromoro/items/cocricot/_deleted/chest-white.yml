@@ -1,0 +1,7 @@
+name: Chest White
+material: PAPER
+custom-model-data: 3094
+model: 'cocricotmod:block/chest_white'
+
+block:
+  type: item

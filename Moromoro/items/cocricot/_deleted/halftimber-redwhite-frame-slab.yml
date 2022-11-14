@@ -1,0 +1,7 @@
+name: Halftimber Redwhite Frame Slab
+material: PAPER
+custom-model-data: 5462
+model: 'cocricotmod:block/halftimber_redwhite_frame_slab'
+
+block:
+  type: item

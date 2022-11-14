@@ -1,0 +1,7 @@
+name: Awning Stripe Green
+material: PAPER
+custom-model-data: 2180
+model: 'cocricotmod:block/awning_stripe_green'
+
+block:
+  type: item

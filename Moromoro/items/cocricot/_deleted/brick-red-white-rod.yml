@@ -1,0 +1,7 @@
+name: Brick Red White Rod
+material: PAPER
+custom-model-data: 2702
+model: 'cocricotmod:block/brick_red_white_rod'
+
+block:
+  type: item

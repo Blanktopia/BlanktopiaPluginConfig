@@ -1,0 +1,7 @@
+name: Marble Pyramid
+material: PAPER
+custom-model-data: 6056
+model: 'cocricotmod:block/marble_pyramid'
+
+block:
+  type: item

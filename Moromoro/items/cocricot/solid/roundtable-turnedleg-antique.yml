@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Antique
+material: PAPER
+custom-model-data: 6899
+model: cocricotmod:block/roundtable_turnedleg_antique
+block:
+  type: item
+  collision: true

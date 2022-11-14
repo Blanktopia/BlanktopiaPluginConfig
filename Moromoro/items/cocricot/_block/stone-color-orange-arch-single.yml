@@ -1,0 +1,7 @@
+name: Stone Color Orange Arch Single
+material: PAPER
+custom-model-data: 7815
+model: 'cocricotmod:block/stone_color_orange_arch_single'
+
+block:
+  type: item

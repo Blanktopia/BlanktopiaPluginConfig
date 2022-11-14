@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Allinone
+material: PAPER
+custom-model-data: 5490
+model: 'cocricotmod:block/halftimber_whitepink_allinone'
+
+block:
+  type: item

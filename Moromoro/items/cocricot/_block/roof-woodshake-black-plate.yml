@@ -1,0 +1,7 @@
+name: Roof Woodshake Black Plate
+material: PAPER
+custom-model-data: 6845
+model: 'cocricotmod:block/roof_woodshake_black_plate'
+
+block:
+  type: item

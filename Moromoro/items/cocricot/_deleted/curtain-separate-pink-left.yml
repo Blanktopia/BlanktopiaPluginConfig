@@ -1,0 +1,7 @@
+name: Curtain Separate Pink Left
+material: PAPER
+custom-model-data: 3282
+model: 'cocricotmod:block/curtain_separate_pink_left'
+
+block:
+  type: item

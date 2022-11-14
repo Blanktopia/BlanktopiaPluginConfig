@@ -1,0 +1,7 @@
+name: Stone Color Lightpurple Slab Upper
+material: PAPER
+custom-model-data: 7806
+model: 'cocricotmod:block/stone_color_lightpurple_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Diamond White Pane Both
+material: PAPER
+custom-model-data: 8892
+model: 'cocricotmod:block/window_diamond_white_pane_both'
+
+block:
+  type: item

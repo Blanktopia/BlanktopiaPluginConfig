@@ -1,0 +1,7 @@
+name: Stone Color Blue
+material: PAPER
+custom-model-data: 7709
+model: 'cocricotmod:block/stone_color_blue'
+
+block:
+  type: item

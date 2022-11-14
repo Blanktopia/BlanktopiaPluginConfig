@@ -1,0 +1,7 @@
+name: Shelf Normal Book Sparsely
+material: PAPER
+custom-model-data: 7161
+model: 'cocricotmod:block/shelf_normal_book_sparsely'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  1glass White Top O
+material: PAPER
+custom-model-data: 3565
+model: 'cocricotmod:block/door_1glass_white_top_o'
+
+block:
+  type: item

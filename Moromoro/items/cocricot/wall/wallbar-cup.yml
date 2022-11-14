@@ -1,0 +1,7 @@
+name: Wallbar Cup
+material: PAPER
+custom-model-data: 8349
+model: 'cocricotmod:block/wallbar_cup'
+
+block:
+  type: item

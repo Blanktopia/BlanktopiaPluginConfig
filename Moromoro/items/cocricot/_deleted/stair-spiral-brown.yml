@@ -1,0 +1,7 @@
+name: Stair Spiral Brown
+material: PAPER
+custom-model-data: 7588
+model: 'cocricotmod:block/stair_spiral_brown'
+
+block:
+  type: item

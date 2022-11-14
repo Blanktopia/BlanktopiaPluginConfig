@@ -1,0 +1,7 @@
+name: Speaker
+material: PAPER
+custom-model-data: 7530
+model: 'cocricotmod:block/speaker'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Tablelamp Simple
+material: PAPER
+custom-model-data: 8227
+model: 'cocricotmod:block/tablelamp_simple'
+
+block:
+  type: item

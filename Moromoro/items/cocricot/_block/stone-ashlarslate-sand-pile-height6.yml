@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Pile Height 6
+material: PAPER
+custom-model-data: 7625
+model: 'cocricotmod:block/stone_ashlarslate_sand_pile_height6'
+
+block:
+  type: item

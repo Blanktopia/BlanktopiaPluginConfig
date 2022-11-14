@@ -1,0 +1,7 @@
+name: Roundtable Greek Yellow
+material: PAPER
+custom-model-data: 6895
+model: cocricotmod:block/roundtable_greek_yellow
+block:
+  type: item
+  collision: true

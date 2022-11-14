@@ -1,0 +1,7 @@
+name: Wood  6board Natural Stick
+material: PAPER
+custom-model-data: 9636
+model: 'cocricotmod:block/wood_6board_natural_stick'
+
+block:
+  type: item

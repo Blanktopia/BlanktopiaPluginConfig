@@ -1,0 +1,7 @@
+name: Stone Ashlarslate Sand Arch
+material: PAPER
+custom-model-data: 7621
+model: 'cocricotmod:block/stone_ashlarslate_sand_arch'
+
+block:
+  type: item

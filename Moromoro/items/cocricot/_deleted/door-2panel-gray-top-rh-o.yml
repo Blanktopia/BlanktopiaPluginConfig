@@ -1,0 +1,7 @@
+name: Door  2panel Gray Top Rh O
+material: PAPER
+custom-model-data: 3591
+model: 'cocricotmod:block/door_2panel_gray_top_rh_o'
+
+block:
+  type: item

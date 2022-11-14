@@ -1,0 +1,7 @@
+name: Window Color Yellow Pane Three
+material: PAPER
+custom-model-data: 8798
+model: 'cocricotmod:block/window_color_yellow_pane_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Coffeetable Midcentury Both
+material: PAPER
+custom-model-data: 3174
+model: 'cocricotmod:block/coffeetable_midcentury_both'
+
+block:
+  type: item

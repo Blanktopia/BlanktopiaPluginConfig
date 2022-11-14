@@ -1,0 +1,7 @@
+name: Sofa Resort Both
+material: PAPER
+custom-model-data: 7397
+model: cocricotmod:block/sofa_resort_both
+block:
+  type: item
+  sit-height: 0.4375

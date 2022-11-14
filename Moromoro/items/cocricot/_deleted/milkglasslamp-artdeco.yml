@@ -1,0 +1,7 @@
+name: Milkglasslamp Artdeco
+material: PAPER
+custom-model-data: 6115
+model: 'cocricotmod:block/milkglasslamp_artdeco'
+
+block:
+  type: item

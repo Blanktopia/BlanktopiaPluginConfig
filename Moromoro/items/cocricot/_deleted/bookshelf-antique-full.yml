@@ -1,0 +1,7 @@
+name: Bookshelf Antique Full
+material: PAPER
+custom-model-data: 2516
+model: 'cocricotmod:block/bookshelf_antique_full'
+
+block:
+  type: item

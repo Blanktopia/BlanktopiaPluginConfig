@@ -1,0 +1,7 @@
+name: Brick Castlestone Stairs
+material: PAPER
+custom-model-data: 2646
+model: 'cocricotmod:block/brick_castlestone_stairs'
+
+block:
+  type: item

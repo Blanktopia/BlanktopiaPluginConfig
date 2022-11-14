@@ -1,0 +1,7 @@
+name: Shopfacade Paris Green Vertical
+material: PAPER
+custom-model-data: 7204
+model: 'cocricotmod:block/shopfacade_paris_green_vertical'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Pattern Flower Pink
+material: PAPER
+custom-model-data: 6199
+model: 'cocricotmod:block/pattern_flower_pink'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Book Line Modern
+material: PAPER
+custom-model-data: 2485
+model: 'cocricotmod:block/book_line_modern'
+
+block:
+  type: item

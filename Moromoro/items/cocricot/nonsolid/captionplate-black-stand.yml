@@ -1,0 +1,7 @@
+name: Captionplate Black Stand
+material: PAPER
+custom-model-data: 2879
+model: 'cocricotmod:block/captionplate_black_stand'
+
+block:
+  type: item

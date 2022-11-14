@@ -1,0 +1,7 @@
+name: Stone Color Lightblue Stick
+material: PAPER
+custom-model-data: 7771
+model: 'cocricotmod:block/stone_color_lightblue_stick'
+
+block:
+  type: item

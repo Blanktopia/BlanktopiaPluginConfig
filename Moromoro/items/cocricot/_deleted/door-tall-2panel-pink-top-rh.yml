@@ -1,0 +1,7 @@
+name: Door Tall  2panel Pink Top Rh
+material: PAPER
+custom-model-data: 4134
+model: 'cocricotmod:block/door_tall_2panel_pink_top_rh'
+
+block:
+  type: item

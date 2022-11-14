@@ -1,0 +1,7 @@
+name: Counterstool Shabby False
+material: PAPER
+custom-model-data: 3225
+model: 'cocricotmod:block/counterstool_shabby_false'
+
+block:
+  type: item

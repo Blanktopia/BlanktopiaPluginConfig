@@ -1,0 +1,7 @@
+name: Bicycle Yellow Stand
+material: PAPER
+custom-model-data: 2475
+model: 'cocricotmod:block/bicycle_yellow_stand'
+
+block:
+  type: item

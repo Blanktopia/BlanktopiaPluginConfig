@@ -1,0 +1,8 @@
+name: Stool Industrial Clear
+material: PAPER
+custom-model-data: 8001
+model: cocricotmod:block/stool_industrial_clear
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

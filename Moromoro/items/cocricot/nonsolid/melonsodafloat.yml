@@ -1,0 +1,7 @@
+name: Melonsodafloat
+material: PAPER
+custom-model-data: 6105
+model: 'cocricotmod:block/melonsodafloat'
+
+block:
+  type: item

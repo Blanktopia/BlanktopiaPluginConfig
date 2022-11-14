@@ -1,0 +1,7 @@
+name: Awning Stripe Green Slab
+material: PAPER
+custom-model-data: 2184
+model: 'cocricotmod:block/awning_stripe_green_slab'
+
+block:
+  type: item

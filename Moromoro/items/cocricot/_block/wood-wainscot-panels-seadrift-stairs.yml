@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Seadrift Stairs
+material: PAPER
+custom-model-data: 9849
+model: 'cocricotmod:block/wood_wainscot_panels_seadrift_stairs'
+
+block:
+  type: item

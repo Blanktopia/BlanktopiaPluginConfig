@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Black Side
+material: PAPER
+custom-model-data: 5683
+model: 'cocricotmod:block/handrail_wood_turnedleg_black_side'
+
+block:
+  type: item

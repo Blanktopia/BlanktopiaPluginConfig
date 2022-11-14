@@ -1,0 +1,7 @@
+name: Shower Rain Black
+material: PAPER
+custom-model-data: 7236
+model: 'cocricotmod:block/shower_rain_black'
+
+block:
+  type: item

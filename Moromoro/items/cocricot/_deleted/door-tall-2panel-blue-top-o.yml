@@ -1,0 +1,7 @@
+name: Door Tall  2panel Blue Top O
+material: PAPER
+custom-model-data: 4069
+model: 'cocricotmod:block/door_tall_2panel_blue_top_o'
+
+block:
+  type: item

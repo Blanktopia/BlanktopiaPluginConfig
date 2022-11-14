@@ -1,0 +1,7 @@
+name: Windowframe Classic Side Black Fence
+material: PAPER
+custom-model-data: 9087
+model: 'cocricotmod:block/windowframe_classic_side_black_fence'
+
+block:
+  type: item

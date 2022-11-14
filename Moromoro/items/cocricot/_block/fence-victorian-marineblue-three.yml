@@ -1,0 +1,7 @@
+name: Fence Victorian Marineblue Three
+material: PAPER
+custom-model-data: 4818
+model: 'cocricotmod:block/fence_victorian_marineblue_three'
+
+block:
+  type: item

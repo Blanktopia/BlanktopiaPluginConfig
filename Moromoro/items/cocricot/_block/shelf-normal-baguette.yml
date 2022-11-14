@@ -1,0 +1,7 @@
+name: Shelf Normal Baguette
+material: PAPER
+custom-model-data: 7155
+model: 'cocricotmod:block/shelf_normal_baguette'
+
+block:
+  type: item

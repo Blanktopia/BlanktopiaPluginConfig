@@ -1,0 +1,7 @@
+name: Halftimber Darkyellow Mesh
+material: PAPER
+custom-model-data: 5420
+model: 'cocricotmod:block/halftimber_darkyellow_mesh'
+
+block:
+  type: item

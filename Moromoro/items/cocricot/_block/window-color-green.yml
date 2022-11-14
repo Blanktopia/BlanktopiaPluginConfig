@@ -1,0 +1,7 @@
+name: Window Color Green
+material: PAPER
+custom-model-data: 8722
+model: 'cocricotmod:block/window_color_green'
+
+block:
+  type: item

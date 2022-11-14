@@ -1,0 +1,7 @@
+name: Planter Wood
+material: PAPER
+custom-model-data: 6273
+model: 'cocricotmod:block/planter_wood'
+
+block:
+  type: item

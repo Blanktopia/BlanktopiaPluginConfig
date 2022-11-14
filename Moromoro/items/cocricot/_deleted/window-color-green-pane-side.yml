@@ -1,0 +1,7 @@
+name: Window Color Green Pane Side
+material: PAPER
+custom-model-data: 8726
+model: 'cocricotmod:block/window_color_green_pane_side'
+
+block:
+  type: item

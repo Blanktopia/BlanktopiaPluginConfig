@@ -1,0 +1,7 @@
+name: Coffeetable Glass White Both
+material: PAPER
+custom-model-data: 3150
+model: 'cocricotmod:block/coffeetable_glass_white_both'
+
+block:
+  type: item

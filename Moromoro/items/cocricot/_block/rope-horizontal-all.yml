@@ -1,0 +1,7 @@
+name: Rope Horizontal All
+material: PAPER
+custom-model-data: 6855
+model: 'cocricotmod:block/rope_horizontal_all'
+
+block:
+  type: item

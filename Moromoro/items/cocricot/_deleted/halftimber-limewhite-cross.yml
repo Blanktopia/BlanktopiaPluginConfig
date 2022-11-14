@@ -1,0 +1,7 @@
+name: Halftimber Limewhite Cross
+material: PAPER
+custom-model-data: 5445
+model: 'cocricotmod:block/halftimber_limewhite_cross'
+
+block:
+  type: item

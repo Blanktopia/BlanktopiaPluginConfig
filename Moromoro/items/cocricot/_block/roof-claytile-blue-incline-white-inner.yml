@@ -1,0 +1,7 @@
+name: Roof Claytile Blue Incline White Inner
+material: PAPER
+custom-model-data: 6373
+model: 'cocricotmod:block/roof_claytile_blue_incline_white_inner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Retro Yellow
+material: PAPER
+custom-model-data: 2819
+model: 'cocricotmod:block/cabinet_retro_yellow'
+
+block:
+  type: item

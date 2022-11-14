@@ -1,0 +1,7 @@
+name: Handrail Post
+material: PAPER
+custom-model-data: 5560
+model: 'cocricotmod:block/handrail_post'
+
+block:
+  type: item

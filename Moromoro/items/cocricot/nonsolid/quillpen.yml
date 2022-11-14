@@ -1,0 +1,7 @@
+name: Quillpen
+material: PAPER
+custom-model-data: 6300
+model: 'cocricotmod:block/quillpen'
+
+block:
+  type: item

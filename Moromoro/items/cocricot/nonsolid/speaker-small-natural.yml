@@ -1,0 +1,7 @@
+name: Speaker Small Natural
+material: PAPER
+custom-model-data: 7553
+model: 'cocricotmod:block/speaker_small_natural'
+
+block:
+  type: item

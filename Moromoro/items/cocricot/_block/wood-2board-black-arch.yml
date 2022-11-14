@@ -1,0 +1,7 @@
+name: Wood  2board Black Arch
+material: PAPER
+custom-model-data: 9257
+model: 'cocricotmod:block/wood_2board_black_arch'
+
+block:
+  type: item

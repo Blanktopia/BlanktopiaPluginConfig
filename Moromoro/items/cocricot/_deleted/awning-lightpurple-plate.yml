@@ -1,0 +1,7 @@
+name: Awning Lightpurple Plate
+material: PAPER
+custom-model-data: 2092
+model: 'cocricotmod:block/awning_lightpurple_plate'
+
+block:
+  type: item

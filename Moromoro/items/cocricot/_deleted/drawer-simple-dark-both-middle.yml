@@ -1,0 +1,7 @@
+name: Drawer Simple Dark Both Middle
+material: PAPER
+custom-model-data: 4582
+model: 'cocricotmod:block/drawer_simple_dark_both_middle'
+
+block:
+  type: item

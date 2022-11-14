@@ -1,0 +1,7 @@
+name: Exitsign American
+material: PAPER
+custom-model-data: 4666
+model: 'cocricotmod:block/exitsign_american'
+
+block:
+  type: item

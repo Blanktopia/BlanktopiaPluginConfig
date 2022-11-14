@@ -1,0 +1,7 @@
+name: Breakfast Croissant
+material: PAPER
+custom-model-data: 2617
+model: 'cocricotmod:block/breakfast_croissant'
+
+block:
+  type: item

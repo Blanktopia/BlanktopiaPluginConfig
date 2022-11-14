@@ -1,0 +1,7 @@
+name: Wood  2board Seadrift Arch Single
+material: PAPER
+custom-model-data: 9364
+model: 'cocricotmod:block/wood_2board_seadrift_arch_single'
+
+block:
+  type: item

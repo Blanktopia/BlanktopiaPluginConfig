@@ -1,0 +1,7 @@
+name: Cushion Deer Right A
+material: PAPER
+custom-model-data: 3331
+model: 'cocricotmod:block/cushion_deer_right_a'
+
+block:
+  type: item

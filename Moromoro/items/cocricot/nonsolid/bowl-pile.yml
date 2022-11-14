@@ -1,0 +1,7 @@
+name: Bowl Pile
+material: PAPER
+custom-model-data: 2567
+model: 'cocricotmod:block/bowl_pile'
+
+block:
+  type: item

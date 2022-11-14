@@ -1,0 +1,7 @@
+name: Picket Staggered White Post
+material: PAPER
+custom-model-data: 6257
+model: 'cocricotmod:block/picket_staggered_white_post'
+
+block:
+  type: item

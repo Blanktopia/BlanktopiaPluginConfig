@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/leather"},"overrides":[{"model":"blanktopia:rares/climbing_gloves","predicate":{"custom_model_data":4}},{"model":"blanktopia:rares/boots_of_haste","predicate":{"custom_model_data":5}}]}

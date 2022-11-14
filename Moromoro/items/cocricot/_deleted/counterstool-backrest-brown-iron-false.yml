@@ -1,0 +1,7 @@
+name: Counterstool Backrest Brown Iron False
+material: PAPER
+custom-model-data: 3211
+model: 'cocricotmod:block/counterstool_backrest_brown_iron_false'
+
+block:
+  type: item

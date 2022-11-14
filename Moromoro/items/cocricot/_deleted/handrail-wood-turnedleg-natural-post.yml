@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Natural Post
+material: PAPER
+custom-model-data: 5732
+model: 'cocricotmod:block/handrail_wood_turnedleg_natural_post'
+
+block:
+  type: item

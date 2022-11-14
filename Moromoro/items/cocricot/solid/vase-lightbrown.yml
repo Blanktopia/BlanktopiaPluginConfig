@@ -1,0 +1,7 @@
+name: Vase Lightbrown
+material: PAPER
+custom-model-data: 8343
+model: cocricotmod:block/vase_lightbrown
+block:
+  type: item
+  collision: true

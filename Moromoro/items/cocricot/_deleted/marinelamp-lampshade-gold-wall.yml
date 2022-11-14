@@ -1,0 +1,7 @@
+name: Marinelamp Lampshade Gold Wall
+material: PAPER
+custom-model-data: 6084
+model: 'cocricotmod:block/marinelamp_lampshade_gold_wall'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Centrebar Clear Pane Slant
+material: PAPER
+custom-model-data: 8615
+model: 'cocricotmod:block/window_centrebar_clear_pane_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Carpet Slab
+material: PAPER
+custom-model-data: 2921
+model: 'cocricotmod:block/carpet_slab'
+
+block:
+  type: item

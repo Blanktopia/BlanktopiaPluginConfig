@@ -1,0 +1,7 @@
+name: Awning Green
+material: PAPER
+custom-model-data: 2056
+model: 'cocricotmod:block/awning_green'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Door  2panel Wood Top Rh O
+material: PAPER
+custom-model-data: 3679
+model: 'cocricotmod:block/door_2panel_wood_top_rh_o'
+
+block:
+  type: item

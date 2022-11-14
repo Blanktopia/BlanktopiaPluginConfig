@@ -1,0 +1,7 @@
+name: Halftimber Darkblue Frame Vslab
+material: PAPER
+custom-model-data: 5314
+model: 'cocricotmod:block/halftimber_darkblue_frame_vslab'
+
+block:
+  type: item

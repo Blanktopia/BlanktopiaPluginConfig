@@ -1,0 +1,7 @@
+name: Door  1glass Clear Top
+material: PAPER
+custom-model-data: 3532
+model: 'cocricotmod:block/door_1glass_clear_top'
+
+block:
+  type: item

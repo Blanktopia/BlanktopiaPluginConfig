@@ -1,0 +1,7 @@
+name: Roof Copper Green Stairs Outer
+material: PAPER
+custom-model-data: 6468
+model: 'cocricotmod:block/roof_copper_green_stairs_outer'
+
+block:
+  type: item

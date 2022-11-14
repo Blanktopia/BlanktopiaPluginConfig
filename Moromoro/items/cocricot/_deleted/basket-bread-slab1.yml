@@ -1,0 +1,7 @@
+name: Basket Bread Slab 1
+material: PAPER
+custom-model-data: 2363
+model: 'cocricotmod:block/basket_bread_slab1'
+
+block:
+  type: item

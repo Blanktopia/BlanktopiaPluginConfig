@@ -1,0 +1,7 @@
+name: Roof Tile Black Incline Odd Corner
+material: PAPER
+custom-model-data: 6798
+model: 'cocricotmod:block/roof_tile_black_incline_odd_corner'
+
+block:
+  type: item

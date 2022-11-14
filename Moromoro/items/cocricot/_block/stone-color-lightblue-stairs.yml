@@ -1,0 +1,7 @@
+name: Stone Color Lightblue Stairs
+material: PAPER
+custom-model-data: 7768
+model: 'cocricotmod:block/stone_color_lightblue_stairs'
+
+block:
+  type: item

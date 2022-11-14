@@ -1,0 +1,7 @@
+name: Glass Frame Clear Pane Both
+material: PAPER
+custom-model-data: 5074
+model: 'cocricotmod:block/glass_frame_clear_pane_both'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Black
+material: PAPER
+custom-model-data: 7696
+model: 'cocricotmod:block/stone_color_black'
+
+block:
+  type: item

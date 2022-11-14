@@ -1,0 +1,7 @@
+name: Awning Stripe Pink Upper
+material: PAPER
+custom-model-data: 2244
+model: 'cocricotmod:block/awning_stripe_pink_upper'
+
+block:
+  type: item

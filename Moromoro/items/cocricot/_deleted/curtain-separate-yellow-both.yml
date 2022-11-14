@@ -1,0 +1,7 @@
+name: Curtain Separate Yellow Both
+material: PAPER
+custom-model-data: 3288
+model: 'cocricotmod:block/curtain_separate_yellow_both'
+
+block:
+  type: item

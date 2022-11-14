@@ -1,0 +1,7 @@
+name: Awning Stripe Lightblue Block
+material: PAPER
+custom-model-data: 2192
+model: 'cocricotmod:block/awning_stripe_lightblue_block'
+
+block:
+  type: item

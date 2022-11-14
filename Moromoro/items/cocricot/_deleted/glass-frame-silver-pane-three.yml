@@ -1,0 +1,7 @@
+name: Glass Frame Silver Pane Three
+material: PAPER
+custom-model-data: 5127
+model: 'cocricotmod:block/glass_frame_silver_pane_three'
+
+block:
+  type: item

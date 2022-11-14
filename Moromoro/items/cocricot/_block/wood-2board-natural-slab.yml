@@ -1,0 +1,7 @@
+name: Wood  2board Natural Slab
+material: PAPER
+custom-model-data: 9356
+model: 'cocricotmod:block/wood_2board_natural_slab'
+
+block:
+  type: item

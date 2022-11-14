@@ -1,0 +1,7 @@
+name: Cushion Reindeer Slipper
+material: PAPER
+custom-model-data: 3362
+model: 'cocricotmod:block/cushion_reindeer_slipper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Cross
+material: PAPER
+custom-model-data: 5507
+model: 'cocricotmod:block/halftimber_whitepurple_cross'
+
+block:
+  type: item

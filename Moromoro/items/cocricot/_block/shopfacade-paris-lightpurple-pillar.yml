@@ -1,0 +1,7 @@
+name: Shopfacade Paris Lightpurple Pillar
+material: PAPER
+custom-model-data: 7215
+model: 'cocricotmod:block/shopfacade_paris_lightpurple_pillar'
+
+block:
+  type: item

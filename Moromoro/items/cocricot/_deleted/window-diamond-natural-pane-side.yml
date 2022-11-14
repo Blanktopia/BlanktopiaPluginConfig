@@ -1,0 +1,7 @@
+name: Window Diamond Natural Pane Side
+material: PAPER
+custom-model-data: 8873
+model: 'cocricotmod:block/window_diamond_natural_pane_side'
+
+block:
+  type: item

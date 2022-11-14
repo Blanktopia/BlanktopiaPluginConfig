@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Natural Three
+material: PAPER
+custom-model-data: 3483
+model: 'cocricotmod:block/diningtable_turnedleg_natural_three'
+
+block:
+  type: item

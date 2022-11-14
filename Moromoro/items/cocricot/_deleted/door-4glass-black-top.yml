@@ -1,0 +1,7 @@
+name: Door  4glass Black Top
+material: PAPER
+custom-model-data: 3692
+model: 'cocricotmod:block/door_4glass_black_top'
+
+block:
+  type: item

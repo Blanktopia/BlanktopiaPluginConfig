@@ -1,0 +1,7 @@
+name: Industrialshadelamp Lightblue Wall
+material: PAPER
+custom-model-data: 5840
+model: 'cocricotmod:block/industrialshadelamp_lightblue_wall'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Deer
+material: PAPER
+custom-model-data: 3327
+model: 'cocricotmod:block/cushion_deer'
+
+block:
+  type: item

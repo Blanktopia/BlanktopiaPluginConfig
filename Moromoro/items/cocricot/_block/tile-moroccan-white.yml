@@ -1,0 +1,7 @@
+name: Tile Moroccan White
+material: PAPER
+custom-model-data: 8290
+model: 'cocricotmod:block/tile_moroccan_white'
+
+block:
+  type: item

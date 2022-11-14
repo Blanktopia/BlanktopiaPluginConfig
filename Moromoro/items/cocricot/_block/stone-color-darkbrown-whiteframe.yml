@@ -1,0 +1,7 @@
+name: Stone Color Darkbrown Whiteframe
+material: PAPER
+custom-model-data: 7734
+model: 'cocricotmod:block/stone_color_darkbrown_whiteframe'
+
+block:
+  type: item

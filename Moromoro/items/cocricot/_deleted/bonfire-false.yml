@@ -1,0 +1,7 @@
+name: Bonfire False
+material: PAPER
+custom-model-data: 2479
+model: 'cocricotmod:block/bonfire_false'
+
+block:
+  type: item

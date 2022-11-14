@@ -1,0 +1,7 @@
+name: Stone Color Red Vslab
+material: PAPER
+custom-model-data: 7850
+model: 'cocricotmod:block/stone_color_red_vslab'
+
+block:
+  type: item

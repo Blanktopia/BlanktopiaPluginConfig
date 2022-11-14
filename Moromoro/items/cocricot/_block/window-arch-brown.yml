@@ -1,0 +1,7 @@
+name: Window Arch Brown
+material: PAPER
+custom-model-data: 8568
+model: 'cocricotmod:block/window_arch_brown'
+
+block:
+  type: item

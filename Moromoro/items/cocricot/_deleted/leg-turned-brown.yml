@@ -1,0 +1,7 @@
+name: Leg Turned Brown
+material: PAPER
+custom-model-data: 5980
+model: 'cocricotmod:block/leg_turned_brown'
+
+block:
+  type: item

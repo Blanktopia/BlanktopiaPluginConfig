@@ -1,0 +1,7 @@
+name: Chair American Pink Whiteline
+material: PAPER
+custom-model-data: 2991
+model: cocricotmod:block/chair_american_pink_whiteline
+block:
+  type: item
+  sit-height: 0.4375

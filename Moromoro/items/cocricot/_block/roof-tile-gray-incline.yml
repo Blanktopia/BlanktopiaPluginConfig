@@ -1,0 +1,7 @@
+name: Roof Tile Gray Incline
+material: PAPER
+custom-model-data: 6815
+model: 'cocricotmod:block/roof_tile_gray_incline'
+
+block:
+  type: item

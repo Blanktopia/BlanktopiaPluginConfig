@@ -1,0 +1,7 @@
+name: Stucco Orange Plate
+material: PAPER
+custom-model-data: 8065
+model: 'cocricotmod:block/stucco_orange_plate'
+
+block:
+  type: item

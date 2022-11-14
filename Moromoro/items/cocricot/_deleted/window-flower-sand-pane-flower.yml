@@ -1,0 +1,7 @@
+name: Window Flower Sand Pane Flower
+material: PAPER
+custom-model-data: 8914
+model: 'cocricotmod:block/window_flower_sand_pane_flower'
+
+block:
+  type: item

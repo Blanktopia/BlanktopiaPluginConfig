@@ -1,0 +1,7 @@
+name: Sunglasses Pink
+material: PAPER
+custom-model-data: 8129
+model: 'cocricotmod:block/sunglasses_pink'
+
+block:
+  type: item

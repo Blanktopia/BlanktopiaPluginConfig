@@ -1,0 +1,7 @@
+name: Drawer Simple Brown Left
+material: PAPER
+custom-model-data: 4552
+model: 'cocricotmod:block/drawer_simple_brown_left'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Sofa Resort Left
+material: PAPER
+custom-model-data: 7398
+model: cocricotmod:block/sofa_resort_left
+block:
+  type: item
+  sit-height: 0.4375

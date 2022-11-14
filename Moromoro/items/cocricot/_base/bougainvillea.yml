@@ -1,0 +1,7 @@
+name: Bougainvillea
+material: PAPER
+custom-model-data: 2554
+model: 'cocricotmod:block/bougainvillea'
+
+block:
+  type: item

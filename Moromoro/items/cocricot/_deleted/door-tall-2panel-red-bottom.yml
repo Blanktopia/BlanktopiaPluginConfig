@@ -1,0 +1,7 @@
+name: Door Tall  2panel Red Bottom
+material: PAPER
+custom-model-data: 4136
+model: 'cocricotmod:block/door_tall_2panel_red_bottom'
+
+block:
+  type: item

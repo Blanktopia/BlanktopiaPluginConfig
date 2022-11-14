@@ -1,0 +1,7 @@
+name: Halftimber Greenwhite Pattern 1
+material: PAPER
+custom-model-data: 5436
+model: 'cocricotmod:block/halftimber_greenwhite_pattern1'
+
+block:
+  type: item

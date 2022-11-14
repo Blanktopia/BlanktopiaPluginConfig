@@ -1,0 +1,7 @@
+name: Rug Shag Round Black True Both
+material: PAPER
+custom-model-data: 6944
+model: 'cocricotmod:block/rug_shag_round_black_true_both'
+
+block:
+  type: item

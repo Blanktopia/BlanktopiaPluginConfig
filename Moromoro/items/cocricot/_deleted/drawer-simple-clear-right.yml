@@ -1,0 +1,7 @@
+name: Drawer Simple Clear Right
+material: PAPER
+custom-model-data: 4572
+model: 'cocricotmod:block/drawer_simple_clear_right'
+
+block:
+  type: item

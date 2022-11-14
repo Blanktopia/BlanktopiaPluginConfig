@@ -1,0 +1,7 @@
+name: Flowerpot Basket Light
+material: PAPER
+custom-model-data: 4878
+model: 'cocricotmod:block/flowerpot_basket_light'
+
+block:
+  type: item

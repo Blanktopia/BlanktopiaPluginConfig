@@ -1,0 +1,7 @@
+name: Heater Kerosene 0 Black
+material: PAPER
+custom-model-data: 5811
+model: cocricotmod:block/heater_kerosene360_black
+block:
+  type: item
+  collision: true

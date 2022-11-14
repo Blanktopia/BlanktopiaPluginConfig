@@ -1,0 +1,7 @@
+name: Centralheating Bo
+material: PAPER
+custom-model-data: 2957
+model: 'cocricotmod:block/centralheating_bo'
+
+block:
+  type: item

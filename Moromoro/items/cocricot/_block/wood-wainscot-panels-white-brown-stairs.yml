@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels White Brown Stairs
+material: PAPER
+custom-model-data: 9856
+model: 'cocricotmod:block/wood_wainscot_panels_white_brown_stairs'
+
+block:
+  type: item

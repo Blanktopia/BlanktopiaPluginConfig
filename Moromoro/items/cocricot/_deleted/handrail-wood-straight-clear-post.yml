@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Clear Post
+material: PAPER
+custom-model-data: 5609
+model: 'cocricotmod:block/handrail_wood_straight_clear_post'
+
+block:
+  type: item

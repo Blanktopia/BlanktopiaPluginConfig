@@ -1,0 +1,7 @@
+name: Wood  6board Clear Rod
+material: PAPER
+custom-model-data: 9550
+model: 'cocricotmod:block/wood_6board_clear_rod'
+
+block:
+  type: item

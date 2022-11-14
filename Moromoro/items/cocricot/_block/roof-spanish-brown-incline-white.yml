@@ -1,0 +1,7 @@
+name: Roof Spanish Brown Incline White
+material: PAPER
+custom-model-data: 6658
+model: 'cocricotmod:block/roof_spanish_brown_incline_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Castlestone Slab
+material: PAPER
+custom-model-data: 2643
+model: 'cocricotmod:block/brick_castlestone_slab'
+
+block:
+  type: item

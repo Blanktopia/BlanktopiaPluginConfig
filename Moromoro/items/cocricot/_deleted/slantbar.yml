@@ -1,0 +1,7 @@
+name: Slantbar
+material: PAPER
+custom-model-data: 7333
+model: 'cocricotmod:block/slantbar'
+
+block:
+  type: item

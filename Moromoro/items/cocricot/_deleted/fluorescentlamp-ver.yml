@@ -1,0 +1,7 @@
+name: Fluorescentlamp Ver
+material: PAPER
+custom-model-data: 4929
+model: 'cocricotmod:block/fluorescentlamp_ver'
+
+block:
+  type: item

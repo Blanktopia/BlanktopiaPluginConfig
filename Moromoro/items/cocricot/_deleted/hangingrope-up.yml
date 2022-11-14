@@ -1,0 +1,7 @@
+name: Hangingrope Up
+material: PAPER
+custom-model-data: 5801
+model: 'cocricotmod:block/hangingrope_up'
+
+block:
+  type: item

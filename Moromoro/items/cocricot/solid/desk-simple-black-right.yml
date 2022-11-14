@@ -1,0 +1,7 @@
+name: Desk Simple Black Right
+material: PAPER
+custom-model-data: 3423
+model: cocricotmod:block/desk_simple_black_right
+block:
+  type: item
+  collision: true

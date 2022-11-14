@@ -1,0 +1,7 @@
+name: Cabinet Retro Black
+material: PAPER
+custom-model-data: 2808
+model: 'cocricotmod:block/cabinet_retro_black'
+
+block:
+  type: item

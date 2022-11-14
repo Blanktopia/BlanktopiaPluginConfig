@@ -1,0 +1,7 @@
+name: Chain Horizontal Side
+material: PAPER
+custom-model-data: 2969
+model: 'cocricotmod:block/chain_horizontal_side'
+
+block:
+  type: item

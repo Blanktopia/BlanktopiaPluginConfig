@@ -1,0 +1,7 @@
+name: Stucco Red
+material: PAPER
+custom-model-data: 8087
+model: 'cocricotmod:block/stucco_red'
+
+block:
+  type: item

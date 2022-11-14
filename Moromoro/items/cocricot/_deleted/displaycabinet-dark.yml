@@ -1,0 +1,7 @@
+name: Displaycabinet Dark
+material: PAPER
+custom-model-data: 3511
+model: 'cocricotmod:block/displaycabinet_dark'
+
+block:
+  type: item

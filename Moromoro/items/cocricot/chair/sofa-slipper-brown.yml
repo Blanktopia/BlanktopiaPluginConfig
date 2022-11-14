@@ -1,0 +1,7 @@
+name: Sofa Slipper Brown
+material: PAPER
+custom-model-data: 7473
+model: cocricotmod:block/sofa_slipper_brown
+block:
+  type: item
+  sit-height: 0.4375

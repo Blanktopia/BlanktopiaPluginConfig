@@ -1,0 +1,7 @@
+name: Legplanter Modern Black Middle
+material: PAPER
+custom-model-data: 5991
+model: 'cocricotmod:block/legplanter_modern_black_middle'
+
+block:
+  type: item

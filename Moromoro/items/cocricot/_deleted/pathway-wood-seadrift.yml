@@ -1,0 +1,7 @@
+name: Pathway Wood Seadrift
+material: PAPER
+custom-model-data: 6184
+model: 'cocricotmod:block/pathway_wood_seadrift'
+
+block:
+  type: item

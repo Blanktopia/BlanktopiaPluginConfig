@@ -1,0 +1,7 @@
+name: Stone Random Whitejoint Arch
+material: PAPER
+custom-model-data: 7951
+model: 'cocricotmod:block/stone_random_whitejoint_arch'
+
+block:
+  type: item

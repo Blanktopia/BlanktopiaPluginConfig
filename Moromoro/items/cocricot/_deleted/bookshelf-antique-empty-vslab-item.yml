@@ -1,0 +1,7 @@
+name: Bookshelf Antique Empty Vslab Item
+material: PAPER
+custom-model-data: 2515
+model: 'cocricotmod:block/bookshelf_antique_empty_vslab_item'
+
+block:
+  type: item

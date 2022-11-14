@@ -1,0 +1,7 @@
+name: Sofa Simple Red Left
+material: PAPER
+custom-model-data: 7426
+model: cocricotmod:block/sofa_simple_red_left
+block:
+  type: item
+  sit-height: 0.4375

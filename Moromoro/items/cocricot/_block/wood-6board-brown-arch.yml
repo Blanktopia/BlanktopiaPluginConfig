@@ -1,0 +1,7 @@
+name: Wood  6board Brown Arch
+material: PAPER
+custom-model-data: 9535
+model: 'cocricotmod:block/wood_6board_brown_arch'
+
+block:
+  type: item

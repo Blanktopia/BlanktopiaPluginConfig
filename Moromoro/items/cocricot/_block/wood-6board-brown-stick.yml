@@ -1,0 +1,7 @@
+name: Wood  6board Brown Stick
+material: PAPER
+custom-model-data: 9544
+model: 'cocricotmod:block/wood_6board_brown_stick'
+
+block:
+  type: item

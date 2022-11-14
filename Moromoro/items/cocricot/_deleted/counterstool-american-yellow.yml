@@ -1,0 +1,7 @@
+name: Counterstool American Yellow
+material: PAPER
+custom-model-data: 3208
+model: 'cocricotmod:block/counterstool_american_yellow'
+
+block:
+  type: item

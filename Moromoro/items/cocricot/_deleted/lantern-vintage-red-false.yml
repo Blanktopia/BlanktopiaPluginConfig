@@ -1,0 +1,7 @@
+name: Lantern Vintage Red False
+material: PAPER
+custom-model-data: 5912
+model: 'cocricotmod:block/lantern_vintage_red_false'
+
+block:
+  type: item

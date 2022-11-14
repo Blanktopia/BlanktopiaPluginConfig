@@ -1,0 +1,7 @@
+name: Food Dish Set Red
+material: PAPER
+custom-model-data: 4933
+model: 'cocricotmod:block/food_dish_set_red'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Slant Right
+material: PAPER
+custom-model-data: 5516
+model: 'cocricotmod:block/halftimber_whitepurple_slant_right'
+
+block:
+  type: item

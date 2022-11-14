@@ -1,0 +1,7 @@
+name: Stucco Yellow Item
+material: PAPER
+custom-model-data: 8116
+model: 'cocricotmod:block/stucco_yellow_item'
+
+block:
+  type: item

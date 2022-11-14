@@ -1,0 +1,7 @@
+name: Roof Spanish White Stairs Outer
+material: PAPER
+custom-model-data: 6771
+model: 'cocricotmod:block/roof_spanish_white_stairs_outer'
+
+block:
+  type: item

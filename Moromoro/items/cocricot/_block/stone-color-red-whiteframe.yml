@@ -1,0 +1,7 @@
+name: Stone Color Red Whiteframe
+material: PAPER
+custom-model-data: 7851
+model: 'cocricotmod:block/stone_color_red_whiteframe'
+
+block:
+  type: item

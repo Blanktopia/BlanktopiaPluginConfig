@@ -1,0 +1,7 @@
+name: Stone Color Black Whiteframe
+material: PAPER
+custom-model-data: 7708
+model: 'cocricotmod:block/stone_color_black_whiteframe'
+
+block:
+  type: item

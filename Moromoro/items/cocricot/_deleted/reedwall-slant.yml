@@ -1,0 +1,7 @@
+name: Reedwall Slant
+material: PAPER
+custom-model-data: 6349
+model: 'cocricotmod:block/reedwall_slant'
+
+block:
+  type: item

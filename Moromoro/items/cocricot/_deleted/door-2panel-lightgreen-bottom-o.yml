@@ -1,0 +1,7 @@
+name: Door  2panel Lightgreen Bottom O
+material: PAPER
+custom-model-data: 3617
+model: 'cocricotmod:block/door_2panel_lightgreen_bottom_o'
+
+block:
+  type: item

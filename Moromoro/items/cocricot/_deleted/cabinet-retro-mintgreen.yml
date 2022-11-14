@@ -1,0 +1,7 @@
+name: Cabinet Retro Mintgreen
+material: PAPER
+custom-model-data: 2814
+model: 'cocricotmod:block/cabinet_retro_mintgreen'
+
+block:
+  type: item

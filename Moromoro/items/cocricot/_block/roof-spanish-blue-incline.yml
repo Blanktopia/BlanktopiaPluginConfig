@@ -1,0 +1,7 @@
+name: Roof Spanish Blue Incline
+material: PAPER
+custom-model-data: 6633
+model: 'cocricotmod:block/roof_spanish_blue_incline'
+
+block:
+  type: item

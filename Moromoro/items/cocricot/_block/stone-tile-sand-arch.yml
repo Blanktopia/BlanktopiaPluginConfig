@@ -1,0 +1,7 @@
+name: Stone Tile Sand Arch
+material: PAPER
+custom-model-data: 7970
+model: 'cocricotmod:block/stone_tile_sand_arch'
+
+block:
+  type: item

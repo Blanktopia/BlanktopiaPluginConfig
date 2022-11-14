@@ -1,0 +1,7 @@
+name: Roof Copper Lightblue Stairs Inner
+material: PAPER
+custom-model-data: 6487
+model: 'cocricotmod:block/roof_copper_lightblue_stairs_inner'
+
+block:
+  type: item

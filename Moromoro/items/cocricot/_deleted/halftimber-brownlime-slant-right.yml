@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Slant Right
+material: PAPER
+custom-model-data: 5244
+model: 'cocricotmod:block/halftimber_brownlime_slant_right'
+
+block:
+  type: item

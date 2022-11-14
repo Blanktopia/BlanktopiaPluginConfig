@@ -1,0 +1,7 @@
+name: Sink Stainless
+material: PAPER
+custom-model-data: 7332
+model: cocricotmod:block/sink_stainless
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Carpet Block
+material: PAPER
+custom-model-data: 2900
+model: 'cocricotmod:block/carpet_block'
+
+block:
+  type: item

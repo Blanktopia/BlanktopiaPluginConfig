@@ -1,0 +1,7 @@
+name: Legplanter Modern Black Center
+material: PAPER
+custom-model-data: 5987
+model: 'cocricotmod:block/legplanter_modern_black_center'
+
+block:
+  type: item

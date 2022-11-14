@@ -1,0 +1,7 @@
+name: Stringlights Globe All
+material: PAPER
+custom-model-data: 8012
+model: 'cocricotmod:block/stringlights_globe_all'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Pink Block
+material: PAPER
+custom-model-data: 2112
+model: 'cocricotmod:block/awning_pink_block'
+
+block:
+  type: item

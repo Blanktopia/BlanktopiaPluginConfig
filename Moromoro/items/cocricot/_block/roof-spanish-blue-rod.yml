@@ -1,0 +1,7 @@
+name: Roof Spanish Blue Rod
+material: PAPER
+custom-model-data: 6644
+model: 'cocricotmod:block/roof_spanish_blue_rod'
+
+block:
+  type: item

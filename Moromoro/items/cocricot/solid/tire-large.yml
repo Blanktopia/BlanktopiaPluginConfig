@@ -1,0 +1,8 @@
+name: Tire Large
+material: PAPER
+custom-model-data: 8307
+model: 'cocricotmod:block/tire_large'
+
+block:
+  type: item
+  collision: true

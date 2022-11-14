@@ -1,0 +1,7 @@
+name: Sofa Slipper American White
+material: PAPER
+custom-model-data: 7461
+model: cocricotmod:block/sofa_slipper_american_white
+block:
+  type: item
+  sit-height: 0.4375

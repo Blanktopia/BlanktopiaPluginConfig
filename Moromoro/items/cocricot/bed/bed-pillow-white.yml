@@ -1,0 +1,7 @@
+name: Bed Pillow White
+material: PAPER
+custom-model-data: 2437
+model: 'cocricotmod:block/bed_pillow_white'
+
+block:
+  type: item

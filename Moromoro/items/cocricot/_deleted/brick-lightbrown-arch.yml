@@ -1,0 +1,7 @@
+name: Brick Lightbrown Arch
+material: PAPER
+custom-model-data: 2652
+model: 'cocricotmod:block/brick_lightbrown_arch'
+
+block:
+  type: item

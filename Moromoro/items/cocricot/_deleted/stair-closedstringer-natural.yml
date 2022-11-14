@@ -1,0 +1,7 @@
+name: Stair Closedstringer Natural
+material: PAPER
+custom-model-data: 7567
+model: 'cocricotmod:block/stair_closedstringer_natural'
+
+block:
+  type: item

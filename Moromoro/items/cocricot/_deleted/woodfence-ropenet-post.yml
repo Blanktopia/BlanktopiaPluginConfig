@@ -1,0 +1,7 @@
+name: Woodfence Ropenet Post
+material: PAPER
+custom-model-data: 9945
+model: 'cocricotmod:block/woodfence_ropenet_post'
+
+block:
+  type: item

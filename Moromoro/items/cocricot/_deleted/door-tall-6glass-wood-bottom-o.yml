@@ -1,0 +1,7 @@
+name: Door Tall  6glass Wood Bottom O
+material: PAPER
+custom-model-data: 4409
+model: 'cocricotmod:block/door_tall_6glass_wood_bottom_o'
+
+block:
+  type: item

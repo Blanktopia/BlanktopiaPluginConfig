@@ -1,0 +1,7 @@
+name: Windowbracket Stone Sand Both
+material: PAPER
+custom-model-data: 9024
+model: 'cocricotmod:block/windowbracket_stone_sand_both'
+
+block:
+  type: item

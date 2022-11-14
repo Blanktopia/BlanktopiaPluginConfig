@@ -1,0 +1,7 @@
+name: Stonebrick Rod
+material: PAPER
+custom-model-data: 7991
+model: 'cocricotmod:block/stonebrick_rod'
+
+block:
+  type: item

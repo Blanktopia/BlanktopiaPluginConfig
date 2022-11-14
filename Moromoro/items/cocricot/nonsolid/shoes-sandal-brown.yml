@@ -1,0 +1,7 @@
+name: Shoes Sandal Brown
+material: PAPER
+custom-model-data: 7183
+model: 'cocricotmod:block/shoes_sandal_brown'
+
+block:
+  type: item

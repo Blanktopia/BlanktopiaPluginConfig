@@ -1,0 +1,7 @@
+name: Marketumbrella Blue
+material: PAPER
+custom-model-data: 6091
+model: 'cocricotmod:block/marketumbrella_blue'
+
+block:
+  type: item

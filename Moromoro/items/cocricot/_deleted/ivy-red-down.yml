@@ -1,0 +1,7 @@
+name: Ivy Red Down
+material: PAPER
+custom-model-data: 5866
+model: 'cocricotmod:block/ivy_red_down'
+
+block:
+  type: item

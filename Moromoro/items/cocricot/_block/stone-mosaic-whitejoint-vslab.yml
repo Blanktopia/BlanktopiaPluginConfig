@@ -1,0 +1,7 @@
+name: Stone Mosaic Whitejoint Vslab
+material: PAPER
+custom-model-data: 7911
+model: 'cocricotmod:block/stone_mosaic_whitejoint_vslab'
+
+block:
+  type: item

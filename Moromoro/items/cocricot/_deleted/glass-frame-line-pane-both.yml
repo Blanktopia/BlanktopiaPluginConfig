@@ -1,0 +1,7 @@
+name: Glass Frame Line Pane Both
+material: PAPER
+custom-model-data: 5110
+model: 'cocricotmod:block/glass_frame_line_pane_both'
+
+block:
+  type: item

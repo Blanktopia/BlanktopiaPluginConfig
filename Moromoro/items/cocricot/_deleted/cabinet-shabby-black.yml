@@ -1,0 +1,7 @@
+name: Cabinet Shabby Black
+material: PAPER
+custom-model-data: 2820
+model: 'cocricotmod:block/cabinet_shabby_black'
+
+block:
+  type: item

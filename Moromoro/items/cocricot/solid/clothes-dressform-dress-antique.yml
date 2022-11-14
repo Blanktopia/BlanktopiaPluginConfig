@@ -1,0 +1,7 @@
+name: Clothes Dressform Dress Antique
+material: PAPER
+custom-model-data: 3117
+model: cocricotmod:block/clothes_dressform_dress_antique
+block:
+  type: item
+  collision: true

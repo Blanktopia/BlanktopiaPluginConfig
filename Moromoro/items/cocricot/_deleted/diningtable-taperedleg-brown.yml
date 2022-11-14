@@ -1,0 +1,7 @@
+name: Diningtable Taperedleg Brown
+material: PAPER
+custom-model-data: 3445
+model: 'cocricotmod:block/diningtable_taperedleg_brown'
+
+block:
+  type: item

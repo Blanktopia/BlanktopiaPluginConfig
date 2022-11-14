@@ -1,0 +1,7 @@
+name: Rope Horizontal Three
+material: PAPER
+custom-model-data: 6860
+model: 'cocricotmod:block/rope_horizontal_three'
+
+block:
+  type: item

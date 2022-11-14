@@ -1,0 +1,7 @@
+name: Window Color Blue Pane Slant
+material: PAPER
+custom-model-data: 8706
+model: 'cocricotmod:block/window_color_blue_pane_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Incline Inner
+material: PAPER
+custom-model-data: 6716
+model: 'cocricotmod:block/roof_spanish_orange_incline_inner'
+
+block:
+  type: item

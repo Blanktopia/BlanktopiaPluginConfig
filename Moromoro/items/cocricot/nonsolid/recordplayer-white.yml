@@ -1,0 +1,7 @@
+name: Recordplayer White
+material: PAPER
+custom-model-data: 6336
+model: 'cocricotmod:block/recordplayer_white'
+
+block:
+  type: item

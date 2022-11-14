@@ -1,0 +1,7 @@
+name: Pergola Clear
+material: PAPER
+custom-model-data: 6225
+model: 'cocricotmod:block/pergola_clear'
+
+block:
+  type: item

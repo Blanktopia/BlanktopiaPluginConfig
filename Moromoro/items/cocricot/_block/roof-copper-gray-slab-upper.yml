@@ -1,0 +1,7 @@
+name: Roof Copper Gray Slab Upper
+material: PAPER
+custom-model-data: 6450
+model: 'cocricotmod:block/roof_copper_gray_slab_upper'
+
+block:
+  type: item

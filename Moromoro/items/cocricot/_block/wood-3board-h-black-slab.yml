@@ -1,0 +1,7 @@
+name: Wood  3board H Black Slab
+material: PAPER
+custom-model-data: 9432
+model: 'cocricotmod:block/wood_3board_h_black_slab'
+
+block:
+  type: item

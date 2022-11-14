@@ -1,0 +1,7 @@
+name: Roundtable Paris White
+material: PAPER
+custom-model-data: 6897
+model: cocricotmod:block/roundtable_paris_white
+block:
+  type: item
+  collision: true

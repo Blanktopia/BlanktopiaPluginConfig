@@ -1,0 +1,7 @@
+name: Roof Claytile Blue Plate
+material: PAPER
+custom-model-data: 6377
+model: 'cocricotmod:block/roof_claytile_blue_plate'
+
+block:
+  type: item

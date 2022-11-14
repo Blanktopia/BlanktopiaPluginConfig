@@ -1,0 +1,7 @@
+name: Base Placed
+material: PAPER
+custom-model-data: 2332
+model: 'cocricotmod:block/base_placed'
+
+block:
+  type: item

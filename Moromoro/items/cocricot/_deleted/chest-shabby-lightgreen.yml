@@ -1,0 +1,7 @@
+name: Chest Shabby Lightgreen
+material: PAPER
+custom-model-data: 3089
+model: 'cocricotmod:block/chest_shabby_lightgreen'
+
+block:
+  type: item

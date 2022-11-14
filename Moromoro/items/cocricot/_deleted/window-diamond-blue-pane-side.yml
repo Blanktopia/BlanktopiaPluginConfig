@@ -1,0 +1,7 @@
+name: Window Diamond Blue Pane Side
+material: PAPER
+custom-model-data: 8810
+model: 'cocricotmod:block/window_diamond_blue_pane_side'
+
+block:
+  type: item

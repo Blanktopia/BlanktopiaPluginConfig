@@ -1,0 +1,7 @@
+name: Stone Tile Sand Pile Height 0
+material: PAPER
+custom-model-data: 7976
+model: 'cocricotmod:block/stone_tile_sand_pile_height10'
+
+block:
+  type: item

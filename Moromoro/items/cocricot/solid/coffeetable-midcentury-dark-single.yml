@@ -1,0 +1,7 @@
+name: Coffeetable Midcentury Dark Single
+material: PAPER
+custom-model-data: 3182
+model: cocricotmod:block/coffeetable_midcentury_dark_single
+block:
+  type: item
+  collision: true

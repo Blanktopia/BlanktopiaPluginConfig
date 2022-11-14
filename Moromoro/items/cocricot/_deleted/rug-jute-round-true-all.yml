@@ -1,0 +1,7 @@
+name: Rug Jute Round True All
+material: PAPER
+custom-model-data: 6928
+model: 'cocricotmod:block/rug_jute_round_true_all'
+
+block:
+  type: item

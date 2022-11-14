@@ -1,0 +1,7 @@
+name: Cushion Tropical Right A
+material: PAPER
+custom-model-data: 3376
+model: 'cocricotmod:block/cushion_tropical_right_a'
+
+block:
+  type: item

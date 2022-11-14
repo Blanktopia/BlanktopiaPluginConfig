@@ -1,0 +1,7 @@
+name: Sofa Slipper Red Outer
+material: PAPER
+custom-model-data: 7514
+model: cocricotmod:block/sofa_slipper_red_outer
+block:
+  type: item
+  sit-height: 0.4375

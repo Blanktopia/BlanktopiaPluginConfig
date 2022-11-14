@@ -1,0 +1,7 @@
+name: Stone Color Lightgreen Stick
+material: PAPER
+custom-model-data: 7797
+model: 'cocricotmod:block/stone_color_lightgreen_stick'
+
+block:
+  type: item

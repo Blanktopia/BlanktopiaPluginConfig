@@ -1,0 +1,7 @@
+name: Stair Iron Inner
+material: PAPER
+custom-model-data: 7573
+model: 'cocricotmod:block/stair_iron_inner'
+
+block:
+  type: item

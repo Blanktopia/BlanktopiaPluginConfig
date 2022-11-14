@@ -1,0 +1,7 @@
+name: Table American
+material: PAPER
+custom-model-data: 8150
+model: 'cocricotmod:block/table_american'
+
+block:
+  type: item

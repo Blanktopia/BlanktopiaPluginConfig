@@ -1,0 +1,7 @@
+name: Woodenbox Tomato
+material: PAPER
+custom-model-data: 9930
+model: 'cocricotmod:block/woodenbox_tomato'
+
+block:
+  type: item

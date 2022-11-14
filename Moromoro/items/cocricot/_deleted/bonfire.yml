@@ -1,0 +1,7 @@
+name: Bonfire
+material: PAPER
+custom-model-data: 2478
+model: 'cocricotmod:block/bonfire'
+
+block:
+  type: item

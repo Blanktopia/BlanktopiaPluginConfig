@@ -1,0 +1,7 @@
+name: Awning Stripe Black Stairs Inner
+material: PAPER
+custom-model-data: 2143
+model: 'cocricotmod:block/awning_stripe_black_stairs_inner'
+
+block:
+  type: item

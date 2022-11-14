@@ -1,0 +1,7 @@
+name: Handrail Wood Side
+material: PAPER
+custom-model-data: 5593
+model: 'cocricotmod:block/handrail_wood_side'
+
+block:
+  type: item

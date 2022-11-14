@@ -1,0 +1,7 @@
+name: Clothes Dressform Wire Black
+material: PAPER
+custom-model-data: 3119
+model: 'cocricotmod:block/clothes_dressform_wire_black'
+
+block:
+  type: item

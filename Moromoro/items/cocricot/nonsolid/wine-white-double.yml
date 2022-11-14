@@ -1,0 +1,7 @@
+name: Wine White Double
+material: PAPER
+custom-model-data: 9253
+model: 'cocricotmod:block/wine_white_double'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Shopfacade Paris Yellow Vertical
+material: PAPER
+custom-model-data: 7234
+model: 'cocricotmod:block/shopfacade_paris_yellow_vertical'
+
+block:
+  type: item

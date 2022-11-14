@@ -1,0 +1,7 @@
+name: Wood  6board Natural Stairs Outer
+material: PAPER
+custom-model-data: 9635
+model: 'cocricotmod:block/wood_6board_natural_stairs_outer'
+
+block:
+  type: item

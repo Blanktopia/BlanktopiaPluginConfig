@@ -1,0 +1,7 @@
+name: Hammock Rope
+material: PAPER
+custom-model-data: 5554
+model: 'cocricotmod:block/hammock_rope'
+
+block:
+  type: item

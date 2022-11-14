@@ -1,0 +1,7 @@
+name: Stonebrick Stick
+material: PAPER
+custom-model-data: 7994
+model: 'cocricotmod:block/stonebrick_stick'
+
+block:
+  type: item

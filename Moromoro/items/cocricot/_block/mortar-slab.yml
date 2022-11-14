@@ -1,0 +1,7 @@
+name: Mortar Slab
+material: PAPER
+custom-model-data: 6134
+model: 'cocricotmod:block/mortar_slab'
+
+block:
+  type: item

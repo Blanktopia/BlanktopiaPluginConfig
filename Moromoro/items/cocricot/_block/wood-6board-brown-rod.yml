@@ -1,0 +1,7 @@
+name: Wood  6board Brown Rod
+material: PAPER
+custom-model-data: 9538
+model: 'cocricotmod:block/wood_6board_brown_rod'
+
+block:
+  type: item

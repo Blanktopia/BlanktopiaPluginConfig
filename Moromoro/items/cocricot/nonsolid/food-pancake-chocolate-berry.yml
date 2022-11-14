@@ -1,0 +1,7 @@
+name: Food Pancake Chocolate Berry
+material: PAPER
+custom-model-data: 4937
+model: 'cocricotmod:block/food_pancake_chocolate_berry'
+
+block:
+  type: item

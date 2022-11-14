@@ -1,0 +1,7 @@
+name: Carpet Stair
+material: PAPER
+custom-model-data: 2923
+model: 'cocricotmod:block/carpet_stair'
+
+block:
+  type: item

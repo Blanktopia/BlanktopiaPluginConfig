@@ -1,0 +1,7 @@
+name: Door  2panel Lightgray Bottom Rh
+material: PAPER
+custom-model-data: 3610
+model: 'cocricotmod:block/door_2panel_lightgray_bottom_rh'
+
+block:
+  type: item

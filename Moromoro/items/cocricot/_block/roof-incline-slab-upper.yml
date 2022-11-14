@@ -1,0 +1,7 @@
+name: Roof Incline Slab Upper
+material: PAPER
+custom-model-data: 6617
+model: 'cocricotmod:block/roof_incline_slab_upper'
+
+block:
+  type: item

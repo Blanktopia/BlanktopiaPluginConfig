@@ -1,0 +1,7 @@
+name: Awning Stripe Darkbrown Lower
+material: PAPER
+custom-model-data: 2160
+model: 'cocricotmod:block/awning_stripe_darkbrown_lower'
+
+block:
+  type: item

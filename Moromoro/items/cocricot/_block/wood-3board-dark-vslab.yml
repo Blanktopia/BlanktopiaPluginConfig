@@ -1,0 +1,7 @@
+name: Wood  3board Dark Vslab
+material: PAPER
+custom-model-data: 9428
+model: 'cocricotmod:block/wood_3board_dark_vslab'
+
+block:
+  type: item

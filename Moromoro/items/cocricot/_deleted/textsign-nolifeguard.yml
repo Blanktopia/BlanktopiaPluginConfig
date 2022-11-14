@@ -1,0 +1,7 @@
+name: Textsign Nolifeguard
+material: PAPER
+custom-model-data: 8263
+model: 'cocricotmod:block/textsign_nolifeguard'
+
+block:
+  type: item

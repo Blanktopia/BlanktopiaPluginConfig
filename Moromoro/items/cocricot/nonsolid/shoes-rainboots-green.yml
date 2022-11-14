@@ -1,0 +1,7 @@
+name: Shoes Rainboots Green
+material: PAPER
+custom-model-data: 7179
+model: 'cocricotmod:block/shoes_rainboots_green'
+
+block:
+  type: item

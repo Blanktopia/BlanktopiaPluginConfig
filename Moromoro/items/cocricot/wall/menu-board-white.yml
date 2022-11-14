@@ -1,0 +1,7 @@
+name: Menu Board White
+material: PAPER
+custom-model-data: 6109
+model: 'cocricotmod:block/menu_board_white'
+
+block:
+  type: item

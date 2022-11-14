@@ -1,0 +1,7 @@
+name: Garland Small Cool
+material: PAPER
+custom-model-data: 5037
+model: 'cocricotmod:block/garland_small_cool'
+
+block:
+  type: item

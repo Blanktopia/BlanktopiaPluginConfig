@@ -1,0 +1,7 @@
+name: Dentilmolding Black Outer
+material: PAPER
+custom-model-data: 3410
+model: 'cocricotmod:block/dentilmolding_black_outer'
+
+block:
+  type: item

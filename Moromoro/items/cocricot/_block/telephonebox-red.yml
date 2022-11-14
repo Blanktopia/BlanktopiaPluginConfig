@@ -1,0 +1,7 @@
+name: Telephonebox Red
+material: PAPER
+custom-model-data: 8257
+model: 'cocricotmod:block/telephonebox_red'
+
+block:
+  type: item

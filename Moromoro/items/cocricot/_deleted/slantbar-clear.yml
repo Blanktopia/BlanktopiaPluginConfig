@@ -1,0 +1,7 @@
+name: Slantbar Clear
+material: PAPER
+custom-model-data: 7336
+model: 'cocricotmod:block/slantbar_clear'
+
+block:
+  type: item

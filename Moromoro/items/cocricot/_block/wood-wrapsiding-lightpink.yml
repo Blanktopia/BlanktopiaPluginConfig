@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightpink
+material: PAPER
+custom-model-data: 9894
+model: 'cocricotmod:block/wood_wrapsiding_lightpink'
+
+block:
+  type: item

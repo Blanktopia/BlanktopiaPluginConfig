@@ -1,0 +1,7 @@
+name: Bracket Black
+material: PAPER
+custom-model-data: 2586
+model: 'cocricotmod:block/bracket_black'
+
+block:
+  type: item

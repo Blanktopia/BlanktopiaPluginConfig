@@ -1,0 +1,7 @@
+name: Countertable Wood Brown
+material: PAPER
+custom-model-data: 3238
+model: 'cocricotmod:block/countertable_wood_brown'
+
+block:
+  type: item

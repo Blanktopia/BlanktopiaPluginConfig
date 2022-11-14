@@ -1,0 +1,7 @@
+name: Food Pancake
+material: PAPER
+custom-model-data: 4934
+model: 'cocricotmod:block/food_pancake'
+
+block:
+  type: item

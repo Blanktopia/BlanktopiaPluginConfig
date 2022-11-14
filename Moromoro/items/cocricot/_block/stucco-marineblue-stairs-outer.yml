@@ -1,0 +1,7 @@
+name: Stucco Marineblue Stairs Outer
+material: PAPER
+custom-model-data: 8055
+model: 'cocricotmod:block/stucco_marineblue_stairs_outer'
+
+block:
+  type: item

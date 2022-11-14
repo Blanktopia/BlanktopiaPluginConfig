@@ -1,0 +1,7 @@
+name: Window Color Darkbrown Pane Side
+material: PAPER
+custom-model-data: 8712
+model: 'cocricotmod:block/window_color_darkbrown_pane_side'
+
+block:
+  type: item

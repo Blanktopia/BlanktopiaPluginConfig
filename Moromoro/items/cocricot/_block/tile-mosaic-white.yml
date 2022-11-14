@@ -1,0 +1,7 @@
+name: Tile Mosaic White
+material: PAPER
+custom-model-data: 8305
+model: 'cocricotmod:block/tile_mosaic_white'
+
+block:
+  type: item

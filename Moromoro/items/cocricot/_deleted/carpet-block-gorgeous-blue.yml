@@ -1,0 +1,7 @@
+name: Carpet Block Gorgeous Blue
+material: PAPER
+custom-model-data: 2905
+model: 'cocricotmod:block/carpet_block_gorgeous_blue'
+
+block:
+  type: item

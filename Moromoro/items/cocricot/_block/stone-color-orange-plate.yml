@@ -1,0 +1,7 @@
+name: Stone Color Orange Plate
+material: PAPER
+custom-model-data: 7816
+model: 'cocricotmod:block/stone_color_orange_plate'
+
+block:
+  type: item

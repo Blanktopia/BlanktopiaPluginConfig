@@ -1,0 +1,7 @@
+name: Stair Brown Outer
+material: PAPER
+custom-model-data: 7559
+model: 'cocricotmod:block/stair_brown_outer'
+
+block:
+  type: item

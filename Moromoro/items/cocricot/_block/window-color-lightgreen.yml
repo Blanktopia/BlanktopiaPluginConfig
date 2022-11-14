@@ -1,0 +1,7 @@
+name: Window Color Lightgreen
+material: PAPER
+custom-model-data: 8743
+model: 'cocricotmod:block/window_color_lightgreen'
+
+block:
+  type: item

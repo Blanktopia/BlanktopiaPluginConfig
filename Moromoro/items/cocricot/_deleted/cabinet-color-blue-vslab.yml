@@ -1,0 +1,7 @@
+name: Cabinet Color Blue Vslab
+material: PAPER
+custom-model-data: 2756
+model: 'cocricotmod:block/cabinet_color_blue_vslab'
+
+block:
+  type: item

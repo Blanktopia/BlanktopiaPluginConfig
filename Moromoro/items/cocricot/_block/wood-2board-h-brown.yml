@@ -1,0 +1,7 @@
+name: Wood  2board H Brown
+material: PAPER
+custom-model-data: 9304
+model: 'cocricotmod:block/wood_2board_h_brown'
+
+block:
+  type: item

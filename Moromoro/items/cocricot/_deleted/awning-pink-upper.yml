@@ -1,0 +1,7 @@
+name: Awning Pink Upper
+material: PAPER
+custom-model-data: 2120
+model: 'cocricotmod:block/awning_pink_upper'
+
+block:
+  type: item

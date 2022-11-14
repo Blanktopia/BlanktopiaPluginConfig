@@ -1,0 +1,7 @@
+name: Wood  2board Clear
+material: PAPER
+custom-model-data: 9276
+model: 'cocricotmod:block/wood_2board_clear'
+
+block:
+  type: item

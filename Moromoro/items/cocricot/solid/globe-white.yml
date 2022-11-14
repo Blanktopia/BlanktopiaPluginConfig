@@ -1,0 +1,7 @@
+name: Globe White
+material: PAPER
+custom-model-data: 5163
+model: cocricotmod:block/globe_white
+block:
+  type: item
+  collision: true

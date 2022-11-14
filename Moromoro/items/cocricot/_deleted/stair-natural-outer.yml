@@ -1,0 +1,7 @@
+name: Stair Natural Outer
+material: PAPER
+custom-model-data: 7584
+model: 'cocricotmod:block/stair_natural_outer'
+
+block:
+  type: item

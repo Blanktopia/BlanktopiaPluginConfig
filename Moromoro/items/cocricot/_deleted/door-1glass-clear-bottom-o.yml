@@ -1,0 +1,7 @@
+name: Door  1glass Clear Bottom O
+material: PAPER
+custom-model-data: 3529
+model: 'cocricotmod:block/door_1glass_clear_bottom_o'
+
+block:
+  type: item

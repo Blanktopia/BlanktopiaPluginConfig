@@ -1,0 +1,7 @@
+name: Wood  3board Natural Slab Upper
+material: PAPER
+custom-model-data: 9492
+model: 'cocricotmod:block/wood_3board_natural_slab_upper'
+
+block:
+  type: item

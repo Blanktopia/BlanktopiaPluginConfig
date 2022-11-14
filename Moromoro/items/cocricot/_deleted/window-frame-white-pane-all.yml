@@ -1,0 +1,7 @@
+name: Window Frame White Pane All
+material: PAPER
+custom-model-data: 8982
+model: 'cocricotmod:block/window_frame_white_pane_all'
+
+block:
+  type: item

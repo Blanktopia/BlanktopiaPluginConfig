@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Seadrift
+material: PAPER
+custom-model-data: 9846
+model: 'cocricotmod:block/wood_wainscot_panels_seadrift'
+
+block:
+  type: item

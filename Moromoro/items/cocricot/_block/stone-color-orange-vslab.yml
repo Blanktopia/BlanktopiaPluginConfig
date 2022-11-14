@@ -1,0 +1,7 @@
+name: Stone Color Orange Vslab
+material: PAPER
+custom-model-data: 7824
+model: 'cocricotmod:block/stone_color_orange_vslab'
+
+block:
+  type: item

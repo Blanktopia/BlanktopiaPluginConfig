@@ -1,0 +1,7 @@
+name: Sofa Simple Black Right
+material: PAPER
+custom-model-data: 7403
+model: cocricotmod:block/sofa_simple_black_right
+block:
+  type: item
+  sit-height: 0.4375

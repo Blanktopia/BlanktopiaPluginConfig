@@ -1,0 +1,7 @@
+name: Tapioca Matcha Table
+material: PAPER
+custom-model-data: 8239
+model: 'cocricotmod:block/tapioca_matcha_table'
+
+block:
+  type: item

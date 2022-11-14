@@ -1,0 +1,7 @@
+name: Ironlight Round White
+material: PAPER
+custom-model-data: 5861
+model: 'cocricotmod:block/ironlight_round_white'
+
+block:
+  type: item

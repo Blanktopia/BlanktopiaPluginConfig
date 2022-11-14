@@ -1,0 +1,7 @@
+name: Leader Straight
+material: PAPER
+custom-model-data: 5931
+model: 'cocricotmod:block/leader_straight'
+
+block:
+  type: item

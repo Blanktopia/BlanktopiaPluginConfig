@@ -1,0 +1,7 @@
+name: Cafetable Dark
+material: PAPER
+custom-model-data: 2842
+model: 'cocricotmod:block/cafetable_dark'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chest Log
+material: PAPER
+custom-model-data: 3074
+model: 'cocricotmod:block/chest_log'
+
+block:
+  type: item

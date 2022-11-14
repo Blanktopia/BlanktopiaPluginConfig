@@ -1,0 +1,7 @@
+name: Desk Simple Brown Both
+material: PAPER
+custom-model-data: 3425
+model: cocricotmod:block/desk_simple_brown_both
+block:
+  type: item
+  collision: true

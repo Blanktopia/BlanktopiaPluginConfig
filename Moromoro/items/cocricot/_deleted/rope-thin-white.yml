@@ -1,0 +1,7 @@
+name: Rope Thin White
+material: PAPER
+custom-model-data: 6883
+model: 'cocricotmod:block/rope_thin_white'
+
+block:
+  type: item

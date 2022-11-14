@@ -1,0 +1,7 @@
+name: Window Diamond Natural Pane Three
+material: PAPER
+custom-model-data: 8875
+model: 'cocricotmod:block/window_diamond_natural_pane_three'
+
+block:
+  type: item

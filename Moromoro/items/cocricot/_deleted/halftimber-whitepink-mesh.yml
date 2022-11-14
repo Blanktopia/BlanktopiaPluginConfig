@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Mesh
+material: PAPER
+custom-model-data: 5497
+model: 'cocricotmod:block/halftimber_whitepink_mesh'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Ceilinghook Black Three
+material: PAPER
+custom-model-data: 2933
+model: 'cocricotmod:block/ceilinghook_black_three'
+
+block:
+  type: item

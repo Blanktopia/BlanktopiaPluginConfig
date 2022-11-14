@@ -1,0 +1,7 @@
+name: Stone Color Lightgray Rod
+material: PAPER
+custom-model-data: 7778
+model: 'cocricotmod:block/stone_color_lightgray_rod'
+
+block:
+  type: item

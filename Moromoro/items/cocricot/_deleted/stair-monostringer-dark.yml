@@ -1,0 +1,7 @@
+name: Stair Monostringer Dark
+material: PAPER
+custom-model-data: 7578
+model: 'cocricotmod:block/stair_monostringer_dark'
+
+block:
+  type: item

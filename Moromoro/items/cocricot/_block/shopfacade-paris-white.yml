@@ -1,0 +1,7 @@
+name: Shopfacade Paris White
+material: PAPER
+custom-model-data: 7226
+model: 'cocricotmod:block/shopfacade_paris_white'
+
+block:
+  type: item

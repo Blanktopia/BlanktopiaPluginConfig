@@ -1,0 +1,7 @@
+name: Marinelamp Bulkhead Gold
+material: PAPER
+custom-model-data: 6069
+model: 'cocricotmod:block/marinelamp_bulkhead_gold'
+
+block:
+  type: item

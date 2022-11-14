@@ -1,0 +1,7 @@
+name: Cabinet Color Lightblue Vslab
+material: PAPER
+custom-model-data: 2762
+model: 'cocricotmod:block/cabinet_color_lightblue_vslab'
+
+block:
+  type: item

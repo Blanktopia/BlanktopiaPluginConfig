@@ -1,0 +1,7 @@
+name: Sconce Double Fabricshade Gold
+material: PAPER
+custom-model-data: 7149
+model: 'cocricotmod:block/sconce_double_fabricshade_gold'
+
+block:
+  type: item

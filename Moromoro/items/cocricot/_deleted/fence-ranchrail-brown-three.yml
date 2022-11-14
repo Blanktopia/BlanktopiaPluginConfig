@@ -1,0 +1,7 @@
+name: Fence Ranchrail Brown Three
+material: PAPER
+custom-model-data: 4764
+model: 'cocricotmod:block/fence_ranchrail_brown_three'
+
+block:
+  type: item

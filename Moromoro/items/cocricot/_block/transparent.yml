@@ -1,0 +1,7 @@
+name: Transparent
+material: PAPER
+custom-model-data: 8323
+model: 'cocricotmod:block/transparent'
+
+block:
+  type: item

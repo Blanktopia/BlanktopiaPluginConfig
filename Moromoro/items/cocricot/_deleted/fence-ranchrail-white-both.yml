@@ -1,0 +1,7 @@
+name: Fence Ranchrail White Both
+material: PAPER
+custom-model-data: 4802
+model: 'cocricotmod:block/fence_ranchrail_white_both'
+
+block:
+  type: item

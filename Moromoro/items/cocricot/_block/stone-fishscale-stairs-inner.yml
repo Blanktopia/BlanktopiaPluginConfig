@@ -1,0 +1,7 @@
+name: Stone Fishscale Stairs Inner
+material: PAPER
+custom-model-data: 7890
+model: 'cocricotmod:block/stone_fishscale_stairs_inner'
+
+block:
+  type: item

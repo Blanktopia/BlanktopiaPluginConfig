@@ -1,0 +1,7 @@
+name: Halftimber Darkorange Frame Slab Upper
+material: PAPER
+custom-model-data: 5373
+model: 'cocricotmod:block/halftimber_darkorange_frame_slab_upper'
+
+block:
+  type: item

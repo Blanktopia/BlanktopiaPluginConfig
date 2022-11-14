@@ -1,0 +1,7 @@
+name: Woodfence Rope Item
+material: PAPER
+custom-model-data: 9933
+model: 'cocricotmod:block/woodfence_rope_item'
+
+block:
+  type: item

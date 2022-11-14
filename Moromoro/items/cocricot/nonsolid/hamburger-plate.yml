@@ -1,0 +1,7 @@
+name: Hamburger Plate
+material: PAPER
+custom-model-data: 5552
+model: 'cocricotmod:block/hamburger_plate'
+
+block:
+  type: item

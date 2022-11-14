@@ -1,0 +1,7 @@
+name: Wood  2board H Clear Slab Upper
+material: PAPER
+custom-model-data: 9315
+model: 'cocricotmod:block/wood_2board_h_clear_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drainpipe Gutter Bronze Inner
+material: PAPER
+custom-model-data: 4519
+model: 'cocricotmod:block/drainpipe_gutter_bronze_inner'
+
+block:
+  type: item

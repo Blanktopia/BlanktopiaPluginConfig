@@ -1,0 +1,7 @@
+name: Shopfacade Paris White Vertical
+material: PAPER
+custom-model-data: 7228
+model: 'cocricotmod:block/shopfacade_paris_white_vertical'
+
+block:
+  type: item

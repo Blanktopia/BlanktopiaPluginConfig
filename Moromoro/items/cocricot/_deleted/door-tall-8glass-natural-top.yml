@@ -1,0 +1,7 @@
+name: Door Tall  8glass Natural Top
+material: PAPER
+custom-model-data: 4460
+model: 'cocricotmod:block/door_tall_8glass_natural_top'
+
+block:
+  type: item

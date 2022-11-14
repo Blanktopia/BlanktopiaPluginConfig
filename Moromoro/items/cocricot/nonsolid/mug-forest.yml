@@ -1,0 +1,7 @@
+name: Mug Forest
+material: PAPER
+custom-model-data: 6143
+model: 'cocricotmod:block/mug_forest'
+
+block:
+  type: item

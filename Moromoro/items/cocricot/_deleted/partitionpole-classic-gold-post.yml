@@ -1,0 +1,7 @@
+name: Partitionpole Classic Gold Post
+material: PAPER
+custom-model-data: 6176
+model: 'cocricotmod:block/partitionpole_classic_gold_post'
+
+block:
+  type: item

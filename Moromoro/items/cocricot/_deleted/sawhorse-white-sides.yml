@@ -1,0 +1,7 @@
+name: Sawhorse White Sides
+material: PAPER
+custom-model-data: 7145
+model: 'cocricotmod:block/sawhorse_white_sides'
+
+block:
+  type: item

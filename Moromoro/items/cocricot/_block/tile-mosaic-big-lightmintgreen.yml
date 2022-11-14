@@ -1,0 +1,7 @@
+name: Tile Mosaic Big Lightmintgreen
+material: PAPER
+custom-model-data: 8298
+model: 'cocricotmod:block/tile_mosaic_big_lightmintgreen'
+
+block:
+  type: item

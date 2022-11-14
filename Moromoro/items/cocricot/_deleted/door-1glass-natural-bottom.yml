@@ -1,0 +1,7 @@
+name: Door  1glass Natural Bottom
+material: PAPER
+custom-model-data: 3544
+model: 'cocricotmod:block/door_1glass_natural_bottom'
+
+block:
+  type: item

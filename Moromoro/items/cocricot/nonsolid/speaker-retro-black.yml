@@ -1,0 +1,7 @@
+name: Speaker Retro Black
+material: PAPER
+custom-model-data: 7545
+model: 'cocricotmod:block/speaker_retro_black'
+
+block:
+  type: item

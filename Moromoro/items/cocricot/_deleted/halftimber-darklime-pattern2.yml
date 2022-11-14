@@ -1,0 +1,7 @@
+name: Halftimber Darklime Pattern 2
+material: PAPER
+custom-model-data: 5347
+model: 'cocricotmod:block/halftimber_darklime_pattern2'
+
+block:
+  type: item

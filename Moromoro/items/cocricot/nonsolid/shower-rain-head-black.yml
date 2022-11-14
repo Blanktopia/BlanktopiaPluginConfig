@@ -1,0 +1,7 @@
+name: Shower Rain Head Black
+material: PAPER
+custom-model-data: 7239
+model: 'cocricotmod:block/shower_rain_head_black'
+
+block:
+  type: item

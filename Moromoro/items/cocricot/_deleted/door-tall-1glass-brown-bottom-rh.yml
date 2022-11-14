@@ -1,0 +1,7 @@
+name: Door Tall  1glass Brown Bottom Rh
+material: PAPER
+custom-model-data: 3882
+model: 'cocricotmod:block/door_tall_1glass_brown_bottom_rh'
+
+block:
+  type: item

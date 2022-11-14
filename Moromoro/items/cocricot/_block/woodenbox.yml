@@ -1,0 +1,7 @@
+name: Woodenbox
+material: PAPER
+custom-model-data: 9914
+model: 'cocricotmod:block/woodenbox'
+
+block:
+  type: item

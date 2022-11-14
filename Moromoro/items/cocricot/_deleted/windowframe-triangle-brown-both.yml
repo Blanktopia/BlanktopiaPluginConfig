@@ -1,0 +1,7 @@
+name: Windowframe Triangle Brown Both
+material: PAPER
+custom-model-data: 9228
+model: 'cocricotmod:block/windowframe_triangle_brown_both'
+
+block:
+  type: item

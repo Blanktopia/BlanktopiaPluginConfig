@@ -1,0 +1,7 @@
+name: Rustication Banded Sand
+material: PAPER
+custom-model-data: 7107
+model: 'cocricotmod:block/rustication_banded_sand'
+
+block:
+  type: item

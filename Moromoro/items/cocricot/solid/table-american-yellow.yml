@@ -1,0 +1,7 @@
+name: Table American Yellow
+material: PAPER
+custom-model-data: 8158
+model: cocricotmod:block/table_american_yellow
+block:
+  type: item
+  collision: true

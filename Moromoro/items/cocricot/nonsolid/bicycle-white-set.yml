@@ -1,0 +1,7 @@
+name: Bicycle White Set
+material: PAPER
+custom-model-data: 2472
+model: 'cocricotmod:block/bicycle_white_set'
+
+block:
+  type: item

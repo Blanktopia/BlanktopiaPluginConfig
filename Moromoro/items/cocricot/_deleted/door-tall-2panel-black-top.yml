@@ -1,0 +1,7 @@
+name: Door Tall  2panel Black Top
+material: PAPER
+custom-model-data: 4060
+model: 'cocricotmod:block/door_tall_2panel_black_top'
+
+block:
+  type: item

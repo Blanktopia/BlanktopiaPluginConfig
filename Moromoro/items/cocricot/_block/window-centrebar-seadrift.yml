@@ -1,0 +1,7 @@
+name: Window Centrebar Seadrift
+material: PAPER
+custom-model-data: 8673
+model: 'cocricotmod:block/window_centrebar_seadrift'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bed Mattress Red
+material: PAPER
+custom-model-data: 2417
+model: cocricotmod:block/bed_mattress_red
+block:
+  type: item
+  collision: true

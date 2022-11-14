@@ -1,0 +1,7 @@
+name: Wood Natural Stairs Outer
+material: PAPER
+custom-model-data: 9790
+model: 'cocricotmod:block/wood_natural_stairs_outer'
+
+block:
+  type: item

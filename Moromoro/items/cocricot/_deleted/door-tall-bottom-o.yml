@@ -1,0 +1,7 @@
+name: Door Tall Bottom O
+material: PAPER
+custom-model-data: 4481
+model: 'cocricotmod:block/door_tall_bottom_o'
+
+block:
+  type: item

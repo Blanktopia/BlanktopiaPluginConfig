@@ -1,0 +1,7 @@
+name: Stone Tile Sand Rod
+material: PAPER
+custom-model-data: 7980
+model: 'cocricotmod:block/stone_tile_sand_rod'
+
+block:
+  type: item

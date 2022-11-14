@@ -1,0 +1,7 @@
+name: Fence Ranchrail Black Both
+material: PAPER
+custom-model-data: 4754
+model: 'cocricotmod:block/fence_ranchrail_black_both'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Plaster White White
+material: PAPER
+custom-model-data: 2695
+model: 'cocricotmod:block/brick_plaster_white_white'
+
+block:
+  type: item

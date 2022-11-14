@@ -1,0 +1,7 @@
+name: Awning Green Upper
+material: PAPER
+custom-model-data: 2065
+model: 'cocricotmod:block/awning_green_upper'
+
+block:
+  type: item

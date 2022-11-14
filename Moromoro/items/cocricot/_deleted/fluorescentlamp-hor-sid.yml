@@ -1,0 +1,7 @@
+name: Fluorescentlamp Hor Sid
+material: PAPER
+custom-model-data: 4927
+model: 'cocricotmod:block/fluorescentlamp_hor_sid'
+
+block:
+  type: item

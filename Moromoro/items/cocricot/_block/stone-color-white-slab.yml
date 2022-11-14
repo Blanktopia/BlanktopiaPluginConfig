@@ -1,0 +1,7 @@
+name: Stone Color White Slab
+material: PAPER
+custom-model-data: 7857
+model: 'cocricotmod:block/stone_color_white_slab'
+
+block:
+  type: item

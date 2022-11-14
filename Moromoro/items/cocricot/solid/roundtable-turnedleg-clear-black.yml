@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Clear Black
+material: PAPER
+custom-model-data: 6902
+model: cocricotmod:block/roundtable_turnedleg_clear_black
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Flowerpot Antique Black
+material: PAPER
+custom-model-data: 4874
+model: 'cocricotmod:block/flowerpot_antique_black'
+
+block:
+  type: item

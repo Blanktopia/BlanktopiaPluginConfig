@@ -1,0 +1,7 @@
+name: Cushion Green
+material: PAPER
+custom-model-data: 3336
+model: 'cocricotmod:block/cushion_green'
+
+block:
+  type: item

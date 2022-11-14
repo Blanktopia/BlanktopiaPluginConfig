@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Vslab
+material: PAPER
+custom-model-data: 6610
+model: 'cocricotmod:block/roof_fishscale_red_vslab'
+
+block:
+  type: item

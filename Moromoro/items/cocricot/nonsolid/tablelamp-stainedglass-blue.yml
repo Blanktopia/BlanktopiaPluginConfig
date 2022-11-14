@@ -1,0 +1,7 @@
+name: Tablelamp Stainedglass Blue
+material: PAPER
+custom-model-data: 8228
+model: 'cocricotmod:block/tablelamp_stainedglass_blue'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Lightpurple Vslab
+material: PAPER
+custom-model-data: 7811
+model: 'cocricotmod:block/stone_color_lightpurple_vslab'
+
+block:
+  type: item

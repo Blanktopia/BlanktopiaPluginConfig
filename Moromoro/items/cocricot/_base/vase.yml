@@ -1,0 +1,7 @@
+name: Vase
+material: PAPER
+custom-model-data: 8339
+model: 'cocricotmod:block/vase'
+
+block:
+  type: item

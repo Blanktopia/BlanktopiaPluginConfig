@@ -1,0 +1,7 @@
+name: Stucco Yellow Stairs Outer
+material: PAPER
+custom-model-data: 8123
+model: 'cocricotmod:block/stucco_yellow_stairs_outer'
+
+block:
+  type: item

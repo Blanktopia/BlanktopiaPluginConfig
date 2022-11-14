@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Stone Side
+material: PAPER
+custom-model-data: 5585
+model: 'cocricotmod:block/handrail_turnedleg_stone_side'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Plaster White Red
+material: PAPER
+custom-model-data: 2694
+model: 'cocricotmod:block/brick_plaster_white_red'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Shopfacade Paris Lightblue Pillar
+material: PAPER
+custom-model-data: 7206
+model: 'cocricotmod:block/shopfacade_paris_lightblue_pillar'
+
+block:
+  type: item

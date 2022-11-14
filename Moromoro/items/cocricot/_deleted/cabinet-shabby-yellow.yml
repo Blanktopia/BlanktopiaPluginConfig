@@ -1,0 +1,7 @@
+name: Cabinet Shabby Yellow
+material: PAPER
+custom-model-data: 2830
+model: 'cocricotmod:block/cabinet_shabby_yellow'
+
+block:
+  type: item

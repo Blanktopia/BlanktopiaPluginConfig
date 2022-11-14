@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Blue
+material: PAPER
+custom-model-data: 2777
+model: 'cocricotmod:block/cabinet_glass_color_blue'
+
+block:
+  type: item

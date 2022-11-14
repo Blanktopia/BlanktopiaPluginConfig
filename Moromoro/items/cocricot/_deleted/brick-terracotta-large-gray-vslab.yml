@@ -1,0 +1,7 @@
+name: Brick Terracotta Large Gray Vslab
+material: PAPER
+custom-model-data: 2727
+model: 'cocricotmod:block/brick_terracotta_large_gray_vslab'
+
+block:
+  type: item

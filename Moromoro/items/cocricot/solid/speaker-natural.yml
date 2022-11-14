@@ -1,0 +1,7 @@
+name: Speaker Natural
+material: PAPER
+custom-model-data: 7544
+model: cocricotmod:block/speaker_natural
+block:
+  type: item
+  collision: true

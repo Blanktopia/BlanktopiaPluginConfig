@@ -1,0 +1,7 @@
+name: Roof Tile Gray Incline White Odd
+material: PAPER
+custom-model-data: 6822
+model: 'cocricotmod:block/roof_tile_gray_incline_white_odd'
+
+block:
+  type: item

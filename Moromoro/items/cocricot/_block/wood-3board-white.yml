@@ -1,0 +1,7 @@
+name: Wood  3board White
+material: PAPER
+custom-model-data: 9510
+model: 'cocricotmod:block/wood_3board_white'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Magazinerack Brown
+material: PAPER
+custom-model-data: 6029
+model: 'cocricotmod:block/magazinerack_brown'
+
+block:
+  type: item

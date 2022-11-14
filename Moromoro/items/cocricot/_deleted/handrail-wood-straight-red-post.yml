@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Red Post
+material: PAPER
+custom-model-data: 5649
+model: 'cocricotmod:block/handrail_wood_straight_red_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Lightgreen
+material: PAPER
+custom-model-data: 2785
+model: 'cocricotmod:block/cabinet_glass_color_lightgreen'
+
+block:
+  type: item

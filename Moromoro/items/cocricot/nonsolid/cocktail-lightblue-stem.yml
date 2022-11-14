@@ -1,0 +1,7 @@
+name: Cocktail Lightblue Stem
+material: PAPER
+custom-model-data: 3123
+model: 'cocricotmod:block/cocktail_lightblue_stem'
+
+block:
+  type: item

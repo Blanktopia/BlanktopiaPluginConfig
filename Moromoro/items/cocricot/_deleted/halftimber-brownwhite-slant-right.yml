@@ -1,0 +1,7 @@
+name: Halftimber Brownwhite Slant Right
+material: PAPER
+custom-model-data: 5289
+model: 'cocricotmod:block/halftimber_brownwhite_slant_right'
+
+block:
+  type: item

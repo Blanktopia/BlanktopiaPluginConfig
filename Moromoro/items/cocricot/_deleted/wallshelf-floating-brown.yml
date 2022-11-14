@@ -1,0 +1,7 @@
+name: Wallshelf Floating Brown
+material: PAPER
+custom-model-data: 8503
+model: 'cocricotmod:block/wallshelf_floating_brown'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Table American Pink
+material: PAPER
+custom-model-data: 8154
+model: cocricotmod:block/table_american_pink
+block:
+  type: item
+  collision: true

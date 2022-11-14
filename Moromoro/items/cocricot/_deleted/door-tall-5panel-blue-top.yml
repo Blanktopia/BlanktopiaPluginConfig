@@ -1,0 +1,7 @@
+name: Door Tall  5panel Blue Top
+material: PAPER
+custom-model-data: 4188
+model: 'cocricotmod:block/door_tall_5panel_blue_top'
+
+block:
+  type: item

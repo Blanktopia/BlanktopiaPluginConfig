@@ -1,0 +1,7 @@
+name: Wood  2board Dark Slab Upper
+material: PAPER
+custom-model-data: 9291
+model: 'cocricotmod:block/wood_2board_dark_slab_upper'
+
+block:
+  type: item

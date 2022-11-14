@@ -1,0 +1,7 @@
+name: Sofa Slipper American Black Inner
+material: PAPER
+custom-model-data: 7438
+model: cocricotmod:block/sofa_slipper_american_black_inner
+block:
+  type: item
+  sit-height: 0.4375

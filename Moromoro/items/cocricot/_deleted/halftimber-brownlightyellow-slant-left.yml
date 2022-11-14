@@ -1,0 +1,7 @@
+name: Halftimber Brownlightyellow Slant Left
+material: PAPER
+custom-model-data: 5228
+model: 'cocricotmod:block/halftimber_brownlightyellow_slant_left'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  3board Seadrift Vslab Item
+material: PAPER
+custom-model-data: 9509
+model: 'cocricotmod:block/wood_3board_seadrift_vslab_item'
+
+block:
+  type: item

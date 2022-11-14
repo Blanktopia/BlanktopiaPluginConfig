@@ -1,0 +1,7 @@
+name: Halftimber Brownlime Pattern 1
+material: PAPER
+custom-model-data: 5241
+model: 'cocricotmod:block/halftimber_brownlime_pattern1'
+
+block:
+  type: item

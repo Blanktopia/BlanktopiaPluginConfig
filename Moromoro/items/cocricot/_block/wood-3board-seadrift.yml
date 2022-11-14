@@ -1,0 +1,7 @@
+name: Wood  3board Seadrift
+material: PAPER
+custom-model-data: 9498
+model: 'cocricotmod:block/wood_3board_seadrift'
+
+block:
+  type: item

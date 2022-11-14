@@ -1,0 +1,7 @@
+name: Drainpipe Gutter Black
+material: PAPER
+custom-model-data: 4515
+model: 'cocricotmod:block/drainpipe_gutter_black'
+
+block:
+  type: item

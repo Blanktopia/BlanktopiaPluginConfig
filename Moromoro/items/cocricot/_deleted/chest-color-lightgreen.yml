@@ -1,0 +1,7 @@
+name: Chest Color Lightgreen
+material: PAPER
+custom-model-data: 3069
+model: 'cocricotmod:block/chest_color_lightgreen'
+
+block:
+  type: item

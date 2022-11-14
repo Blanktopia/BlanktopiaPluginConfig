@@ -1,0 +1,7 @@
+name: Pattern Tribal Big Brown
+material: PAPER
+custom-model-data: 6206
+model: 'cocricotmod:block/pattern_tribal_big_brown'
+
+block:
+  type: item

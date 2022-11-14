@@ -1,0 +1,7 @@
+name: Rug Shag Round Pink True Three
+material: PAPER
+custom-model-data: 7055
+model: 'cocricotmod:block/rug_shag_round_pink_true_three'
+
+block:
+  type: item

@@ -1,0 +1,8 @@
+name: Tire Wild Small
+material: PAPER
+custom-model-data: 8310
+model: 'cocricotmod:block/tire_wild_small'
+
+block:
+  type: item
+  collision: true

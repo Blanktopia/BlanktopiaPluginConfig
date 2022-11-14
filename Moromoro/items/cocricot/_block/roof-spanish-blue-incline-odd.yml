@@ -1,0 +1,7 @@
+name: Roof Spanish Blue Incline Odd
+material: PAPER
+custom-model-data: 6635
+model: 'cocricotmod:block/roof_spanish_blue_incline_odd'
+
+block:
+  type: item

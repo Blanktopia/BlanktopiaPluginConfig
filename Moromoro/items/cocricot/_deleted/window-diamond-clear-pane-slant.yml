@@ -1,0 +1,7 @@
+name: Window Diamond Clear Pane Slant
+material: PAPER
+custom-model-data: 8825
+model: 'cocricotmod:block/window_diamond_clear_pane_slant'
+
+block:
+  type: item

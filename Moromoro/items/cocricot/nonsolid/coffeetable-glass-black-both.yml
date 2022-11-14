@@ -1,0 +1,7 @@
+name: Coffeetable Glass Black Both
+material: PAPER
+custom-model-data: 3142
+model: 'cocricotmod:block/coffeetable_glass_black_both'
+
+block:
+  type: item

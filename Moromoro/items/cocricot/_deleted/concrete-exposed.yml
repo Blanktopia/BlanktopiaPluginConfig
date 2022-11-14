@@ -1,0 +1,7 @@
+name: Concrete Exposed
+material: PAPER
+custom-model-data: 3194
+model: 'cocricotmod:block/concrete_exposed'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  3board Black Stairs
+material: PAPER
+custom-model-data: 9389
+model: 'cocricotmod:block/wood_3board_black_stairs'
+
+block:
+  type: item

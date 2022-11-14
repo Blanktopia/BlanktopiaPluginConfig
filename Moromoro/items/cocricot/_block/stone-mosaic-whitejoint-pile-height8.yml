@@ -1,0 +1,7 @@
+name: Stone Mosaic Whitejoint Pile Height 8
+material: PAPER
+custom-model-data: 7899
+model: 'cocricotmod:block/stone_mosaic_whitejoint_pile_height8'
+
+block:
+  type: item

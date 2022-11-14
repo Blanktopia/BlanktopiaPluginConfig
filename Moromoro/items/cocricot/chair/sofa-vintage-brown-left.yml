@@ -1,0 +1,7 @@
+name: Sofa Vintage Brown Left
+material: PAPER
+custom-model-data: 7526
+model: cocricotmod:block/sofa_vintage_brown_left
+block:
+  type: item
+  sit-height: 0.4375

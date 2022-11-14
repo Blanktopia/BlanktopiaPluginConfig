@@ -1,0 +1,7 @@
+name: Stone Plane Sand Stairs Outer
+material: PAPER
+custom-model-data: 7934
+model: 'cocricotmod:block/stone_plane_sand_stairs_outer'
+
+block:
+  type: item

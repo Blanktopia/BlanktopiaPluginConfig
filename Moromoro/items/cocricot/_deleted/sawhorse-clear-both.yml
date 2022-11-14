@@ -1,0 +1,7 @@
+name: Sawhorse Clear Both
+material: PAPER
+custom-model-data: 7139
+model: 'cocricotmod:block/sawhorse_clear_both'
+
+block:
+  type: item

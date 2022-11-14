@@ -1,0 +1,7 @@
+name: Door  4glass Seadrift Bottom Rh O
+material: PAPER
+custom-model-data: 3731
+model: 'cocricotmod:block/door_4glass_seadrift_bottom_rh_o'
+
+block:
+  type: item

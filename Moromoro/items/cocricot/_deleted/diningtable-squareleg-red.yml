@@ -1,0 +1,7 @@
+name: Diningtable Squareleg Red
+material: PAPER
+custom-model-data: 3442
+model: 'cocricotmod:block/diningtable_squareleg_red'
+
+block:
+  type: item

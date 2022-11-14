@@ -1,0 +1,7 @@
+name: Table Garden White
+material: PAPER
+custom-model-data: 8173
+model: cocricotmod:block/table_garden_white
+block:
+  type: item
+  collision: true

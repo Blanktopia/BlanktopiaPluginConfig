@@ -1,0 +1,7 @@
+name: Curtain Fringe Green
+material: PAPER
+custom-model-data: 3245
+model: 'cocricotmod:block/curtain_fringe_green'
+
+block:
+  type: item

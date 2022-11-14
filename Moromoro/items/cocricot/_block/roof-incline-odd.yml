@@ -1,0 +1,7 @@
+name: Roof Incline Odd
+material: PAPER
+custom-model-data: 6613
+model: 'cocricotmod:block/roof_incline_odd'
+
+block:
+  type: item

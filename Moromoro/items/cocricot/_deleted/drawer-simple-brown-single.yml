@@ -1,0 +1,7 @@
+name: Drawer Simple Brown Single
+material: PAPER
+custom-model-data: 4560
+model: 'cocricotmod:block/drawer_simple_brown_single'
+
+block:
+  type: item

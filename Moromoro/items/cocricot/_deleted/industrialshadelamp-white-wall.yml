@@ -1,0 +1,7 @@
+name: Industrialshadelamp White Wall
+material: PAPER
+custom-model-data: 5850
+model: 'cocricotmod:block/industrialshadelamp_white_wall'
+
+block:
+  type: item

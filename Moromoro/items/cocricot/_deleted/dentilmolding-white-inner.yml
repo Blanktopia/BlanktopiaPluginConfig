@@ -1,0 +1,7 @@
+name: Dentilmolding White Inner
+material: PAPER
+custom-model-data: 3418
+model: 'cocricotmod:block/dentilmolding_white_inner'
+
+block:
+  type: item

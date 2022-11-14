@@ -1,0 +1,7 @@
+name: Base Slab H
+material: PAPER
+custom-model-data: 2344
+model: 'cocricotmod:block/base_slab_h'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stucco Marineblue Slab Upper
+material: PAPER
+custom-model-data: 8052
+model: 'cocricotmod:block/stucco_marineblue_slab_upper'
+
+block:
+  type: item

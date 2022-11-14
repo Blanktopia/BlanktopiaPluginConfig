@@ -1,0 +1,7 @@
+name: Tile Mosaic Big White
+material: PAPER
+custom-model-data: 8301
+model: 'cocricotmod:block/tile_mosaic_big_white'
+
+block:
+  type: item

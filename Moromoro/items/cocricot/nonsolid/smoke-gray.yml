@@ -1,0 +1,7 @@
+name: Smoke Gray
+material: PAPER
+custom-model-data: 7346
+model: 'cocricotmod:block/smoke_gray'
+
+block:
+  type: item

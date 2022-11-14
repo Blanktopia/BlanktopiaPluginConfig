@@ -1,0 +1,7 @@
+name: Signboard Wall Green
+material: PAPER
+custom-model-data: 7265
+model: 'cocricotmod:block/signboard_wall_green'
+
+block:
+  type: item

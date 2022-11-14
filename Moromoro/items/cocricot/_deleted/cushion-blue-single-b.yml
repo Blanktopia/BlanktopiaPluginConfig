@@ -1,0 +1,7 @@
+name: Cushion Blue Single B
+material: PAPER
+custom-model-data: 3307
+model: 'cocricotmod:block/cushion_blue_single_b'
+
+block:
+  type: item

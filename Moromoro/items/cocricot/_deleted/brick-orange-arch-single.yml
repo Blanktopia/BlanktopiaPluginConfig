@@ -1,0 +1,7 @@
+name: Brick Orange Arch Single
+material: PAPER
+custom-model-data: 2677
+model: 'cocricotmod:block/brick_orange_arch_single'
+
+block:
+  type: item

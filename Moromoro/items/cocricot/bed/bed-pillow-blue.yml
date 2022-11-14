@@ -1,0 +1,7 @@
+name: Bed Pillow Blue
+material: PAPER
+custom-model-data: 2424
+model: 'cocricotmod:block/bed_pillow_blue'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bathtub Clawfoot White Water
+material: PAPER
+custom-model-data: 2387
+model: cocricotmod:block/bathtub_clawfoot_white_water
+block:
+  type: item
+  sit-height: 0.4375

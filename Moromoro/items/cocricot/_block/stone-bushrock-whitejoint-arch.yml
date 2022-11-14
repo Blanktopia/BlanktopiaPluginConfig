@@ -1,0 +1,7 @@
+name: Stone Bushrock Whitejoint Arch
+material: PAPER
+custom-model-data: 7659
+model: 'cocricotmod:block/stone_bushrock_whitejoint_arch'
+
+block:
+  type: item

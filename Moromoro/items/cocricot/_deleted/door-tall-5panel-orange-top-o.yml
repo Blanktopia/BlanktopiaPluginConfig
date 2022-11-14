@@ -1,0 +1,7 @@
+name: Door Tall  5panel Orange Top O
+material: PAPER
+custom-model-data: 4253
+model: 'cocricotmod:block/door_tall_5panel_orange_top_o'
+
+block:
+  type: item

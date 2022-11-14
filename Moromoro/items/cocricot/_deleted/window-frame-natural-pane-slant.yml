@@ -1,0 +1,7 @@
+name: Window Frame Natural Pane Slant
+material: PAPER
+custom-model-data: 8972
+model: 'cocricotmod:block/window_frame_natural_pane_slant'
+
+block:
+  type: item

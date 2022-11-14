@@ -1,0 +1,7 @@
+name: Bicycle Lightblue Set
+material: PAPER
+custom-model-data: 2468
+model: 'cocricotmod:block/bicycle_lightblue_set'
+
+block:
+  type: item

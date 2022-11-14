@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Seadrift Bothpost
+material: PAPER
+custom-model-data: 5657
+model: 'cocricotmod:block/handrail_wood_straight_seadrift_bothpost'
+
+block:
+  type: item

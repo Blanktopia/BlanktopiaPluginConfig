@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightlime Whiteframe
+material: PAPER
+custom-model-data: 9893
+model: 'cocricotmod:block/wood_wrapsiding_lightlime_whiteframe'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowframe Classic Sand Upper
+material: PAPER
+custom-model-data: 9083
+model: 'cocricotmod:block/windowframe_classic_sand_upper'
+
+block:
+  type: item

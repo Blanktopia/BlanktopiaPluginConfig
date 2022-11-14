@@ -1,0 +1,7 @@
+name: Fence Victorian Red Both
+material: PAPER
+custom-model-data: 4820
+model: 'cocricotmod:block/fence_victorian_red_both'
+
+block:
+  type: item

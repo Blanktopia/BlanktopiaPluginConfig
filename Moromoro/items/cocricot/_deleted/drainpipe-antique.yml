@@ -1,0 +1,7 @@
+name: Drainpipe Antique
+material: PAPER
+custom-model-data: 4498
+model: 'cocricotmod:block/drainpipe_antique'
+
+block:
+  type: item

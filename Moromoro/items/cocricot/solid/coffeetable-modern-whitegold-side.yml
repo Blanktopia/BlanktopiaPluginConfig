@@ -1,0 +1,7 @@
+name: Coffeetable Modern Whitegold Side
+material: PAPER
+custom-model-data: 3190
+model: cocricotmod:block/coffeetable_modern_whitegold_side
+block:
+  type: item
+  collision: true

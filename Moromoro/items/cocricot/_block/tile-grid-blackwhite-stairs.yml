@@ -1,0 +1,7 @@
+name: Tile Grid Blackwhite Stairs
+material: PAPER
+custom-model-data: 8269
+model: 'cocricotmod:block/tile_grid_blackwhite_stairs'
+
+block:
+  type: item

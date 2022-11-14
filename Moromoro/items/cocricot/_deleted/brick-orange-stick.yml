@@ -1,0 +1,7 @@
+name: Brick Orange Stick
+material: PAPER
+custom-model-data: 2685
+model: 'cocricotmod:block/brick_orange_stick'
+
+block:
+  type: item

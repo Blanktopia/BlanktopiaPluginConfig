@@ -1,0 +1,7 @@
+name: Pendantlight Yellow
+material: PAPER
+custom-model-data: 6222
+model: 'cocricotmod:block/pendantlight_yellow'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Log All Jungle
+material: PAPER
+custom-model-data: 6021
+model: 'cocricotmod:block/log_all_jungle'
+
+block:
+  type: item

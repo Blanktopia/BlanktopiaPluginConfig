@@ -1,0 +1,7 @@
+name: Door  1glass White Bottom Rh O
+material: PAPER
+custom-model-data: 3563
+model: 'cocricotmod:block/door_1glass_white_bottom_rh_o'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fallen Leaves Orange Block
+material: PAPER
+custom-model-data: 4672
+model: 'cocricotmod:block/fallen_leaves_orange_block'
+
+block:
+  type: item

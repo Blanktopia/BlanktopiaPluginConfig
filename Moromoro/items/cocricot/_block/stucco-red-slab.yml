@@ -1,0 +1,7 @@
+name: Stucco Red Slab
+material: PAPER
+custom-model-data: 8093
+model: 'cocricotmod:block/stucco_red_slab'
+
+block:
+  type: item

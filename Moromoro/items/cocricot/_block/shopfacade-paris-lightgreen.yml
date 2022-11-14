@@ -1,0 +1,7 @@
+name: Shopfacade Paris Lightgreen
+material: PAPER
+custom-model-data: 7211
+model: 'cocricotmod:block/shopfacade_paris_lightgreen'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Copper Blue Plate
+material: PAPER
+custom-model-data: 6432
+model: 'cocricotmod:block/roof_copper_blue_plate'
+
+block:
+  type: item

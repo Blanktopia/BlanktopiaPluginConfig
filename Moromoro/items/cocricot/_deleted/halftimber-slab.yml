@@ -1,0 +1,7 @@
+name: Halftimber Slab
+material: PAPER
+custom-model-data: 5473
+model: 'cocricotmod:block/halftimber_slab'
+
+block:
+  type: item

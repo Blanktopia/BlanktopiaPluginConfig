@@ -1,0 +1,7 @@
+name: Recordplayer Mintgreen
+material: PAPER
+custom-model-data: 6333
+model: 'cocricotmod:block/recordplayer_mintgreen'
+
+block:
+  type: item

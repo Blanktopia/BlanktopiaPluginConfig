@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Incline Odd Corner
+material: PAPER
+custom-model-data: 6718
+model: 'cocricotmod:block/roof_spanish_orange_incline_odd_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Coffeetable Midcentury Brown Left
+material: PAPER
+custom-model-data: 3176
+model: cocricotmod:block/coffeetable_midcentury_brown_left
+block:
+  type: item
+  collision: true

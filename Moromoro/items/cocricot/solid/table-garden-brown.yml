@@ -1,0 +1,7 @@
+name: Table Garden Brown
+material: PAPER
+custom-model-data: 8171
+model: cocricotmod:block/table_garden_brown
+block:
+  type: item
+  collision: true

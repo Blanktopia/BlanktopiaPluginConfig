@@ -1,0 +1,7 @@
+name: Window Frame Clear Pane Post
+material: PAPER
+custom-model-data: 8949
+model: 'cocricotmod:block/window_frame_clear_pane_post'
+
+block:
+  type: item

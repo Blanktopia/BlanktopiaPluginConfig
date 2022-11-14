@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Stairs Inner
+material: PAPER
+custom-model-data: 6730
+model: 'cocricotmod:block/roof_spanish_orange_stairs_inner'
+
+block:
+  type: item

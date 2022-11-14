@@ -1,0 +1,7 @@
+name: Cushion Wildflower Slipper
+material: PAPER
+custom-model-data: 3398
+model: 'cocricotmod:block/cushion_wildflower_slipper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wallshelf Mugcup Red
+material: PAPER
+custom-model-data: 8522
+model: 'cocricotmod:block/wallshelf_mugcup_red'
+
+block:
+  type: item

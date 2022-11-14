@@ -1,0 +1,7 @@
+name: Window Color Lightblue
+material: PAPER
+custom-model-data: 8729
+model: 'cocricotmod:block/window_color_lightblue'
+
+block:
+  type: item

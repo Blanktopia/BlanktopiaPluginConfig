@@ -1,0 +1,7 @@
+name: Fence Iron Simple Black Both
+material: PAPER
+custom-model-data: 4736
+model: 'cocricotmod:block/fence_iron_simple_black_both'
+
+block:
+  type: item

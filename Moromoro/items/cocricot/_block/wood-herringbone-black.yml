@@ -1,0 +1,7 @@
+name: Wood Herringbone Black
+material: PAPER
+custom-model-data: 9711
+model: 'cocricotmod:block/wood_herringbone_black'
+
+block:
+  type: item

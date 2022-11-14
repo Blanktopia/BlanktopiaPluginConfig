@@ -1,0 +1,7 @@
+name: Drainpipe Black
+material: PAPER
+custom-model-data: 4499
+model: 'cocricotmod:block/drainpipe_black'
+
+block:
+  type: item

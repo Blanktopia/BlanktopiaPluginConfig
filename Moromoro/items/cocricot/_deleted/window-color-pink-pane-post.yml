@@ -1,0 +1,7 @@
+name: Window Color Pink Pane Post
+material: PAPER
+custom-model-data: 8767
+model: 'cocricotmod:block/window_color_pink_pane_post'
+
+block:
+  type: item

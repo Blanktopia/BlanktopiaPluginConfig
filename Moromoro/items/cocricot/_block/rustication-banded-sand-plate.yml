@@ -1,0 +1,7 @@
+name: Rustication Banded Sand Plate
+material: PAPER
+custom-model-data: 7111
+model: 'cocricotmod:block/rustication_banded_sand_plate'
+
+block:
+  type: item

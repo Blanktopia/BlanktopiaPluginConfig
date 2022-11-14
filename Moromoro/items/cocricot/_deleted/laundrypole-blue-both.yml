@@ -1,0 +1,7 @@
+name: Laundrypole Blue Both
+material: PAPER
+custom-model-data: 5919
+model: 'cocricotmod:block/laundrypole_blue_both'
+
+block:
+  type: item

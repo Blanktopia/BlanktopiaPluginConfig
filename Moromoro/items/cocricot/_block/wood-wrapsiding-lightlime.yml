@@ -1,0 +1,7 @@
+name: Wood Wrapsiding Lightlime
+material: PAPER
+custom-model-data: 9892
+model: 'cocricotmod:block/wood_wrapsiding_lightlime'
+
+block:
+  type: item

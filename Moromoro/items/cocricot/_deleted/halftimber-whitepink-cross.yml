@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Cross
+material: PAPER
+custom-model-data: 5492
+model: 'cocricotmod:block/halftimber_whitepink_cross'
+
+block:
+  type: item

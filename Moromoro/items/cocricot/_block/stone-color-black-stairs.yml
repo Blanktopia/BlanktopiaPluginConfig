@@ -1,0 +1,7 @@
+name: Stone Color Black Stairs
+material: PAPER
+custom-model-data: 7703
+model: 'cocricotmod:block/stone_color_black_stairs'
+
+block:
+  type: item

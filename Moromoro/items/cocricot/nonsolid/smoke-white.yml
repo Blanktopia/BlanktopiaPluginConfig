@@ -1,0 +1,7 @@
+name: Smoke White
+material: PAPER
+custom-model-data: 7347
+model: 'cocricotmod:block/smoke_white'
+
+block:
+  type: item

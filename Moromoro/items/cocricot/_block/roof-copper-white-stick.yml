@@ -1,0 +1,7 @@
+name: Roof Copper White Stick
+material: PAPER
+custom-model-data: 6534
+model: 'cocricotmod:block/roof_copper_white_stick'
+
+block:
+  type: item

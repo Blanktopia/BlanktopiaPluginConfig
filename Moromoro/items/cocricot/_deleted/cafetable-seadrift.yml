@@ -1,0 +1,7 @@
+name: Cafetable Seadrift
+material: PAPER
+custom-model-data: 2844
+model: 'cocricotmod:block/cafetable_seadrift'
+
+block:
+  type: item

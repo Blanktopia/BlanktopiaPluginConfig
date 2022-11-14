@@ -1,0 +1,7 @@
+name: Stone Color Lightblue Slab
+material: PAPER
+custom-model-data: 7766
+model: 'cocricotmod:block/stone_color_lightblue_slab'
+
+block:
+  type: item

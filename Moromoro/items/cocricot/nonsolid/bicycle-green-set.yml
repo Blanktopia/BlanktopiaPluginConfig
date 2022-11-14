@@ -1,0 +1,7 @@
+name: Bicycle Green Set
+material: PAPER
+custom-model-data: 2466
+model: 'cocricotmod:block/bicycle_green_set'
+
+block:
+  type: item

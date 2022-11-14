@@ -1,0 +1,7 @@
+name: Stone Bushrock Whitejoint Slab
+material: PAPER
+custom-model-data: 7670
+model: 'cocricotmod:block/stone_bushrock_whitejoint_slab'
+
+block:
+  type: item

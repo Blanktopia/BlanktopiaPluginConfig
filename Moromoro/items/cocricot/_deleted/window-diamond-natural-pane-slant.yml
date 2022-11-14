@@ -1,0 +1,7 @@
+name: Window Diamond Natural Pane Slant
+material: PAPER
+custom-model-data: 8874
+model: 'cocricotmod:block/window_diamond_natural_pane_slant'
+
+block:
+  type: item

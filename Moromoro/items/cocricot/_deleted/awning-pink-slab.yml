@@ -1,0 +1,7 @@
+name: Awning Pink Slab
+material: PAPER
+custom-model-data: 2115
+model: 'cocricotmod:block/awning_pink_slab'
+
+block:
+  type: item

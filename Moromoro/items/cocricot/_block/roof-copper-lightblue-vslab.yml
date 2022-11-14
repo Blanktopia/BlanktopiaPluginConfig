@@ -1,0 +1,7 @@
+name: Roof Copper Lightblue Vslab
+material: PAPER
+custom-model-data: 6490
+model: 'cocricotmod:block/roof_copper_lightblue_vslab'
+
+block:
+  type: item

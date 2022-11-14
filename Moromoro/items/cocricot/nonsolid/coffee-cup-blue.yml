@@ -1,0 +1,7 @@
+name: Coffee Cup Blue
+material: PAPER
+custom-model-data: 3130
+model: 'cocricotmod:block/coffee_cup_blue'
+
+block:
+  type: item

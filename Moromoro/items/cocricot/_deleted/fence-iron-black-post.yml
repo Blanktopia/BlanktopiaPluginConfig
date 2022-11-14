@@ -1,0 +1,7 @@
+name: Fence Iron Black Post
+material: PAPER
+custom-model-data: 4720
+model: 'cocricotmod:block/fence_iron_black_post'
+
+block:
+  type: item

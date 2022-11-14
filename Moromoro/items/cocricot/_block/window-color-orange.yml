@@ -1,0 +1,7 @@
+name: Window Color Orange
+material: PAPER
+custom-model-data: 8757
+model: 'cocricotmod:block/window_color_orange'
+
+block:
+  type: item

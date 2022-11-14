@@ -1,0 +1,7 @@
+name: Window Centrebar Red
+material: PAPER
+custom-model-data: 8666
+model: 'cocricotmod:block/window_centrebar_red'
+
+block:
+  type: item

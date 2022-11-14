@@ -1,0 +1,7 @@
+name: Base Nothickness Both
+material: PAPER
+custom-model-data: 2321
+model: 'cocricotmod:block/base_nothickness_both'
+
+block:
+  type: item

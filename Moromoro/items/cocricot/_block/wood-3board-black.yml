@@ -1,0 +1,7 @@
+name: Wood  3board Black
+material: PAPER
+custom-model-data: 9382
+model: 'cocricotmod:block/wood_3board_black'
+
+block:
+  type: item

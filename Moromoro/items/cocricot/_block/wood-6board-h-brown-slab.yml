@@ -1,0 +1,7 @@
+name: Wood  6board H Brown Slab
+material: PAPER
+custom-model-data: 9580
+model: 'cocricotmod:block/wood_6board_h_brown_slab'
+
+block:
+  type: item

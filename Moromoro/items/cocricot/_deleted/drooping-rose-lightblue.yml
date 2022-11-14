@@ -1,0 +1,7 @@
+name: Drooping Rose Lightblue
+material: PAPER
+custom-model-data: 4654
+model: 'cocricotmod:block/drooping_rose_lightblue'
+
+block:
+  type: item

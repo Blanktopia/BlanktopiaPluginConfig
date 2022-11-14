@@ -1,0 +1,7 @@
+name: Door Stainless Bottom
+material: PAPER
+custom-model-data: 3864
+model: 'cocricotmod:block/door_stainless_bottom'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  3board White Stairs
+material: PAPER
+custom-model-data: 9517
+model: 'cocricotmod:block/wood_3board_white_stairs'
+
+block:
+  type: item

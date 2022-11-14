@@ -1,0 +1,7 @@
+name: Door  2panel Lightpurple Top Rh O
+material: PAPER
+custom-model-data: 3631
+model: 'cocricotmod:block/door_2panel_lightpurple_top_rh_o'
+
+block:
+  type: item

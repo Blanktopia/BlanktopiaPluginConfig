@@ -1,0 +1,7 @@
+name: Leg Turned Seadrift
+material: PAPER
+custom-model-data: 5984
+model: 'cocricotmod:block/leg_turned_seadrift'
+
+block:
+  type: item

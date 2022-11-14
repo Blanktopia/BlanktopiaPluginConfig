@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Quartz Corner
+material: PAPER
+custom-model-data: 5567
+model: 'cocricotmod:block/handrail_turnedleg_quartz_corner'
+
+block:
+  type: item

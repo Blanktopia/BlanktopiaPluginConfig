@@ -1,0 +1,7 @@
+name: Dentilmolding Sand
+material: PAPER
+custom-model-data: 3411
+model: 'cocricotmod:block/dentilmolding_sand'
+
+block:
+  type: item

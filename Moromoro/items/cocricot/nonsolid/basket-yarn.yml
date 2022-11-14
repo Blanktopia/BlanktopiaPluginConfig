@@ -1,0 +1,7 @@
+name: Basket Yarn
+material: PAPER
+custom-model-data: 2374
+model: 'cocricotmod:block/basket_yarn'
+
+block:
+  type: item

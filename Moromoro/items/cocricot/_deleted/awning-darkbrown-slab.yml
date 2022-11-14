@@ -1,0 +1,7 @@
+name: Awning Darkbrown Slab
+material: PAPER
+custom-model-data: 2038
+model: 'cocricotmod:block/awning_darkbrown_slab'
+
+block:
+  type: item

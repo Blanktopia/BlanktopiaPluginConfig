@@ -1,0 +1,7 @@
+name: Rustication Banded Stone
+material: PAPER
+custom-model-data: 7113
+model: 'cocricotmod:block/rustication_banded_stone'
+
+block:
+  type: item

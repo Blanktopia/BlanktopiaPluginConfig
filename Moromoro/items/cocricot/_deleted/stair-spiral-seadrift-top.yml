@@ -1,0 +1,7 @@
+name: Stair Spiral Seadrift Top
+material: PAPER
+custom-model-data: 7607
+model: 'cocricotmod:block/stair_spiral_seadrift_top'
+
+block:
+  type: item

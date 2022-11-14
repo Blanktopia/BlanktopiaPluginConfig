@@ -1,0 +1,7 @@
+name: Tile Grid Blackwhite Plate
+material: PAPER
+custom-model-data: 8266
+model: 'cocricotmod:block/tile_grid_blackwhite_plate'
+
+block:
+  type: item

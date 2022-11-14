@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels White Stairs
+material: PAPER
+custom-model-data: 9861
+model: 'cocricotmod:block/wood_wainscot_panels_white_stairs'
+
+block:
+  type: item

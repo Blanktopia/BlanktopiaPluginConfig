@@ -1,0 +1,7 @@
+name: Wood  6board H Black Slab Upper
+material: PAPER
+custom-model-data: 9573
+model: 'cocricotmod:block/wood_6board_h_black_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chest Shabby Pink
+material: PAPER
+custom-model-data: 3090
+model: 'cocricotmod:block/chest_shabby_pink'
+
+block:
+  type: item

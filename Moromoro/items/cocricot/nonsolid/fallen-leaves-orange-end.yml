@@ -1,0 +1,7 @@
+name: Fallen Leaves Orange End
+material: PAPER
+custom-model-data: 4673
+model: 'cocricotmod:block/fallen_leaves_orange_end'
+
+block:
+  type: item

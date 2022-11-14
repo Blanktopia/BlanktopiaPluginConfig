@@ -1,0 +1,7 @@
+name: Industrialshadelamp Silver Wall
+material: PAPER
+custom-model-data: 5848
+model: 'cocricotmod:block/industrialshadelamp_silver_wall'
+
+block:
+  type: item

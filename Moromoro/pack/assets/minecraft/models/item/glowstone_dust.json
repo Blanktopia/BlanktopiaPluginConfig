@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/glowstone_dust"},"overrides":[{"model":"blanktopia:hats/miners_helmet","predicate":{"custom_model_data":1}}]}

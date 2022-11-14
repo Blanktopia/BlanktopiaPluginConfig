@@ -1,0 +1,7 @@
+name: Glassbottle Dryplant
+material: PAPER
+custom-model-data: 5151
+model: 'cocricotmod:block/glassbottle_dryplant'
+
+block:
+  type: item

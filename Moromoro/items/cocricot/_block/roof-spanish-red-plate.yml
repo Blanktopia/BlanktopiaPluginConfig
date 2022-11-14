@@ -1,0 +1,7 @@
+name: Roof Spanish Red Plate
+material: PAPER
+custom-model-data: 6745
+model: 'cocricotmod:block/roof_spanish_red_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Table Ironleg Black Three
+material: PAPER
+custom-model-data: 8179
+model: cocricotmod:block/table_ironleg_black_three
+block:
+  type: item
+  collision: true

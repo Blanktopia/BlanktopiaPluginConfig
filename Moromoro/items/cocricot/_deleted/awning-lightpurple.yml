@@ -1,0 +1,7 @@
+name: Awning Lightpurple
+material: PAPER
+custom-model-data: 2089
+model: 'cocricotmod:block/awning_lightpurple'
+
+block:
+  type: item

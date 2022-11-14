@@ -1,0 +1,7 @@
+name: Window Flower White
+material: PAPER
+custom-model-data: 8925
+model: 'cocricotmod:block/window_flower_white'
+
+block:
+  type: item

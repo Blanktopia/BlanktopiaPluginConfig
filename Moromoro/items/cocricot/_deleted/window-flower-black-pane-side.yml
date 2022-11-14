@@ -1,0 +1,7 @@
+name: Window Flower Black Pane Side
+material: PAPER
+custom-model-data: 8909
+model: 'cocricotmod:block/window_flower_black_pane_side'
+
+block:
+  type: item

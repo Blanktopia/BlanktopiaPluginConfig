@@ -1,0 +1,7 @@
+name: Speaker Floor Dark
+material: PAPER
+custom-model-data: 7541
+model: cocricotmod:block/speaker_floor_dark
+block:
+  type: item
+  collision: true

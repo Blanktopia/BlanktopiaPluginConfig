@@ -1,0 +1,7 @@
+name: Mailbox White Brown
+material: PAPER
+custom-model-data: 6044
+model: 'cocricotmod:block/mailbox_white_brown'
+
+block:
+  type: item

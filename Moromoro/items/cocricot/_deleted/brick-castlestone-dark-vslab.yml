@@ -1,0 +1,7 @@
+name: Brick Castlestone Dark Vslab
+material: PAPER
+custom-model-data: 2640
+model: 'cocricotmod:block/brick_castlestone_dark_vslab'
+
+block:
+  type: item

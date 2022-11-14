@@ -1,0 +1,7 @@
+name: Roof Fishscale Red Incline Odd Corner
+material: PAPER
+custom-model-data: 6595
+model: 'cocricotmod:block/roof_fishscale_red_incline_odd_corner'
+
+block:
+  type: item

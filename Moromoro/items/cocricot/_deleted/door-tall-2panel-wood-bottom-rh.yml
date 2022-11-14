@@ -1,0 +1,7 @@
+name: Door Tall  2panel Wood Bottom Rh
+material: PAPER
+custom-model-data: 4162
+model: 'cocricotmod:block/door_tall_2panel_wood_bottom_rh'
+
+block:
+  type: item

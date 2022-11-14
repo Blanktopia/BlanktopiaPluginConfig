@@ -1,0 +1,7 @@
+name: Bicycle White Stand
+material: PAPER
+custom-model-data: 2473
+model: 'cocricotmod:block/bicycle_white_stand'
+
+block:
+  type: item

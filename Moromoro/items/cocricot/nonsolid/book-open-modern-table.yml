@@ -1,0 +1,7 @@
+name: Book Open Modern Table
+material: PAPER
+custom-model-data: 2491
+model: 'cocricotmod:block/book_open_modern_table'
+
+block:
+  type: item

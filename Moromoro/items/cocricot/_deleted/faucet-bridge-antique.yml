@@ -1,0 +1,7 @@
+name: Faucet Bridge Antique
+material: PAPER
+custom-model-data: 4681
+model: 'cocricotmod:block/faucet_bridge_antique'
+
+block:
+  type: item

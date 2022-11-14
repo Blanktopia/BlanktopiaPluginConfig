@@ -1,0 +1,7 @@
+name: Halftimber Darkblue Pattern 1
+material: PAPER
+custom-model-data: 5316
+model: 'cocricotmod:block/halftimber_darkblue_pattern1'
+
+block:
+  type: item

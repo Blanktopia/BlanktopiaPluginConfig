@@ -1,0 +1,7 @@
+name: Glass Frame Gold Shift
+material: PAPER
+custom-model-data: 5103
+model: 'cocricotmod:block/glass_frame_gold_shift'
+
+block:
+  type: item

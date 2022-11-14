@@ -1,0 +1,7 @@
+name: Handrail Turnedleg Stone Corner
+material: PAPER
+custom-model-data: 5583
+model: 'cocricotmod:block/handrail_turnedleg_stone_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Bench Turnedleg Shabby Left
+material: PAPER
+custom-model-data: 2453
+model: cocricotmod:block/bench_turnedleg_shabby_left
+block:
+  type: item
+  sit-height: 0.4375

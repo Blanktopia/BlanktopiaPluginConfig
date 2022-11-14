@@ -1,0 +1,7 @@
+name: Candleholder Antique Gold
+material: PAPER
+custom-model-data: 2862
+model: 'cocricotmod:block/candleholder_antique_gold'
+
+block:
+  type: item

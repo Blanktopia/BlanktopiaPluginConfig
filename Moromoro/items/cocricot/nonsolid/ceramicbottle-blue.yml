@@ -1,0 +1,7 @@
+name: Ceramicbottle Blue
+material: PAPER
+custom-model-data: 2961
+model: 'cocricotmod:block/ceramicbottle_blue'
+
+block:
+  type: item

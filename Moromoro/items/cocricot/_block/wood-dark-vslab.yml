@@ -1,0 +1,7 @@
+name: Wood Dark Vslab
+material: PAPER
+custom-model-data: 9709
+model: 'cocricotmod:block/wood_dark_vslab'
+
+block:
+  type: item

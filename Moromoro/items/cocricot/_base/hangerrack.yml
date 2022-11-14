@@ -1,0 +1,7 @@
+name: Hangerrack
+material: PAPER
+custom-model-data: 5760
+model: 'cocricotmod:block/hangerrack'
+
+block:
+  type: item

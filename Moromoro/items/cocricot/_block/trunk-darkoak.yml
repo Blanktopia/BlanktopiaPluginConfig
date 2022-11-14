@@ -1,0 +1,7 @@
+name: Trunk Darkoak
+material: PAPER
+custom-model-data: 8330
+model: 'cocricotmod:block/trunk_darkoak'
+
+block:
+  type: item

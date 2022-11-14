@@ -1,0 +1,7 @@
+name: Door Tall  2glass 3panel Lightpurple Bottom O
+material: PAPER
+custom-model-data: 3985
+model: 'cocricotmod:block/door_tall_2glass3panel_lightpurple_bottom_o'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stone Color Yellow Whiteframe
+material: PAPER
+custom-model-data: 7877
+model: 'cocricotmod:block/stone_color_yellow_whiteframe'
+
+block:
+  type: item

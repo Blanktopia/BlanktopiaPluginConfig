@@ -1,0 +1,7 @@
+name: Telephone Classic Black
+material: PAPER
+custom-model-data: 8248
+model: 'cocricotmod:block/telephone_classic_black'
+
+block:
+  type: item

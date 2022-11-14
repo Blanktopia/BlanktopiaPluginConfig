@@ -1,0 +1,7 @@
+name: Window Arch Black Pane All
+material: PAPER
+custom-model-data: 8562
+model: 'cocricotmod:block/window_arch_black_pane_all'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chair Iron Dark
+material: PAPER
+custom-model-data: 3033
+model: cocricotmod:block/chair_iron_dark
+block:
+  type: item
+  sit-height: 0.4375

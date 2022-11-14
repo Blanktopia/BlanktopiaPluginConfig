@@ -1,0 +1,7 @@
+name: Flowerpot Inner Sansevieria False
+material: PAPER
+custom-model-data: 4911
+model: 'cocricotmod:block/flowerpot_inner_sansevieria_false'
+
+block:
+  type: item

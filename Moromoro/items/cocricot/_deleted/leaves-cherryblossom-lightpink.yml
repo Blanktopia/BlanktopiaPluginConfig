@@ -1,0 +1,7 @@
+name: Leaves Cherryblossom Lightpink
+material: PAPER
+custom-model-data: 5938
+model: 'cocricotmod:block/leaves_cherryblossom_lightpink'
+
+block:
+  type: item

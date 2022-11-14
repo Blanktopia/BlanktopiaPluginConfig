@@ -1,0 +1,7 @@
+name: Cushion Deer Single B
+material: PAPER
+custom-model-data: 3334
+model: 'cocricotmod:block/cushion_deer_single_b'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Countertable Wood Seadrift
+material: PAPER
+custom-model-data: 3241
+model: 'cocricotmod:block/countertable_wood_seadrift'
+
+block:
+  type: item

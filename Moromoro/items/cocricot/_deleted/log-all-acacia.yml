@@ -1,0 +1,7 @@
+name: Log All Acacia
+material: PAPER
+custom-model-data: 6018
+model: 'cocricotmod:block/log_all_acacia'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood Black Rod
+material: PAPER
+custom-model-data: 9666
+model: 'cocricotmod:block/wood_black_rod'
+
+block:
+  type: item

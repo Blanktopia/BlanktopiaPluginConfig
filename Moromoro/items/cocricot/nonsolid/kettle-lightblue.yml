@@ -1,0 +1,7 @@
+name: Kettle Lightblue
+material: PAPER
+custom-model-data: 5877
+model: 'cocricotmod:block/kettle_lightblue'
+
+block:
+  type: item

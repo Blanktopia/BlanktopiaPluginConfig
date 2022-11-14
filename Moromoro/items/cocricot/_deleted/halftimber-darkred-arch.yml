@@ -1,0 +1,7 @@
+name: Halftimber Darkred Arch
+material: PAPER
+custom-model-data: 5384
+model: 'cocricotmod:block/halftimber_darkred_arch'
+
+block:
+  type: item

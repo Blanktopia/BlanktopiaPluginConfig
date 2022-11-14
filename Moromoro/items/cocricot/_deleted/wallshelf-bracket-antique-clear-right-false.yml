@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Clear Right False
+material: PAPER
+custom-model-data: 8401
+model: 'cocricotmod:block/wallshelf_bracket_antique_clear_right_false'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cushion Red Left A
+material: PAPER
+custom-model-data: 3347
+model: 'cocricotmod:block/cushion_red_left_a'
+
+block:
+  type: item

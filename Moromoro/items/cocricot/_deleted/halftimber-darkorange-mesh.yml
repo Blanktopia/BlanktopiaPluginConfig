@@ -1,0 +1,7 @@
+name: Halftimber Darkorange Mesh
+material: PAPER
+custom-model-data: 5375
+model: 'cocricotmod:block/halftimber_darkorange_mesh'
+
+block:
+  type: item

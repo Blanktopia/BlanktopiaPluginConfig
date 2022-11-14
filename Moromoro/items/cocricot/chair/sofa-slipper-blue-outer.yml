@@ -1,0 +1,7 @@
+name: Sofa Slipper Blue Outer
+material: PAPER
+custom-model-data: 7472
+model: cocricotmod:block/sofa_slipper_blue_outer
+block:
+  type: item
+  sit-height: 0.4375

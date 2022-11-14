@@ -1,0 +1,7 @@
+name: Floorlamp Spot Brown
+material: PAPER
+custom-model-data: 4865
+model: 'cocricotmod:block/floorlamp_spot_brown'
+
+block:
+  type: item

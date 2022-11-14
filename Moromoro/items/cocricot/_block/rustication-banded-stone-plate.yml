@@ -1,0 +1,7 @@
+name: Rustication Banded Stone Plate
+material: PAPER
+custom-model-data: 7114
+model: 'cocricotmod:block/rustication_banded_stone_plate'
+
+block:
+  type: item

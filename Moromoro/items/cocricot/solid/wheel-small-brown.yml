@@ -1,0 +1,8 @@
+name: Wheel Small Brown
+material: PAPER
+custom-model-data: 8545
+model: 'cocricotmod:block/wheel_small_brown'
+
+block:
+  type: item
+  collision: true

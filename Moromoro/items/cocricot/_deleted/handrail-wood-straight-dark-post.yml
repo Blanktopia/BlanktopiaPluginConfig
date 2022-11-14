@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Dark Post
+material: PAPER
+custom-model-data: 5619
+model: 'cocricotmod:block/handrail_wood_straight_dark_post'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Hanging Fern Upper
+material: PAPER
+custom-model-data: 5780
+model: 'cocricotmod:block/hanging_fern_upper'
+
+block:
+  type: item

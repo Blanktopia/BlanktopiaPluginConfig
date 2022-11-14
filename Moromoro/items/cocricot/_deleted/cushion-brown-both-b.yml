@@ -1,0 +1,7 @@
+name: Cushion Brown Both B
+material: PAPER
+custom-model-data: 3310
+model: 'cocricotmod:block/cushion_brown_both_b'
+
+block:
+  type: item

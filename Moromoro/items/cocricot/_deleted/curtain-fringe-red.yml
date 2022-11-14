@@ -1,0 +1,7 @@
+name: Curtain Fringe Red
+material: PAPER
+custom-model-data: 3247
+model: 'cocricotmod:block/curtain_fringe_red'
+
+block:
+  type: item

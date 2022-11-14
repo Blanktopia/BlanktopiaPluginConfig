@@ -1,0 +1,7 @@
+name: Curtain Separate Darkred Both
+material: PAPER
+custom-model-data: 3253
+model: 'cocricotmod:block/curtain_separate_darkred_both'
+
+block:
+  type: item

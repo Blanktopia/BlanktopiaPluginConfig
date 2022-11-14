@@ -1,0 +1,7 @@
+name: Door  2panel Green Top O
+material: PAPER
+custom-model-data: 3597
+model: 'cocricotmod:block/door_2panel_green_top_o'
+
+block:
+  type: item

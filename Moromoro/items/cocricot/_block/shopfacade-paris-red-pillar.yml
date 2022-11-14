@@ -1,0 +1,7 @@
+name: Shopfacade Paris Red Pillar
+material: PAPER
+custom-model-data: 7224
+model: 'cocricotmod:block/shopfacade_paris_red_pillar'
+
+block:
+  type: item

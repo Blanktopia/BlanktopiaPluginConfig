@@ -1,0 +1,7 @@
+name: Stone Color Lightgreen Rod
+material: PAPER
+custom-model-data: 7791
+model: 'cocricotmod:block/stone_color_lightgreen_rod'
+
+block:
+  type: item

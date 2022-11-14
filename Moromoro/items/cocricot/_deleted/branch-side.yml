@@ -1,0 +1,7 @@
+name: Branch Side
+material: PAPER
+custom-model-data: 2605
+model: 'cocricotmod:block/branch_side'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Orange Vslab
+material: PAPER
+custom-model-data: 2686
+model: 'cocricotmod:block/brick_orange_vslab'
+
+block:
+  type: item

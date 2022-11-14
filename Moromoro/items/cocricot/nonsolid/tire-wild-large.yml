@@ -1,0 +1,7 @@
+name: Tire Wild Large
+material: PAPER
+custom-model-data: 8309
+model: 'cocricotmod:block/tire_wild_large'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stucco Red Rod
+material: PAPER
+custom-model-data: 8092
+model: 'cocricotmod:block/stucco_red_rod'
+
+block:
+  type: item

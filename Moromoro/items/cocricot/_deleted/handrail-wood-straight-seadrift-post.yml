@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Seadrift Post
+material: PAPER
+custom-model-data: 5659
+model: 'cocricotmod:block/handrail_wood_straight_seadrift_post'
+
+block:
+  type: item

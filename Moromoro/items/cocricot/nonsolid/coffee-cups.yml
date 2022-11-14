@@ -1,0 +1,7 @@
+name: Coffee Cups
+material: PAPER
+custom-model-data: 3135
+model: 'cocricotmod:block/coffee_cups'
+
+block:
+  type: item

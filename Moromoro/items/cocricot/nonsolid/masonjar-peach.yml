@@ -1,0 +1,7 @@
+name: Masonjar Peach
+material: PAPER
+custom-model-data: 6101
+model: 'cocricotmod:block/masonjar_peach'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Tile Moroccan Green
+material: PAPER
+custom-model-data: 8286
+model: 'cocricotmod:block/tile_moroccan_green'
+
+block:
+  type: item

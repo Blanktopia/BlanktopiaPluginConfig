@@ -1,0 +1,8 @@
+name: Swimring Donut 1
+material: PAPER
+custom-model-data: 8137
+model: cocricotmod:block/swimring_donut1
+block:
+  type: item
+  sit-height: 0.4375
+  sit-rotate: true

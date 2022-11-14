@@ -1,0 +1,7 @@
+name: Barrel Antique
+material: PAPER
+custom-model-data: 2300
+model: cocricotmod:block/barrel_antique
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Glass Frame Clear Pane Three
+material: PAPER
+custom-model-data: 5078
+model: 'cocricotmod:block/glass_frame_clear_pane_three'
+
+block:
+  type: item

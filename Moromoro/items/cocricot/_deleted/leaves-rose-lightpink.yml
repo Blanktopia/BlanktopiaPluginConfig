@@ -1,0 +1,7 @@
+name: Leaves Rose Lightpink
+material: PAPER
+custom-model-data: 5969
+model: 'cocricotmod:block/leaves_rose_lightpink'
+
+block:
+  type: item

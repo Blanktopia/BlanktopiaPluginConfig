@@ -1,0 +1,7 @@
+name: Rug Shag Round Green True
+material: PAPER
+custom-model-data: 6990
+model: 'cocricotmod:block/rug_shag_round_green_true'
+
+block:
+  type: item

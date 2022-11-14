@@ -1,0 +1,7 @@
+name: Tile Grid Blackwhite Slab Upper
+material: PAPER
+custom-model-data: 8268
+model: 'cocricotmod:block/tile_grid_blackwhite_slab_upper'
+
+block:
+  type: item

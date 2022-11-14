@@ -1,0 +1,7 @@
+name: Halftimber Darkmintgreen Allinone
+material: PAPER
+custom-model-data: 5353
+model: 'cocricotmod:block/halftimber_darkmintgreen_allinone'
+
+block:
+  type: item

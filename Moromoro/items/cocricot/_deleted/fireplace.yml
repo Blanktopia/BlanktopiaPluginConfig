@@ -1,0 +1,7 @@
+name: Fireplace
+material: PAPER
+custom-model-data: 4835
+model: 'cocricotmod:block/fireplace'
+
+block:
+  type: item

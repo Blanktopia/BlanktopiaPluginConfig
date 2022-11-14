@@ -1,0 +1,7 @@
+name: Industrialshadelamp Black
+material: PAPER
+custom-model-data: 5833
+model: 'cocricotmod:block/industrialshadelamp_black'
+
+block:
+  type: item

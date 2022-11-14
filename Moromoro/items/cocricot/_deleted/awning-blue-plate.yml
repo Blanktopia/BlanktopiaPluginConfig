@@ -1,0 +1,7 @@
+name: Awning Blue Plate
+material: PAPER
+custom-model-data: 2026
+model: 'cocricotmod:block/awning_blue_plate'
+
+block:
+  type: item

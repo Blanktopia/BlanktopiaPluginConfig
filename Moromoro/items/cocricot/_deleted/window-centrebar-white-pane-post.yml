@@ -1,0 +1,7 @@
+name: Window Centrebar White Pane Post
+material: PAPER
+custom-model-data: 8683
+model: 'cocricotmod:block/window_centrebar_white_pane_post'
+
+block:
+  type: item

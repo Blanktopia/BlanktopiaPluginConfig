@@ -1,0 +1,7 @@
+name: Parkbench Black Left
+material: PAPER
+custom-model-data: 6160
+model: cocricotmod:block/parkbench_black_left
+block:
+  type: item
+  sit-height: 0.4375

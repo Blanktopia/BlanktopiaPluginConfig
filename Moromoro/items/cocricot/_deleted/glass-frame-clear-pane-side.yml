@@ -1,0 +1,7 @@
+name: Glass Frame Clear Pane Side
+material: PAPER
+custom-model-data: 5076
+model: 'cocricotmod:block/glass_frame_clear_pane_side'
+
+block:
+  type: item

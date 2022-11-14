@@ -1,0 +1,7 @@
+name: Door  1glass Dark Bottom O
+material: PAPER
+custom-model-data: 3537
+model: 'cocricotmod:block/door_1glass_dark_bottom_o'
+
+block:
+  type: item

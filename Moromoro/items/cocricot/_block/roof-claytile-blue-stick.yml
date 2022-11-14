@@ -1,0 +1,7 @@
+name: Roof Claytile Blue Stick
+material: PAPER
+custom-model-data: 6384
+model: 'cocricotmod:block/roof_claytile_blue_stick'
+
+block:
+  type: item

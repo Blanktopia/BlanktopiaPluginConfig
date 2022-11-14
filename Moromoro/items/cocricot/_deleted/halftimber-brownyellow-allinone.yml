@@ -1,0 +1,7 @@
+name: Halftimber Brownyellow Allinone
+material: PAPER
+custom-model-data: 5293
+model: 'cocricotmod:block/halftimber_brownyellow_allinone'
+
+block:
+  type: item

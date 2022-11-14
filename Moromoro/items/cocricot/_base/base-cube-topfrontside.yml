@@ -1,0 +1,7 @@
+name: Base Cube Topfrontside
+material: PAPER
+custom-model-data: 2312
+model: 'cocricotmod:block/base_cube_topfrontside'
+
+block:
+  type: item

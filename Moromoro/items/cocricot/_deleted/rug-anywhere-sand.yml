@@ -1,0 +1,7 @@
+name: Rug Anywhere Sand
+material: PAPER
+custom-model-data: 6918
+model: 'cocricotmod:block/rug_anywhere_sand'
+
+block:
+  type: item

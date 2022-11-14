@@ -1,0 +1,7 @@
+name: Purfume Gray
+material: PAPER
+custom-model-data: 6297
+model: 'cocricotmod:block/purfume_gray'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Shopfacade Paris Black Vertical
+material: PAPER
+custom-model-data: 7192
+model: 'cocricotmod:block/shopfacade_paris_black_vertical'
+
+block:
+  type: item

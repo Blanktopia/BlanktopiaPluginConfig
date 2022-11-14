@@ -1,0 +1,7 @@
+name: Awning Gray Lower
+material: PAPER
+custom-model-data: 2047
+model: 'cocricotmod:block/awning_gray_lower'
+
+block:
+  type: item

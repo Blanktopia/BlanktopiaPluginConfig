@@ -1,0 +1,7 @@
+name: Stone Color Lightgreen Plate
+material: PAPER
+custom-model-data: 7790
+model: 'cocricotmod:block/stone_color_lightgreen_plate'
+
+block:
+  type: item

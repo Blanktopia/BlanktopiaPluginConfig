@@ -1,0 +1,7 @@
+name: Coffeetable Modern Whitegold
+material: PAPER
+custom-model-data: 3186
+model: 'cocricotmod:block/coffeetable_modern_whitegold'
+
+block:
+  type: item

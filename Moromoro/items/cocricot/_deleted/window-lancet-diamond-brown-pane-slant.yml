@@ -1,0 +1,7 @@
+name: Window Lancet Diamond Brown Pane Slant
+material: PAPER
+custom-model-data: 8993
+model: 'cocricotmod:block/window_lancet_diamond_brown_pane_slant'
+
+block:
+  type: item

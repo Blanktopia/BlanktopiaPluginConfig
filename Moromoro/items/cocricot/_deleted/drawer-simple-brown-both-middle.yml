@@ -1,0 +1,7 @@
+name: Drawer Simple Brown Both Middle
+material: PAPER
+custom-model-data: 4550
+model: 'cocricotmod:block/drawer_simple_brown_both_middle'
+
+block:
+  type: item

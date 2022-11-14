@@ -1,0 +1,7 @@
+name: Leaves Red Corner
+material: PAPER
+custom-model-data: 5964
+model: 'cocricotmod:block/leaves_red_corner'
+
+block:
+  type: item

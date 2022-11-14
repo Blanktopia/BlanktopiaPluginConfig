@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Plate
+material: PAPER
+custom-model-data: 6725
+model: 'cocricotmod:block/roof_spanish_orange_plate'
+
+block:
+  type: item

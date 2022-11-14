@@ -1,0 +1,7 @@
+name: Awning Stripe Lightpurple Lower
+material: PAPER
+custom-model-data: 2215
+model: 'cocricotmod:block/awning_stripe_lightpurple_lower'
+
+block:
+  type: item

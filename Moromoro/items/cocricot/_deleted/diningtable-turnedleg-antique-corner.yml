@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Antique Corner
+material: PAPER
+custom-model-data: 3451
+model: 'cocricotmod:block/diningtable_turnedleg_antique_corner'
+
+block:
+  type: item

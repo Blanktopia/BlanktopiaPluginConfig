@@ -1,0 +1,7 @@
+name: Door Tall  5panel Lightpurple Top
+material: PAPER
+custom-model-data: 4236
+model: 'cocricotmod:block/door_tall_5panel_lightpurple_top'
+
+block:
+  type: item

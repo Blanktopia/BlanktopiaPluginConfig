@@ -1,0 +1,7 @@
+name: Halftimber Darkwhite Tudor Left
+material: PAPER
+custom-model-data: 5411
+model: 'cocricotmod:block/halftimber_darkwhite_tudor_left'
+
+block:
+  type: item

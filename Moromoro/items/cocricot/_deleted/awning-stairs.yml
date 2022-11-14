@@ -1,0 +1,7 @@
+name: Awning Stairs
+material: PAPER
+custom-model-data: 2133
+model: 'cocricotmod:block/awning_stairs'
+
+block:
+  type: item

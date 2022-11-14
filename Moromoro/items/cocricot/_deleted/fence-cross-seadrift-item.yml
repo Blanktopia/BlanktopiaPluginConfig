@@ -1,0 +1,7 @@
+name: Fence Cross Seadrift Item
+material: PAPER
+custom-model-data: 4711
+model: 'cocricotmod:block/fence_cross_seadrift_item'
+
+block:
+  type: item

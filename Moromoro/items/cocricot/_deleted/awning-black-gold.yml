@@ -1,0 +1,7 @@
+name: Awning Black Gold
+material: PAPER
+custom-model-data: 2012
+model: 'cocricotmod:block/awning_black_gold'
+
+block:
+  type: item

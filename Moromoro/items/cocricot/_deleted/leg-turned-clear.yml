@@ -1,0 +1,7 @@
+name: Leg Turned Clear
+material: PAPER
+custom-model-data: 5981
+model: 'cocricotmod:block/leg_turned_clear'
+
+block:
+  type: item

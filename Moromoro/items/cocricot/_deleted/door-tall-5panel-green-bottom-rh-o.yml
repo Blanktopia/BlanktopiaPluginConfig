@@ -1,0 +1,7 @@
+name: Door Tall  5panel Green Bottom Rh O
+material: PAPER
+custom-model-data: 4203
+model: 'cocricotmod:block/door_tall_5panel_green_bottom_rh_o'
+
+block:
+  type: item

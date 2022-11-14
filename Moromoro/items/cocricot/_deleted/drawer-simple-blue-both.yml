@@ -1,0 +1,7 @@
+name: Drawer Simple Blue Both
+material: PAPER
+custom-model-data: 4532
+model: 'cocricotmod:block/drawer_simple_blue_both'
+
+block:
+  type: item

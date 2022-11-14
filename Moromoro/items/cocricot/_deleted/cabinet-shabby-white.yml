@@ -1,0 +1,7 @@
+name: Cabinet Shabby White
+material: PAPER
+custom-model-data: 2826
+model: 'cocricotmod:block/cabinet_shabby_white'
+
+block:
+  type: item

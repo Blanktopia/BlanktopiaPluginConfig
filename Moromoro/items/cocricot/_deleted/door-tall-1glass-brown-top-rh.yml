@@ -1,0 +1,7 @@
+name: Door Tall  1glass Brown Top Rh
+material: PAPER
+custom-model-data: 3886
+model: 'cocricotmod:block/door_tall_1glass_brown_top_rh'
+
+block:
+  type: item

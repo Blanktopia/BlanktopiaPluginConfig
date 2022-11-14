@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Clear Three
+material: PAPER
+custom-model-data: 5614
+model: 'cocricotmod:block/handrail_wood_straight_clear_three'
+
+block:
+  type: item

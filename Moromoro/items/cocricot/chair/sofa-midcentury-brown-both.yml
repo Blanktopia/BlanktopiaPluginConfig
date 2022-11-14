@@ -1,0 +1,7 @@
+name: Sofa Midcentury Brown Both
+material: PAPER
+custom-model-data: 7373
+model: cocricotmod:block/sofa_midcentury_brown_both
+block:
+  type: item
+  sit-height: 0.4375

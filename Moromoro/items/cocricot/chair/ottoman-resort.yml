@@ -1,0 +1,7 @@
+name: Ottoman Resort
+material: PAPER
+custom-model-data: 6154
+model: cocricotmod:block/ottoman_resort
+block:
+  type: item
+  sit-height: 0.4375

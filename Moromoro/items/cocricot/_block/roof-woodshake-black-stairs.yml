@@ -1,0 +1,7 @@
+name: Roof Woodshake Black Stairs
+material: PAPER
+custom-model-data: 6849
+model: 'cocricotmod:block/roof_woodshake_black_stairs'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Window Color Lightgray Pane Slant
+material: PAPER
+custom-model-data: 8741
+model: 'cocricotmod:block/window_color_lightgray_pane_slant'
+
+block:
+  type: item

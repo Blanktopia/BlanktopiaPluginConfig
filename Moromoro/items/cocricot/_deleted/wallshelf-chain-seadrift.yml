@@ -1,0 +1,7 @@
+name: Wallshelf Chain Seadrift
+material: PAPER
+custom-model-data: 8495
+model: 'cocricotmod:block/wallshelf_chain_seadrift'
+
+block:
+  type: item

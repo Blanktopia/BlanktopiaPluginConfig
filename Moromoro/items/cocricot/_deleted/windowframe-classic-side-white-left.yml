@@ -1,0 +1,7 @@
+name: Windowframe Classic Side White Left
+material: PAPER
+custom-model-data: 9118
+model: 'cocricotmod:block/windowframe_classic_side_white_left'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Lightblue Plate
+material: PAPER
+custom-model-data: 2070
+model: 'cocricotmod:block/awning_lightblue_plate'
+
+block:
+  type: item

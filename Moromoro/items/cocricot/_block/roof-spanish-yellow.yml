@@ -1,0 +1,7 @@
+name: Roof Spanish Yellow
+material: PAPER
+custom-model-data: 6774
+model: 'cocricotmod:block/roof_spanish_yellow'
+
+block:
+  type: item

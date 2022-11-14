@@ -1,0 +1,7 @@
+name: Bookshelf Antique White Empty Vslab
+material: PAPER
+custom-model-data: 2538
+model: 'cocricotmod:block/bookshelf_antique_white_empty_vslab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Halftimber Whitepurple Arch
+material: PAPER
+custom-model-data: 5506
+model: 'cocricotmod:block/halftimber_whitepurple_arch'
+
+block:
+  type: item

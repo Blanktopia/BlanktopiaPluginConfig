@@ -1,0 +1,7 @@
+name: Rope Horizontal Side
+material: PAPER
+custom-model-data: 6858
+model: 'cocricotmod:block/rope_horizontal_side'
+
+block:
+  type: item

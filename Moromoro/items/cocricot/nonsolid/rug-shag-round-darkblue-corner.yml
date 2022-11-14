@@ -1,0 +1,7 @@
+name: Rug Shag Round Darkblue Corner
+material: PAPER
+custom-model-data: 6963
+model: 'cocricotmod:block/rug_shag_round_darkblue_corner'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Mailbox Bronze Black
+material: PAPER
+custom-model-data: 6034
+model: 'cocricotmod:block/mailbox_bronze_black'
+
+block:
+  type: item

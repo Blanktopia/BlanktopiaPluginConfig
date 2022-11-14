@@ -1,0 +1,7 @@
+name: Roof Spanish Orange Rod
+material: PAPER
+custom-model-data: 6726
+model: 'cocricotmod:block/roof_spanish_orange_rod'
+
+block:
+  type: item

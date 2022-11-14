@@ -1,0 +1,7 @@
+name: Stair Monostringer Natural
+material: PAPER
+custom-model-data: 7580
+model: 'cocricotmod:block/stair_monostringer_natural'
+
+block:
+  type: item

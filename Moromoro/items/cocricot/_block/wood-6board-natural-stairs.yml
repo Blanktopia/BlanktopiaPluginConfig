@@ -1,0 +1,7 @@
+name: Wood  6board Natural Stairs
+material: PAPER
+custom-model-data: 9633
+model: 'cocricotmod:block/wood_6board_natural_stairs'
+
+block:
+  type: item

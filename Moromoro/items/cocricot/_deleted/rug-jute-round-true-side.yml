@@ -1,0 +1,7 @@
+name: Rug Jute Round True Side
+material: PAPER
+custom-model-data: 6931
+model: 'cocricotmod:block/rug_jute_round_true_side'
+
+block:
+  type: item

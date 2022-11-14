@@ -1,0 +1,7 @@
+name: Clock Wall Black
+material: PAPER
+custom-model-data: 3110
+model: 'cocricotmod:block/clock_wall_black'
+
+block:
+  type: item

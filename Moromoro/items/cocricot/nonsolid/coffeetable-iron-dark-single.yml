@@ -1,0 +1,7 @@
+name: Coffeetable Iron Dark Single
+material: PAPER
+custom-model-data: 3162
+model: 'cocricotmod:block/coffeetable_iron_dark_single'
+
+block:
+  type: item

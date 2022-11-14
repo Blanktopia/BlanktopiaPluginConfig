@@ -1,0 +1,7 @@
+name: Wood Wainscot Panels Seadrift Slab
+material: PAPER
+custom-model-data: 9847
+model: 'cocricotmod:block/wood_wainscot_panels_seadrift_slab'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Drawer Simple Seadrift Single Up
+material: PAPER
+custom-model-data: 4627
+model: 'cocricotmod:block/drawer_simple_seadrift_single_up'
+
+block:
+  type: item

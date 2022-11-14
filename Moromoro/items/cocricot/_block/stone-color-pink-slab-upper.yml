@@ -1,0 +1,7 @@
+name: Stone Color Pink Slab Upper
+material: PAPER
+custom-model-data: 7832
+model: 'cocricotmod:block/stone_color_pink_slab_upper'
+
+block:
+  type: item

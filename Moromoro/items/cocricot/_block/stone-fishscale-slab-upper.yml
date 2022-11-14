@@ -1,0 +1,7 @@
+name: Stone Fishscale Slab Upper
+material: PAPER
+custom-model-data: 7888
+model: 'cocricotmod:block/stone_fishscale_slab_upper'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Wood  3board Seadrift Slab
+material: PAPER
+custom-model-data: 9503
+model: 'cocricotmod:block/wood_3board_seadrift_slab'
+
+block:
+  type: item

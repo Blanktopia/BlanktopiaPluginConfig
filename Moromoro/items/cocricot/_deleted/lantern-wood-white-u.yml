@@ -1,0 +1,7 @@
+name: Lantern Wood White U
+material: PAPER
+custom-model-data: 5917
+model: 'cocricotmod:block/lantern_wood_white_u'
+
+block:
+  type: item

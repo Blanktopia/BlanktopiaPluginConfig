@@ -1,0 +1,7 @@
+name: Rug Shag Round Yellow
+material: PAPER
+custom-model-data: 7092
+model: 'cocricotmod:block/rug_shag_round_yellow'
+
+block:
+  type: item

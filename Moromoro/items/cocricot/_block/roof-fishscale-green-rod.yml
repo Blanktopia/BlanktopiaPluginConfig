@@ -1,0 +1,7 @@
+name: Roof Fishscale Green Rod
+material: PAPER
+custom-model-data: 6583
+model: 'cocricotmod:block/roof_fishscale_green_rod'
+
+block:
+  type: item

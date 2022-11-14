@@ -1,0 +1,7 @@
+name: Clock Alarm
+material: PAPER
+custom-model-data: 3106
+model: 'cocricotmod:block/clock_alarm'
+
+block:
+  type: item

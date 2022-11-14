@@ -1,0 +1,7 @@
+name: Brick Lightbrown Vslab
+material: PAPER
+custom-model-data: 2662
+model: 'cocricotmod:block/brick_lightbrown_vslab'
+
+block:
+  type: item

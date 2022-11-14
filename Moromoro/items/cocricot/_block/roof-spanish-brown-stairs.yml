@@ -1,0 +1,7 @@
+name: Roof Spanish Brown Stairs
+material: PAPER
+custom-model-data: 6667
+model: 'cocricotmod:block/roof_spanish_brown_stairs'
+
+block:
+  type: item

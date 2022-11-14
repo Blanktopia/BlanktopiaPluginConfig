@@ -1,0 +1,7 @@
+name: Sink Color Blue
+material: PAPER
+custom-model-data: 7303
+model: cocricotmod:block/sink_color_blue
+block:
+  type: item
+  collision: true

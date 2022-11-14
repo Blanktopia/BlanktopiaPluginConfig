@@ -1,0 +1,7 @@
+name: Toilet Hightank Black
+material: PAPER
+custom-model-data: 8316
+model: 'cocricotmod:block/toilet_hightank_black'
+
+block:
+  type: item

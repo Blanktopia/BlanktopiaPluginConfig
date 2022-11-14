@@ -1,0 +1,7 @@
+name: Curtain Separate Lightyellow Right
+material: PAPER
+custom-model-data: 3280
+model: 'cocricotmod:block/curtain_separate_lightyellow_right'
+
+block:
+  type: item

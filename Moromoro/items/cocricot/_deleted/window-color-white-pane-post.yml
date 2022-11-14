@@ -1,0 +1,7 @@
+name: Window Color White Pane Post
+material: PAPER
+custom-model-data: 8781
+model: 'cocricotmod:block/window_color_white_pane_post'
+
+block:
+  type: item

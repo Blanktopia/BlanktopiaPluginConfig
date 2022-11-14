@@ -1,0 +1,7 @@
+name: Stucco Red Arch
+material: PAPER
+custom-model-data: 8088
+model: 'cocricotmod:block/stucco_red_arch'
+
+block:
+  type: item

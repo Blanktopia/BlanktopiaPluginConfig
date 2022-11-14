@@ -1,0 +1,7 @@
+name: Flowerpot Inner Pachira False
+material: PAPER
+custom-model-data: 4909
+model: 'cocricotmod:block/flowerpot_inner_pachira_false'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowbox White
+material: PAPER
+custom-model-data: 9014
+model: 'cocricotmod:block/windowbox_white'
+
+block:
+  type: item

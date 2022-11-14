@@ -1,0 +1,7 @@
+name: Ceilinghook Black Both
+material: PAPER
+custom-model-data: 2930
+model: 'cocricotmod:block/ceilinghook_black_both'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Stair Clear Outer
+material: PAPER
+custom-model-data: 7561
+model: 'cocricotmod:block/stair_clear_outer'
+
+block:
+  type: item

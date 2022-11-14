@@ -1,0 +1,7 @@
+name: Window Centrebar Yellow Pane Post
+material: PAPER
+custom-model-data: 8690
+model: 'cocricotmod:block/window_centrebar_yellow_pane_post'
+
+block:
+  type: item

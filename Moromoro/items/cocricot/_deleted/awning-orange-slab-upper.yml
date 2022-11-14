@@ -1,0 +1,7 @@
+name: Awning Orange Slab Upper
+material: PAPER
+custom-model-data: 2105
+model: 'cocricotmod:block/awning_orange_slab_upper'
+
+block:
+  type: item

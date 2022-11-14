@@ -1,0 +1,7 @@
+name: Cabinet Glass Color Yellow
+material: PAPER
+custom-model-data: 2793
+model: 'cocricotmod:block/cabinet_glass_color_yellow'
+
+block:
+  type: item

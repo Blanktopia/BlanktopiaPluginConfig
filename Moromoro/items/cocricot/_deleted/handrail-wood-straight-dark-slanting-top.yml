@@ -1,0 +1,7 @@
+name: Handrail Wood Straight Dark Slanting Top
+material: PAPER
+custom-model-data: 5623
+model: 'cocricotmod:block/handrail_wood_straight_dark_slanting_top'
+
+block:
+  type: item

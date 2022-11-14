@@ -1,0 +1,7 @@
+name: Centralheating Ri
+material: PAPER
+custom-model-data: 2959
+model: 'cocricotmod:block/centralheating_ri'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Roof Tile Gray Stairs Inner
+material: PAPER
+custom-model-data: 6830
+model: 'cocricotmod:block/roof_tile_gray_stairs_inner'
+
+block:
+  type: item

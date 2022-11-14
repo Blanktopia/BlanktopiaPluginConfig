@@ -1,0 +1,7 @@
+name: Wood Clear Plate
+material: PAPER
+custom-model-data: 9689
+model: 'cocricotmod:block/wood_clear_plate'
+
+block:
+  type: item

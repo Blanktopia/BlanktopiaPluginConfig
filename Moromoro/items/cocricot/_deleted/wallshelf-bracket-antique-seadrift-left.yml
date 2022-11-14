@@ -1,0 +1,7 @@
+name: Wallshelf Bracket Antique Seadrift Left
+material: PAPER
+custom-model-data: 8420
+model: 'cocricotmod:block/wallshelf_bracket_antique_seadrift_left'
+
+block:
+  type: item

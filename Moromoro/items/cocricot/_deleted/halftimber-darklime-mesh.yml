@@ -1,0 +1,7 @@
+name: Halftimber Darklime Mesh
+material: PAPER
+custom-model-data: 5345
+model: 'cocricotmod:block/halftimber_darklime_mesh'
+
+block:
+  type: item

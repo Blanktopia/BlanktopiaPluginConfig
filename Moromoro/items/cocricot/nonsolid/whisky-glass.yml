@@ -1,0 +1,7 @@
+name: Whisky Glass
+material: PAPER
+custom-model-data: 8559
+model: 'cocricotmod:block/whisky_glass'
+
+block:
+  type: item

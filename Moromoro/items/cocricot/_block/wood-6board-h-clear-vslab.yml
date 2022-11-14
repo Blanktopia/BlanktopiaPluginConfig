@@ -1,0 +1,7 @@
+name: Wood  6board H Clear Vslab
+material: PAPER
+custom-model-data: 9593
+model: 'cocricotmod:block/wood_6board_h_clear_vslab'
+
+block:
+  type: item

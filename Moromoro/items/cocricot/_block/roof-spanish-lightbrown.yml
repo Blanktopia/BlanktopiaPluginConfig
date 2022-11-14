@@ -1,0 +1,7 @@
+name: Roof Spanish Lightbrown
+material: PAPER
+custom-model-data: 6692
+model: 'cocricotmod:block/roof_spanish_lightbrown'
+
+block:
+  type: item

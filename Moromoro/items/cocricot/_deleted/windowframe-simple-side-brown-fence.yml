@@ -1,0 +1,7 @@
+name: Windowframe Simple Side Brown Fence
+material: PAPER
+custom-model-data: 9177
+model: 'cocricotmod:block/windowframe_simple_side_brown_fence'
+
+block:
+  type: item

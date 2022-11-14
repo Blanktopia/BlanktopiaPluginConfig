@@ -1,0 +1,7 @@
+name: Marketumbrella Red
+material: PAPER
+custom-model-data: 6094
+model: 'cocricotmod:block/marketumbrella_red'
+
+block:
+  type: item

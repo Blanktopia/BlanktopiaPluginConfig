@@ -1,0 +1,7 @@
+name: Wallshelf Floating
+material: PAPER
+custom-model-data: 8500
+model: 'cocricotmod:block/wallshelf_floating'
+
+block:
+  type: item

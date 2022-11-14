@@ -1,0 +1,7 @@
+name: Walldecor Accessories Bohemian
+material: PAPER
+custom-model-data: 8355
+model: 'cocricotmod:block/walldecor_accessories_bohemian'
+
+block:
+  type: item

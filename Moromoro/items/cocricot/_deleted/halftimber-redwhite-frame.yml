@@ -1,0 +1,7 @@
+name: Halftimber Redwhite Frame
+material: PAPER
+custom-model-data: 5461
+model: 'cocricotmod:block/halftimber_redwhite_frame'
+
+block:
+  type: item

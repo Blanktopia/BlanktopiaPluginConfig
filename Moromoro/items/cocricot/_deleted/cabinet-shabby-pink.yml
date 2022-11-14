@@ -1,0 +1,7 @@
+name: Cabinet Shabby Pink
+material: PAPER
+custom-model-data: 2824
+model: 'cocricotmod:block/cabinet_shabby_pink'
+
+block:
+  type: item

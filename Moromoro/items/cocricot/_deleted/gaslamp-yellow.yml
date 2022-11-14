@@ -1,0 +1,7 @@
+name: Gaslamp Yellow
+material: PAPER
+custom-model-data: 5047
+model: 'cocricotmod:block/gaslamp_yellow'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Brick Orange Slab
+material: PAPER
+custom-model-data: 2680
+model: 'cocricotmod:block/brick_orange_slab'
+
+block:
+  type: item

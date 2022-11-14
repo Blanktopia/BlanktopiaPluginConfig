@@ -1,0 +1,7 @@
+name: Door Tall  8glass White Bottom
+material: PAPER
+custom-model-data: 4472
+model: 'cocricotmod:block/door_tall_8glass_white_bottom'
+
+block:
+  type: item

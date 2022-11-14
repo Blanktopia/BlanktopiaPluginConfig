@@ -1,0 +1,7 @@
+name: Coffeetable Iron Dark Both
+material: PAPER
+custom-model-data: 3159
+model: cocricotmod:block/coffeetable_iron_dark_both
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Windowframe Simple Dark Lower
+material: PAPER
+custom-model-data: 9155
+model: 'cocricotmod:block/windowframe_simple_dark_lower'
+
+block:
+  type: item

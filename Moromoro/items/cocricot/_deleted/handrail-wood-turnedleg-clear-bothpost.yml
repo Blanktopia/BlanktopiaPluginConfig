@@ -1,0 +1,7 @@
+name: Handrail Wood Turnedleg Clear Bothpost
+material: PAPER
+custom-model-data: 5700
+model: 'cocricotmod:block/handrail_wood_turnedleg_clear_bothpost'
+
+block:
+  type: item

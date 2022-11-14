@@ -1,0 +1,7 @@
+name: Drooping Leaves Lightgreen
+material: PAPER
+custom-model-data: 4651
+model: 'cocricotmod:block/drooping_leaves_lightgreen'
+
+block:
+  type: item

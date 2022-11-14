@@ -1,0 +1,7 @@
+name: Wood  6board Brown Plate
+material: PAPER
+custom-model-data: 9537
+model: 'cocricotmod:block/wood_6board_brown_plate'
+
+block:
+  type: item

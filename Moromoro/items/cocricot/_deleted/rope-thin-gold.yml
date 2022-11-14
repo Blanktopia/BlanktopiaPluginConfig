@@ -1,0 +1,7 @@
+name: Rope Thin Gold
+material: PAPER
+custom-model-data: 6867
+model: 'cocricotmod:block/rope_thin_gold'
+
+block:
+  type: item

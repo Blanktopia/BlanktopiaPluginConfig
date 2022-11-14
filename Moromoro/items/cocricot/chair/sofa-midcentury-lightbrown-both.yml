@@ -1,0 +1,7 @@
+name: Sofa Midcentury Lightbrown Both
+material: PAPER
+custom-model-data: 7389
+model: cocricotmod:block/sofa_midcentury_lightbrown_both
+block:
+  type: item
+  sit-height: 0.4375

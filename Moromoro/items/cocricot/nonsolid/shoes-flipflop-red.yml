@@ -1,0 +1,7 @@
+name: Shoes Flipflop Red
+material: PAPER
+custom-model-data: 7173
+model: 'cocricotmod:block/shoes_flipflop_red'
+
+block:
+  type: item

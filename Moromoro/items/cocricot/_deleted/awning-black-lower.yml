@@ -1,0 +1,7 @@
+name: Awning Black Lower
+material: PAPER
+custom-model-data: 2014
+model: 'cocricotmod:block/awning_black_lower'
+
+block:
+  type: item

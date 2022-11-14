@@ -1,0 +1,7 @@
+name: Window Color Orange Pane Three
+material: PAPER
+custom-model-data: 8763
+model: 'cocricotmod:block/window_color_orange_pane_three'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowbox
+material: PAPER
+custom-model-data: 9009
+model: 'cocricotmod:block/windowbox'
+
+block:
+  type: item

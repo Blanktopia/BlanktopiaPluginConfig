@@ -1,0 +1,7 @@
+name: Hangingchain Up White
+material: PAPER
+custom-model-data: 5797
+model: 'cocricotmod:block/hangingchain_up_white'
+
+block:
+  type: item

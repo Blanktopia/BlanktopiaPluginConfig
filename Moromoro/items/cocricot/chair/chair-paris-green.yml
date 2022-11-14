@@ -1,0 +1,7 @@
+name: Chair Paris Green
+material: PAPER
+custom-model-data: 3047
+model: cocricotmod:block/chair_paris_green
+block:
+  type: item
+  sit-height: 0.4375

@@ -1,0 +1,7 @@
+name: Fence Ranchrail White Slant
+material: PAPER
+custom-model-data: 4805
+model: 'cocricotmod:block/fence_ranchrail_white_slant'
+
+block:
+  type: item

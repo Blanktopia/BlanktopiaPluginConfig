@@ -1,0 +1,7 @@
+name: Window Centrebar Natural
+material: PAPER
+custom-model-data: 8659
+model: 'cocricotmod:block/window_centrebar_natural'
+
+block:
+  type: item

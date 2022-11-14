@@ -1,0 +1,7 @@
+name: Glass Frame Vshift
+material: PAPER
+custom-model-data: 5136
+model: 'cocricotmod:block/glass_frame_vshift'
+
+block:
+  type: item

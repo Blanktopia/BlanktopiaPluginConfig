@@ -1,0 +1,7 @@
+name: Awning Red Slab
+material: PAPER
+custom-model-data: 2126
+model: 'cocricotmod:block/awning_red_slab'
+
+block:
+  type: item

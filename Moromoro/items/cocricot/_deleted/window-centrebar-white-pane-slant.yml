@@ -1,0 +1,7 @@
+name: Window Centrebar White Pane Slant
+material: PAPER
+custom-model-data: 8685
+model: 'cocricotmod:block/window_centrebar_white_pane_slant'
+
+block:
+  type: item

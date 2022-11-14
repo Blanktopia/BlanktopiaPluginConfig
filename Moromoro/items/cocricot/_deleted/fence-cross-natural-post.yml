@@ -1,0 +1,7 @@
+name: Fence Cross Natural Post
+material: PAPER
+custom-model-data: 4706
+model: 'cocricotmod:block/fence_cross_natural_post'
+
+block:
+  type: item

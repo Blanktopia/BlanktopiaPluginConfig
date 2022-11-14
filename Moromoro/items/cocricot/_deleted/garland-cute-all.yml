@@ -1,0 +1,7 @@
+name: Garland Cute All
+material: PAPER
+custom-model-data: 5010
+model: 'cocricotmod:block/garland_cute_all'
+
+block:
+  type: item

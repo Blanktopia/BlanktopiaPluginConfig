@@ -1,0 +1,7 @@
+name: Cakestand Cupcake
+material: PAPER
+custom-model-data: 2846
+model: 'cocricotmod:block/cakestand_cupcake'
+
+block:
+  type: item

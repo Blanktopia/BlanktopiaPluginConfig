@@ -1,0 +1,7 @@
+name: Shopfacade Paris Red Vertical
+material: PAPER
+custom-model-data: 7225
+model: 'cocricotmod:block/shopfacade_paris_red_vertical'
+
+block:
+  type: item

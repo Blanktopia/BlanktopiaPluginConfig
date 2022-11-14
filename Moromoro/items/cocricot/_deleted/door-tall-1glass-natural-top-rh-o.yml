@@ -1,0 +1,7 @@
+name: Door Tall  1glass Natural Top Rh O
+material: PAPER
+custom-model-data: 3911
+model: 'cocricotmod:block/door_tall_1glass_natural_top_rh_o'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Windowframe Classic Upper
+material: PAPER
+custom-model-data: 9128
+model: 'cocricotmod:block/windowframe_classic_upper'
+
+block:
+  type: item

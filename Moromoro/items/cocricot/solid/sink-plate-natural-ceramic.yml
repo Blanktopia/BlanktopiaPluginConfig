@@ -1,0 +1,7 @@
+name: Sink Plate Natural Ceramic
+material: PAPER
+custom-model-data: 7321
+model: cocricotmod:block/sink_plate_natural_ceramic
+block:
+  type: item
+  collision: true

@@ -1,0 +1,7 @@
+name: Halftimber Brownpurple Arch
+material: PAPER
+custom-model-data: 5264
+model: 'cocricotmod:block/halftimber_brownpurple_arch'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Fence Ranchrail Brown Side
+material: PAPER
+custom-model-data: 4762
+model: 'cocricotmod:block/fence_ranchrail_brown_side'
+
+block:
+  type: item

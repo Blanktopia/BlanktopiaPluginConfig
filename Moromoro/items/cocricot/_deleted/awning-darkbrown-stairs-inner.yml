@@ -1,0 +1,7 @@
+name: Awning Darkbrown Stairs Inner
+material: PAPER
+custom-model-data: 2041
+model: 'cocricotmod:block/awning_darkbrown_stairs_inner'
+
+block:
+  type: item

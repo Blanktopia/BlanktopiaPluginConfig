@@ -1,0 +1,7 @@
+name: Window Centrebar Brown Pane All
+material: PAPER
+custom-model-data: 8604
+model: 'cocricotmod:block/window_centrebar_brown_pane_all'
+
+block:
+  type: item

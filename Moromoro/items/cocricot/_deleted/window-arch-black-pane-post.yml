@@ -1,0 +1,7 @@
+name: Window Arch Black Pane Post
+material: PAPER
+custom-model-data: 8564
+model: 'cocricotmod:block/window_arch_black_pane_post'
+
+block:
+  type: item

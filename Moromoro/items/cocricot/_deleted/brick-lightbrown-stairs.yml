@@ -1,0 +1,7 @@
+name: Brick Lightbrown Stairs
+material: PAPER
+custom-model-data: 2658
+model: 'cocricotmod:block/brick_lightbrown_stairs'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Lamppost Side
+material: PAPER
+custom-model-data: 5903
+model: 'cocricotmod:block/lamppost_side'
+
+block:
+  type: item

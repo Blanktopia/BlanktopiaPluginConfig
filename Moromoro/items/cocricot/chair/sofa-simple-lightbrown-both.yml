@@ -1,0 +1,7 @@
+name: Sofa Simple Lightbrown Both
+material: PAPER
+custom-model-data: 7417
+model: cocricotmod:block/sofa_simple_lightbrown_both
+block:
+  type: item
+  sit-height: 0.4375

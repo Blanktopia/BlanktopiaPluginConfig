@@ -1,0 +1,7 @@
+name: Pattern Classic Lightblue
+material: PAPER
+custom-model-data: 6195
+model: 'cocricotmod:block/pattern_classic_lightblue'
+
+block:
+  type: item

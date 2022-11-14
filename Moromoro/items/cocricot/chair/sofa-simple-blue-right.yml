@@ -1,0 +1,7 @@
+name: Sofa Simple Blue Right
+material: PAPER
+custom-model-data: 7407
+model: cocricotmod:block/sofa_simple_blue_right
+block:
+  type: item
+  sit-height: 0.4375

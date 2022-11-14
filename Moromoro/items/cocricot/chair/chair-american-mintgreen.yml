@@ -1,0 +1,7 @@
+name: Chair American Mintgreen
+material: PAPER
+custom-model-data: 2988
+model: cocricotmod:block/chair_american_mintgreen
+block:
+  type: item
+  sit-height: 0.4375

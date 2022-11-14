@@ -1,0 +1,7 @@
+name: Cushion Green Single B
+material: PAPER
+custom-model-data: 3343
+model: 'cocricotmod:block/cushion_green_single_b'
+
+block:
+  type: item

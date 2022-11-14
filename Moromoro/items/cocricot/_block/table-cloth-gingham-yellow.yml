@@ -1,0 +1,7 @@
+name: Table Cloth Gingham Yellow
+material: PAPER
+custom-model-data: 8165
+model: 'cocricotmod:block/table_cloth_gingham_yellow'
+
+block:
+  type: item

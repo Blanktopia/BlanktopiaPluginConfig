@@ -1,0 +1,7 @@
+name: Fence Ranchrail Clear Slant
+material: PAPER
+custom-model-data: 4769
+model: 'cocricotmod:block/fence_ranchrail_clear_slant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Chair Greek Green
+material: PAPER
+custom-model-data: 3024
+model: cocricotmod:block/chair_greek_green
+block:
+  type: item
+  sit-height: 0.4375

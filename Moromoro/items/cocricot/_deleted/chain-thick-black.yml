@@ -1,0 +1,7 @@
+name: Chain Thick Black
+material: PAPER
+custom-model-data: 2974
+model: 'cocricotmod:block/chain_thick_black'
+
+block:
+  type: item

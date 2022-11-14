@@ -1,0 +1,7 @@
+name: Door  2panel Blue Top
+material: PAPER
+custom-model-data: 3580
+model: 'cocricotmod:block/door_2panel_blue_top'
+
+block:
+  type: item

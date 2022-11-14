@@ -1,0 +1,7 @@
+name: Halftimber Yellowwhite Pattern 2
+material: PAPER
+custom-model-data: 5544
+model: 'cocricotmod:block/halftimber_yellowwhite_pattern2'
+
+block:
+  type: item

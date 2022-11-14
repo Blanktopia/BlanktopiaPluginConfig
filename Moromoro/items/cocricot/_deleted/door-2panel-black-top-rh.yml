@@ -1,0 +1,7 @@
+name: Door  2panel Black Top Rh
+material: PAPER
+custom-model-data: 3574
+model: 'cocricotmod:block/door_2panel_black_top_rh'
+
+block:
+  type: item

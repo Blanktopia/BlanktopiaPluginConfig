@@ -1,0 +1,7 @@
+name: Wood  6board Brown Stairs
+material: PAPER
+custom-model-data: 9541
+model: 'cocricotmod:block/wood_6board_brown_stairs'
+
+block:
+  type: item

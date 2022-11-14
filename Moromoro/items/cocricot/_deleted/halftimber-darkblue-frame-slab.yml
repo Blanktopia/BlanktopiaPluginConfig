@@ -1,0 +1,7 @@
+name: Halftimber Darkblue Frame Slab
+material: PAPER
+custom-model-data: 5312
+model: 'cocricotmod:block/halftimber_darkblue_frame_slab'
+
+block:
+  type: item

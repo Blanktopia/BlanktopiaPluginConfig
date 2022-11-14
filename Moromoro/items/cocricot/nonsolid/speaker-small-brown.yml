@@ -1,0 +1,7 @@
+name: Speaker Small Brown
+material: PAPER
+custom-model-data: 7550
+model: 'cocricotmod:block/speaker_small_brown'
+
+block:
+  type: item

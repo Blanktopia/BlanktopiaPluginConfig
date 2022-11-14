@@ -1,0 +1,7 @@
+name: Wood  2board H Black Stairs Inner
+material: PAPER
+custom-model-data: 9301
+model: 'cocricotmod:block/wood_2board_h_black_stairs_inner'
+
+block:
+  type: item

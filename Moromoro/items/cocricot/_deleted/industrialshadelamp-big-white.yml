@@ -1,0 +1,7 @@
+name: Industrialshadelamp Big White
+material: PAPER
+custom-model-data: 5831
+model: 'cocricotmod:block/industrialshadelamp_big_white'
+
+block:
+  type: item

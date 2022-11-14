@@ -1,0 +1,7 @@
+name: Awning Yellow Stairs
+material: PAPER
+custom-model-data: 2287
+model: 'cocricotmod:block/awning_yellow_stairs'
+
+block:
+  type: item

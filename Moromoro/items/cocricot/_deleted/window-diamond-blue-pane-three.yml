@@ -1,0 +1,7 @@
+name: Window Diamond Blue Pane Three
+material: PAPER
+custom-model-data: 8812
+model: 'cocricotmod:block/window_diamond_blue_pane_three'
+
+block:
+  type: item

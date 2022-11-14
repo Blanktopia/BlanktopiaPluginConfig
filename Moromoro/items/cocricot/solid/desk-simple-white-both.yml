@@ -1,0 +1,7 @@
+name: Desk Simple White Both
+material: PAPER
+custom-model-data: 3429
+model: cocricotmod:block/desk_simple_white_both
+block:
+  type: item
+  collision: true

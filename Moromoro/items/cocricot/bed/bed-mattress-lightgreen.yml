@@ -1,0 +1,7 @@
+name: Bed Mattress Lightgreen
+material: PAPER
+custom-model-data: 2414
+model: cocricotmod:block/bed_mattress_lightgreen
+block:
+  type: item
+  collision: true

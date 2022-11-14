@@ -1,0 +1,7 @@
+name: Flowerpot Antique Sandstone
+material: PAPER
+custom-model-data: 4875
+model: 'cocricotmod:block/flowerpot_antique_sandstone'
+
+block:
+  type: item

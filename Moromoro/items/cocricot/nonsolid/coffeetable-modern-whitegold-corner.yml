@@ -1,0 +1,7 @@
+name: Coffeetable Modern Whitegold Corner
+material: PAPER
+custom-model-data: 3189
+model: 'cocricotmod:block/coffeetable_modern_whitegold_corner'
+
+block:
+  type: item

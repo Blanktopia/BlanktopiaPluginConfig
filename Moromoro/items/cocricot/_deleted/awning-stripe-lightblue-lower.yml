@@ -1,0 +1,7 @@
+name: Awning Stripe Lightblue Lower
+material: PAPER
+custom-model-data: 2193
+model: 'cocricotmod:block/awning_stripe_lightblue_lower'
+
+block:
+  type: item

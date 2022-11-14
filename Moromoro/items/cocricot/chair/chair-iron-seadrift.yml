@@ -1,0 +1,7 @@
+name: Chair Iron Seadrift
+material: PAPER
+custom-model-data: 3035
+model: cocricotmod:block/chair_iron_seadrift
+block:
+  type: item
+  sit-height: 0.4375

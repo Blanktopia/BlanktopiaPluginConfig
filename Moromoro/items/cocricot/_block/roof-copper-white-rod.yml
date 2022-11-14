@@ -1,0 +1,7 @@
+name: Roof Copper White Rod
+material: PAPER
+custom-model-data: 6528
+model: 'cocricotmod:block/roof_copper_white_rod'
+
+block:
+  type: item

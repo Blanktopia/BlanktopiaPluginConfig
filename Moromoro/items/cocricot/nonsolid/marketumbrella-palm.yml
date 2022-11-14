@@ -1,0 +1,7 @@
+name: Marketumbrella Palm
+material: PAPER
+custom-model-data: 6093
+model: 'cocricotmod:block/marketumbrella_palm'
+
+block:
+  type: item

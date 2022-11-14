@@ -1,0 +1,7 @@
+name: Mailbox Wall Green
+material: PAPER
+custom-model-data: 6040
+model: 'cocricotmod:block/mailbox_wall_green'
+
+block:
+  type: item

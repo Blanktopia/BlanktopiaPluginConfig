@@ -1,0 +1,7 @@
+name: Roundtable Turnedleg Wide White
+material: PAPER
+custom-model-data: 6915
+model: cocricotmod:block/roundtable_turnedleg_wide_white
+block:
+  type: item
+  collision: true

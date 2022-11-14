@@ -1,0 +1,7 @@
+name: Halftimber Whitepink Slant Left
+material: PAPER
+custom-model-data: 5500
+model: 'cocricotmod:block/halftimber_whitepink_slant_left'
+
+block:
+  type: item

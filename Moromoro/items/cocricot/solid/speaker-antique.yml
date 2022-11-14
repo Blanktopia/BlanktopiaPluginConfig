@@ -1,0 +1,7 @@
+name: Speaker Antique
+material: PAPER
+custom-model-data: 7531
+model: cocricotmod:block/speaker_antique
+block:
+  type: item
+  collision: true

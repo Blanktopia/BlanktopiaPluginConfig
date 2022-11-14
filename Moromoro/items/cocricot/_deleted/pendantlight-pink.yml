@@ -1,0 +1,7 @@
+name: Pendantlight Pink
+material: PAPER
+custom-model-data: 6213
+model: 'cocricotmod:block/pendantlight_pink'
+
+block:
+  type: item

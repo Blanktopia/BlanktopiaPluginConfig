@@ -1,0 +1,7 @@
+name: Hangingchain Down Black
+material: PAPER
+custom-model-data: 5789
+model: 'cocricotmod:block/hangingchain_down_black'
+
+block:
+  type: item
