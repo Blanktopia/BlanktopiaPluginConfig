@@ -1,1 +1,26 @@
-{"parent":"cocricotmod:block/menu_board_brown","textures":{"particle":"cocricotmod:blocks/menu_board_white","texture":"cocricotmod:blocks/menu_board_white"},"display":{"fixed":{"rotation":[0,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/menu_board_brown",
+  "textures": {
+    "particle": "cocricotmod:block/menu_board_white",
+    "texture": "cocricotmod:block/menu_board_white"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

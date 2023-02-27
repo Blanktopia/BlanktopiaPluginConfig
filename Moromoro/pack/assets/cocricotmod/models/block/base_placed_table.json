@@ -1,1 +1,49 @@
-{"textures":{"particle":"#top"},"elements":[{"from":[0,-8,0],"to":[16,-7,16],"faces":{"up":{"uv":[0,0,16,16],"texture":"#top"}}}],"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "textures": {
+    "particle": "#top"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        -8,
+        0
+      ],
+      "to": [
+        16,
+        -7,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#top"
+        }
+      }
+    }
+  ],
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,1 +1,6 @@
-{"parent":"item/crossbow_firework","textures":{"layer0":"blanktopia:rares/chu_ko_nu_firework"}}
+{
+  "parent": "item/crossbow_firework",
+  "textures": {
+    "layer0": "blanktopia:item/rares/chu_ko_nu_firework"
+  }
+}

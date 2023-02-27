@@ -1,1 +1,6 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"blanktopia:food/mooncakes/egg"}}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "blanktopia:item/food/mooncakes/egg"
+  }
+}

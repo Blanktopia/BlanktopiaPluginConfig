@@ -1,1 +1,27 @@
-{"parent":"cocricotmod:block/bench_turnedleg_black_left","textures":{"0":"cocricotmod:blocks/planks_white","1":"cocricotmod:blocks/bench_turnedleg_white","2":"cocricotmod:blocks/bench_turnedleg_white_side"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/bench_turnedleg_black_left",
+  "textures": {
+    "0": "cocricotmod:block/planks_white",
+    "1": "cocricotmod:block/bench_turnedleg_white",
+    "2": "cocricotmod:block/bench_turnedleg_white_side"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,1 +1,26 @@
-{"parent":"cocricotmod:block/marketumbrella_black","textures":{"0":"cocricotmod:blocks/marketumbrella_green","particle":"cocricotmod:blocks/awning_green_upper"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/marketumbrella_black",
+  "textures": {
+    "0": "cocricotmod:block/marketumbrella_green",
+    "particle": "cocricotmod:block/awning_green_upper"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

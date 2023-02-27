@@ -1,1 +1,26 @@
-{"parent":"cocricotmod:block/roundtable_turnedleg_wide","textures":{"texture":"cocricotmod:blocks/planks_natural","texture1":"cocricotmod:blocks/roundtable_turnedleg_wide_natural"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/roundtable_turnedleg_wide",
+  "textures": {
+    "texture": "cocricotmod:block/planks_natural",
+    "texture1": "cocricotmod:block/roundtable_turnedleg_wide_natural"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

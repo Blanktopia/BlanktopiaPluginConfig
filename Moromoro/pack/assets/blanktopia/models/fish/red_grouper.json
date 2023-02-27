@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:fish/red_grouper"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:item/fish/red_grouper"
+  }
+}

@@ -1,7 +1,7 @@
 {
-    "parent": "./car_1",
-    "textures": {
-        "11": "blanktopia:vehicles/car_4",
-        "particle": "blanktopia:vehicles/car_4"
-    }
+  "parent": "./car_1",
+  "textures": {
+    "11": "blanktopia:item/vehicles/car_4",
+    "particle": "blanktopia:item/vehicles/car_4"
+  }
 }

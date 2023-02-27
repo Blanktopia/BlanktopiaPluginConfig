@@ -1,1 +1,25 @@
-{"parent":"cocricotmod:block/bicycle_black_set","textures":{"0":"cocricotmod:blocks/bicycle_white"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/bicycle_black_set",
+  "textures": {
+    "0": "cocricotmod:block/bicycle_white"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,1 +1,27 @@
-{"parent":"cocricotmod:block/table_ironleg_brown_both","textures":{"0":"cocricotmod:blocks/chair_natural","1":"cocricotmod:blocks/planks_natural","particle":"cocricotmod:blocks/planks_natural"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/table_ironleg_brown_both",
+  "textures": {
+    "0": "cocricotmod:block/chair_natural",
+    "1": "cocricotmod:block/planks_natural",
+    "particle": "cocricotmod:block/planks_natural"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

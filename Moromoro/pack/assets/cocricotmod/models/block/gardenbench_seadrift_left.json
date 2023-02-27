@@ -1,1 +1,26 @@
-{"parent":"cocricotmod:block/gardenbench_left","textures":{"particle":"cocricotmod:blocks/planks_seadrift","texture":"cocricotmod:blocks/gardenbench_seadrift"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/gardenbench_left",
+  "textures": {
+    "particle": "cocricotmod:block/planks_seadrift",
+    "texture": "cocricotmod:block/gardenbench_seadrift"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

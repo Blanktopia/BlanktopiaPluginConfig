@@ -1,1 +1,25 @@
-{"parent":"cocricotmod:block/toilet_hightank_white","textures":{"2":"cocricotmod:blocks/toilet_hightank_black"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/toilet_hightank_white",
+  "textures": {
+    "2": "cocricotmod:block/toilet_hightank_black"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:rares/horn_of_plenty"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:item/rares/horn_of_plenty"
+  }
+}

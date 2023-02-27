@@ -1,1 +1,26 @@
-{"parent":"cocricotmod:block/gardenbench_both","textures":{"particle":"cocricotmod:blocks/stucco_marineblue","texture":"cocricotmod:blocks/gardenbench_marineblue"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/gardenbench_both",
+  "textures": {
+    "particle": "cocricotmod:block/stucco_marineblue",
+    "texture": "cocricotmod:block/gardenbench_marineblue"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

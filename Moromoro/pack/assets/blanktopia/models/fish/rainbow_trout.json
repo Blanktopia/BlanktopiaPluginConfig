@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:fish/rainbow_trout"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:item/fish/rainbow_trout"
+  }
+}

@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"blanktopia:fish/pink_salmon"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "blanktopia:item/fish/pink_salmon"
+  }
+}

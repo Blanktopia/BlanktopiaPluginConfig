@@ -1,1 +1,27 @@
-{"parent":"cocricotmod:block/range_retro","textures":{"u":"cocricotmod:blocks/range_retro_brown2","s":"cocricotmod:blocks/range_retro_brown1","n":"cocricotmod:blocks/range_retro_brown"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/range_retro",
+  "textures": {
+    "u": "cocricotmod:block/range_retro_brown2",
+    "s": "cocricotmod:block/range_retro_brown1",
+    "n": "cocricotmod:block/range_retro_brown"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

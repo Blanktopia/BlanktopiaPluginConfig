@@ -1,1 +1,27 @@
-{"parent":"cocricotmod:block/desk_simple_white_both","textures":{"1":"cocricotmod:blocks/planks_brown","2":"cocricotmod:blocks/chair_brown","particle":"cocricotmod:blocks/planks_brown"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/desk_simple_white_both",
+  "textures": {
+    "1": "cocricotmod:block/planks_brown",
+    "2": "cocricotmod:block/chair_brown",
+    "particle": "cocricotmod:block/planks_brown"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

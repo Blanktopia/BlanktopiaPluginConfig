@@ -1,1 +1,26 @@
-{"parent":"cocricotmod:block/bathtub_clawfoot","textures":{"2":"cocricotmod:blocks/transparent","3":"cocricotmod:blocks/bathtub_clawfoot_black"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/bathtub_clawfoot",
+  "textures": {
+    "2": "cocricotmod:block/transparent",
+    "3": "cocricotmod:block/bathtub_clawfoot_black"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

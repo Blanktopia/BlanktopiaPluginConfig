@@ -1,1 +1,7 @@
-{"parent":"blanktopia:hats/santa","textures":{"1":"block/green_wool","2":"block/white_wool"}}
+{
+  "parent": "blanktopia:hats/santa",
+  "textures": {
+    "1": "block/green_wool",
+    "2": "block/white_wool"
+  }
+}

@@ -1,1 +1,25 @@
-{"parent":"block/cross","textures":{"cross":"cocricotmod:blocks/bougainvillea_yellow_d"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cocricotmod:block/bougainvillea_yellow_d"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

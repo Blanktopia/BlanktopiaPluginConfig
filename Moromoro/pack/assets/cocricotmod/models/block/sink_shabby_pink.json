@@ -1,1 +1,28 @@
-{"parent":"cocricotmod:block/sink_cabinet_brown_ceramic","textures":{"particle":"cocricotmod:blocks/shabby_pink","bottom":"cocricotmod:blocks/shabby_pink","front":"cocricotmod:blocks/sink_shabby_pink","side":"cocricotmod:blocks/sink_shabby_pink_side"},"display":{"fixed":{"rotation":[-90,0,0],"translation":[0,0,-16],"scale":[2,2,2]}}}
+{
+  "parent": "cocricotmod:block/sink_cabinet_brown_ceramic",
+  "textures": {
+    "particle": "cocricotmod:block/shabby_pink",
+    "bottom": "cocricotmod:block/shabby_pink",
+    "front": "cocricotmod:block/sink_shabby_pink",
+    "side": "cocricotmod:block/sink_shabby_pink_side"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [
+        -90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        -16
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}
