@@ -5,21 +5,15 @@ material: WOODEN_HOE
 custom-model-data: 1005
 model: "minecraft:item/popped_chorus_fruit"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
-  
+
   &bRight-click&f to place a random
   &fblock from your hot bar.
-  
-  &8-------------------------
-  &6BUILDER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
 
 triggers:
   tick-slow:

@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1022,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/birch_desk","name":"&fBirch Desk"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1022,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/birch_desk",
+   "name": "&fBirch Desk"
+}

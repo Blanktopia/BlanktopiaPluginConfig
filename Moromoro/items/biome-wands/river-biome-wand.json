@@ -1,1 +1,19 @@
-{"alias":"biome-wand","custom-model-data":1,"enchantments":{"blanktopia:final":1,"blanktopia:soulbound":1},"lore":"&8-------------------------\n\n&bRight-click&f to turn an area\n&finto a &x&0&0&0&0&F&FRiver&f biome.\n\n&8-------------------------\n&6NATURE Crate Item","material":"WOODEN_HOE","name":"&x&0&0&0&0&F&FRiver Biome Wand","triggers":{"right-click":[{"type":"cancel"}]},"unbreakable":true}
+{
+   "alias": "biome-wand",
+   "custom-model-data": 1,
+   "enchantments": {
+      "blanktopia:final": 1,
+      "blanktopia:soulbound": 1
+   },
+   "lore": "&8-------------------------\n\n&bRight-click&f to turn an area\n&finto a &x&0&0&0&0&F&FRiver&f biome.\n\n&8-------------------------\n&6NATURE Crate Item",
+   "material": "WOODEN_HOE",
+   "name": "&x&0&0&0&0&F&FRiver Biome Wand",
+   "triggers": {
+      "right-click": [
+         {
+            "type": "cancel"
+         }
+      ]
+   },
+   "unbreakable": true
+}

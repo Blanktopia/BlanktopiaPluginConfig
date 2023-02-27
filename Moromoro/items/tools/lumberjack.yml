@@ -1,25 +1,22 @@
-version: 1
+version: 2
 
 name: "&6Lumberjack&c ⛏"
 material: IRON_AXE
 custom-model-data: 1
 model: "blanktopia:rares/lumberjack"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
   
   &fChops in a &b3x3&f area.
-  
-  &8-------------------------
-  &6BUILDER's Crate Item
 
 enchantments:
   efficiency: 6
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  silk_touch: 1
 
 triggers:
   break-block:

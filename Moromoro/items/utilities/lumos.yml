@@ -1,25 +1,23 @@
+version: 1
+
 name: "&#fffcdb-#ffc272&Lumos"
 material: WOODEN_HOE
 custom-model-data: 1000
 model: "blanktopia:rares/lumos"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
-  
+
   &bRight-click&f to place an
   &finvisible light source.
   &bLeft-click&f to remove nearby
   &flights.
-  
-  &8-------------------------
-  &6INFINITY's Crate Item
 
 enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
   infinity: 1
 
 triggers:

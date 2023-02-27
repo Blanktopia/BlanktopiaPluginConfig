@@ -19,10 +19,10 @@ triggers:
     sound: entity.warden.sonic_charge
     pitch: 2.0
   projectile-launch:
-  - type: lightning
-    location: 
-      type: raycast
-      range: 200
+    #- type: lightning
+    #  location: 
+    #    type: raycast
+    #    range: 200
   - type: spawn-particle-line
     from: 
       type: player

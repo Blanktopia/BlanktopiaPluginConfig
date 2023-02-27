@@ -1,1 +1,12 @@
-{"block":{"collision":false,"sit-height":0.5625,"sit-rotate":false,"type":"item"},"custom-model-data":1006,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/crimson_chair","name":"&fCrimson Chair"}
+{
+   "block": {
+      "collision": false,
+      "sit-height": 0.5625,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1006,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/crimson_chair",
+   "name": "&fCrimson Chair"
+}

@@ -1,1 +1,16 @@
-{"custom-model-data":2,"material":"POTION","model":"blanktopia:food/vinegar","name":"&fVinegar","triggers":{"consume":[{"duration":200,"effect":"poison","level":2,"type":"add-potion-effect"}]}}
+{
+   "custom-model-data": 2,
+   "material": "POTION",
+   "model": "blanktopia:food/vinegar",
+   "name": "&fVinegar",
+   "triggers": {
+      "consume": [
+         {
+            "duration": 200,
+            "effect": "poison",
+            "level": 2,
+            "type": "add-potion-effect"
+         }
+      ]
+   }
+}

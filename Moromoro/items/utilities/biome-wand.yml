@@ -1,26 +1,21 @@
-version: 2
+version: 3
 
 name: '&#8db360-#056621&Biome Wand'
 material: WOODEN_HOE
 custom-model-data: 1
 model: "blanktopia:rares/biome_wand"
 
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
 
   &bLeft-click&f to select a
   &fbiome.
   &bRight-click&f to turn an area
   &finto the selected biome.
-
-  &8-------------------------
-  &6NATURE Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
 
 triggers:
   right-click:

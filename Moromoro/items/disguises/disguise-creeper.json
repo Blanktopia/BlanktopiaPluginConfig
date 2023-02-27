@@ -1,1 +1,29 @@
-{"enchantments":{"blanktopia:final":1,"blanktopia:soulbound":1},"head":"http://textures.minecraft.net/texture/null","lore":"&8-------------------------\n\n&fDisguises you as a &bCreeper&f.\n\n&8-------------------------\n&6MINER's Crate Item","material":"CREEPER_HEAD","name":"&6Creeper Disguise&c ☻","triggers":{"equip-head":[{"disguise":{"baby":false,"entity":"CREEPER","type":"mob"},"type":"disguise"}],"place-block":[{"type":"cancel"}],"unequip-armor":[{"type":"undisguise"}]}}
+{
+   "head": "http://textures.minecraft.net/texture/null",
+   "lore": "\n&fDisguises you as a &bCreeper&f.",
+   "material": "CREEPER_HEAD",
+   "name": "&6Creeper Disguise&c ☻",
+   "soulbound": true,
+   "triggers": {
+      "equip-head": [
+         {
+            "disguise": {
+               "baby": false,
+               "entity": "CREEPER",
+               "type": "mob"
+            },
+            "type": "disguise"
+         }
+      ],
+      "place-block": [
+         {
+            "type": "cancel"
+         }
+      ],
+      "unequip-armor": [
+         {
+            "type": "undisguise"
+         }
+      ]
+   }
+}

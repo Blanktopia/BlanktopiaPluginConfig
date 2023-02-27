@@ -1,1 +1,9 @@
-{"block":{"type":"item"},"custom-model-data":109,"material":"WOODEN_HOE","model":"blanktopia:instruments/xylophone","name":"&fXylophone"}
+{
+   "block": {
+      "type": "item"
+   },
+   "custom-model-data": 109,
+   "material": "WOODEN_HOE",
+   "model": "blanktopia:instruments/xylophone",
+   "name": "&fXylophone"
+}

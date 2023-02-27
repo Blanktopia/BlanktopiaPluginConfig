@@ -1,1 +1,12 @@
-{"block":{"collision":false,"sit-height":0.6875,"sit-rotate":true,"type":"item"},"custom-model-data":1011,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/spruce_stool","name":"&fSpruce Stool"}
+{
+   "block": {
+      "collision": false,
+      "sit-height": 0.6875,
+      "sit-rotate": true,
+      "type": "item"
+   },
+   "custom-model-data": 1011,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/spruce_stool",
+   "name": "&fSpruce Stool"
+}

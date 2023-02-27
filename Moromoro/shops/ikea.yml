@@ -2646,3 +2646,37 @@ categories:
       price: ruby
     - item: wallshelf-wineglass
       price: ruby
+
+  Instruments:
+    - item: piano
+      price: ruby:10
+    - item: bassdrum
+      price: ruby:10
+    - item: snare
+      price: ruby:10
+    - item: sticks
+      price: ruby:10
+    - item: bass
+      price: ruby:10
+    - item: flute
+      price: ruby:10
+    - item: bell
+      price: ruby:10
+    - item: guitar
+      price: ruby:10
+    - item: chimes
+      price: ruby:10
+    - item: xylophone
+      price: ruby:10
+    - item: vibraphone
+      price: ruby:10
+    - item: cowbell
+      price: ruby:10
+    - item: didgeridoo
+      price: ruby:10
+    - item: bits
+      price: ruby:10
+    - item: banjo
+      price: ruby:10
+    - item: pling
+      price: ruby:10

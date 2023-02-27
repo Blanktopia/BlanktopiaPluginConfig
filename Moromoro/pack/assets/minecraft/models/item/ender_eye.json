@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/ender_eye"},"overrides":[{"model":"blanktopia:rares/everstone","predicate":{"custom_model_data":1}},{"model":"blanktopia:rares/pokeball","predicate":{"custom_model_data":2}}]}

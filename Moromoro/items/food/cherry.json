@@ -1,1 +1,9 @@
-{"custom-model-data":2,"material":"APPLE","model":"blanktopia:food/fruits/cherry","name":"&fCherry","triggers":{"consume":[]}}
+{
+   "custom-model-data": 2,
+   "material": "APPLE",
+   "model": "blanktopia:food/fruits/cherry",
+   "name": "&fCherry",
+   "triggers": {
+      "consume": [ ]
+   }
+}

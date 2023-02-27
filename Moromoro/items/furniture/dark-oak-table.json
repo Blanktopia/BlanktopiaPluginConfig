@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1065,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/dark_oak_table","name":"&fDark Oak Table"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1065,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/dark_oak_table",
+   "name": "&fDark Oak Table"
+}

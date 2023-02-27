@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1066,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/crimson_table","name":"&fCrimson Table"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1066,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/crimson_table",
+   "name": "&fCrimson Table"
+}

@@ -1,0 +1,22 @@
+version: 0
+
+name: "&#8f7c71-#87635d&Packing Tape"
+material: SLIME_BALL
+custom-model-data: 1
+model: "blanktopia:rares/packing_tape"
+
+soulbound: true
+unbreakable: true
+unenchantable: true
+unique: true
+
+lore: |-
+
+  &bSneak right-click&f to
+  &fpick up a chest with all
+  &fits contents.
+
+triggers:
+  right-click-block:
+  - type: packing-tape
+  - type: cancel

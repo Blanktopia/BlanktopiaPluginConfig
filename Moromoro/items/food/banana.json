@@ -1,1 +1,9 @@
-{"custom-model-data":1,"material":"APPLE","model":"blanktopia:food/fruits/banana","name":"&fBanana","triggers":{"consume":[]}}
+{
+   "custom-model-data": 1,
+   "material": "APPLE",
+   "model": "blanktopia:food/fruits/banana",
+   "name": "&fBanana",
+   "triggers": {
+      "consume": [ ]
+   }
+}

@@ -1,24 +1,19 @@
-version: 1
+version: 2
 
 name: "&#f4cf8b-#f79859&Boots of Haste"
 material: LEATHER
 custom-model-data: 5
 model: "blanktopia:rares/boots_of_haste"
 
+soulbound: true
+unenchantable: true
 unique: true
 
 lore: |-
-  &8-------------------------
-  &7Slot: &#ff4e1d&Trinket
 
   &fAllows you to &bsprint&f faster.
 
-  &8-------------------------
-  &6NATURE Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  &7Slot: &#ff4e1d&Trinket
 
 slots:
 - TRINKET

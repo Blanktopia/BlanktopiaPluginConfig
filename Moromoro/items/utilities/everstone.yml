@@ -1,0 +1,21 @@
+version: 1
+
+name: "&#b1cde3-#afa7d9&Everstone"
+material: ENDER_EYE
+custom-model-data: 1
+model: "blanktopia:rares/everstone"
+
+soulbound: true
+unbreakable: true
+unenchantable: true
+unique: true
+
+lore: |-
+
+  &bRight-click&f an animal
+  &fto stop it from growing.
+
+triggers:
+  right-click:
+  - type: everstone
+  - type: cancel

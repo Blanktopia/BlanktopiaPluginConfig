@@ -1,24 +1,20 @@
-name: "&#1ce0ea&Wrench"
+version: 1
+
+name: "&#adb0b8-#7e8596&Wrench"
 material: WOODEN_HOE
 custom-model-data: 1002
 model: "blanktopia:rares/wrench"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
-  
+
   &bRight-click&f to rotate a block
   &for turn an item frame
   &finvisible.
-
-  &8-------------------------
-  &6BUILDER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
 
 triggers:
   right-click-block:

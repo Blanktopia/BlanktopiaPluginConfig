@@ -1,9 +1,11 @@
+version: 1
+
 name: "&rBeginner's Pickaxe"
 material: WOODEN_PICKAXE
+
+soulbound: true
+unenchantable: true
 
 lore: |-
   
   &fSoulbound items stay with you when you die.
-
-enchantments:
-  blanktopia:soulbound: 1

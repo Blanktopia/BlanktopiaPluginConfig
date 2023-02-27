@@ -1,4 +1,4 @@
-version: 2
+version: 4
 
 name: "&#eba5ff-#c800fa&Anti-Gravity Bow"
 material: BOW
@@ -15,22 +15,17 @@ models:
     predicate: { custom_model_data: 1, pulling: 1, pull: 0.9 }
     model: "blanktopia:rares/anti_gravity_bow_pulling_2"
 
+soulbound: true
+unbreakable: true
+unenchantable: true
 unique: true
 
 lore: |-
-  &8-------------------------
   
   &fArrows fly in a straight line.
   &fInflicts &bLevitation&f on targets.
-  
-  &8-------------------------
-  &6INFINITY Crate Item
-
-unbreakable: true
 
 enchantments:
-  blanktopia:soulbound: 1
-  blanktopia:final: 1
   infinity: 1
   power: 5
 

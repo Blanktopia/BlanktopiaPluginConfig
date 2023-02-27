@@ -1,1 +1,9 @@
-{"block":{"type":"item"},"custom-model-data":110,"material":"WOODEN_HOE","model":"blanktopia:instruments/vibraphone","name":"&fVibraphone"}
+{
+   "block": {
+      "type": "item"
+   },
+   "custom-model-data": 110,
+   "material": "WOODEN_HOE",
+   "model": "blanktopia:instruments/vibraphone",
+   "name": "&fVibraphone"
+}

@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1030,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/oak_garden_table","name":"&fOak Garden Table"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1030,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/oak_garden_table",
+   "name": "&fOak Garden Table"
+}

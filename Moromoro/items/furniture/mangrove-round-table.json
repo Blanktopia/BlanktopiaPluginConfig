@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1058,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/mangrove_round_table","name":"&fMangrove Round Table"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1058,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/mangrove_round_table",
+   "name": "&fMangrove Round Table"
+}

@@ -1,1 +1,11 @@
-{"block":{"model":"blanktopia:block/beetroot_crate","state":3,"type":"mushroom"},"custom-model-data":1003,"material":"PAPER","model":"blanktopia:block/beetroot_crate","name":"&fBeetroot Crate"}
+{
+   "block": {
+      "model": "blanktopia:block/beetroot_crate",
+      "state": 3,
+      "type": "mushroom"
+   },
+   "custom-model-data": 1003,
+   "material": "PAPER",
+   "model": "blanktopia:block/beetroot_crate",
+   "name": "&fBeetroot Crate"
+}

@@ -1,21 +1,18 @@
+version: 1
+
 name: "&#ea4f4f-#fff56d&Booster v2.0"
 material: FIREWORK_ROCKET
 
+soulbound: true
+unbreakable: true
 unique: true
 
 lore: |-
-  &8-------------------------
-  &7Slot: &#ff4e1d&Trinket
 
   &fPress &bsneak&f when gliding
   &fto boost yourself.
 
-  &8-------------------------
-  &6EXPLORER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  &7Slot: &#ff4e1d&Trinket
 
 slots:
 - TRINKET

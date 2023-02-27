@@ -1,1 +1,11 @@
-{"block":{"model":"blanktopia:block/potato_crate","state":11,"type":"mushroom"},"custom-model-data":1011,"material":"PAPER","model":"blanktopia:block/potato_crate","name":"&fPotato Crate"}
+{
+   "block": {
+      "model": "blanktopia:block/potato_crate",
+      "state": 11,
+      "type": "mushroom"
+   },
+   "custom-model-data": 1011,
+   "material": "PAPER",
+   "model": "blanktopia:block/potato_crate",
+   "name": "&fPotato Crate"
+}

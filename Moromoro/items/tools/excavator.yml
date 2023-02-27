@@ -1,25 +1,22 @@
-version: 1
+version: 2
 
 name: "&6Excavator&c ⛏"
 material: IRON_SHOVEL
 custom-model-data: 1
 model: "blanktopia:rares/excavator"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
   
   &fShovels in a &b3x3&f area.
-  
-  &8-------------------------
-  &6MINER's Crate Item
 
 enchantments:
   efficiency: 6
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  silk_touch: 1
 
 triggers:
   break-block:

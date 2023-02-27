@@ -1,27 +1,21 @@
-version: 1
+version: 2
 
 name: "&#6bffb5-#6bfff7&Measuring Tape"
 material: WOODEN_HOE
 custom-model-data: 1004
-model: "minecraft:item/string"
+model: "blanktopia:rares/measuring_tape"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  §8-------------------------
-  
+
   §bLeft-click§f to set a
   §fpoint to measure from.
   §bRight-click§f to measure the
   §flength between two blocks.
-  
-  §8-------------------------
-  §6BUILDER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
 
 triggers:
   tick-slow:

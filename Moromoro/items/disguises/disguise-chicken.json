@@ -1,1 +1,29 @@
-{"enchantments":{"blanktopia:final":1,"blanktopia:soulbound":1},"head":"http://textures.minecraft.net/texture/1638469a599ceef7207537603248a9ab11ff591fd378bea4735b346a7fae893","lore":"&8-------------------------\n\n&fDisguises you as a &bChicken&f.\n\n&8-------------------------\n&6BUILDER's Crate Item","material":"PLAYER_HEAD","name":"&6Chicken Disguise&c ☻","triggers":{"equip-head":[{"disguise":{"baby":false,"entity":"CHICKEN","type":"mob"},"type":"disguise"}],"place-block":[{"type":"cancel"}],"unequip-armor":[{"type":"undisguise"}]}}
+{
+   "head": "http://textures.minecraft.net/texture/1638469a599ceef7207537603248a9ab11ff591fd378bea4735b346a7fae893",
+   "lore": "\n&fDisguises you as a &bChicken&f.",
+   "material": "PLAYER_HEAD",
+   "name": "&6Chicken Disguise&c ☻",
+   "soulbound": true,
+   "triggers": {
+      "equip-head": [
+         {
+            "disguise": {
+               "baby": false,
+               "entity": "CHICKEN",
+               "type": "mob"
+            },
+            "type": "disguise"
+         }
+      ],
+      "place-block": [
+         {
+            "type": "cancel"
+         }
+      ],
+      "unequip-armor": [
+         {
+            "type": "undisguise"
+         }
+      ]
+   }
+}

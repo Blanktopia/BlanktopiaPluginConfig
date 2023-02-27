@@ -1,1 +1,19 @@
-{"alias":"biome-wand","custom-model-data":1,"enchantments":{"blanktopia:final":1,"blanktopia:soulbound":1},"lore":"&8-------------------------\n\n&bRight-click&f to turn an area\n&finto a &x&F&F&0&0&F&FMushroom Fields&f biome.\n\n&8-------------------------\n&6NATURE Crate Item","material":"WOODEN_HOE","name":"&x&F&F&0&0&F&FMushroom Fields Biome Wand","triggers":{"right-click":[{"type":"cancel"}]},"unbreakable":true}
+{
+   "alias": "biome-wand",
+   "custom-model-data": 1,
+   "enchantments": {
+      "blanktopia:final": 1,
+      "blanktopia:soulbound": 1
+   },
+   "lore": "&8-------------------------\n\n&bRight-click&f to turn an area\n&finto a &x&F&F&0&0&F&FMushroom Fields&f biome.\n\n&8-------------------------\n&6NATURE Crate Item",
+   "material": "WOODEN_HOE",
+   "name": "&x&F&F&0&0&F&FMushroom Fields Biome Wand",
+   "triggers": {
+      "right-click": [
+         {
+            "type": "cancel"
+         }
+      ]
+   },
+   "unbreakable": true
+}

@@ -1,24 +1,19 @@
-version: 1
+version: 2
 
 name: "&#f7fc92-#fccf8a&Miner's Helmet"
 material: GLOWSTONE_DUST
 custom-model-data: 1
 model: "blanktopia:hats/miners_helmet"
 
+soulbound: true
+unenchantable: true
 unique: true
 
 lore: |-
-  &8-------------------------
-  &7Slot: &#ff4e1d&Trinket
   
   &fGrants you &7Haste II&f.
   
-  &8-------------------------
-  &6MINER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  &7Slot: &#ff4e1d&Trinket
 
 slots:
 - HEAD

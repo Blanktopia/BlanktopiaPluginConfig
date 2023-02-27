@@ -1,27 +1,21 @@
-version: 1
+version: 2
 
 name: "&#a46bff-#fa6bff&Block Zapper"
 material: WOODEN_HOE
 custom-model-data: 1005
 model: "minecraft:item/popped_chorus_fruit"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
-  
+
   &bLeft-click&f to select a
   &fmaterial to replace with.
   &bRight-click&f to replace a
   &fblock with the material.
-  
-  &8-------------------------
-  &6BUILDER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
 
 triggers:
   left-click:

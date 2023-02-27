@@ -1,1 +1,11 @@
-{"block":{"model":"blanktopia:block/berry_sack","state":4,"type":"mushroom"},"custom-model-data":1004,"material":"PAPER","model":"blanktopia:block/berry_sack","name":"&fBerries Sack"}
+{
+   "block": {
+      "model": "blanktopia:block/berry_sack",
+      "state": 4,
+      "type": "mushroom"
+   },
+   "custom-model-data": 1004,
+   "material": "PAPER",
+   "model": "blanktopia:block/berry_sack",
+   "name": "&fBerries Sack"
+}

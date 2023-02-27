@@ -1,1 +1,9 @@
-{"block":{"type":"item"},"custom-model-data":102,"material":"WOODEN_HOE","model":"blanktopia:instruments/snare","name":"&fSnare"}
+{
+   "block": {
+      "type": "item"
+   },
+   "custom-model-data": 102,
+   "material": "WOODEN_HOE",
+   "model": "blanktopia:instruments/snare",
+   "name": "&fSnare"
+}

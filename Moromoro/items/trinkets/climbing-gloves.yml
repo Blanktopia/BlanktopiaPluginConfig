@@ -1,24 +1,21 @@
+version: 1
+
 name: "&#44c94f-#1b9125&Climbing Gloves"
 material: LEATHER
 custom-model-data: 4
 model: "blanktopia:rares/climbing_gloves"
 
+soulbound: true
+unenchantable: true
 unique: true
 
 lore: |-
-  &8-------------------------
-  &7Slot: &#ff4e1d&Trinket
 
   &fAllows you to jump off walls
   &fby pressing &bsneak&f when
   &fagainst a wall.
   
-  &8-------------------------
-  &6EXPLORER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  &7Slot: &#ff4e1d&Trinket
 
 slots:
 - TRINKET

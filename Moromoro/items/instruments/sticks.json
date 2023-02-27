@@ -1,1 +1,9 @@
-{"block":{"type":"item"},"custom-model-data":103,"material":"WOODEN_HOE","model":"blanktopia:instruments/sticks","name":"&fSticks"}
+{
+   "block": {
+      "type": "item"
+   },
+   "custom-model-data": 103,
+   "material": "WOODEN_HOE",
+   "model": "blanktopia:instruments/sticks",
+   "name": "&fSticks"
+}

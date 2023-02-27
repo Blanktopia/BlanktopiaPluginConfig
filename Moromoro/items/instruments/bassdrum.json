@@ -1,1 +1,9 @@
-{"block":{"type":"item"},"custom-model-data":101,"material":"WOODEN_HOE","model":"blanktopia:instruments/bassdrum","name":"&fBass Drum"}
+{
+   "block": {
+      "type": "item"
+   },
+   "custom-model-data": 101,
+   "material": "WOODEN_HOE",
+   "model": "blanktopia:instruments/bassdrum",
+   "name": "&fBass Drum"
+}

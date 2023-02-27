@@ -1,27 +1,21 @@
-version: 1
+version: 2
 
 name: "&#ffa5ee-#b6a5ff&Builder's Wand"
 material: WOODEN_HOE
 custom-model-data: 1003
 model: "blanktopia:rares/builders_wand"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
-  
+
   &bRight-click&f on a block
   &fto place blocks in a &b5x5&f
   &farea. Requires the block to
   &fbe in your inventory.
-  
-  &8-------------------------
-  &6BUILDER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
 
 triggers:
   tick:

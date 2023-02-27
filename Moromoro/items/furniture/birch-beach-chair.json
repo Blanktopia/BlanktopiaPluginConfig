@@ -1,1 +1,13 @@
-{"block":{"collision":false,"sit-height":0.4375,"sit-rotate":false,"type":"item"},"custom-model-data":1042,"dyeable":true,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/birch_beach_chair","name":"&fBirch Beach Chair"}
+{
+   "block": {
+      "collision": false,
+      "sit-height": 0.4375,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1042,
+   "dyeable": true,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/birch_beach_chair",
+   "name": "&fBirch Beach Chair"
+}

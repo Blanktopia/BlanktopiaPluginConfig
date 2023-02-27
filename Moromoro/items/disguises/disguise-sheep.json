@@ -1,1 +1,29 @@
-{"enchantments":{"blanktopia:final":1,"blanktopia:soulbound":1},"head":"http://textures.minecraft.net/texture/f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70","lore":"&8-------------------------\n\n&fDisguises you as a &bSheep&f.\n\n&8-------------------------\n&6??? Crate Item","material":"PLAYER_HEAD","name":"&6Sheep Disguise&c ☻","triggers":{"equip-head":[{"disguise":{"baby":false,"entity":"SHEEP","type":"mob"},"type":"disguise"}],"place-block":[{"type":"cancel"}],"unequip-armor":[{"type":"undisguise"}]}}
+{
+   "head": "http://textures.minecraft.net/texture/f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70",
+   "lore": "\n&fDisguises you as a &bSheep&f.",
+   "material": "PLAYER_HEAD",
+   "name": "&6Sheep Disguise&c ☻",
+   "soulbound": true,
+   "triggers": {
+      "equip-head": [
+         {
+            "disguise": {
+               "baby": false,
+               "entity": "SHEEP",
+               "type": "mob"
+            },
+            "type": "disguise"
+         }
+      ],
+      "place-block": [
+         {
+            "type": "cancel"
+         }
+      ],
+      "unequip-armor": [
+         {
+            "type": "undisguise"
+         }
+      ]
+   }
+}

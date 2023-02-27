@@ -1,16 +1,18 @@
-version: 1
+version: 2
 
 name: "&rainbow&Paint Brush"
 material: WOODEN_HOE
 custom-model-data: 1001
 model: "blanktopia:rares/paint_brush"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
+
   &7Paint: NONE
-  &8-------------------------
   
   &bLeft-click&f to pick a colour.
   &bRight-click&f to paint blocks.
@@ -20,13 +22,6 @@ lore: |-
   &8- &fWool
   &8- &fTerracotta
   &8- &fConcrete
-  
-  &8-------------------------
-  &6BUILDER's Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
 
 triggers:
 #  tick:

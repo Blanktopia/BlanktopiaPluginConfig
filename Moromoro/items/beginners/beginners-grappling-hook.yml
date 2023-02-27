@@ -1,13 +1,15 @@
+version: 1
+
 name: "Beginner's Grappling Hook"
 material: WOODEN_HOE
 custom-model-data: 1009
 
-unique: true
+soulbound: true
+unenchantable: true
 unbreakable: true
+unique: true
 
 lore: |-
-  &8-------------------------
-  &7Slot: &#ff4e1d&Trinket
 
   &fAllows you to fire a grappling
   &fhook by pressing &bF&f.
@@ -18,11 +20,8 @@ lore: |-
   
   &7Range: 15 blocks
   &7Speed: Slow
-  &8-------------------------
 
-enchantments:
-  blanktopia:soulbound: 1
-  blanktopia:final: 1
+  &7Slot: &#ff4e1d&Trinket
 
 slots:
 - TRINKET

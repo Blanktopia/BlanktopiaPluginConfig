@@ -1,20 +1,17 @@
+alias: pokeball
 name: "&9Doraemon's Pocket"
 material: ENDER_CHEST
 
 lore: |-
-  &8-------------------------
-  
+
   &bRight-click&f from your
   &finventory to access your
   &fender chest.
-  
-  &8-------------------------
-  &6INFINITY Crate Item
 
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
-  infinity: 1
+soulbound: true
+unbreakable: true
+unenchantable: true
+unique: true
 
 triggers:
   place-block:

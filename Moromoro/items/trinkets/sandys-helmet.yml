@@ -1,23 +1,18 @@
-version: 1
+version: 2
 
 name: "&#fff0c1-#c1f6ff&Sandy's Helmet"
 material: WHITE_STAINED_GLASS
 
+soulbound: true
+unenchantable: true
 unique: true
 
 lore: |-
-  &8-------------------------
-  &7Slot: &#ff4e1d&Trinket
 
   &fAllows you to breathe
   &funderwater.
   
-  &8-------------------------
-  &6INFINITY Crate Item
-
-enchantments:
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  &7Slot: &#ff4e1d&Trinket
 
 slots:
 - TRINKET

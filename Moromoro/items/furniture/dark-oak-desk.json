@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1025,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/dark_oak_desk","name":"&fDark Oak Desk"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1025,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/dark_oak_desk",
+   "name": "&fDark Oak Desk"
+}

@@ -1,4 +1,4 @@
-version: 1
+version: 2
 
 name: "&#1363d3-#5eeaf2&Cobalt Drill"
 material: NETHERITE_PICKAXE
@@ -15,11 +15,12 @@ models:
   predicate: { custom_model_data: 1 }
   model: "blanktopia:rares/cobalt_drill"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
   
   &fCan be used as:
   &8- &fPickaxe
@@ -29,15 +30,10 @@ lore: |-
 
   &fHold &bSneak&f to disable
   &bSilk Touch&f.
-  
-  &8-------------------------
-  &6MINER's Crate Item
 
 enchantments:
   efficiency: 8
   silk_touch: 1
-  blanktopia:soulbound: 1
-  blanktopia:final: 1
 
 attributes:
 - amount: 4.0

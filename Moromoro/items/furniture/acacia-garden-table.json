@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1034,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/acacia_garden_table","name":"&fAcacia Garden Table"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1034,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/acacia_garden_table",
+   "name": "&fAcacia Garden Table"
+}

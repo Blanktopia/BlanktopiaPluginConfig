@@ -1,26 +1,23 @@
-version: 1
+version: 2
 
 name: "&x&2&d&7&a&5&3Scythe"
 material: SHEARS
 custom-model-data: 1
 model: "blanktopia:rares/scythe"
 
-unique: true
+soulbound: true
 unbreakable: true
+unenchantable: true
+unique: true
 
 lore: |-
-  &8-------------------------
   
   &fShears in a &b5x5x5&f area.
-  
-  &8-------------------------
-  &6NATURE Crate Item
 
 enchantments:
   efficiency: 6
   sharpness: 5
-  blanktopia:final: 1
-  blanktopia:soulbound: 1
+  silk_touch: 1
 
 attributes:
 - amount: 5

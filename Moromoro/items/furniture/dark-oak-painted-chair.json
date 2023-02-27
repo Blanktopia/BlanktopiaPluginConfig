@@ -1,1 +1,14 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1075,"dyeable":true,"lore":"&7Dyeable","material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/dark_oak_chair","name":"&fDark Oak Chair"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1075,
+   "dyeable": true,
+   "lore": "&7Dyeable",
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/dark_oak_chair",
+   "name": "&fDark Oak Chair"
+}

@@ -1,1 +1,16 @@
-{"custom-model-data":12,"material":"COOKIE","model":"blanktopia:food/mooncakes/green_tea","name":"&fGreen Tea Mooncake","triggers":{"consume":[{"duration":3600,"effect":"luck","level":0,"type":"add-potion-effect"}]}}
+{
+   "custom-model-data": 12,
+   "material": "COOKIE",
+   "model": "blanktopia:food/mooncakes/green_tea",
+   "name": "&fGreen Tea Mooncake",
+   "triggers": {
+      "consume": [
+         {
+            "duration": 3600,
+            "effect": "luck",
+            "level": 0,
+            "type": "add-potion-effect"
+         }
+      ]
+   }
+}

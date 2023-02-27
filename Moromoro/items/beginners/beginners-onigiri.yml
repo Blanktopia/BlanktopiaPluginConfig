@@ -1,13 +1,15 @@
+version: 1
+
 name: "&fOnigiri"
 material: COOKIE
 custom-model-data: 8
 
+soulbound: true
+unenchantable: true
+
 lore: |-
   
   &fSoulbound items stay with you when you die.
-
-enchantments:
-  blanktopia:soulbound: 1
 
 triggers:
   consume:

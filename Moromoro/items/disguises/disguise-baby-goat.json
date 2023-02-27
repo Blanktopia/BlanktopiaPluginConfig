@@ -1,1 +1,29 @@
-{"enchantments":{"blanktopia:final":1,"blanktopia:soulbound":1},"head":"http://textures.minecraft.net/texture/a662336d8ae092407e58f7cc80d20f20e7650357a454ce16e3307619a0110648","lore":"&8-------------------------\n\n&fDisguises you as a &bBaby Goat&f.\n\n&8-------------------------\n&6EXPLORER's Crate Item","material":"PLAYER_HEAD","name":"&6Baby Goat Disguise&c ☻","triggers":{"equip-head":[{"disguise":{"baby":true,"entity":"GOAT","type":"mob"},"type":"disguise"}],"place-block":[{"type":"cancel"}],"unequip-armor":[{"type":"undisguise"}]}}
+{
+   "head": "http://textures.minecraft.net/texture/a662336d8ae092407e58f7cc80d20f20e7650357a454ce16e3307619a0110648",
+   "lore": "\n&fDisguises you as a &bBaby Goat&f.",
+   "material": "PLAYER_HEAD",
+   "name": "&6Baby Goat Disguise&c ☻",
+   "soulbound": true,
+   "triggers": {
+      "equip-head": [
+         {
+            "disguise": {
+               "baby": true,
+               "entity": "GOAT",
+               "type": "mob"
+            },
+            "type": "disguise"
+         }
+      ],
+      "place-block": [
+         {
+            "type": "cancel"
+         }
+      ],
+      "unequip-armor": [
+         {
+            "type": "undisguise"
+         }
+      ]
+   }
+}

@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1021,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/spruce_desk","name":"&fSpruce Desk"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1021,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/spruce_desk",
+   "name": "&fSpruce Desk"
+}

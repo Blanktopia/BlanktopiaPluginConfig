@@ -1,1 +1,29 @@
-{"enchantments":{"blanktopia:final":1,"blanktopia:soulbound":1},"head":"http://textures.minecraft.net/texture/null","lore":"&8-------------------------\n\n&fDisguises you as a &bSkeleton&f.\n\n&8-------------------------\n&6BUILDER's Crate Item","material":"SKELETON_SKULL","name":"&6Skeleton Disguise&c ☻","triggers":{"equip-head":[{"disguise":{"baby":false,"entity":"SKELETON","type":"mob"},"type":"disguise"}],"place-block":[{"type":"cancel"}],"unequip-armor":[{"type":"undisguise"}]}}
+{
+   "head": "http://textures.minecraft.net/texture/null",
+   "lore": "\n&fDisguises you as a &bSkeleton&f.",
+   "material": "SKELETON_SKULL",
+   "name": "&6Skeleton Disguise&c ☻",
+   "soulbound": true,
+   "triggers": {
+      "equip-head": [
+         {
+            "disguise": {
+               "baby": false,
+               "entity": "SKELETON",
+               "type": "mob"
+            },
+            "type": "disguise"
+         }
+      ],
+      "place-block": [
+         {
+            "type": "cancel"
+         }
+      ],
+      "unequip-armor": [
+         {
+            "type": "undisguise"
+         }
+      ]
+   }
+}

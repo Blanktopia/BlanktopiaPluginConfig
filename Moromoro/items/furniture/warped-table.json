@@ -1,1 +1,12 @@
-{"block":{"collision":true,"sit-height":null,"sit-rotate":false,"type":"item"},"custom-model-data":1067,"material":"LEATHER_HORSE_ARMOR","model":"blanktopia:furniture/warped_table","name":"&fWarped Table"}
+{
+   "block": {
+      "collision": true,
+      "sit-height": null,
+      "sit-rotate": false,
+      "type": "item"
+   },
+   "custom-model-data": 1067,
+   "material": "LEATHER_HORSE_ARMOR",
+   "model": "blanktopia:furniture/warped_table",
+   "name": "&fWarped Table"
+}
