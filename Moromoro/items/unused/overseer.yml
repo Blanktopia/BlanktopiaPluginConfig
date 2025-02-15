@@ -29,7 +29,7 @@ triggers:
     to: 
       type: raycast
       range: 200
-    particle: SPELL
+    particle: WITCH
   - type: play-sound
     sound: entity.warden.sonic_boom
     pitch: 2.0

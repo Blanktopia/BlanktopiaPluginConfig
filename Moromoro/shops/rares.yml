@@ -1,0 +1,78 @@
+name: Rares
+categories:
+
+  Building:
+    - item: builders-wand
+      price: ruby:10
+    - item: block-zapper
+      price: ruby:10
+    - item: paint-brush
+      price: ruby:10
+    - item: wrench
+      price: ruby:10
+    - item: measuring-tape
+      price: ruby:10
+    - item: packing-tape
+      price: ruby:10
+    - item: lumos
+      price: ruby:10
+
+  Nature:
+    - item: pokeball
+      price: ruby:10
+    - item: nile-water
+      price: ruby:10
+    - item: hellfire
+      price: ruby:10
+    - item: pocket-sponge
+      price: ruby:10
+    - item: biome-wand
+      price: ruby:10
+    - item: botanic-manipulator
+      price: ruby:10
+    - item: subspace-bubble
+      price: ruby:10
+
+  Tools:
+    - item: cobalt-drill
+      price: ruby:10
+    - item: wrecking-ball
+      price: ruby:10
+    - item: excavator
+      price: ruby:10
+    - item: lumberjack
+      price: ruby:10
+    - item: scythe
+      price: ruby:10
+
+  Weapons:
+    - item: anti-gravity-bow
+      price: ruby:10
+    - item: chu-ko-nu
+      price: ruby:10
+    - item: venom
+      price: ruby:10
+
+  Trinkets:
+    - item: ambrosia
+      price: ruby:10
+    - item: boots-of-haste
+      price: ruby:10
+    - item: horn-of-plenty
+      price: ruby:10
+    - item: miners-helmet
+      price: ruby:10
+    - item: pathfinders-grappling-hook
+      price: ruby:10
+    - item: sandys-helmet
+      price: ruby:10
+    - item: booster
+      price: ruby:10
+    - item: climbing-gloves
+      price: ruby:10
+    - item: hummingbird
+      price: ruby:10
+    - item: parachute
+      price: ruby:10
+    - item: ras-protection
+      price: ruby:10
