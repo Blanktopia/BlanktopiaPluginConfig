@@ -34,7 +34,7 @@ triggers:
       offset-x: 0
       offset-y: 0
       offset-z: 0
-      particle: FIREWORKS_SPARK
+      particle: FIREWORK
       extra: 0
     - type: clamp-velocity
       max: 0

@@ -47,7 +47,7 @@ triggers:
     then:
     - type: add-attribute-modifier
       attribute-modifiers:
-      - attribute: GENERIC_MOVEMENT_SPEED
+      - attribute: generic.movement_speed
         uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
         name: Boots of Haste
         amount: 0.5
@@ -72,7 +72,7 @@ triggers:
   unsprint:
   - type: remove-attribute-modifier
     attribute-modifiers:
-    - attribute: GENERIC_MOVEMENT_SPEED
+    - attribute: generic.movement_speed
       uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
       name: Boots of Haste
       amount: 0.5
@@ -80,7 +80,7 @@ triggers:
   sneak:
   - type: remove-attribute-modifier
     attribute-modifiers:
-    - attribute: GENERIC_MOVEMENT_SPEED
+    - attribute: generic.movement_speed
       uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
       name: Boots of Haste
       amount: 0.5

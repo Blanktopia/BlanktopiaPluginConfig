@@ -32,10 +32,10 @@ triggers:
       type: is-flying
     then:
     - type: spawn-particle
-      count: 2
+      count: 1
       y: 0.9
       offset-x: 0.3
-      offset-y: 0.3
+      offset-y: 0.6
       offset-z: 0.3
-      particle: SUSPENDED
-      extra: 0
+      particle: FALLING_DUST
+      block: PEARLESCENT_FROGLIGHT

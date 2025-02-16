@@ -37,13 +37,13 @@ enchantments:
 
 attributes:
 - amount: 4.0
-  attribute: GENERIC_ATTACK_DAMAGE
+  attribute: generic.attack_damage
   name: Attack Damage
   operation: ADD_NUMBER
   slot: HAND
   uuid: aa1fcf0e-8d0e-4cc2-b374-bd8ec556eb2d
 - amount: 2.0
-  attribute: GENERIC_ATTACK_SPEED
+  attribute: generic.attack_speed
   name: Attack Speed
   operation: ADD_NUMBER
   slot: HAND

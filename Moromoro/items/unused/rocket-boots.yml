@@ -43,7 +43,7 @@ triggers:
         offset-x: 0.3
         offset-y: 0.3
         offset-z: 0.3
-        particle: FIREWORKS
+        particle: FIREWORK
       - type: spawn-particle
         count: 2
         offset-x: 0.3
