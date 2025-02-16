@@ -2,7 +2,7 @@
    "custom-model-data": 3,
    "material": "COOKIE",
    "model": "blanktopia:food/sunny_side_up",
-   "name": "&fSunny Side Up",
+   "name": "<white>Sunny Side Up",
    "triggers": {
       "consume": [
          {

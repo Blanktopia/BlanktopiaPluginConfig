@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70",
-   "lore": "\n&fDisguises you as a &bSheep&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Sheep<white>."
+   ],
    "material": "PLAYER_HEAD",
-   "name": "&6Sheep Disguise&c ☻",
+   "name": "<gold>Sheep Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

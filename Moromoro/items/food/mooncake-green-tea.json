@@ -2,7 +2,7 @@
    "custom-model-data": 12,
    "material": "COOKIE",
    "model": "blanktopia:food/mooncakes/green_tea",
-   "name": "&fGreen Tea Mooncake",
+   "name": "<white>Green Tea Mooncake",
    "triggers": {
       "consume": [
          {

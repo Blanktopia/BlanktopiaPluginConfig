@@ -1,5 +1,5 @@
 version: 4
-name: "&#eba5ff-#c800fa&Anti-Gravity Bow"
+name: "<transition:#eba5ff:#c800fa>Anti-Gravity Bow"
 material: BOW
 custom-model-data: 1
 model: "blanktopia:rares/anti_gravity_bow"
@@ -19,8 +19,8 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fArrows fly in a straight line.'
-  - '&fInflicts &bLevitation&f on targets.'
+  - '<white>Arrows fly in a straight line.'
+  - '<white>Inflicts <aqua>Levitation<white> on targets.'
 enchantments:
   infinity: 1
   power: 5

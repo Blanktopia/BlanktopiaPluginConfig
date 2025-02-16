@@ -4,16 +4,16 @@
       "blanktopia:final": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to give all online",
-      "&fplayers a [INFINITY Crate Key](gold).",
+      "<aqua>Right-click<white> to give all online",
+      "<white>players a [INFINITY Crate Key](gold).",
       "",
-      "&8-------------------------"
+      "<dark_grey>-------------------------"
    ],
    "material": "PAPER",
    "model": "blanktopia:misc/key_coupon",
-   "name": "&6INFINITY Crate Coupon",
+   "name": "<gold>INFINITY Crate Coupon",
    "triggers": {
       "right-click": [
          {
@@ -34,7 +34,7 @@
             "type": "all-players"
          },
          {
-            "command": "broadcast &6%p&6 has given everyone a INFINITY Crate Key.",
+            "command": "broadcast <gold>%p<gold> has given everyone a INFINITY Crate Key.",
             "type": "console-command"
          },
          {

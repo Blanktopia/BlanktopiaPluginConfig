@@ -1,5 +1,5 @@
 version: 2
-name: "&#6bffb5-#6bfff7&Measuring Tape"
+name: "<transition:#6bffb5:#6bfff7>Measuring Tape"
 material: WOODEN_HOE
 custom-model-data: 1004
 model: "blanktopia:rares/measuring_tape"
@@ -9,10 +9,10 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - §bLeft-click§f to set a
-  - §fpoint to measure from.
-  - §bRight-click§f to measure the
-  - §flength between two blocks.
+  - '<aqua>Left-click<white> to set a'
+  - '<white>point to measure from.'
+  - '<aqua>Right-click<white> to measure the'
+  - '<white>length between two blocks.'
 triggers:
   tick-slow:
     - type: measure-distance-tick

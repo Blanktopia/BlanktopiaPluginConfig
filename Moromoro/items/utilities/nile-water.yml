@@ -1,5 +1,5 @@
 version: 3
-name: "&#45b6f7-#c9e7ff&Nile Water"
+name: "<transition:#45b6f7:#c9e7ff>Nile Water"
 material: WOODEN_HOE
 custom-model-data: 1006
 model: "minecraft:item/water_bucket"
@@ -9,7 +9,7 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fInfinite water bucket.'
+  - '<white>Infinite water bucket.'
 enchantments:
   infinity: 1
 triggers:

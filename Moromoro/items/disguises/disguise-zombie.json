@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/null",
-   "lore": "\n&fDisguises you as a &bZombie&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Zombie<white>."
+   ],
    "material": "ZOMBIE_HEAD",
-   "name": "&6Zombie Disguise&c ☻",
+   "name": "<gold>Zombie Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

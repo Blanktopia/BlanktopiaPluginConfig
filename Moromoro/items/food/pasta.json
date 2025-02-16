@@ -2,7 +2,7 @@
    "custom-model-data": 1,
    "material": "MUSHROOM_STEW",
    "model": "blanktopia:food/pasta",
-   "name": "&fPasta",
+   "name": "<white>Pasta",
    "triggers": {
       "consume": [
          {

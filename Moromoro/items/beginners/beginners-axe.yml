@@ -1,8 +1,8 @@
 version: 1
-name: "&rBeginner's Axe"
+name: "Beginner's Axe"
 material: WOODEN_AXE
 soulbound: true
 unenchantable: true
 lore:
   - ''
-  - '&fSoulbound items stay with you when you die.'
+  - '<white>Soulbound items stay with you when you die.'

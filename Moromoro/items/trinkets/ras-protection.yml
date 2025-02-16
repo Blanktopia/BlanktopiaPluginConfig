@@ -1,5 +1,5 @@
 version: 2
-name: "&#ff730f-#ffca2d&Ra's Protection"
+name: "<transition:#ff730f:#ffca2d>Ra's Protection"
 material: GOLD_NUGGET
 custom-model-data: 1
 model: "blanktopia:rares/ras_protection"
@@ -8,10 +8,10 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fGrants immunity to fire and'
-  - '&flava.'
+  - '<white>Grants immunity to fire and'
+  - '<white>lava.'
   - ''
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
 slots:
   - TRINKET
 triggers:

@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&4&0&3&6&3&6Basalt Deltas&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#403636>Basalt Deltas<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&4&0&3&6&3&6Basalt Deltas Biome Wand",
+   "name": "<#403636>Basalt Deltas Biome Wand",
    "triggers": {
       "right-click": [
          {

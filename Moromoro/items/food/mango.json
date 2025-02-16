@@ -2,8 +2,8 @@
    "custom-model-data": 6,
    "material": "APPLE",
    "model": "blanktopia:food/fruits/mango",
-   "name": "&fMango",
+   "name": "<white>Mango",
    "triggers": {
-      "consume": [ ]
+      "consume": []
    }
 }

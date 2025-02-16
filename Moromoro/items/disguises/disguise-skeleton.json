@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/null",
-   "lore": "\n&fDisguises you as a &bSkeleton&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Skeleton<white>."
+   ],
    "material": "SKELETON_SKULL",
-   "name": "&6Skeleton Disguise&c ☻",
+   "name": "<gold>Skeleton Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

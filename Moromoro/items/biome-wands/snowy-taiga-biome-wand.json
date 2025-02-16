@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&3&1&5&5&4&ASnowy Taiga&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#31554A>Snowy Taiga<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&3&1&5&5&4&ASnowy Taiga Biome Wand",
+   "name": "<#31554A>Snowy Taiga Biome Wand",
    "triggers": {
       "right-click": [
          {

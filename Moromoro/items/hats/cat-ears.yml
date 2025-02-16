@@ -3,6 +3,6 @@ material: LEATHER_HORSE_ARMOR
 custom-model-data: 2002
 model: "blanktopia:hats/cat_ears"
 lore:
-  - '&7Dyeable'
+  - '<grey>Dyeable'
 color: "BLACK"
 dyeable: true

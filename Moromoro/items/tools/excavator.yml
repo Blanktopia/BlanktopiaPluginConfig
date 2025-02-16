@@ -1,5 +1,5 @@
 version: 2
-name: "&6Excavator&c ⛏"
+name: "<gold>Excavator<red> ⛏"
 material: IRON_SHOVEL
 custom-model-data: 1
 model: "blanktopia:rares/excavator"
@@ -9,7 +9,7 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fShovels in a &b3x3&f area.'
+  - '<white>Shovels in a <aqua>3x3<white> area.'
 enchantments:
   efficiency: 6
   silk_touch: 1

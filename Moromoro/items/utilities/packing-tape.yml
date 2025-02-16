@@ -1,5 +1,5 @@
 version: 0
-name: "&#8f7c71-#87635d&Packing Tape"
+name: "<transition:#8f7c71:#87635d>Packing Tape"
 material: SLIME_BALL
 custom-model-data: 1
 model: "blanktopia:rares/packing_tape"
@@ -9,9 +9,9 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bSneak right-click&f to'
-  - '&fpick up a chest with all'
-  - '&fits contents.'
+  - '<aqua>Sneak right-click<white> to'
+  - '<white>pick up a chest with all'
+  - '<white>its contents.'
 triggers:
   right-click-block:
     - type: packing-tape

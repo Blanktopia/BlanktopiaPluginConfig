@@ -2,8 +2,8 @@
    "custom-model-data": 1,
    "material": "APPLE",
    "model": "blanktopia:food/fruits/banana",
-   "name": "&fBanana",
+   "name": "<white>Banana",
    "triggers": {
-      "consume": [ ]
+      "consume": []
    }
 }

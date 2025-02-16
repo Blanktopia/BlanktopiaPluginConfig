@@ -1,5 +1,5 @@
 version: 2
-name: "&rainbow&Paint Brush"
+name: "ainbow&Paint Brush"
 material: WOODEN_HOE
 custom-model-data: 1001
 model: "blanktopia:rares/paint_brush"
@@ -9,16 +9,16 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&7Paint: NONE'
+  - '<grey>Paint: NONE'
   - ''
-  - '&bLeft-click&f to pick a colour.'
-  - '&bRight-click&f to paint blocks.'
+  - '<aqua>Left-click<white> to pick a colour.'
+  - '<aqua>Right-click<white> to paint blocks.'
   - ''
-  - '&fWorks on:'
-  - '&8- &fGlass'
-  - '&8- &fWool'
-  - '&8- &fTerracotta'
-  - '&8- &fConcrete'
+  - '<white>Works on:'
+  - '<dark_grey>- <white>Glass'
+  - '<dark_grey>- <white>Wool'
+  - '<dark_grey>- <white>Terracotta'
+  - '<dark_grey>- <white>Concrete'
 triggers:
   left-click:
     - type: raycast

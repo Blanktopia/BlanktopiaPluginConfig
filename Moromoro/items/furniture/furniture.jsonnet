@@ -1,5 +1,5 @@
 local furniture(name, model, customModelData, collision = false, sitHeight = null, sitRotate = null, options = {}) = {
-    name: "&f" + name,
+    name: "<white>" + name,
     material: "LEATHER_HORSE_ARMOR",
     'custom-model-data': customModelData,
     model: "blanktopia:furniture/" + model,
@@ -30,4 +30,4 @@ wooden("garden-table", "Garden Table", "garden_table", 1030, true) +
 wooden("beach-chair", "Beach Chair", "beach_chair", 1040, false, 0.4375, options = { dyeable: true }) +
 wooden("round-table", "Round Table", "round_table", 1050, true) +
 wooden("table", "Table", "table", 1060, true) +
-wooden("painted-chair", "Chair", "chair", 1070, true, options = { dyeable: true, lore: "&7Dyeable" }, prefix = "Painted ")
+wooden("painted-chair", "Chair", "chair", 1070, true, options = { dyeable: true, lore: ["<grey>Dyeable"] }, prefix = "Painted ")

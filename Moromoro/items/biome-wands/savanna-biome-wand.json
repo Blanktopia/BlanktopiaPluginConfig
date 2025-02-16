@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&B&D&B&2&5&FSavanna&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#BDB25F>Savanna<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&B&D&B&2&5&FSavanna Biome Wand",
+   "name": "<#BDB25F>Savanna Biome Wand",
    "triggers": {
       "right-click": [
          {

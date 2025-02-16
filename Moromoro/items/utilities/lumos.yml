@@ -1,5 +1,5 @@
 version: 1
-name: "&#fffcdb-#ffc272&Lumos"
+name: "<transition:#fffcdb:#ffc272>Lumos"
 material: WOODEN_HOE
 custom-model-data: 1000
 model: "blanktopia:rares/lumos"
@@ -9,10 +9,10 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f to place an'
-  - '&finvisible light source.'
-  - '&bLeft-click&f to remove nearby'
-  - '&flights.'
+  - '<aqua>Right-click<white> to place an'
+  - '<white>invisible light source.'
+  - '<aqua>Left-click<white> to remove nearby'
+  - '<white>lights.'
 enchantments:
   infinity: 1
 triggers:

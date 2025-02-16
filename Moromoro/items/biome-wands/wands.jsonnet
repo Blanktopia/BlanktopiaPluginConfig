@@ -7,13 +7,13 @@ local biomeWand(biome, colour) = {
   alias: 'biome-wand',
   
   lore: [
-    '&8-------------------------',
+    '<dark_grey>-------------------------',
     '',
-    '&bRight-click&f to turn an area',
-    '&finto a ' + colourCode(colour) + biome + '&f biome.',
+    '<aqua>Right-click<white> to turn an area',
+    '<white>into a ' + colourCode(colour) + biome + '<white> biome.',
     '',
-    '&8-------------------------',
-    '&6NATURE Crate Item',
+    '<dark_grey>-------------------------',
+    '<gold>NATURE Crate Item',
   ],
 
   unbreakable: true,

@@ -7,8 +7,10 @@
    },
    "custom-model-data": 1071,
    "dyeable": true,
-   "lore": "&7Dyeable",
+   "lore": [
+      "<grey>Dyeable"
+   ],
    "material": "LEATHER_HORSE_ARMOR",
    "model": "blanktopia:furniture/spruce_chair",
-   "name": "&fSpruce Chair"
+   "name": "<white>Spruce Chair"
 }

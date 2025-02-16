@@ -1,5 +1,5 @@
 version: 2
-name: "&6Lumberjack&c ⛏"
+name: "<gold>Lumberjack<red> ⛏"
 material: IRON_AXE
 custom-model-data: 1
 model: "blanktopia:rares/lumberjack"
@@ -9,7 +9,7 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fChops in a &b3x3&f area.'
+  - '<white>Chops in a <aqua>3x3<white> area.'
 enchantments:
   efficiency: 6
   silk_touch: 1

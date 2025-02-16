@@ -8,17 +8,17 @@ unbreakable: true
 unique: true
 lore:
   - ''
-  - '&fAllows you to fire a grappling'
-  - '&fhook by pressing &bF&f.'
-  - '&fPress &bSneak&f to release.'
+  - '<white>Allows you to fire a grappling'
+  - '<white>hook by pressing <aqua>F<white>.'
+  - '<white>Press <aqua>Sneak<white> to release.'
   - ''
-  - '&fType &b/trinkets&f to open your'
-  - '&ftrinket bag.'
+  - '<white>Type <aqua>/trinkets<white> to open your'
+  - '<white>trinket bag.'
   - ''
-  - '&7Range: 15 blocks'
-  - '&7Speed: Slow'
+  - '<grey>Range: 15 blocks'
+  - '<grey>Speed: Slow'
   - ''
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
 slots:
   - TRINKET
 triggers:

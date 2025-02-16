@@ -2,7 +2,7 @@
    "custom-model-data": 1,
    "material": "COOKIE",
    "model": "blanktopia:food/cotton_candy_pink",
-   "name": "&fCotton Candy",
+   "name": "<white>Cotton Candy",
    "triggers": {
       "consume": [
          {

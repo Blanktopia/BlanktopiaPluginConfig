@@ -3,4 +3,4 @@ material: ARROW
 soulbound: true
 lore:
   - ''
-  - '&fSoulbound items stay with you when you die.'
+  - '<white>Soulbound items stay with you when you die.'

@@ -1,5 +1,5 @@
 version: 2
-name: "&#a46bff-#fa6bff&Block Zapper"
+name: "<transition:#a46bff:#fa6bff>Block Zapper"
 material: WOODEN_HOE
 custom-model-data: 1005
 model: "minecraft:item/popped_chorus_fruit"
@@ -9,10 +9,10 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bLeft-click&f to select a'
-  - '&fmaterial to replace with.'
-  - '&bRight-click&f to replace a'
-  - '&fblock with the material.'
+  - '<aqua>Left-click<white> to select a'
+  - '<white>material to replace with.'
+  - '<aqua>Right-click<white> to replace a'
+  - '<white>block with the material.'
 triggers:
   left-click:
     - type: raycast

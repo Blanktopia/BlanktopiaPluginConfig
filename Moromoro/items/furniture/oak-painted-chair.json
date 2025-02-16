@@ -7,8 +7,10 @@
    },
    "custom-model-data": 1070,
    "dyeable": true,
-   "lore": "&7Dyeable",
+   "lore": [
+      "<grey>Dyeable"
+   ],
    "material": "LEATHER_HORSE_ARMOR",
    "model": "blanktopia:furniture/oak_chair",
-   "name": "&fPainted Oak Chair"
+   "name": "<white>Painted Oak Chair"
 }

@@ -1,5 +1,5 @@
 version: 3
-name: "&#e71e02-#ffd729&Hellfire"
+name: "<transition:#e71e02:#ffd729>Hellfire"
 material: WOODEN_HOE
 custom-model-data: 1007
 model: "minecraft:item/lava_bucket"
@@ -9,7 +9,7 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fInfinite lava bucket.'
+  - '<white>Infinite lava bucket.'
 enchantments:
   infinity: 1
 triggers:

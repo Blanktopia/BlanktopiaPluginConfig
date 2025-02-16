@@ -1,5 +1,5 @@
 local instrument(name, model, customModelData) = {
-  name: '&f' + name,
+  name: '<white>' + name,
   material: 'WOODEN_HOE',
   'custom-model-data': customModelData,
   model: model,

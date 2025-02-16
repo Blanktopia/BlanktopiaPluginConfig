@@ -1,5 +1,5 @@
 version: 2
-name: "&#1363d3-#5eeaf2&Cobalt Drill"
+name: "<transition:#1363d3:#5eeaf2>Cobalt Drill"
 material: NETHERITE_PICKAXE
 custom-model-data: 1
 model: "blanktopia:rares/cobalt_drill"
@@ -19,14 +19,14 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fCan be used as:'
-  - '&8- &fPickaxe'
-  - '&8- &fShovel'
-  - '&8- &fAxe'
-  - '&8- &fHoe'
+  - '<white>Can be used as:'
+  - '<dark_grey>- <white>Pickaxe'
+  - '<dark_grey>- <white>Shovel'
+  - '<dark_grey>- <white>Axe'
+  - '<dark_grey>- <white>Hoe'
   - ''
-  - '&fHold &bSneak&f to disable'
-  - '&bSilk Touch&f.'
+  - '<white>Hold <aqua>Sneak<white> to disable'
+  - '<aqua>Silk Touch<white>.'
 enchantments:
   efficiency: 8
   silk_touch: 1

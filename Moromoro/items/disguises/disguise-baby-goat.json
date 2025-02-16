@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/a662336d8ae092407e58f7cc80d20f20e7650357a454ce16e3307619a0110648",
-   "lore": "\n&fDisguises you as a &bBaby Goat&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Baby Goat<white>."
+   ],
    "material": "PLAYER_HEAD",
-   "name": "&6Baby Goat Disguise&c ☻",
+   "name": "<gold>Baby Goat Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

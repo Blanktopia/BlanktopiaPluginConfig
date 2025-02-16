@@ -2,7 +2,7 @@
    "custom-model-data": 4,
    "material": "MUSHROOM_STEW",
    "model": "blanktopia:food/mac_and_cheese",
-   "name": "&fMac and Cheese",
+   "name": "<white>Mac and Cheese",
    "triggers": {
       "consume": [
          {

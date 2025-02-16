@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/d0299a2aae9a605b5dbd1945fc4368ccee88ae06e47dc90f953131e0d903b322",
-   "lore": "\n&fDisguises you as a &bBee&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Bee<white>."
+   ],
    "material": "PLAYER_HEAD",
-   "name": "&6Bee Disguise&c ☻",
+   "name": "<gold>Bee Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

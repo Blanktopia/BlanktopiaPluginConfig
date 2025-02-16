@@ -1,5 +1,5 @@
 version: 2
-name: "&#f7fc92-#fccf8a&Miner's Helmet"
+name: "<transition:#f7fc92:#fccf8a>Miner's Helmet"
 material: GLOWSTONE_DUST
 custom-model-data: 1
 model: "blanktopia:hats/miners_helmet"
@@ -8,9 +8,9 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fGrants you &7Haste II&f.'
+  - '<white>Grants you <grey>Haste II<white>.'
   - ''
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
 slots:
   - HEAD
   - TRINKET

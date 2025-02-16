@@ -1,5 +1,5 @@
 alias: packing-tape
-name: "&x&3&3&d&8&f&2Portable Ore Compactor ⏹"
+name: "<#33d8f2>Portable Ore Compactor ⏹"
 material: NETHER_STAR
 soulbound: true
 unbreakable: true
@@ -7,9 +7,9 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f from your'
-  - '&finventory to compact items'
-  - '&finto blocks.'
+  - '<aqua>Right-click<white> from your'
+  - '<white>inventory to compact items'
+  - '<white>into blocks.'
 triggers:
   right-click:
     - type: sudo-command

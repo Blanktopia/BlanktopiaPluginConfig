@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/1638469a599ceef7207537603248a9ab11ff591fd378bea4735b346a7fae893",
-   "lore": "\n&fDisguises you as a &bChicken&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Chicken<white>."
+   ],
    "material": "PLAYER_HEAD",
-   "name": "&6Chicken Disguise&c ☻",
+   "name": "<gold>Chicken Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

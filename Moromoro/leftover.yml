@@ -4,15 +4,15 @@ items:
       silk_touch: 1
       soulbound: 1
     lore:
-    - "§8-------------------------"
+    - "<dark-gray>-------------------------"
     - ''
-    - "§bRight-click§f to toggle"
-    - "§fthe §bSilk Touch§f enchantment."
+    - "<aqua>Right-click<white> to toggle"
+    - "<white>the <aqua>Silk Touch<white> enchantment."
     - ''
-    - "§8-------------------------"
-    - "§6MINER's Crate Item"
+    - "<dark-gray>-------------------------"
+    - "<#6bffb5>#MINER's Crate Item"
     material: NETHERITE_PICKAXE
-    name: "§x§d§7§4§4§8§1Switch Pick ⛏"
+    name: "<#d74444>Switch Pick ⛏"
     triggers:
     - actions:
       - action: toggle-enchantment

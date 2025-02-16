@@ -7,8 +7,10 @@
    },
    "custom-model-data": 1078,
    "dyeable": true,
-   "lore": "&7Dyeable",
+   "lore": [
+      "<grey>Dyeable"
+   ],
    "material": "LEATHER_HORSE_ARMOR",
    "model": "blanktopia:furniture/mangrove_chair",
-   "name": "&fMangrove Chair"
+   "name": "<white>Mangrove Chair"
 }

@@ -7,8 +7,10 @@
    },
    "custom-model-data": 1073,
    "dyeable": true,
-   "lore": "&7Dyeable",
+   "lore": [
+      "<grey>Dyeable"
+   ],
    "material": "LEATHER_HORSE_ARMOR",
    "model": "blanktopia:furniture/jungle_chair",
-   "name": "&fJungle Chair"
+   "name": "<white>Jungle Chair"
 }

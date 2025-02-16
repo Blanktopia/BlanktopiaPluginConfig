@@ -1,5 +1,5 @@
 local block(name, customModelData, state, model, blockOptions = {}) = {
-    "name": "&f" + name,
+    "name": "<white>" + name,
     "material": "PAPER",
     "custom-model-data": customModelData,
     "model": model,

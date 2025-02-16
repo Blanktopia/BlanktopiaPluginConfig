@@ -1,15 +1,15 @@
-name: "&b2x EXP Coupon (Server-wide)"
+name: "<aqua>2x EXP Coupon (Server-wide)"
 material: PAPER
 custom-model-data: 1
 model: "blanktopia:misc/exp_coupon"
 lore:
-  - '&8-------------------------'
+  - '<dark_grey>-------------------------'
   - ''
-  - '&bRight-click&f to grant a &b2x EXP&f'
-  - '&fbuff to all online &fplayers'
-  - '&ffor &b15 minutes&f.'
+  - '<aqua>Right-click<white> to grant a <aqua>2x EXP<white>'
+  - '<white>buff to all online <white>players'
+  - '<white>for <aqua>15 minutes<white>.'
   - ''
-  - '&8-------------------------'
+  - '<dark_grey>-------------------------'
 enchantments:
   final: 1
 triggers:
@@ -24,5 +24,5 @@ triggers:
         - type: play-sound
           sound: block.enchantment_table.use
     - type: console-command
-      command: broadcast &6%p&6 has given everyone a &b2x EXP buff&6 for 15 minutes.
+      command: broadcast <gold>%p<gold> has given everyone a <aqua>2x EXP buff<gold> for 15 minutes.
     - type: remove-item

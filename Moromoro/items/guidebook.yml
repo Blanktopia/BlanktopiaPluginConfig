@@ -4,8 +4,8 @@ material: KNOWLEDGE_BOOK
 soulbound: true
 unenchantable: true
 lore:
-  - '&bRight-click&f or type &b/help&f to learn more'
-  - '&fabout Blanktopia.'
+  - '<aqua>Right-click<white> or type <aqua>/help<white> to learn more'
+  - '<white>about Blanktopia.'
 triggers:
   right-click:
     - type: player-command

@@ -1,5 +1,5 @@
 alias: packing-tape
-name: "&x&3&3&8&7&6&dPortable Trash Can ⏹"
+name: "<#33876d>Portable Trash Can ⏹"
 material: STRIPPED_WARPED_HYPHAE
 soulbound: true
 unbreakable: true
@@ -7,9 +7,9 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f from your'
-  - '&finventory to open a'
-  - '&fportable trash can.'
+  - '<aqua>Right-click<white> from your'
+  - '<white>inventory to open a'
+  - '<white>portable trash can.'
 triggers:
   right-click:
     - type: sudo-command

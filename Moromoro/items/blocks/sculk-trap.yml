@@ -1,6 +1,6 @@
 alias: sculk_catalyst
 
-name: '&fSculk Catalyst'
+name: '<white>Sculk Catalyst'
 material: PAPER
 custom-model-data: 1019
 model: "minecraft:block/sculk_catalyst"

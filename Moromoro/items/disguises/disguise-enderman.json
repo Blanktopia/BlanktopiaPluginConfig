@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/7a59bb0a7a32965b3d90d8eafa899d1835f424509eadd4e6b709ada50b9cf",
-   "lore": "\n&fDisguises you as a &bEnderman&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Enderman<white>."
+   ],
    "material": "PLAYER_HEAD",
-   "name": "&6Enderman Disguise&c ☻",
+   "name": "<gold>Enderman Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&0&0&0&0&F&FRiver&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#0000FF>River<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&0&0&0&0&F&FRiver Biome Wand",
+   "name": "<#0000FF>River Biome Wand",
    "triggers": {
       "right-click": [
          {

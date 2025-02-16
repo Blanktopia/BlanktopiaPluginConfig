@@ -2,7 +2,7 @@
    "custom-model-data": 8,
    "material": "COOKIE",
    "model": "blanktopia:food/onigiri",
-   "name": "&fOnigiri",
+   "name": "<white>Onigiri",
    "triggers": {
       "consume": [
          {

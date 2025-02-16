@@ -2,7 +2,7 @@
    "custom-model-data": 1,
    "material": "POTION",
    "model": "blanktopia:food/apple_cider",
-   "name": "&fApple Cider",
+   "name": "<white>Apple Cider",
    "triggers": {
       "consume": [
          {

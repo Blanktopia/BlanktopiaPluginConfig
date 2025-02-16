@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&F&F&0&0&F&FMushroom Fields&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#FF00FF>Mushroom Fields<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&F&F&0&0&F&FMushroom Fields Biome Wand",
+   "name": "<#FF00FF>Mushroom Fields Biome Wand",
    "triggers": {
       "right-click": [
          {

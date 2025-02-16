@@ -1,5 +1,5 @@
 version: 3
-name: '&#8db360-#056621&Biome Wand'
+name: '<transition:#8db360:#056621>Biome Wand'
 material: WOODEN_HOE
 custom-model-data: 1
 model: "blanktopia:rares/biome_wand"
@@ -9,10 +9,10 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bLeft-click&f to select a'
-  - '&fbiome.'
-  - '&bRight-click&f to turn an area'
-  - '&finto the selected biome.'
+  - '<aqua>Left-click<white> to select a'
+  - '<white>biome.'
+  - '<aqua>Right-click<white> to turn an area'
+  - '<white>into the selected biome.'
 triggers:
   right-click:
     - type: if

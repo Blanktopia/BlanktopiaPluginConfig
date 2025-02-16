@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&F&A&9&4&1&8Desert&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#FA9418>Desert<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&F&A&9&4&1&8Desert Biome Wand",
+   "name": "<#FA9418>Desert Biome Wand",
    "triggers": {
       "right-click": [
          {

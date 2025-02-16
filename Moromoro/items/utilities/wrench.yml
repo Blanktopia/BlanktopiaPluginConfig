@@ -1,5 +1,5 @@
 version: 1
-name: "&#adb0b8-#7e8596&Wrench"
+name: "<transition:#adb0b8:#7e8596>Wrench"
 material: WOODEN_HOE
 custom-model-data: 1002
 model: "blanktopia:rares/wrench"
@@ -9,9 +9,9 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f to rotate a block'
-  - '&for turn an item frame'
-  - '&finvisible.'
+  - '<aqua>Right-click<white> to rotate a block'
+  - '<white>or turn an item frame'
+  - '<white>invisible.'
 triggers:
   right-click-block:
     - type: rotate

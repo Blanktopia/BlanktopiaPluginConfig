@@ -7,8 +7,10 @@
    },
    "custom-model-data": 1076,
    "dyeable": true,
-   "lore": "&7Dyeable",
+   "lore": [
+      "<grey>Dyeable"
+   ],
    "material": "LEATHER_HORSE_ARMOR",
    "model": "blanktopia:furniture/crimson_chair",
-   "name": "&fCrimson Chair"
+   "name": "<white>Crimson Chair"
 }

@@ -1,11 +1,11 @@
 version: 1
-name: "&rClaim Shovel"
+name: "Claim Shovel"
 material: GOLDEN_SHOVEL
 soulbound: true
 unenchantable: true
 lore:
   - ''
-  - '&fRead &b/claims&f for more information.'
+  - '<white>Read <aqua>/claims<white> for more information.'
 unbreakable: true
 triggers:
   break-block:

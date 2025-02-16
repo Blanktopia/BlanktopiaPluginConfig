@@ -3,5 +3,5 @@ material: LEATHER_HORSE_ARMOR
 custom-model-data: 2000
 model: "blanktopia:hats/straw_hat"
 lore:
-  - '&7Dyeable'
+  - '<grey>Dyeable'
 dyeable: true

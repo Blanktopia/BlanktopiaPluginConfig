@@ -1,16 +1,16 @@
 local crateCoupon(name, crate) = {
-  name: '&6' + name + ' Crate Coupon',
+  name: '<gold>' + name + ' Crate Coupon',
   material: 'PAPER',
   'custom-model-data': 4,
   model: 'blanktopia:misc/key_coupon',
 
   lore: [
-    '&8-------------------------',
+    '<dark_grey>-------------------------',
     '',
-    '&bRight-click&f to give all online',
-    '&fplayers a [' + name + ' Crate Key](gold).',
+    '<aqua>Right-click<white> to give all online',
+    '<white>players a [' + name + ' Crate Key](gold).',
     '',
-    '&8-------------------------',
+    '<dark_grey>-------------------------',
   ],
 
   enchantments: {
@@ -38,7 +38,7 @@ local crateCoupon(name, crate) = {
       },
       {
         type: 'console-command',
-        command: 'broadcast &6%p&6 has given everyone a ' + name + ' Crate Key.',
+        command: 'broadcast <gold>%p<gold> has given everyone a ' + name + ' Crate Key.',
       },
       {
         type: 'remove-item'

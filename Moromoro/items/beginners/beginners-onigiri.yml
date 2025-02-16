@@ -1,12 +1,12 @@
 version: 1
-name: "&fOnigiri"
+name: "<white>Onigiri"
 material: COOKIE
 custom-model-data: 8
 soulbound: true
 unenchantable: true
 lore:
   - ''
-  - '&fSoulbound items stay with you when you die.'
+  - '<white>Soulbound items stay with you when you die.'
 triggers:
   consume:
     - type: feed

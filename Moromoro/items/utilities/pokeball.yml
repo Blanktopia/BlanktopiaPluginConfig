@@ -1,5 +1,5 @@
 version: 0
-name: "&#f00000-#ffffff&Pokeball"
+name: "<transition:#f00000:#ffffff>Pokeball"
 material: ENDER_EYE
 custom-model-data: 2
 model: "blanktopia:rares/pokeball"
@@ -9,11 +9,11 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f to store an'
-  - '&fentity in the ball.'
+  - '<aqua>Right-click<white> to store an'
+  - '<white>entity in the ball.'
   - ''
-  - '&bRight-click&f again to '
-  - '&frelease it.'
+  - '<aqua>Right-click<white> again to '
+  - '<white>release it.'
 triggers:
   right-click:
     - type: pokeball

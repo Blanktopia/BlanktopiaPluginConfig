@@ -7,8 +7,10 @@
    },
    "custom-model-data": 1074,
    "dyeable": true,
-   "lore": "&7Dyeable",
+   "lore": [
+      "<grey>Dyeable"
+   ],
    "material": "LEATHER_HORSE_ARMOR",
    "model": "blanktopia:furniture/acacia_chair",
-   "name": "&fAcacia Chair"
+   "name": "<white>Acacia Chair"
 }

@@ -1,5 +1,5 @@
 version: 2
-name: "&6Wrecking Ball&c ⛏"
+name: "<gold>Wrecking Ball<red> ⛏"
 material: IRON_PICKAXE
 custom-model-data: 1
 model: "blanktopia:rares/wrecking_ball"
@@ -9,7 +9,7 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fMines in a &b3x3&f area.'
+  - '<white>Mines in a <aqua>3x3<white> area.'
 enchantments:
   efficiency: 6
   silk_touch: 1

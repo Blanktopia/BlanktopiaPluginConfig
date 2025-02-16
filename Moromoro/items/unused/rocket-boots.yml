@@ -1,16 +1,16 @@
-name: "&#ea4f4f-#fff56d&Rocket Boots"
+name: "<transition:#ea4f4f:#fff56d>Rocket Boots"
 material: FIREWORK_ROCKET
 custom-model-data: 1
 unique: true
 lore:
-  - '&8-------------------------'
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<dark_grey>-------------------------'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
   - ''
-  - '&eJump&f while &esneaking&f to'
-  - '&fshoot up like a rocket!'
+  - '<yellow>Jump<white> while <yellow>sneaking<white> to'
+  - '<white>shoot up like a rocket!'
   - ''
-  - '&8-------------------------'
-  - '&6EXPLORER''s Crate Item'
+  - '<dark_grey>-------------------------'
+  - '<gold>EXPLORER''s Crate Item'
 enchantments:
   blanktopia:final: 1
   blanktopia:soulbound: 1

@@ -3,14 +3,14 @@ material: TRIDENT
 custom-model-data: 1
 unique: true
 lore:
-  - '&7Lightning Immunity'
-  - '&8-------------------------'
+  - '<grey>Lightning Immunity'
+  - '<dark_grey>-------------------------'
   - ''
-  - '&fPress &bShift&f while attacking to'
-  - '&fcall down lightning!'
+  - '<white>Press <aqua>Shift<white> while attacking to'
+  - '<white>call down lightning!'
   - ''
-  - '&8-------------------------'
-  - '&6COMBAT Crate Item'
+  - '<dark_grey>-------------------------'
+  - '<gold>COMBAT Crate Item'
 unbreakable: true
 enchantments:
   impaling: 5

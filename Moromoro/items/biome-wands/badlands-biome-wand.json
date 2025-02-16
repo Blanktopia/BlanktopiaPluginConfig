@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&D&9&4&5&1&5Badlands&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#D94515>Badlands<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&D&9&4&5&1&5Badlands Biome Wand",
+   "name": "<#D94515>Badlands Biome Wand",
    "triggers": {
       "right-click": [
          {

@@ -1,5 +1,5 @@
 version: 1
-name: "&#44c94f-#1b9125&Climbing Gloves"
+name: "<transition:#44c94f:#1b9125>Climbing Gloves"
 material: LEATHER
 custom-model-data: 4
 model: "blanktopia:rares/climbing_gloves"
@@ -8,11 +8,11 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fAllows you to jump off walls'
-  - '&fby pressing &bsneak&f when'
-  - '&fagainst a wall.'
+  - '<white>Allows you to jump off walls'
+  - '<white>by pressing <aqua>sneak<white> when'
+  - '<white>against a wall.'
   - ''
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
 slots:
   - TRINKET
 triggers:

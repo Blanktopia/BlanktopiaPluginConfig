@@ -1,15 +1,15 @@
 version: 1
-name: "&#ea4f4f-#fff56d&Booster v2.0"
+name: "<transition:#ea4f4f:#fff56d>Booster v2.0"
 material: FIREWORK_ROCKET
 soulbound: true
 unbreakable: true
 unique: true
 lore:
   - ''
-  - '&fPress &bsneak&f when gliding'
-  - '&fto boost yourself.'
+  - '<white>Press <aqua>sneak<white> when gliding'
+  - '<white>to boost yourself.'
   - ''
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
 slots:
   - TRINKET
 triggers:

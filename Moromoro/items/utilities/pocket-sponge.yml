@@ -1,5 +1,5 @@
 version: 0
-name: "&#fffcdb-#ffc272&Pocket Sponge"
+name: "<transition:#fffcdb:#ffc272>Pocket Sponge"
 material: SPONGE
 soulbound: true
 unbreakable: true
@@ -7,8 +7,8 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f to remove'
-  - '&fwater and lava like a sponge'
+  - '<aqua>Right-click<white> to remove'
+  - '<white>water and lava like a sponge'
 triggers:
   place-block:
     - type: cancel

@@ -2,8 +2,8 @@
    "custom-model-data": 7,
    "material": "APPLE",
    "model": "blanktopia:food/fruits/orange",
-   "name": "&fOrange",
+   "name": "<white>Orange",
    "triggers": {
-      "consume": [ ]
+      "consume": []
    }
 }

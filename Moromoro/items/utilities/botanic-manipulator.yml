@@ -1,5 +1,5 @@
 version: 1
-name: "&#3b875c-#8ec153&Botanic Manipulator"
+name: "<transition:#3b875c:#8ec153>Botanic Manipulator"
 material: WOODEN_HOE
 custom-model-data: 1010
 model: "blanktopia:rares/biome_wand"
@@ -9,13 +9,13 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f to cycle a'
-  - '&fblock''s variation.'
+  - '<aqua>Right-click<white> to cycle a'
+  - '<white>block''s variation.'
   - ''
-  - '&fWorks on:'
-  - '&8- &fWood'
-  - '&8- &fFlowers'
-  - '&8- &fMushrooms'
+  - '<white>Works on:'
+  - '<dark_grey>- <white>Wood'
+  - '<dark_grey>- <white>Flowers'
+  - '<dark_grey>- <white>Mushrooms'
 triggers:
   right-click-block:
     - type: cycle-flora

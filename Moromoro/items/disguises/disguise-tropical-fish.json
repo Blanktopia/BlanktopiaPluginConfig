@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/12510b301b088638ec5c8747e2d754418cb747a5ce7022c9c712ecbdc5f6f065",
-   "lore": "\n&fDisguises you as a &bTropical Fish&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Tropical Fish<white>."
+   ],
    "material": "PLAYER_HEAD",
-   "name": "&6Tropical Fish Disguise&c ☻",
+   "name": "<gold>Tropical Fish Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

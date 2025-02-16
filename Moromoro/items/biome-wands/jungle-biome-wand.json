@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&5&3&7&B&0&9Jungle&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#537B09>Jungle<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&5&3&7&B&0&9Jungle Biome Wand",
+   "name": "<#537B09>Jungle Biome Wand",
    "triggers": {
       "right-click": [
          {

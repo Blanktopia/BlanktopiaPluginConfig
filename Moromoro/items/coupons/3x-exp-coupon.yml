@@ -1,14 +1,14 @@
-name: "&b3x EXP Coupon"
+name: "<aqua>3x EXP Coupon"
 material: PAPER
 custom-model-data: 1
 model: "blanktopia:misc/exp_coupon"
 lore:
-  - '&8-------------------------'
+  - '<dark_grey>-------------------------'
   - ''
-  - '&bRight-click&f to receive a'
-  - '&b3x EXP&f buff for &b5 minutes&f.'
+  - '<aqua>Right-click<white> to receive a'
+  - '<aqua>3x EXP<white> buff for <aqua>5 minutes<white>.'
   - ''
-  - '&8-------------------------'
+  - '<dark_grey>-------------------------'
 enchantments:
   final: 1
 triggers:
@@ -17,7 +17,7 @@ triggers:
       multiplier: 3
       duration: 6000
     - type: message
-      message: "&6Received &b3x EXP&6 buff for 5 minutes."
+      message: "<gold>Received <aqua>3x EXP<gold> buff for 5 minutes."
     - type: play-sound
       sound: entity.experience_orb.pickup
     - type: play-sound

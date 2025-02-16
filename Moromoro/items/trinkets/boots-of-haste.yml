@@ -1,5 +1,5 @@
 version: 2
-name: "&#f4cf8b-#f79859&Boots of Haste"
+name: "<transition:#f4cf8b:#f79859>Boots of Haste"
 material: LEATHER
 custom-model-data: 5
 model: "blanktopia:rares/boots_of_haste"
@@ -8,9 +8,9 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fAllows you to &bsprint&f faster.'
+  - '<white>Allows you to <aqua>sprint<white> faster.'
   - ''
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
 slots:
   - TRINKET
 triggers:

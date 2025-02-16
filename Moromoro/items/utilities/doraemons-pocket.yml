@@ -1,11 +1,11 @@
 alias: pokeball
-name: "&9Doraemon's Pocket"
+name: "<blue>Doraemon's Pocket"
 material: ENDER_CHEST
 lore:
   - ''
-  - '&bRight-click&f from your'
-  - '&finventory to access your'
-  - '&fender chest.'
+  - '<aqua>Right-click<white> from your'
+  - '<white>inventory to access your'
+  - '<white>ender chest.'
 soulbound: true
 unbreakable: true
 unenchantable: true

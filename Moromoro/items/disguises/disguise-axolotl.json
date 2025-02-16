@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/d704254139a0b1a926e7552482dd67679c6ae0dc8335c980dbd1c0d99634a708",
-   "lore": "\n&fDisguises you as a &bAxolotl&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Axolotl<white>."
+   ],
    "material": "PLAYER_HEAD",
-   "name": "&6Axolotl Disguise&c ☻",
+   "name": "<gold>Axolotl Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

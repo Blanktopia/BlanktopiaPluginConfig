@@ -12,7 +12,7 @@ local feed(amount, saturation) = {
 };
 
 local food(name, material, customModelData, model, actions) = {
-    name: "&f" + name,
+    name: "<white>" + name,
     material: material,
     'custom-model-data': customModelData,
     model: model,

@@ -2,7 +2,7 @@
    "custom-model-data": 10,
    "material": "COOKIE",
    "model": "blanktopia:food/mooncakes/red_bean",
-   "name": "&fRed Bean Paste Mooncake",
+   "name": "<white>Red Bean Paste Mooncake",
    "triggers": {
       "consume": [
          {

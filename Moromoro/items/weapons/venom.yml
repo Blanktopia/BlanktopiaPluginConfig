@@ -1,5 +1,5 @@
 version: 3
-name: "&#5b577f-#4a217c&Venom"
+name: "<transition:#5b577f:#4a217c>Venom"
 material: NETHERITE_SWORD
 custom-model-data: 1
 soulbound: true
@@ -7,9 +7,9 @@ unbreakable: true
 unenchantable: true
 unique: true
 lore:
-  - '&7Poison Immunity'
+  - '<grey>Poison Immunity'
   - ''
-  - '&fUnleashs poisonous fangs.'
+  - '<white>Unleashs poisonous fangs.'
 enchantments:
   sharpness: 7
   sweeping_edge: 3

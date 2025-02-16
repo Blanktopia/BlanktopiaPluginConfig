@@ -1,8 +1,11 @@
 {
    "head": "http://textures.minecraft.net/texture/null",
-   "lore": "\n&fDisguises you as a &bCreeper&f.",
+   "lore": [
+      "",
+      "<white>Disguises you as a <aqua>Creeper<white>."
+   ],
    "material": "CREEPER_HEAD",
-   "name": "&6Creeper Disguise&c ☻",
+   "name": "<gold>Creeper Disguise<red> ☻",
    "soulbound": true,
    "triggers": {
       "equip-head": [

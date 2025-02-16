@@ -6,16 +6,16 @@
       "blanktopia:soulbound": 1
    },
    "lore": [
-      "&8-------------------------",
+      "<dark_grey>-------------------------",
       "",
-      "&bRight-click&f to turn an area",
-      "&finto a &x&F&F&F&F&F&FSnowy Tundra&f biome.",
+      "<aqua>Right-click<white> to turn an area",
+      "<white>into a <#FFFFFF>Snowy Tundra<white> biome.",
       "",
-      "&8-------------------------",
-      "&6NATURE Crate Item"
+      "<dark_grey>-------------------------",
+      "<gold>NATURE Crate Item"
    ],
    "material": "WOODEN_HOE",
-   "name": "&x&F&F&F&F&F&FSnowy Tundra Biome Wand",
+   "name": "<#FFFFFF>Snowy Tundra Biome Wand",
    "triggers": {
       "right-click": [
          {

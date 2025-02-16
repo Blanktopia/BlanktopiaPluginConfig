@@ -1,6 +1,6 @@
 alias: sculk
 
-name: '&fSculk Block'
+name: '<white>Sculk Block'
 material: PAPER
 custom-model-data: 1017
 model: "minecraft:block/sculk"

@@ -1,5 +1,5 @@
 version: 2
-name: "&x&2&d&7&a&5&3Scythe"
+name: "<#2d7a53>Scythe"
 material: SHEARS
 custom-model-data: 1
 model: "blanktopia:rares/scythe"
@@ -9,7 +9,7 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fShears in a &b5x5x5&f area.'
+  - '<white>Shears in a <aqua>5x5x5<white> area.'
 enchantments:
   efficiency: 6
   sharpness: 5

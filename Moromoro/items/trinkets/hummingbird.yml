@@ -1,5 +1,5 @@
 version: 2
-name: "&#f76c9d-#b5f9cb&Hummingbird"
+name: "<transition:#f76c9d:#b5f9cb>Hummingbird"
 material: FEATHER
 custom-model-data: 1
 model: "blanktopia:rares/hummingbird"
@@ -8,10 +8,10 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&fAllows you to hover in claims'
-  - '&fyou are &b/trusted&f in.'
+  - '<white>Allows you to hover in claims'
+  - '<white>you are <aqua>/trusted<white> in.'
   - ''
-  - '&7Slot: &#ff4e1d&Trinket'
+  - '<grey>Slot: <#ff4e1d>&Trinket'
 slots:
   - TRINKET
 triggers:

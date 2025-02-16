@@ -1,9 +1,9 @@
-name: "&eSoulbound Tome"
+name: "<yellow>Soulbound Tome"
 material: ENCHANTED_BOOK
 soulbound: true
 lore:
   - ''
-  - '&fCombine with any item on an anvil to imbue'
-  - '&fit with &7Soulbound&f.'
+  - '<white>Combine with any item on an anvil to imbue'
+  - '<white>it with <grey>Soulbound<white>.'
   - ''
-  - '&fSoulbound items stay with you when you die.'
+  - '<white>Soulbound items stay with you when you die.'

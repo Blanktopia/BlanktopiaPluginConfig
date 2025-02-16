@@ -2,7 +2,7 @@
    "custom-model-data": 2,
    "material": "POTION",
    "model": "blanktopia:food/vinegar",
-   "name": "&fVinegar",
+   "name": "<white>Vinegar",
    "triggers": {
       "consume": [
          {

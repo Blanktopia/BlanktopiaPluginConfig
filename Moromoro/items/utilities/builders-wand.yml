@@ -1,5 +1,5 @@
 version: 2
-name: "&#ffa5ee-#b6a5ff&Builder's Wand"
+name: "<transition:#ffa5ee:#b6a5ff>Builder's Wand"
 material: WOODEN_HOE
 custom-model-data: 1003
 model: "blanktopia:rares/builders_wand"
@@ -9,10 +9,10 @@ unenchantable: true
 unique: true
 lore:
   - ''
-  - '&bRight-click&f on a block'
-  - '&fto place blocks in a &b5x5&f'
-  - '&farea. Requires the block to'
-  - '&fbe in your inventory.'
+  - '<aqua>Right-click<white> on a block'
+  - '<white>to place blocks in a <aqua>5x5<white>'
+  - '<white>area. Requires the block to'
+  - '<white>be in your inventory.'
 triggers:
   tick:
     - type: raycast
