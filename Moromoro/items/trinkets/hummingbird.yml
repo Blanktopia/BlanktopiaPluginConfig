@@ -1,41 +1,36 @@
 version: 2
-
 name: "&#f76c9d-#b5f9cb&Hummingbird"
 material: FEATHER
 custom-model-data: 1
 model: "blanktopia:rares/hummingbird"
-
 soulbound: true
 unenchantable: true
 unique: true
-
-lore: |-
-  
-  &fAllows you to hover in claims
-  &fyou are &b/trusted&f in.
-  
-  &7Slot: &#ff4e1d&Trinket
-
+lore:
+  - ''
+  - '&fAllows you to hover in claims'
+  - '&fyou are &b/trusted&f in.'
+  - ''
+  - '&7Slot: &#ff4e1d&Trinket'
 slots:
-- TRINKET
-
+  - TRINKET
 triggers:
   equip-armor:
-  - type: fly-in-claims
-    fly: true
+    - type: fly-in-claims
+      fly: true
   unequip-armor:
-  - type: fly-in-claims
-    fly: false
+    - type: fly-in-claims
+      fly: false
   tick-slow:
-  - type: if
-    if: 
-      type: is-flying
-    then:
-    - type: spawn-particle
-      count: 1
-      y: 0.9
-      offset-x: 0.3
-      offset-y: 0.6
-      offset-z: 0.3
-      particle: FALLING_DUST
-      block: PEARLESCENT_FROGLIGHT
+    - type: if
+      if:
+        type: is-flying
+      then:
+        - type: spawn-particle
+          count: 1
+          y: 0.9
+          offset-x: 0.3
+          offset-y: 0.6
+          offset-z: 0.3
+          particle: FALLING_DUST
+          block: PEARLESCENT_FROGLIGHT

@@ -1,55 +1,44 @@
 version: 2
-
 name: "&rainbow&Paint Brush"
 material: WOODEN_HOE
 custom-model-data: 1001
 model: "blanktopia:rares/paint_brush"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &7Paint: NONE
-  
-  &bLeft-click&f to pick a colour.
-  &bRight-click&f to paint blocks.
-  
-  &fWorks on:
-  &8- &fGlass
-  &8- &fWool
-  &8- &fTerracotta
-  &8- &fConcrete
-
+lore:
+  - ''
+  - '&7Paint: NONE'
+  - ''
+  - '&bLeft-click&f to pick a colour.'
+  - '&bRight-click&f to paint blocks.'
+  - ''
+  - '&fWorks on:'
+  - '&8- &fGlass'
+  - '&8- &fWool'
+  - '&8- &fTerracotta'
+  - '&8- &fConcrete'
 triggers:
-#  tick:
-#  - type: raycast
-#    range: 20
-#    actions:
-#    - type: paint-brush-highlight
-#      range: 2
-#      duration: 50
   left-click:
-  - type: raycast
-    range: 20
-    actions:
-    - type: paint-brush-pick
-  - type: cancel
+    - type: raycast
+      range: 20
+      actions:
+        - type: paint-brush-pick
+    - type: cancel
   right-click:
-  - type: raycast
-    range: 20
-    actions:
-    - type: if
-      if:
-        type: is-sneaking
-      then:
-      - type: paint-brush-paint
-        range: 0
-      else:
-      - type: paint-brush-paint
-        range: 2
-  - type: cancel
+    - type: raycast
+      range: 20
+      actions:
+        - type: if
+          if:
+            type: is-sneaking
+          then:
+            - type: paint-brush-paint
+              range: 0
+          else:
+            - type: paint-brush-paint
+              range: 2
+    - type: cancel
   right-click-entity:
-  - type: cancel
+    - type: cancel

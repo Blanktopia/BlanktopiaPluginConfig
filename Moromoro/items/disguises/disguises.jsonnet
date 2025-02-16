@@ -3,8 +3,10 @@ local disguise(name, skin, options = null) = {
   material: 'PLAYER_HEAD',
   head: 'http://textures.minecraft.net/texture/' + skin,
 
-  lore: '
-&fDisguises you as a &b' + name + '&f.',
+  lore: [
+    '',
+    '&fDisguises you as a &b' + name + '&f.',
+  ],
 
   soulbound: true,
 

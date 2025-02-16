@@ -1,23 +1,18 @@
 version: 3
-
 name: "&#45b6f7-#c9e7ff&Nile Water"
 material: WOODEN_HOE
 custom-model-data: 1006
 model: "minecraft:item/water_bucket"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &fInfinite water bucket.
-
+lore:
+  - ''
+  - '&fInfinite water bucket.'
 enchantments:
   infinity: 1
-
 triggers:
   right-click:
-  - type: water-bucket
-  - type: cancel
+    - type: water-bucket
+    - type: cancel

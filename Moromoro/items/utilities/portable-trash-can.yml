@@ -1,34 +1,31 @@
 alias: packing-tape
 name: "&x&3&3&8&7&6&dPortable Trash Can ⏹"
 material: STRIPPED_WARPED_HYPHAE
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bRight-click&f from your
-  &finventory to open a
-  &fportable trash can.
-
+lore:
+  - ''
+  - '&bRight-click&f from your'
+  - '&finventory to open a'
+  - '&fportable trash can.'
 triggers:
   right-click:
-  - type: sudo-command
-    command: disposal
-    permissions:
-    - essentials.disposal
-  - type: play-sound
-    sound: block.shulker_box.open
-    pitch: 0.8
-  - type: cancel
+    - type: sudo-command
+      command: disposal
+      permissions:
+        - essentials.disposal
+    - type: play-sound
+      sound: block.shulker_box.open
+      pitch: 0.8
+    - type: cancel
   right-click-inventory:
-  - type: sudo-command
-    command: disposal
-    permissions:
-    - essentials.disposal
-  - type: play-sound
-    sound: block.shulker_box.open
-    pitch: 0.8
-  - type: cancel
+    - type: sudo-command
+      command: disposal
+      permissions:
+        - essentials.disposal
+    - type: play-sound
+      sound: block.shulker_box.open
+      pitch: 0.8
+    - type: cancel

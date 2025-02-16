@@ -1,39 +1,35 @@
 alias: block-zapper
-
 name: "&r&x&a&4&6&b&f&fRandomizer ?"
 material: WOODEN_HOE
 custom-model-data: 1005
 model: "minecraft:item/popped_chorus_fruit"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bRight-click&f to place a random
-  &fblock from your hot bar.
-
+lore:
+  - ''
+  - '&bRight-click&f to place a random'
+  - '&fblock from your hot bar.'
 triggers:
   tick-slow:
-  - type: raycast
-    range: 20
-    actions:
-    - type: highlight-block
-      color: 0x64001000
+    - type: raycast
+      range: 20
+      actions:
+        - type: highlight-block
+          color: 1677725696
   right-click:
-  - type: if
-    if:
-      type: item-cooldown
-    then:
     - type: if
       if:
-        type: raycast
-        range: 20
-        actions:
-        - type: place-random-block
+        type: item-cooldown
       then:
-      - type: item-cooldown
-        ticks: 1
-  - type: cancel
+        - type: if
+          if:
+            type: raycast
+            range: 20
+            actions:
+              - type: place-random-block
+          then:
+            - type: item-cooldown
+              ticks: 1
+    - type: cancel

@@ -3,7 +3,14 @@
    "enchantments": {
       "blanktopia:final": 1
    },
-   "lore": "&8-------------------------\r\n\r\n&bRight-click&f to give all online\r\n&fplayers a [INFINITY Crate Key](gold).\r\n\r\n&8-------------------------",
+   "lore": [
+      "&8-------------------------",
+      "",
+      "&bRight-click&f to give all online",
+      "&fplayers a [INFINITY Crate Key](gold).",
+      "",
+      "&8-------------------------"
+   ],
    "material": "PAPER",
    "model": "blanktopia:misc/key_coupon",
    "name": "&6INFINITY Crate Coupon",

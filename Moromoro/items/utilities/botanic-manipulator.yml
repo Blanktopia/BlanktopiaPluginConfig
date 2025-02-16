@@ -1,30 +1,26 @@
 version: 1
-
 name: "&#3b875c-#8ec153&Botanic Manipulator"
 material: WOODEN_HOE
 custom-model-data: 1010
 model: "blanktopia:rares/biome_wand"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bRight-click&f to cycle a
-  &fblock's variation.
-
-  &fWorks on:
-  &8- &fWood
-  &8- &fFlowers
-  &8- &fMushrooms
-
+lore:
+  - ''
+  - '&bRight-click&f to cycle a'
+  - '&fblock''s variation.'
+  - ''
+  - '&fWorks on:'
+  - '&8- &fWood'
+  - '&8- &fFlowers'
+  - '&8- &fMushrooms'
 triggers:
   right-click-block:
-  - type: cycle-flora
-  - type: cancel
+    - type: cycle-flora
+    - type: cancel
   left-click-block:
-  - type: cycle-flora
-    reversed: true
-  - type: cancel
+    - type: cycle-flora
+      reversed: true
+    - type: cancel

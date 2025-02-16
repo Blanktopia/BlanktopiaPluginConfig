@@ -1,12 +1,9 @@
 version: 1
-
 name: "&rBeginner's Shield"
 material: SHIELD
-
 soulbound: true
 unenchantable: true
-
-lore: |-
-  
-  &fSoulbound items stay with you when you die.
-  &fFinal items cannot be enchanted.
+lore:
+  - ''
+  - '&fSoulbound items stay with you when you die.'
+  - '&fFinal items cannot be enchanted.'

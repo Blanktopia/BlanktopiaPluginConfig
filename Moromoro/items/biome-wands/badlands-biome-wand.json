@@ -5,7 +5,15 @@
       "blanktopia:final": 1,
       "blanktopia:soulbound": 1
    },
-   "lore": "&8-------------------------\n\n&bRight-click&f to turn an area\n&finto a &x&D&9&4&5&1&5Badlands&f biome.\n\n&8-------------------------\n&6NATURE Crate Item",
+   "lore": [
+      "&8-------------------------",
+      "",
+      "&bRight-click&f to turn an area",
+      "&finto a &x&D&9&4&5&1&5Badlands&f biome.",
+      "",
+      "&8-------------------------",
+      "&6NATURE Crate Item"
+   ],
    "material": "WOODEN_HOE",
    "name": "&x&D&9&4&5&1&5Badlands Biome Wand",
    "triggers": {

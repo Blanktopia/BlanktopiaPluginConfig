@@ -1,21 +1,17 @@
 version: 1
-
 name: Beginner's Guide
 material: KNOWLEDGE_BOOK
-
 soulbound: true
 unenchantable: true
-
-lore: |-
-  &bRight-click&f or type &b/help&f to learn more
-  &fabout Blanktopia.
-
+lore:
+  - '&bRight-click&f or type &b/help&f to learn more'
+  - '&fabout Blanktopia.'
 triggers:
   right-click:
-  - type: player-command
-    command: help
-  - type: cancel
+    - type: player-command
+      command: help
+    - type: cancel
   right-click-inventory:
-  - type: player-command
-    command: help
-  - type: cancel
+    - type: player-command
+      command: help
+    - type: cancel

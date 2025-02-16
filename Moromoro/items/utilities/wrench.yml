@@ -1,32 +1,28 @@
 version: 1
-
 name: "&#adb0b8-#7e8596&Wrench"
 material: WOODEN_HOE
 custom-model-data: 1002
 model: "blanktopia:rares/wrench"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bRight-click&f to rotate a block
-  &for turn an item frame
-  &finvisible.
-
+lore:
+  - ''
+  - '&bRight-click&f to rotate a block'
+  - '&for turn an item frame'
+  - '&finvisible.'
 triggers:
   right-click-block:
-  - type: rotate
-  - type: cancel
-  left-click-block:
-  - type: rotate
-    reversed: true
-  - type: cancel
-  right-click-entity:
-  - type: if
-    if:
-      type: toggle-item-frame-visibility
-    then:
+    - type: rotate
     - type: cancel
+  left-click-block:
+    - type: rotate
+      reversed: true
+    - type: cancel
+  right-click-entity:
+    - type: if
+      if:
+        type: toggle-item-frame-visibility
+      then:
+        - type: cancel

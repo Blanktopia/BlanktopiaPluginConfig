@@ -1,37 +1,32 @@
 version: 1
-
 name: "&#9cfcf6-#e5fff6&Ambr&#e5fff6-#9cfcf6&osia"
 material: BOWL
 custom-model-data: 2
 model: "blanktopia:rares/ambrosia"
-
 soulbound: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &fGrants two additional hearts.
-
-  &7Slot: &#ff4e1d&Trinket
-
+lore:
+  - ''
+  - '&fGrants two additional hearts.'
+  - ''
+  - '&7Slot: &#ff4e1d&Trinket'
 slots:
-- TRINKET
-
+  - TRINKET
 triggers:
   equip-armor:
-  - type: add-attribute-modifier
-    attribute-modifiers:
-    - attribute: generic.max_health
-      uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
-      name: Ambrosia
-      amount: 4.0
-      operation: ADD_NUMBER
+    - type: add-attribute-modifier
+      attribute-modifiers:
+        - attribute: generic.max_health
+          uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
+          name: Ambrosia
+          amount: 4.0
+          operation: ADD_NUMBER
   unequip-armor:
-  - type: remove-attribute-modifier
-    attribute-modifiers:
-    - attribute: generic.max_health
-      uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
-      name: Ambrosia
-      amount: 4.0
-      operation: ADD_NUMBER
+    - type: remove-attribute-modifier
+      attribute-modifiers:
+        - attribute: generic.max_health
+          uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
+          name: Ambrosia
+          amount: 4.0
+          operation: ADD_NUMBER

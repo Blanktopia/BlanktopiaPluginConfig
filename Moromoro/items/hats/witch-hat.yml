@@ -2,7 +2,7 @@ name: "Witch Hat"
 material: LEATHER_HORSE_ARMOR
 custom-model-data: 2001
 model: "blanktopia:hats/witch_hat"
-lore: "&7Dyeable"
-
+lore:
+  - '&7Dyeable'
 color: "MAGENTA"
 dyeable: true

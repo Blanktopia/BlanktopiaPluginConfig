@@ -6,13 +6,15 @@ local biomeWand(biome, colour) = {
   'custom-model-data': 1,
   alias: 'biome-wand',
   
-  lore: '&8-------------------------
-
-&bRight-click&f to turn an area
-&finto a ' + colourCode(colour) + biome + '&f biome.
-
-&8-------------------------
-&6NATURE Crate Item',
+  lore: [
+    '&8-------------------------',
+    '',
+    '&bRight-click&f to turn an area',
+    '&finto a ' + colourCode(colour) + biome + '&f biome.',
+    '',
+    '&8-------------------------',
+    '&6NATURE Crate Item',
+  ],
 
   unbreakable: true,
 

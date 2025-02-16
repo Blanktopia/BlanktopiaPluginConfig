@@ -1,38 +1,33 @@
 version: 1
 alias: everstone
-
 name: "&#258273-#8af1df&Subspace Bubble"
 material: WOODEN_HOE
 custom-model-data: 1008
 model: "minecraft:item/ender_pearl"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bRight-click&f to launch an
-  &fender pearl.
-
+lore:
+  - ''
+  - '&bRight-click&f to launch an'
+  - '&fender pearl.'
 enchantments:
   infinity: 1
-
 triggers:
   right-click:
-  - type: if
-    if:
-      type: item-cooldown
-    then:
-    - type: launch-entity
-      entity: ENDER_PEARL
-      magnitude: 1.5
-      pitch: 0
-    - type: play-sound
-      sound: entity.ender_pearl.throw
-      pitch: 0.5
-      volume: 0.5
-    - type: item-cooldown
-      ticks: 10
-  - type: cancel
+    - type: if
+      if:
+        type: item-cooldown
+      then:
+        - type: launch-entity
+          entity: ENDER_PEARL
+          magnitude: 1.5
+          pitch: 0
+        - type: play-sound
+          sound: entity.ender_pearl.throw
+          pitch: 0.5
+          volume: 0.5
+        - type: item-cooldown
+          ticks: 10
+    - type: cancel

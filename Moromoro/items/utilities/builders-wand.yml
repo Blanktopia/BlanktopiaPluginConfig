@@ -1,46 +1,42 @@
 version: 2
-
 name: "&#ffa5ee-#b6a5ff&Builder's Wand"
 material: WOODEN_HOE
 custom-model-data: 1003
 model: "blanktopia:rares/builders_wand"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bRight-click&f on a block
-  &fto place blocks in a &b5x5&f
-  &farea. Requires the block to
-  &fbe in your inventory.
-
+lore:
+  - ''
+  - '&bRight-click&f on a block'
+  - '&fto place blocks in a &b5x5&f'
+  - '&farea. Requires the block to'
+  - '&fbe in your inventory.'
 triggers:
   tick:
-  - type: raycast
-    range: 20
-    actions:
-    - type: builders-wand-highlight
-      color: 0x64001000
-      range: 2
-      duration: 50
-  right-click:
-  - type: if
-    if:
-      type: all
+    - type: raycast
+      range: 20
       actions:
-      - type: item-cooldown
-    then:
-    - type: if
-      if: 
-        type: raycast
-        range: 20
-        actions:
-        - type: builders-wand
+        - type: builders-wand-highlight
+          color: 1677725696
           range: 2
+          duration: 50
+  right-click:
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: item-cooldown
       then:
-      - type: item-cooldown
-        ticks: 1
-    - type: cancel
+        - type: if
+          if:
+            type: raycast
+            range: 20
+            actions:
+              - type: builders-wand
+                range: 2
+          then:
+            - type: item-cooldown
+              ticks: 1
+        - type: cancel

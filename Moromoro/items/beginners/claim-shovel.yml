@@ -1,17 +1,12 @@
 version: 1
-
 name: "&rClaim Shovel"
 material: GOLDEN_SHOVEL
-
 soulbound: true
 unenchantable: true
-
-lore: |-
-  
-  &fRead &b/claims&f for more information.
-
+lore:
+  - ''
+  - '&fRead &b/claims&f for more information.'
 unbreakable: true
-
 triggers:
   break-block:
-  - type: cancel
+    - type: cancel

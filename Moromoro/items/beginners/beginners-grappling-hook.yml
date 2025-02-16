@@ -1,43 +1,38 @@
 version: 1
-
 name: "Beginner's Grappling Hook"
 material: WOODEN_HOE
 custom-model-data: 1009
-
 soulbound: true
 unenchantable: true
 unbreakable: true
 unique: true
-
-lore: |-
-
-  &fAllows you to fire a grappling
-  &fhook by pressing &bF&f.
-  &fPress &bSneak&f to release.
-
-  &fType &b/trinkets&f to open your
-  &ftrinket bag.
-  
-  &7Range: 15 blocks
-  &7Speed: Slow
-
-  &7Slot: &#ff4e1d&Trinket
-
+lore:
+  - ''
+  - '&fAllows you to fire a grappling'
+  - '&fhook by pressing &bF&f.'
+  - '&fPress &bSneak&f to release.'
+  - ''
+  - '&fType &b/trinkets&f to open your'
+  - '&ftrinket bag.'
+  - ''
+  - '&7Range: 15 blocks'
+  - '&7Speed: Slow'
+  - ''
+  - '&7Slot: &#ff4e1d&Trinket'
 slots:
-- TRINKET
-
+  - TRINKET
 triggers:
   right-click:
-  - type: launch-grapple
-    speed: 2.0
-  - type: cancel
+    - type: launch-grapple
+      speed: 2.0
+    - type: cancel
   swap-hand:
-  - type: launch-grapple
-    speed: 2.0
-  - type: cancel
+    - type: launch-grapple
+      speed: 2.0
+    - type: cancel
   projectile-tick:
-  - type: grapple-tick
-    acceleration: 0.2
-    max-speed: 0.3
-    detach-speed: 0.5
-    range: 15
+    - type: grapple-tick
+      acceleration: 0.2
+      max-speed: 0.3
+      detach-speed: 0.5
+      range: 15

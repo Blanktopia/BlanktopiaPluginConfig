@@ -1,51 +1,46 @@
 version: 1
-
 name: "&#ea4f4f-#fff56d&Booster v2.0"
 material: FIREWORK_ROCKET
-
 soulbound: true
 unbreakable: true
 unique: true
-
-lore: |-
-
-  &fPress &bsneak&f when gliding
-  &fto boost yourself.
-
-  &7Slot: &#ff4e1d&Trinket
-
+lore:
+  - ''
+  - '&fPress &bsneak&f when gliding'
+  - '&fto boost yourself.'
+  - ''
+  - '&7Slot: &#ff4e1d&Trinket'
 slots:
-- TRINKET
-
+  - TRINKET
 triggers:
   right-click:
-  - type: cancel
+    - type: cancel
   tick:
-  - type: if
-    if: 
-      type: all
-      actions:
-      - type: is-gliding
-      - type: is-sneaking
-    then:
-    - type: spawn-particle
-      count: 1
-      y: 0
-      offset-x: 0
-      offset-y: 0
-      offset-z: 0
-      particle: FIREWORK
-      extra: 0
-    - type: clamp-velocity
-      max: 0
-    - type: add-velocity
-      x: 0
-      y: 0
-      z: 1.2
-      max: 1.2
-      rotate-yaw: true
-      rotate-pitch: true
-    - type: play-sound
-      pitch: 0.6
-      sound: entity.generic.extinguish_fire
-      volume: 0.1
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: is-gliding
+          - type: is-sneaking
+      then:
+        - type: spawn-particle
+          count: 1
+          y: 0
+          offset-x: 0
+          offset-y: 0
+          offset-z: 0
+          particle: FIREWORK
+          extra: 0
+        - type: clamp-velocity
+          max: 0
+        - type: add-velocity
+          x: 0
+          y: 0
+          z: 1.2
+          max: 1.2
+          rotate-yaw: true
+          rotate-pitch: true
+        - type: play-sound
+          pitch: 0.6
+          sound: entity.generic.extinguish_fire
+          volume: 0.1

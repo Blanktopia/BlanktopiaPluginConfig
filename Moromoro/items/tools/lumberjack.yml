@@ -1,39 +1,34 @@
 version: 2
-
 name: "&6Lumberjack&c ⛏"
 material: IRON_AXE
 custom-model-data: 1
 model: "blanktopia:rares/lumberjack"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-  
-  &fChops in a &b3x3&f area.
-
+lore:
+  - ''
+  - '&fChops in a &b3x3&f area.'
 enchantments:
   efficiency: 6
   silk_touch: 1
-
 triggers:
   break-block:
-  - type: if
-    if:
-      type: not
-      not:
-        type: is-sneaking
-    then:
-    - type: break-block
-      radius: 1
+    - type: if
+      if:
+        type: not
+        not:
+          type: is-sneaking
+      then:
+        - type: break-block
+          radius: 1
   right-click-block:
-  - type: if
-    if:
-      type: not
-      not:
-        type: is-sneaking
-    then:
-    - type: strip-block
-      radius: 1
+    - type: if
+      if:
+        type: not
+        not:
+          type: is-sneaking
+      then:
+        - type: strip-block
+          radius: 1

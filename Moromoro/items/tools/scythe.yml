@@ -1,58 +1,52 @@
 version: 2
-
 name: "&x&2&d&7&a&5&3Scythe"
 material: SHEARS
 custom-model-data: 1
 model: "blanktopia:rares/scythe"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-  
-  &fShears in a &b5x5x5&f area.
-
+lore:
+  - ''
+  - '&fShears in a &b5x5x5&f area.'
 enchantments:
   efficiency: 6
   sharpness: 5
   silk_touch: 1
-
 attributes:
-- amount: 5
-  attribute: generic.attack_damage
-  name: Tool modifier
-  operation: ADD_NUMBER
-  slot: HAND
-  uuid: 61f83826-cf9e-4239-8b80-dac5367e7507
-- amount: -1.5
-  attribute: generic.attack_speed
-  name: Tool modifier
-  operation: ADD_NUMBER
-  slot: HAND
-  uuid: ba636a2c-fa57-4280-a04b-2fae123f4398
-
+  - amount: 5
+    attribute: generic.attack_damage
+    name: Tool modifier
+    operation: ADD_NUMBER
+    slot: HAND
+    uuid: 61f83826-cf9e-4239-8b80-dac5367e7507
+  - amount: -1.5
+    attribute: generic.attack_speed
+    name: Tool modifier
+    operation: ADD_NUMBER
+    slot: HAND
+    uuid: ba636a2c-fa57-4280-a04b-2fae123f4398
 triggers:
   break-block:
-  - type: if
-    if:
-      type: not
-      not:
-        type: is-sneaking
-    then:
-    - type: break-block
-      radius: 2
-      depth: 2
+    - type: if
+      if:
+        type: not
+        not:
+          type: is-sneaking
+      then:
+        - type: break-block
+          radius: 2
+          depth: 2
   right-click-block:
-  - type: if
-    if:
-      type: not
-      not:
-        type: is-sneaking
-    then:
-    - type: till-block
-      radius: 2
-      depth: 2
-    else:
-    - type: till-block
+    - type: if
+      if:
+        type: not
+        not:
+          type: is-sneaking
+      then:
+        - type: till-block
+          radius: 2
+          depth: 2
+      else:
+        - type: till-block

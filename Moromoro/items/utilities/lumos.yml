@@ -1,54 +1,49 @@
 version: 1
-
 name: "&#fffcdb-#ffc272&Lumos"
 material: WOODEN_HOE
 custom-model-data: 1000
 model: "blanktopia:rares/lumos"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bRight-click&f to place an
-  &finvisible light source.
-  &bLeft-click&f to remove nearby
-  &flights.
-
+lore:
+  - ''
+  - '&bRight-click&f to place an'
+  - '&finvisible light source.'
+  - '&bLeft-click&f to remove nearby'
+  - '&flights.'
 enchantments:
   infinity: 1
-
 triggers:
   right-click:
-  - type: if
-    if:
-      type: item-cooldown
-    then:
     - type: if
       if:
-        type: raycast
-        range: 20
-        actions:
-        - type: light
+        type: item-cooldown
       then:
-      - type: item-cooldown
-        ticks: 5
-  - type: cancel
+        - type: if
+          if:
+            type: raycast
+            range: 20
+            actions:
+              - type: light
+          then:
+            - type: item-cooldown
+              ticks: 5
+    - type: cancel
   left-click:
-  - type: if
-    if:
-      type: item-cooldown
-    then:
     - type: if
       if:
-        type: raycast
-        range: 20
-        actions:
-        - type: remove-light
-          range: 3
+        type: item-cooldown
       then:
-      - type: item-cooldown
-        ticks: 5
-  - type: cancel
+        - type: if
+          if:
+            type: raycast
+            range: 20
+            actions:
+              - type: remove-light
+                range: 3
+          then:
+            - type: item-cooldown
+              ticks: 5
+    - type: cancel

@@ -1,40 +1,35 @@
 version: 2
-
 name: "&6Excavator&c ⛏"
 material: IRON_SHOVEL
 custom-model-data: 1
 model: "blanktopia:rares/excavator"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-  
-  &fShovels in a &b3x3&f area.
-
+lore:
+  - ''
+  - '&fShovels in a &b3x3&f area.'
 enchantments:
   efficiency: 6
   silk_touch: 1
-
 triggers:
   break-block:
-  - type: if
-    if:
-      type: not
-      not:
-        type: is-sneaking
-    then:
-    - type: break-block
-      radius: 1
+    - type: if
+      if:
+        type: not
+        not:
+          type: is-sneaking
+      then:
+        - type: break-block
+          radius: 1
   right-click-block:
-  - type: if
-    if:
-      type: not
-      not:
-        type: is-sneaking
-    then:
-    - type: path-block
-      radius: 1
-      depth: 1
+    - type: if
+      if:
+        type: not
+        not:
+          type: is-sneaking
+      then:
+        - type: path-block
+          radius: 1
+          depth: 1

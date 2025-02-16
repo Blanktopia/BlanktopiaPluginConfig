@@ -1,22 +1,18 @@
 version: 3
-
 name: '&#8db360-#056621&Biome Wand'
 material: WOODEN_HOE
 custom-model-data: 1
 model: "blanktopia:rares/biome_wand"
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &bLeft-click&f to select a
-  &fbiome.
-  &bRight-click&f to turn an area
-  &finto the selected biome.
-
+lore:
+  - ''
+  - '&bLeft-click&f to select a'
+  - '&fbiome.'
+  - '&bRight-click&f to turn an area'
+  - '&finto the selected biome.'
 triggers:
   right-click:
     - type: if
@@ -24,11 +20,11 @@ triggers:
         type: raycast
         range: 20
         actions:
-        - type: biome-wand
-          range: 3
+          - type: biome-wand
+            range: 3
       then:
-      - type: item-cooldown
-        ticks: 5
+        - type: item-cooldown
+          ticks: 5
     - type: cancel
   left-click:
     - type: biome-wand-pick

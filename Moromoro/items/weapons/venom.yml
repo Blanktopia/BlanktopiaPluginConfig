@@ -1,44 +1,36 @@
 version: 3
-
 name: "&#5b577f-#4a217c&Venom"
 material: NETHERITE_SWORD
 custom-model-data: 1
-
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
-lore: |-
-  &7Poison Immunity
-
-  &fUnleashs poisonous fangs.
-
+lore:
+  - '&7Poison Immunity'
+  - ''
+  - '&fUnleashs poisonous fangs.'
 enchantments:
   sharpness: 7
   sweeping_edge: 3
   looting: 4
   blanktopia:sting: 3
-
 slots: [HAND, OFF_HAND]
-
 triggers:
   damaged:
-  - type: immunity
-    causes: [POISON]
-
+    - type: immunity
+      causes: [POISON]
   left-click-block:
-  - type: if
-    if:
-      type: attack-cooldown
-    then:
-    - type: evoker-fang
-      location:
-        type: block
-
+    - type: if
+      if:
+        type: attack-cooldown
+      then:
+        - type: evoker-fang
+          location:
+            type: block
   damage-entity:
-  - type: if
-    if:
-      type: attack-cooldown
-    then:
-    - type: evoker-fang
+    - type: if
+      if:
+        type: attack-cooldown
+      then:
+        - type: evoker-fang

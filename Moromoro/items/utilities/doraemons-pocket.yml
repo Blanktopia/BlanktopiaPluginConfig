@@ -1,36 +1,33 @@
 alias: pokeball
 name: "&9Doraemon's Pocket"
 material: ENDER_CHEST
-
-lore: |-
-
-  &bRight-click&f from your
-  &finventory to access your
-  &fender chest.
-
+lore:
+  - ''
+  - '&bRight-click&f from your'
+  - '&finventory to access your'
+  - '&fender chest.'
 soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
-
 triggers:
   place-block:
-  - type: cancel
+    - type: cancel
   drop:
-  - type: cancel
+    - type: cancel
   right-click:
-  - type: sudo-command
-    command: enderchest
-    permissions:
-    - essentials.enderchest
-  - type: play-sound
-    sound: block.ender_chest.open
-  - type: cancel
+    - type: sudo-command
+      command: enderchest
+      permissions:
+        - essentials.enderchest
+    - type: play-sound
+      sound: block.ender_chest.open
+    - type: cancel
   right-click-inventory:
-  - type: sudo-command
-    command: enderchest
-    permissions:
-    - essentials.enderchest
-  - type: play-sound
-    sound: block.ender_chest.open
-  - type: cancel
+    - type: sudo-command
+      command: enderchest
+      permissions:
+        - essentials.enderchest
+    - type: play-sound
+      sound: block.ender_chest.open
+    - type: cancel

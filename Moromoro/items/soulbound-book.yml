@@ -1,11 +1,9 @@
 name: "&eSoulbound Tome"
 material: ENCHANTED_BOOK
-
 soulbound: true
-
-lore: |-
-
-  &fCombine with any item on an anvil to imbue
-  &fit with &7Soulbound&f.
-  
-  &fSoulbound items stay with you when you die.
+lore:
+  - ''
+  - '&fCombine with any item on an anvil to imbue'
+  - '&fit with &7Soulbound&f.'
+  - ''
+  - '&fSoulbound items stay with you when you die.'

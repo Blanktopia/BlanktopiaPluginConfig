@@ -1,100 +1,89 @@
 name: "Mjolnir"
 material: TRIDENT
 custom-model-data: 1
-
 unique: true
-
-lore: |-
-  &7Lightning Immunity
-  &8-------------------------
-
-  &fPress &bShift&f while attacking to
-  &fcall down lightning!
-
-  &8-------------------------
-  &6COMBAT Crate Item
-
+lore:
+  - '&7Lightning Immunity'
+  - '&8-------------------------'
+  - ''
+  - '&fPress &bShift&f while attacking to'
+  - '&fcall down lightning!'
+  - ''
+  - '&8-------------------------'
+  - '&6COMBAT Crate Item'
 unbreakable: true
-
 enchantments:
   impaling: 5
   loyalty: 10
   blanktopia:final: 1
   blanktopia:soulbound: 1
-
 attributes:
-- amount: 11
-  attribute: generic.attack_damage
-  name: Tool modifier
-  operation: ADD_NUMBER
-  slot: HAND
-  uuid: 61f83826-cf9e-4239-8b80-dac5367e7507
-- amount: -2.4
-  attribute: generic.attack_speed
-  name: Tool modifier
-  operation: ADD_NUMBER
-  slot: HAND
-  uuid: ba636a2c-fa57-4280-a04b-2fae123f4398
-
+  - amount: 11
+    attribute: generic.attack_damage
+    name: Tool modifier
+    operation: ADD_NUMBER
+    slot: HAND
+    uuid: 61f83826-cf9e-4239-8b80-dac5367e7507
+  - amount: -2.4
+    attribute: generic.attack_speed
+    name: Tool modifier
+    operation: ADD_NUMBER
+    slot: HAND
+    uuid: ba636a2c-fa57-4280-a04b-2fae123f4398
 slots: [HAND, OFF_HAND]
-
 triggers:
   damaged:
-  - type: immunity
-    causes: [LIGHTNING]
-
+    - type: immunity
+      causes: [LIGHTNING]
   left-click-block:
-  - type: if
-    if:
-      type: all
-      actions:
-      - type: is-sneaking
-      - type: item-cooldown
-      - type: consume-hunger
-        amount: 1
-    then:
-    - type: lightning
-      location:
-        type: block
-    - type: item-cooldown
-      ticks: 30
-
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: is-sneaking
+          - type: item-cooldown
+          - type: consume-hunger
+            amount: 1
+      then:
+        - type: lightning
+          location:
+            type: block
+        - type: item-cooldown
+          ticks: 30
   damage-entity:
-  - type: if
-    if:
-      type: all
-      actions:
-      - type: is-sneaking
-      - type: item-cooldown
-      - type: consume-hunger
-        amount: 1
-    then:
-    - type: lightning
-      location:
-        type: entity
-    - type: item-cooldown
-      ticks: 30
-
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: is-sneaking
+          - type: item-cooldown
+          - type: consume-hunger
+            amount: 1
+      then:
+        - type: lightning
+          location:
+            type: entity
+        - type: item-cooldown
+          ticks: 30
   projectile-launch:
-  - type: if
-    if:
-      type: all
-      actions:
-      - type: is-sneaking
-      - type: consume-hunger
-        amount: 1
-    then:
-    - type: mark-projectile
-      marker: mjolnir
-
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: is-sneaking
+          - type: consume-hunger
+            amount: 1
+      then:
+        - type: mark-projectile
+          marker: mjolnir
   projectile-hit:
-  - type: if
-    if:
-      type: projectile-has-marker
-      marker: mjolnir
-    then:
-    - type: lightning
-      location:
-        type: projectile
-    - type: item-cooldown
-      ticks: 30
+    - type: if
+      if:
+        type: projectile-has-marker
+        marker: mjolnir
+      then:
+        - type: lightning
+          location:
+            type: projectile
+        - type: item-cooldown
+          ticks: 30

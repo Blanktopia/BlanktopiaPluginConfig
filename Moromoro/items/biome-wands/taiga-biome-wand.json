@@ -5,7 +5,15 @@
       "blanktopia:final": 1,
       "blanktopia:soulbound": 1
    },
-   "lore": "&8-------------------------\n\n&bRight-click&f to turn an area\n&finto a &x&0&B&6&6&5&9Taiga&f biome.\n\n&8-------------------------\n&6NATURE Crate Item",
+   "lore": [
+      "&8-------------------------",
+      "",
+      "&bRight-click&f to turn an area",
+      "&finto a &x&0&B&6&6&5&9Taiga&f biome.",
+      "",
+      "&8-------------------------",
+      "&6NATURE Crate Item"
+   ],
    "material": "WOODEN_HOE",
    "name": "&x&0&B&6&6&5&9Taiga Biome Wand",
    "triggers": {

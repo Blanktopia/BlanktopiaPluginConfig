@@ -2,7 +2,7 @@ name: "Cat Ears"
 material: LEATHER_HORSE_ARMOR
 custom-model-data: 2002
 model: "blanktopia:hats/cat_ears"
-lore: "&7Dyeable"
-
+lore:
+  - '&7Dyeable'
 color: "BLACK"
 dyeable: true

@@ -1,9 +1,6 @@
 version: 1
-
 material: ARROW
-
 soulbound: true
-
-lore: |-
-  
-  &fSoulbound items stay with you when you die.
+lore:
+  - ''
+  - '&fSoulbound items stay with you when you die.'

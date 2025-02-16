@@ -1,11 +1,8 @@
 version: 1
-
 name: "&rBeginner's Sword"
 material: WOODEN_SWORD
-
 soulbound: true
 unenchantable: true
-
-lore: |-
-  
-  &fSoulbound items stay with you when you die.
+lore:
+  - ''
+  - '&fSoulbound items stay with you when you die.'

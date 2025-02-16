@@ -1,87 +1,82 @@
 version: 2
-
 name: "&#f4cf8b-#f79859&Boots of Haste"
 material: LEATHER
 custom-model-data: 5
 model: "blanktopia:rares/boots_of_haste"
-
 soulbound: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &fAllows you to &bsprint&f faster.
-
-  &7Slot: &#ff4e1d&Trinket
-
+lore:
+  - ''
+  - '&fAllows you to &bsprint&f faster.'
+  - ''
+  - '&7Slot: &#ff4e1d&Trinket'
 slots:
-- TRINKET
-
+  - TRINKET
 triggers:
   tick-slow:
-  - type: if
-    if:
-      type: all
-      actions:
-      - type: is-on-ground
-      - type: is-sprinting
-    then:
-    - type: spawn-particle
-      count: 2
-      y: 0.9
-      offset-x: 0.3
-      offset-y: 0.1
-      offset-z: 0.3
-      particle: CLOUD
-      extra: 0
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: is-on-ground
+          - type: is-sprinting
+      then:
+        - type: spawn-particle
+          count: 2
+          y: 0.9
+          offset-x: 0.3
+          offset-y: 0.1
+          offset-z: 0.3
+          particle: CLOUD
+          extra: 0
   sprint:
-  - type: if
-    if:
-      type: all
-      actions:
-      - type: is-on-ground
-      - type: not
-        not:
-          type: is-sneaking
-    then:
-    - type: add-attribute-modifier
-      attribute-modifiers:
-      - attribute: generic.movement_speed
-        uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
-        name: Boots of Haste
-        amount: 0.5
-        operation: ADD_SCALAR
-    - type: add-velocity
-      x: 0
-      y: 0
-      z: 0.7
-      max: 1
-    - type: repeat
-      count: 3
-      interval: 3
-      actions:
-      - type: spawn-particle
-        count: 2
-        y: 0.9
-        offset-x: 0.3
-        offset-y: 0.1
-        offset-z: 0.3
-        particle: CLOUD
-        extra: 0
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: is-on-ground
+          - type: not
+            not:
+              type: is-sneaking
+      then:
+        - type: add-attribute-modifier
+          attribute-modifiers:
+            - attribute: generic.movement_speed
+              uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
+              name: Boots of Haste
+              amount: 0.5
+              operation: ADD_SCALAR
+        - type: add-velocity
+          x: 0
+          y: 0
+          z: 0.7
+          max: 1
+        - type: repeat
+          count: 3
+          interval: 3
+          actions:
+            - type: spawn-particle
+              count: 2
+              y: 0.9
+              offset-x: 0.3
+              offset-y: 0.1
+              offset-z: 0.3
+              particle: CLOUD
+              extra: 0
   unsprint:
-  - type: remove-attribute-modifier
-    attribute-modifiers:
-    - attribute: generic.movement_speed
-      uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
-      name: Boots of Haste
-      amount: 0.5
-      operation: ADD_SCALAR
+    - type: remove-attribute-modifier
+      attribute-modifiers:
+        - attribute: generic.movement_speed
+          uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
+          name: Boots of Haste
+          amount: 0.5
+          operation: ADD_SCALAR
   sneak:
-  - type: remove-attribute-modifier
-    attribute-modifiers:
-    - attribute: generic.movement_speed
-      uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
-      name: Boots of Haste
-      amount: 0.5
-      operation: ADD_SCALAR
+    - type: remove-attribute-modifier
+      attribute-modifiers:
+        - attribute: generic.movement_speed
+          uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
+          name: Boots of Haste
+          amount: 0.5
+          operation: ADD_SCALAR

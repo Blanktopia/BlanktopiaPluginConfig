@@ -4,12 +4,14 @@ local crateCoupon(name, crate) = {
   'custom-model-data': 4,
   model: 'blanktopia:misc/key_coupon',
 
-  lore: '&8-------------------------
-
-&bRight-click&f to give all online
-&fplayers a [' + name + ' Crate Key](gold).
-
-&8-------------------------',
+  lore: [
+    '&8-------------------------',
+    '',
+    '&bRight-click&f to give all online',
+    '&fplayers a [' + name + ' Crate Key](gold).',
+    '',
+    '&8-------------------------',
+  ],
 
   enchantments: {
     "blanktopia:final": 1,

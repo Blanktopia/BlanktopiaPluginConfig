@@ -1,31 +1,26 @@
 version: 1
-
 name: "&#44c94f-#1b9125&Climbing Gloves"
 material: LEATHER
 custom-model-data: 4
 model: "blanktopia:rares/climbing_gloves"
-
 soulbound: true
 unenchantable: true
 unique: true
-
-lore: |-
-
-  &fAllows you to jump off walls
-  &fby pressing &bsneak&f when
-  &fagainst a wall.
-  
-  &7Slot: &#ff4e1d&Trinket
-
+lore:
+  - ''
+  - '&fAllows you to jump off walls'
+  - '&fby pressing &bsneak&f when'
+  - '&fagainst a wall.'
+  - ''
+  - '&7Slot: &#ff4e1d&Trinket'
 slots:
-- TRINKET
-
+  - TRINKET
 triggers:
   equip-armor:
-  - type: add-permission
-    permissions:
-    - walljump.use
+    - type: add-permission
+      permissions:
+        - walljump.use
   unequip-armor:
-  - type: remove-permission
-    permissions:
-    - walljump.use
+    - type: remove-permission
+      permissions:
+        - walljump.use
