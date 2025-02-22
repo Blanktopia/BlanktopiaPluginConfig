@@ -1,5 +1,5 @@
 name: Mortar Plate
-material: PAPER
+item: paper
 custom-model-data: 6132
 model: 'cocricotmod:block/mortar_plate'
 

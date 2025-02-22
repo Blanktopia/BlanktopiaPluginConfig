@@ -1,5 +1,5 @@
 name: Coffee Cups Table
-material: PAPER
+item: paper
 custom-model-data: 3136
 model: 'cocricotmod:block/coffee_cups_table'
 

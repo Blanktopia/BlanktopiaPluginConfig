@@ -1,0 +1,4 @@
+name: "Corsair"
+item: leather_horse_armor
+custom-model-data: 2017
+model: "littleroom_deadbeard:item/corsair"

@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Seadrift Single
-material: PAPER
+item: paper
 custom-model-data: 8472
 model: 'cocricotmod:block/wallshelf_bracket_seadrift_single'
 

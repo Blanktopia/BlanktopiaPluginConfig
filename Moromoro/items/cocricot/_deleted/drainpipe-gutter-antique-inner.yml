@@ -1,5 +1,5 @@
 name: Drainpipe Gutter Antique Inner
-material: PAPER
+item: paper
 custom-model-data: 4513
 model: 'cocricotmod:block/drainpipe_gutter_antique_inner'
 

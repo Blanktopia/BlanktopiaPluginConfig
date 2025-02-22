@@ -1,5 +1,5 @@
 name: Door  1glass Natural Top
-material: PAPER
+item: paper
 custom-model-data: 3548
 model: 'cocricotmod:block/door_1glass_natural_top'
 

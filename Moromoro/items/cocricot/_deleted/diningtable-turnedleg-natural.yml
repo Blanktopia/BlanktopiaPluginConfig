@@ -1,5 +1,5 @@
 name: Diningtable Turnedleg Natural
-material: PAPER
+item: paper
 custom-model-data: 3478
 model: 'cocricotmod:block/diningtable_turnedleg_natural'
 

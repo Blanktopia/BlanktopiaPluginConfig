@@ -1,5 +1,5 @@
 name: Bed Mattress Blue
-material: PAPER
+item: paper
 custom-model-data: 2408
 model: cocricotmod:block/bed_mattress_blue
 block:

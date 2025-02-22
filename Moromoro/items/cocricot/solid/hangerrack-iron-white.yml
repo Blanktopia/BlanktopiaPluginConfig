@@ -1,5 +1,5 @@
 name: Hangerrack Iron White
-material: PAPER
+item: paper
 custom-model-data: 5773
 model: cocricotmod:block/hangerrack_iron_white
 block:

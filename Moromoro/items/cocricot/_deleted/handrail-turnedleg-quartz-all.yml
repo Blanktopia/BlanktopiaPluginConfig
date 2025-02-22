@@ -1,5 +1,5 @@
 name: Handrail Turnedleg Quartz All
-material: PAPER
+item: paper
 custom-model-data: 5564
 model: 'cocricotmod:block/handrail_turnedleg_quartz_all'
 

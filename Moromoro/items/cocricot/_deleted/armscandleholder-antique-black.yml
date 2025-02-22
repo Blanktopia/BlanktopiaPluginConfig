@@ -1,5 +1,5 @@
 name: Armscandleholder Antique Black
-material: PAPER
+item: paper
 custom-model-data: 2001
 model: 'cocricotmod:block/armscandleholder_antique_black'
 

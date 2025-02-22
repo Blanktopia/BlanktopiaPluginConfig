@@ -1,5 +1,5 @@
 name: Base Vslab Topside
-material: PAPER
+item: paper
 custom-model-data: 2357
 model: 'cocricotmod:block/base_vslab_topside'
 

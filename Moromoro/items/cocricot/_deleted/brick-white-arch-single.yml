@@ -1,5 +1,5 @@
 name: Brick White Arch Single
-material: PAPER
+item: paper
 custom-model-data: 2743
 model: 'cocricotmod:block/brick_white_arch_single'
 

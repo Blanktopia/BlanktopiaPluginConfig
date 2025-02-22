@@ -1,5 +1,5 @@
 name: Wallbar Fryingpan
-material: PAPER
+item: paper
 custom-model-data: 8351
 model: 'cocricotmod:block/wallbar_fryingpan'
 

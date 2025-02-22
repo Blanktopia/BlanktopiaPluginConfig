@@ -1,5 +1,5 @@
 name: Trunk Oak
-material: PAPER
+item: paper
 custom-model-data: 8334
 model: 'cocricotmod:block/trunk_oak'
 

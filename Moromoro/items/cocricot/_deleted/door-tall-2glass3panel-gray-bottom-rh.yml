@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel Gray Bottom Rh
-material: PAPER
+item: paper
 custom-model-data: 3946
 model: 'cocricotmod:block/door_tall_2glass3panel_gray_bottom_rh'
 

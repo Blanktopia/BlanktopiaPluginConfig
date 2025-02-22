@@ -1,5 +1,5 @@
 name: Lantern Iron Black
-material: PAPER
+item: paper
 custom-model-data: 5906
 model: 'cocricotmod:block/lantern_iron_black'
 

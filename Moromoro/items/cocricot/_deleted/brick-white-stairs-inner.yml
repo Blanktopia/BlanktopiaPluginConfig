@@ -1,5 +1,5 @@
 name: Brick White Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 2749
 model: 'cocricotmod:block/brick_white_stairs_inner'
 

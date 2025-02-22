@@ -1,5 +1,5 @@
 name: Roof Tile Gray
-material: PAPER
+item: paper
 custom-model-data: 6814
 model: 'cocricotmod:block/roof_tile_gray'
 

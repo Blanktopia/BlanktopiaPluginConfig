@@ -1,5 +1,5 @@
 name: Awning Lightgreen Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 2086
 model: 'cocricotmod:block/awning_lightgreen_stairs_outer'
 

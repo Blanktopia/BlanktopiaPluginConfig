@@ -1,5 +1,5 @@
 name: Gardenbench Natural Both
-material: PAPER
+item: paper
 custom-model-data: 4972
 model: cocricotmod:block/gardenbench_natural_both
 block:

@@ -1,5 +1,5 @@
 name: Stucco Blue Rod
-material: PAPER
+item: paper
 custom-model-data: 8024
 model: 'cocricotmod:block/stucco_blue_rod'
 

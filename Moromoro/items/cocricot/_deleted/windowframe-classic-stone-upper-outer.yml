@@ -1,5 +1,5 @@
 name: Windowframe Classic Stone Upper Outer
-material: PAPER
+item: paper
 custom-model-data: 9127
 model: 'cocricotmod:block/windowframe_classic_stone_upper_outer'
 

@@ -1,5 +1,5 @@
 name: Awning Lightpurple Upper
-material: PAPER
+item: paper
 custom-model-data: 2098
 model: 'cocricotmod:block/awning_lightpurple_upper'
 

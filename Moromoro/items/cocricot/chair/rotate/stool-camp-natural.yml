@@ -1,5 +1,5 @@
 name: Stool Camp Natural
-material: PAPER
+item: paper
 custom-model-data: 7998
 model: cocricotmod:block/stool_camp_natural
 block:

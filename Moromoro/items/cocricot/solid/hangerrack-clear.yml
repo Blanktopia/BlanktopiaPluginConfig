@@ -1,5 +1,5 @@
 name: Hangerrack Clear
-material: PAPER
+item: paper
 custom-model-data: 5767
 model: cocricotmod:block/hangerrack_clear
 block:

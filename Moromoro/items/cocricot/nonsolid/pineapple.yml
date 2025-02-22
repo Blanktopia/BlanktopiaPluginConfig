@@ -1,5 +1,5 @@
 name: Pineapple
-material: PAPER
+item: paper
 custom-model-data: 6259
 model: 'cocricotmod:block/pineapple'
 

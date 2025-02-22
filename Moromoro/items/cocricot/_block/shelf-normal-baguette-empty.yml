@@ -1,5 +1,5 @@
 name: Shelf Normal Baguette Empty
-material: PAPER
+item: paper
 custom-model-data: 7156
 model: 'cocricotmod:block/shelf_normal_baguette_empty'
 

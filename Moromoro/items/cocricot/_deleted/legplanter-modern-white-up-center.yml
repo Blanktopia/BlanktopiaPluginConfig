@@ -1,5 +1,5 @@
 name: Legplanter Modern White Up Center
-material: PAPER
+item: paper
 custom-model-data: 6006
 model: 'cocricotmod:block/legplanter_modern_white_up_center'
 

@@ -1,5 +1,5 @@
 name: Window Color Lightgray Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8740
 model: 'cocricotmod:block/window_color_lightgray_pane_side'
 

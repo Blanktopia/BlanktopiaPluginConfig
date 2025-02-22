@@ -1,5 +1,5 @@
 name: Ceilingspotlight Rail White
-material: PAPER
+item: paper
 custom-model-data: 2950
 model: 'cocricotmod:block/ceilingspotlight_rail_white'
 

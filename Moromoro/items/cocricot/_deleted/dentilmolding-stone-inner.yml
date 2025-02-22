@@ -1,5 +1,5 @@
 name: Dentilmolding Stone Inner
-material: PAPER
+item: paper
 custom-model-data: 3415
 model: 'cocricotmod:block/dentilmolding_stone_inner'
 

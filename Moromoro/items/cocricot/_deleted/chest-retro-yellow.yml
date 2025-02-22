@@ -1,5 +1,5 @@
 name: Chest Retro Yellow
-material: PAPER
+item: paper
 custom-model-data: 3087
 model: 'cocricotmod:block/chest_retro_yellow'
 

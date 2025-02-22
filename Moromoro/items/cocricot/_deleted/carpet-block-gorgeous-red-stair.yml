@@ -1,5 +1,5 @@
 name: Carpet Block Gorgeous Red Stair
-material: PAPER
+item: paper
 custom-model-data: 2916
 model: 'cocricotmod:block/carpet_block_gorgeous_red_stair'
 

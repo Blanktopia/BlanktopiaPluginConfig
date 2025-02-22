@@ -1,5 +1,5 @@
 name: Roundtable Paris White
-material: PAPER
+item: paper
 custom-model-data: 6897
 model: cocricotmod:block/roundtable_paris_white
 block:

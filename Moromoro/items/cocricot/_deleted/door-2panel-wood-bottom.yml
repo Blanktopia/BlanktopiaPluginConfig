@@ -1,5 +1,5 @@
 name: Door  2panel Wood Bottom
-material: PAPER
+item: paper
 custom-model-data: 3672
 model: 'cocricotmod:block/door_2panel_wood_bottom'
 

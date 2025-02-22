@@ -1,5 +1,5 @@
 name: Speaker Brown
-material: PAPER
+item: paper
 custom-model-data: 7533
 model: cocricotmod:block/speaker_brown
 block:

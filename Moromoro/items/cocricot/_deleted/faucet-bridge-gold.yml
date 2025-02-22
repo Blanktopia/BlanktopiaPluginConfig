@@ -1,5 +1,5 @@
 name: Faucet Bridge Gold
-material: PAPER
+item: paper
 custom-model-data: 4683
 model: 'cocricotmod:block/faucet_bridge_gold'
 

@@ -1,5 +1,5 @@
 name: Bathtub Clawfoot White
-material: PAPER
+item: paper
 custom-model-data: 2385
 model: cocricotmod:block/bathtub_clawfoot_white
 block:

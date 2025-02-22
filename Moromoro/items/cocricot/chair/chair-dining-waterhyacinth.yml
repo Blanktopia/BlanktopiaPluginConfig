@@ -1,5 +1,5 @@
 name: Chair Dining Waterhyacinth
-material: PAPER
+item: paper
 custom-model-data: 3015
 model: cocricotmod:block/chair_dining_waterhyacinth
 block:

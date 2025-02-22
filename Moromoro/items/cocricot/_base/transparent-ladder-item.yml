@@ -1,5 +1,5 @@
 name: Transparent Ladder Item
-material: PAPER
+item: paper
 custom-model-data: 8325
 model: 'cocricotmod:block/transparent_ladder_item'
 

@@ -1,5 +1,5 @@
 name: Roof Copper Lightblue Incline
-material: PAPER
+item: paper
 custom-model-data: 6477
 model: 'cocricotmod:block/roof_copper_lightblue_incline'
 

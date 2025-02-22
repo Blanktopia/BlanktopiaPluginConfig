@@ -1,5 +1,5 @@
 name: Sink Color Lightblue
-material: PAPER
+item: paper
 custom-model-data: 7306
 model: cocricotmod:block/sink_color_lightblue
 block:

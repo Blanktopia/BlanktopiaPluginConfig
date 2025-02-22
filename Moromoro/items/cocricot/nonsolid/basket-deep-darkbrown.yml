@@ -1,5 +1,5 @@
 name: Basket Deep Darkbrown
-material: PAPER
+item: paper
 custom-model-data: 2364
 model: 'cocricotmod:block/basket_deep_darkbrown'
 

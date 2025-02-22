@@ -1,5 +1,5 @@
 name: Bed Canopy Round Lace Upper
-material: PAPER
+item: paper
 custom-model-data: 2390
 model: 'cocricotmod:block/bed_canopy_round_lace_upper'
 

@@ -1,5 +1,5 @@
 name: Pendantlight Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 6212
 model: 'cocricotmod:block/pendantlight_mintgreen'
 

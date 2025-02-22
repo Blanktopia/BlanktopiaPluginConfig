@@ -1,5 +1,5 @@
 name: Awning Stripe Darkbrown Stairs
-material: PAPER
+item: paper
 custom-model-data: 2164
 model: 'cocricotmod:block/awning_stripe_darkbrown_stairs'
 

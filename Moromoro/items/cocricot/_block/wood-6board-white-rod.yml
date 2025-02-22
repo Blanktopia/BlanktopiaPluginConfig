@@ -1,5 +1,5 @@
 name: Wood  6board White Rod
-material: PAPER
+item: paper
 custom-model-data: 9654
 model: 'cocricotmod:block/wood_6board_white_rod'
 

@@ -1,5 +1,5 @@
 name: Wood Wrapsiding Lightyellow Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 9901
 model: 'cocricotmod:block/wood_wrapsiding_lightyellow_whiteframe'
 

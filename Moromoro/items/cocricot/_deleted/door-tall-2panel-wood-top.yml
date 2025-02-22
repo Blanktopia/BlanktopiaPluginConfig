@@ -1,5 +1,5 @@
 name: Door Tall  2panel Wood Top
-material: PAPER
+item: paper
 custom-model-data: 4164
 model: 'cocricotmod:block/door_tall_2panel_wood_top'
 

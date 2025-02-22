@@ -1,5 +1,5 @@
 name: Counterstool Industrial Natural False
-material: PAPER
+item: paper
 custom-model-data: 3221
 model: 'cocricotmod:block/counterstool_industrial_natural_false'
 

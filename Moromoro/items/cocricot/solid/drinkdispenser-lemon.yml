@@ -1,5 +1,5 @@
 name: Drinkdispenser Lemon
-material: PAPER
+item: paper
 custom-model-data: 4648
 model: cocricotmod:block/drinkdispenser_lemon
 block:

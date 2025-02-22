@@ -1,5 +1,5 @@
 name: Roof Claytile Brown Vslab
-material: PAPER
+item: paper
 custom-model-data: 6405
 model: 'cocricotmod:block/roof_claytile_brown_vslab'
 

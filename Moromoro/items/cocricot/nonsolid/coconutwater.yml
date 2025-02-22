@@ -1,5 +1,5 @@
 name: Coconutwater
-material: PAPER
+item: paper
 custom-model-data: 3128
 model: 'cocricotmod:block/coconutwater'
 

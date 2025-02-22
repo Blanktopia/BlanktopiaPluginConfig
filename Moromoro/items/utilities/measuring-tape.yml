@@ -1,6 +1,6 @@
 version: 2
 name: "<transition:#6bffb5:#6bfff7>Measuring Tape"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1004
 model: "blanktopia:rares/measuring_tape"
 soulbound: true

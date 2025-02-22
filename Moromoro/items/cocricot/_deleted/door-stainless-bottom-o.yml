@@ -1,5 +1,5 @@
 name: Door Stainless Bottom O
-material: PAPER
+item: paper
 custom-model-data: 3865
 model: 'cocricotmod:block/door_stainless_bottom_o'
 

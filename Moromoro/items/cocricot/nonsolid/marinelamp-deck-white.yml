@@ -1,5 +1,5 @@
 name: Marinelamp Deck White
-material: PAPER
+item: paper
 custom-model-data: 6077
 model: 'cocricotmod:block/marinelamp_deck_white'
 

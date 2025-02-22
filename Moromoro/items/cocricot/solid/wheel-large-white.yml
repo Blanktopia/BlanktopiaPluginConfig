@@ -1,5 +1,5 @@
 name: Wheel Large White
-material: PAPER
+item: paper
 custom-model-data: 8541
 model: 'cocricotmod:block/wheel_large_white'
 

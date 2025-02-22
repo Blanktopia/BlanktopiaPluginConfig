@@ -1,4 +1,4 @@
 name: "Groucho Mask"
-material: LEATHER_HORSE_ARMOR
+item: leather_horse_armor
 custom-model-data: 2004
 model: "blanktopia:cosmetics/groucho_mask"

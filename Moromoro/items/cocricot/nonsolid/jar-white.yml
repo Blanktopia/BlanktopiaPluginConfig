@@ -1,5 +1,5 @@
 name: Jar White
-material: PAPER
+item: paper
 custom-model-data: 5873
 model: 'cocricotmod:block/jar_white'
 

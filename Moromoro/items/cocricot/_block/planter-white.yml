@@ -1,5 +1,5 @@
 name: Planter White
-material: PAPER
+item: paper
 custom-model-data: 6272
 model: 'cocricotmod:block/planter_white'
 

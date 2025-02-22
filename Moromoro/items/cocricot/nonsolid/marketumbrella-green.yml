@@ -1,5 +1,5 @@
 name: Marketumbrella Green
-material: PAPER
+item: paper
 custom-model-data: 6092
 model: 'cocricotmod:block/marketumbrella_green'
 

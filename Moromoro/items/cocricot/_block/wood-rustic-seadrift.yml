@@ -1,5 +1,5 @@
 name: Wood Rustic Seadrift
-material: PAPER
+item: paper
 custom-model-data: 9796
 model: 'cocricotmod:block/wood_rustic_seadrift'
 

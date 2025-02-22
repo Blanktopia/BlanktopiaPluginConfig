@@ -1,5 +1,5 @@
 name: Sofa Simple Gray Left
-material: PAPER
+item: paper
 custom-model-data: 7410
 model: cocricotmod:block/sofa_simple_gray_left
 block:

@@ -7,7 +7,7 @@
    },
    "custom-model-data": 1047,
    "dyeable": true,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/warped_beach_chair",
    "name": "<white>Warped Beach Chair"
 }

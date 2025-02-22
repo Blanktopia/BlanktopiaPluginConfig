@@ -1,5 +1,5 @@
 name: Box Hardpulp White
-material: PAPER
+item: paper
 custom-model-data: 2570
 model: cocricotmod:block/box_hardpulp_white
 block:

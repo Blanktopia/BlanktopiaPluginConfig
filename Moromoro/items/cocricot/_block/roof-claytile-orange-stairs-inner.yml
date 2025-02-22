@@ -1,5 +1,5 @@
 name: Roof Claytile Orange Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 6422
 model: 'cocricotmod:block/roof_claytile_orange_stairs_inner'
 

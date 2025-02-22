@@ -1,5 +1,5 @@
 name: Chain Thick Gold
-material: PAPER
+item: paper
 custom-model-data: 2975
 model: 'cocricotmod:block/chain_thick_gold'
 

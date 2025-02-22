@@ -1,5 +1,5 @@
 name: Wood Herringbone Brown Plate
-material: PAPER
+item: paper
 custom-model-data: 9722
 model: 'cocricotmod:block/wood_herringbone_brown_plate'
 

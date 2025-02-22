@@ -1,5 +1,5 @@
 name: Wood White Rod
-material: PAPER
+item: paper
 custom-model-data: 9868
 model: 'cocricotmod:block/wood_white_rod'
 

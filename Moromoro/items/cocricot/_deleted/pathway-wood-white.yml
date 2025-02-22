@@ -1,5 +1,5 @@
 name: Pathway Wood White
-material: PAPER
+item: paper
 custom-model-data: 6185
 model: 'cocricotmod:block/pathway_wood_white'
 

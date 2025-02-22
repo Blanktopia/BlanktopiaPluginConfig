@@ -5,7 +5,7 @@
       "type": "mushroom"
    },
    "custom-model-data": 1006,
-   "material": "PAPER",
+   "item": "paper",
    "model": "blanktopia:block/carrot_crate",
    "name": "<white>Carrot Crate"
 }

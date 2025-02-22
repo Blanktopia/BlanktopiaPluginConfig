@@ -1,5 +1,5 @@
 name: Glass Frame Clear Vshift
-material: PAPER
+item: paper
 custom-model-data: 5083
 model: 'cocricotmod:block/glass_frame_clear_vshift'
 

@@ -1,5 +1,5 @@
 name: Carpet Fringe Blue
-material: PAPER
+item: paper
 custom-model-data: 2918
 model: 'cocricotmod:block/carpet_fringe_blue'
 

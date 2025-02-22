@@ -1,5 +1,5 @@
 name: Garland Pop Side
-material: PAPER
+item: paper
 custom-model-data: 5033
 model: 'cocricotmod:block/garland_pop_side'
 

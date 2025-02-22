@@ -1,5 +1,5 @@
 name: Windowframe Classic Side Brown Left Fence
-material: PAPER
+item: paper
 custom-model-data: 9095
 model: 'cocricotmod:block/windowframe_classic_side_brown_left_fence'
 

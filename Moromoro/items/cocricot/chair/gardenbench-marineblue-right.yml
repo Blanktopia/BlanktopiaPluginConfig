@@ -1,5 +1,5 @@
 name: Gardenbench Marineblue Right
-material: PAPER
+item: paper
 custom-model-data: 4966
 model: cocricotmod:block/gardenbench_marineblue_right
 block:

@@ -1,5 +1,5 @@
 name: Window Color Red
-material: PAPER
+item: paper
 custom-model-data: 8771
 model: 'cocricotmod:block/window_color_red'
 

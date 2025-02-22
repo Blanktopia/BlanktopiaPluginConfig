@@ -1,5 +1,5 @@
 name: Cakestand Tart Red
-material: PAPER
+item: paper
 custom-model-data: 2847
 model: 'cocricotmod:block/cakestand_tart_red'
 

@@ -1,5 +1,5 @@
 name: Hangingrope Down
-material: PAPER
+item: paper
 custom-model-data: 5798
 model: 'cocricotmod:block/hangingrope_down'
 

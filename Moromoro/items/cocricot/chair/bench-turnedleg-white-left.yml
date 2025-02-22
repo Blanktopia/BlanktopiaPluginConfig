@@ -1,5 +1,5 @@
 name: Bench Turnedleg White Left
-material: PAPER
+item: paper
 custom-model-data: 2461
 model: cocricotmod:block/bench_turnedleg_white_left
 block:

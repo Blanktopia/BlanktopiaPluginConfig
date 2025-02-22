@@ -1,5 +1,5 @@
 name: Chair Iron Natural
-material: PAPER
+item: paper
 custom-model-data: 3034
 model: cocricotmod:block/chair_iron_natural
 block:

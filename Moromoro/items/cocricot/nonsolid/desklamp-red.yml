@@ -1,5 +1,5 @@
 name: Desklamp Red
-material: PAPER
+item: paper
 custom-model-data: 3437
 model: 'cocricotmod:block/desklamp_red'
 

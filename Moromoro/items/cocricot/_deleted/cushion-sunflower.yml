@@ -1,5 +1,5 @@
 name: Cushion Sunflower
-material: PAPER
+item: paper
 custom-model-data: 3363
 model: 'cocricotmod:block/cushion_sunflower'
 

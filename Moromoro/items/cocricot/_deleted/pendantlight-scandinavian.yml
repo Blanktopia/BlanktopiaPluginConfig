@@ -1,5 +1,5 @@
 name: Pendantlight Scandinavian
-material: PAPER
+item: paper
 custom-model-data: 6219
 model: 'cocricotmod:block/pendantlight_scandinavian'
 

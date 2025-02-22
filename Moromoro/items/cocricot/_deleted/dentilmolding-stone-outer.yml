@@ -1,5 +1,5 @@
 name: Dentilmolding Stone Outer
-material: PAPER
+item: paper
 custom-model-data: 3416
 model: 'cocricotmod:block/dentilmolding_stone_outer'
 

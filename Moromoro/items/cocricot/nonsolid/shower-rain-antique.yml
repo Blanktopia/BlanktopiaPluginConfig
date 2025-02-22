@@ -1,5 +1,5 @@
 name: Shower Rain Antique
-material: PAPER
+item: paper
 custom-model-data: 7235
 model: 'cocricotmod:block/shower_rain_antique'
 

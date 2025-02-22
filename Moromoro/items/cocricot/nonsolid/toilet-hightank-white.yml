@@ -1,5 +1,5 @@
 name: Toilet Hightank White
-material: PAPER
+item: paper
 custom-model-data: 8317
 model: 'cocricotmod:block/toilet_hightank_white'
 

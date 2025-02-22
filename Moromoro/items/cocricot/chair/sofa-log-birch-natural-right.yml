@@ -1,5 +1,5 @@
 name: Sofa Log Birch Natural Right
-material: PAPER
+item: paper
 custom-model-data: 7351
 model: cocricotmod:block/sofa_log_birch_natural_right
 block:

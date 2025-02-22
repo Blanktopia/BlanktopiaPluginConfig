@@ -1,5 +1,5 @@
 name: Door  4glass Seadrift Top
-material: PAPER
+item: paper
 custom-model-data: 3732
 model: 'cocricotmod:block/door_4glass_seadrift_top'
 

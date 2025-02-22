@@ -1,5 +1,5 @@
 name: Bookshelf Antique Seadrift Full
-material: PAPER
+item: paper
 custom-model-data: 2528
 model: 'cocricotmod:block/bookshelf_antique_seadrift_full'
 

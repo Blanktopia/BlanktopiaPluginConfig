@@ -1,5 +1,5 @@
 name: Industrialshadelamp Lightblue
-material: PAPER
+item: paper
 custom-model-data: 5839
 model: 'cocricotmod:block/industrialshadelamp_lightblue'
 

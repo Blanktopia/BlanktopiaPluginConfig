@@ -1,5 +1,5 @@
 name: Door  2panel Orange Top O
-material: PAPER
+item: paper
 custom-model-data: 3637
 model: 'cocricotmod:block/door_2panel_orange_top_o'
 

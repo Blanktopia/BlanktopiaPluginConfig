@@ -1,5 +1,5 @@
 name: Shutter
-material: PAPER
+item: paper
 custom-model-data: 7243
 model: 'cocricotmod:block/shutter'
 

@@ -1,6 +1,6 @@
 local instrument(name, model, customModelData) = {
   name: '<white>' + name,
-  material: 'WOODEN_HOE',
+  item: 'wooden_hoe',
   'custom-model-data': customModelData,
   model: model,
   block: {

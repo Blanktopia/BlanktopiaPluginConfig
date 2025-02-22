@@ -1,5 +1,5 @@
 name: Sofa Log Natural Single
-material: PAPER
+item: paper
 custom-model-data: 7362
 model: cocricotmod:block/sofa_log_natural_single
 block:

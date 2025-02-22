@@ -1,5 +1,5 @@
 name: Halftimber Brownlime Frame
-material: PAPER
+item: paper
 custom-model-data: 5236
 model: 'cocricotmod:block/halftimber_brownlime_frame'
 

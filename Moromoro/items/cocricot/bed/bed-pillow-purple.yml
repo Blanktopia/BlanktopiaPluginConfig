@@ -1,5 +1,5 @@
 name: Bed Pillow Purple
-material: PAPER
+item: paper
 custom-model-data: 2433
 model: 'cocricotmod:block/bed_pillow_purple'
 

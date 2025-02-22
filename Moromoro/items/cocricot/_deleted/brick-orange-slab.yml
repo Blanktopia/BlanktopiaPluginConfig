@@ -1,5 +1,5 @@
 name: Brick Orange Slab
-material: PAPER
+item: paper
 custom-model-data: 2680
 model: 'cocricotmod:block/brick_orange_slab'
 

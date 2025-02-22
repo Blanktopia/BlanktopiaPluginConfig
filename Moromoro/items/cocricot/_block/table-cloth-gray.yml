@@ -1,5 +1,5 @@
 name: Table Cloth Gray
-material: PAPER
+item: paper
 custom-model-data: 8166
 model: 'cocricotmod:block/table_cloth_gray'
 

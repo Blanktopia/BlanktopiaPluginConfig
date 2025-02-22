@@ -1,5 +1,5 @@
 name: Bread Woodtray 1
-material: PAPER
+item: paper
 custom-model-data: 2611
 model: 'cocricotmod:block/bread_woodtray1'
 

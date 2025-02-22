@@ -1,5 +1,5 @@
 name: Window Color Blue Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8703
 model: 'cocricotmod:block/window_color_blue_pane_both'
 

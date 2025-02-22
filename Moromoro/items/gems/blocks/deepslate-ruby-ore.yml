@@ -1,5 +1,5 @@
 name: "<white>Deepslate Ruby Ore"
-material: PAPER
+item: paper
 custom-model-data: 1015
 model: "blanktopia:block/deepslate_ruby_ore"
 

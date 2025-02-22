@@ -1,5 +1,5 @@
 name: Fence Iron Simple Black All
-material: PAPER
+item: paper
 custom-model-data: 4735
 model: 'cocricotmod:block/fence_iron_simple_black_all'
 

@@ -1,5 +1,5 @@
 name: Chair Iron Clear
-material: PAPER
+item: paper
 custom-model-data: 3032
 model: cocricotmod:block/chair_iron_clear
 block:

@@ -1,5 +1,5 @@
 name: Wood Seadrift Slab
-material: PAPER
+item: paper
 custom-model-data: 9803
 model: 'cocricotmod:block/wood_seadrift_slab'
 

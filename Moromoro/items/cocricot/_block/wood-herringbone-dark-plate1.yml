@@ -1,5 +1,5 @@
 name: Wood Herringbone Dark Plate 1
-material: PAPER
+item: paper
 custom-model-data: 9743
 model: 'cocricotmod:block/wood_herringbone_dark_plate1'
 

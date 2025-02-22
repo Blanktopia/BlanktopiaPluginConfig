@@ -1,5 +1,5 @@
 name: Stone Color Orange Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 7825
 model: 'cocricotmod:block/stone_color_orange_whiteframe'
 

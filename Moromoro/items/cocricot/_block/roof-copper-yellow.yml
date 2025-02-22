@@ -1,5 +1,5 @@
 name: Roof Copper Yellow
-material: PAPER
+item: paper
 custom-model-data: 6536
 model: 'cocricotmod:block/roof_copper_yellow'
 

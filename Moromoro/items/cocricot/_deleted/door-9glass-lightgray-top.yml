@@ -1,5 +1,5 @@
 name: Door  9glass Lightgray Top
-material: PAPER
+item: paper
 custom-model-data: 3788
 model: 'cocricotmod:block/door_9glass_lightgray_top'
 

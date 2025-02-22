@@ -1,5 +1,5 @@
 name: Roof Spanish Green
-material: PAPER
+item: paper
 custom-model-data: 6672
 model: 'cocricotmod:block/roof_spanish_green'
 

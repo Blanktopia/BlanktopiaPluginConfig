@@ -1,5 +1,5 @@
 name: Stone Bushrock Plate
-material: PAPER
+item: paper
 custom-model-data: 7649
 model: 'cocricotmod:block/stone_bushrock_plate'
 

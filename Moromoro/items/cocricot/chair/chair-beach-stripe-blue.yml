@@ -1,5 +1,5 @@
 name: Chair Beach Stripe Blue
-material: PAPER
+item: paper
 custom-model-data: 2998
 model: cocricotmod:block/chair_beach_stripe_blue
 block:

@@ -1,5 +1,5 @@
 name: Postbox White
-material: PAPER
+item: paper
 custom-model-data: 6278
 model: cocricotmod:block/postbox_white
 block:

@@ -1,0 +1,1 @@
+{"model":{"entries":[{"threshold":2,"model":{"model":"blanktopia:rares/ambrosia","type":"model"}},{"threshold":1,"model":{"model":"blanktopia:rares/horn_of_plenty","type":"model"}}],"fallback":{"model":"item/bowl","type":"model"},"type":"range_dispatch","property":"custom_model_data"}}

@@ -1,5 +1,5 @@
 name: Sofa Slipper American Mintgreen Inner
-material: PAPER
+item: paper
 custom-model-data: 7453
 model: cocricotmod:block/sofa_slipper_american_mintgreen_inner
 block:

@@ -1,5 +1,5 @@
 name: Wood Herringbone White Plate 1
-material: PAPER
+item: paper
 custom-model-data: 9773
 model: 'cocricotmod:block/wood_herringbone_white_plate1'
 

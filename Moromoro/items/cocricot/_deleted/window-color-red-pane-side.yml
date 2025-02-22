@@ -1,5 +1,5 @@
 name: Window Color Red Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8775
 model: 'cocricotmod:block/window_color_red_pane_side'
 

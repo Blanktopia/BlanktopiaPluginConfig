@@ -1,5 +1,5 @@
 name: Wheel Large White Rubber
-material: PAPER
+item: paper
 custom-model-data: 8542
 model: 'cocricotmod:block/wheel_large_white_rubber'
 

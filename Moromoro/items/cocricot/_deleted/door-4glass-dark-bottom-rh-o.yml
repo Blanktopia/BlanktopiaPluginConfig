@@ -1,5 +1,5 @@
 name: Door  4glass Dark Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 3715
 model: 'cocricotmod:block/door_4glass_dark_bottom_rh_o'
 

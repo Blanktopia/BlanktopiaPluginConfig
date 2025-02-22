@@ -1,5 +1,5 @@
 name: Basket Bread 2
-material: PAPER
+item: paper
 custom-model-data: 2361
 model: 'cocricotmod:block/basket_bread2'
 

@@ -1,5 +1,5 @@
 name: Stone Random Whitejoint Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7965
 model: 'cocricotmod:block/stone_random_whitejoint_stairs_inner'
 

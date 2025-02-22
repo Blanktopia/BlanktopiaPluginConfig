@@ -1,5 +1,5 @@
 name: Halftimber Yellowwhite Arch
-material: PAPER
+item: paper
 custom-model-data: 5536
 model: 'cocricotmod:block/halftimber_yellowwhite_arch'
 

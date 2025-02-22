@@ -1,5 +1,5 @@
 name: Door  2panel Blue Bottom
-material: PAPER
+item: paper
 custom-model-data: 3576
 model: 'cocricotmod:block/door_2panel_blue_bottom'
 

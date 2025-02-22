@@ -1,5 +1,5 @@
 name: Sconce Fabricshade Gold
-material: PAPER
+item: paper
 custom-model-data: 7150
 model: 'cocricotmod:block/sconce_fabricshade_gold'
 

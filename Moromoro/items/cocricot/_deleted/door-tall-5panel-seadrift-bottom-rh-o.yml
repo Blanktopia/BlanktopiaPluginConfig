@@ -1,5 +1,5 @@
 name: Door Tall  5panel Seadrift Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 4275
 model: 'cocricotmod:block/door_tall_5panel_seadrift_bottom_rh_o'
 

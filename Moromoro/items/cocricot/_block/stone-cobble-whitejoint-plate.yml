@@ -1,5 +1,5 @@
 name: Stone Cobble Whitejoint Plate
-material: PAPER
+item: paper
 custom-model-data: 7687
 model: 'cocricotmod:block/stone_cobble_whitejoint_plate'
 

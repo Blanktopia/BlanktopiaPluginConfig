@@ -1,5 +1,5 @@
 name: Wood  3board Brown Arch
-material: PAPER
+item: paper
 custom-model-data: 9395
 model: 'cocricotmod:block/wood_3board_brown_arch'
 

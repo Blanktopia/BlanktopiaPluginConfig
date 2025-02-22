@@ -1,5 +1,5 @@
 name: Drainpipe Gutter Black Outer
-material: PAPER
+item: paper
 custom-model-data: 4517
 model: 'cocricotmod:block/drainpipe_gutter_black_outer'
 

@@ -1,5 +1,5 @@
 name: Roof Woodshake Black Incline Odd Corner
-material: PAPER
+item: paper
 custom-model-data: 6838
 model: 'cocricotmod:block/roof_woodshake_black_incline_odd_corner'
 

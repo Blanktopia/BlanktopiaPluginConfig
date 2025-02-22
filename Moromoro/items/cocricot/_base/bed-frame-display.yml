@@ -1,5 +1,5 @@
 name: Bed Frame Display
-material: PAPER
+item: paper
 custom-model-data: 2391
 model: 'cocricotmod:block/bed_frame_display'
 

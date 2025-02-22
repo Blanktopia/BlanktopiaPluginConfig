@@ -1,5 +1,5 @@
 name: Stone Color Darkbrown Stick
-material: PAPER
+item: paper
 custom-model-data: 7732
 model: 'cocricotmod:block/stone_color_darkbrown_stick'
 

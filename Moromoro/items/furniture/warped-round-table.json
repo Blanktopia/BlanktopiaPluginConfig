@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1057,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/warped_round_table",
    "name": "<white>Warped Round Table"
 }

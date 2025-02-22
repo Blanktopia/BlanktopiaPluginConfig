@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Clear Both
-material: PAPER
+item: paper
 custom-model-data: 5699
 model: 'cocricotmod:block/handrail_wood_turnedleg_clear_both'
 

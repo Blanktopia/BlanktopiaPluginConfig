@@ -1,5 +1,5 @@
 name: Roof Spanish Green Incline White Odd Corner
-material: PAPER
+item: paper
 custom-model-data: 6681
 model: 'cocricotmod:block/roof_spanish_green_incline_white_odd_corner'
 

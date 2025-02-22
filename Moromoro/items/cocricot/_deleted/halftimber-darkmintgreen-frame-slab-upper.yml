@@ -1,5 +1,5 @@
 name: Halftimber Darkmintgreen Frame Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 5358
 model: 'cocricotmod:block/halftimber_darkmintgreen_frame_slab_upper'
 

@@ -1,5 +1,5 @@
 name: Bed Pillow Rustic
-material: PAPER
+item: paper
 custom-model-data: 2436
 model: 'cocricotmod:block/bed_pillow_rustic'
 

@@ -1,5 +1,5 @@
 name: Halftimber Redwhite Cross
-material: PAPER
+item: paper
 custom-model-data: 5460
 model: 'cocricotmod:block/halftimber_redwhite_cross'
 

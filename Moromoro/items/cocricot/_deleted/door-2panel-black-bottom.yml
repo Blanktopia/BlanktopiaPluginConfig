@@ -1,5 +1,5 @@
 name: Door  2panel Black Bottom
-material: PAPER
+item: paper
 custom-model-data: 3568
 model: 'cocricotmod:block/door_2panel_black_bottom'
 

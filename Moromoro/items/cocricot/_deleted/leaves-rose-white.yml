@@ -1,5 +1,5 @@
 name: Leaves Rose White
-material: PAPER
+item: paper
 custom-model-data: 5973
 model: 'cocricotmod:block/leaves_rose_white'
 

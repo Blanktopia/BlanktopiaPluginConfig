@@ -1,5 +1,5 @@
 name: Window Centrebar Seadrift Pane All
-material: PAPER
+item: paper
 custom-model-data: 8674
 model: 'cocricotmod:block/window_centrebar_seadrift_pane_all'
 

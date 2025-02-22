@@ -1,5 +1,5 @@
 name: Brick Orange Arch
-material: PAPER
+item: paper
 custom-model-data: 2676
 model: 'cocricotmod:block/brick_orange_arch'
 

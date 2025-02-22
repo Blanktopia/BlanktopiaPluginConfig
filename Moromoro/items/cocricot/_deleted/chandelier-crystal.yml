@@ -1,5 +1,5 @@
 name: Chandelier Crystal
-material: PAPER
+item: paper
 custom-model-data: 3061
 model: 'cocricotmod:block/chandelier_crystal'
 

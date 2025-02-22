@@ -1,5 +1,5 @@
 name: Computer Laptop
-material: PAPER
+item: paper
 custom-model-data: 3192
 model: 'cocricotmod:block/computer_laptop'
 

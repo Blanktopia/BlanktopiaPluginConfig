@@ -1,5 +1,5 @@
 name: Chair Midcentury Yellow
-material: PAPER
+item: paper
 custom-model-data: 3044
 model: cocricotmod:block/chair_midcentury_yellow
 block:

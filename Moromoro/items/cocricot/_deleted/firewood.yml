@@ -1,5 +1,5 @@
 name: Firewood
-material: PAPER
+item: paper
 custom-model-data: 4841
 model: 'cocricotmod:block/firewood'
 

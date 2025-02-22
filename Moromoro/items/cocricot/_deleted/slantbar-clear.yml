@@ -1,5 +1,5 @@
 name: Slantbar Clear
-material: PAPER
+item: paper
 custom-model-data: 7336
 model: 'cocricotmod:block/slantbar_clear'
 

@@ -1,5 +1,5 @@
 name: Wood Brown Slab
-material: PAPER
+item: paper
 custom-model-data: 9679
 model: 'cocricotmod:block/wood_brown_slab'
 

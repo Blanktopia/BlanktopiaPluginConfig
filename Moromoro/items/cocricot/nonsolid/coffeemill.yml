@@ -1,5 +1,5 @@
 name: Coffeemill
-material: PAPER
+item: paper
 custom-model-data: 3141
 model: 'cocricotmod:block/coffeemill'
 

@@ -1,5 +1,5 @@
 name: Chair Beach Stripe Red
-material: PAPER
+item: paper
 custom-model-data: 3000
 model: cocricotmod:block/chair_beach_stripe_red
 block:

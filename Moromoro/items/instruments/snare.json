@@ -3,7 +3,7 @@
       "type": "item"
    },
    "custom-model-data": 102,
-   "material": "WOODEN_HOE",
+   "item": "wooden_hoe",
    "model": "blanktopia:instruments/snare",
    "name": "<white>Snare"
 }

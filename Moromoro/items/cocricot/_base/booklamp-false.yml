@@ -1,5 +1,5 @@
 name: Booklamp False
-material: PAPER
+item: paper
 custom-model-data: 2497
 model: 'cocricotmod:block/booklamp_false'
 

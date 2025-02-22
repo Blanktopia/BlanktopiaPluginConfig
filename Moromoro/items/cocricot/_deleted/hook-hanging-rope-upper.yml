@@ -1,5 +1,5 @@
 name: Hook Hanging Rope Upper
-material: PAPER
+item: paper
 custom-model-data: 5821
 model: 'cocricotmod:block/hook_hanging_rope_upper'
 

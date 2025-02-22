@@ -1,5 +1,5 @@
 name: Lightboxsign Coffee
-material: PAPER
+item: paper
 custom-model-data: 6015
 model: 'cocricotmod:block/lightboxsign_coffee'
 

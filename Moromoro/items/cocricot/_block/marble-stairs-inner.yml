@@ -1,5 +1,5 @@
 name: Marble Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 6062
 model: 'cocricotmod:block/marble_stairs_inner'
 

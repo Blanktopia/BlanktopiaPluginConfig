@@ -1,6 +1,6 @@
 {
    "custom-model-data": 6,
-   "material": "COOKIE",
+   "item": "cookie",
    "model": "blanktopia:food/noodles",
    "name": "<white>Noodles",
    "triggers": {

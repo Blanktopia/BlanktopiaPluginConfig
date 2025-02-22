@@ -1,5 +1,5 @@
 name: Window Arch Black Pane Slant
-material: PAPER
+item: paper
 custom-model-data: 8566
 model: 'cocricotmod:block/window_arch_black_pane_slant'
 

@@ -1,5 +1,5 @@
 name: Windowframe Classic Side Dark Right
-material: PAPER
+item: paper
 custom-model-data: 9102
 model: 'cocricotmod:block/windowframe_classic_side_dark_right'
 

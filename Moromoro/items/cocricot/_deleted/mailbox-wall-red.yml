@@ -1,5 +1,5 @@
 name: Mailbox Wall Red
-material: PAPER
+item: paper
 custom-model-data: 6041
 model: 'cocricotmod:block/mailbox_wall_red'
 

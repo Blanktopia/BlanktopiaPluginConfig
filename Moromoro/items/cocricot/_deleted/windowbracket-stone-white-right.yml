@@ -1,5 +1,5 @@
 name: Windowbracket Stone White Right
-material: PAPER
+item: paper
 custom-model-data: 9030
 model: 'cocricotmod:block/windowbracket_stone_white_right'
 

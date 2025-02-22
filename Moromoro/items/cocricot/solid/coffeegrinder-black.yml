@@ -1,5 +1,5 @@
 name: Coffeegrinder Black
-material: PAPER
+item: paper
 custom-model-data: 3137
 model: cocricotmod:block/coffeegrinder_black
 block:

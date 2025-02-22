@@ -1,5 +1,5 @@
 name: Grass Pile Height 2
-material: PAPER
+item: paper
 custom-model-data: 5171
 model: 'cocricotmod:block/grass_pile_height12'
 

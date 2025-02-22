@@ -1,5 +1,5 @@
 name: Brick Terracotta Small Orange Vslab
-material: PAPER
+item: paper
 custom-model-data: 2737
 model: 'cocricotmod:block/brick_terracotta_small_orange_vslab'
 

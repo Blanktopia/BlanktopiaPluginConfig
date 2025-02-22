@@ -1,5 +1,5 @@
 name: Stone Bushrock Whitejoint Stick
-material: PAPER
+item: paper
 custom-model-data: 7675
 model: 'cocricotmod:block/stone_bushrock_whitejoint_stick'
 

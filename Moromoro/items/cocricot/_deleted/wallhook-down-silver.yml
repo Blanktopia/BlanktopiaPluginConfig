@@ -1,5 +1,5 @@
 name: Wallhook Down Silver
-material: PAPER
+item: paper
 custom-model-data: 8369
 model: 'cocricotmod:block/wallhook_down_silver'
 

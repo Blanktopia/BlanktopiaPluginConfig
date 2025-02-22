@@ -1,5 +1,5 @@
 name: Fence Victorian White Corner
-material: PAPER
+item: paper
 custom-model-data: 4827
 model: 'cocricotmod:block/fence_victorian_white_corner'
 

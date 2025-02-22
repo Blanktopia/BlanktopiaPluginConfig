@@ -1,5 +1,5 @@
 name: Door Tall  6glass Wood Top O
-material: PAPER
+item: paper
 custom-model-data: 4413
 model: 'cocricotmod:block/door_tall_6glass_wood_top_o'
 

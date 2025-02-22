@@ -1,5 +1,5 @@
 name: Speaker Small Dark
-material: PAPER
+item: paper
 custom-model-data: 7552
 model: 'cocricotmod:block/speaker_small_dark'
 

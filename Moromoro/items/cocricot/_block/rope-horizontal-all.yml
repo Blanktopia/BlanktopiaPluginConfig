@@ -1,5 +1,5 @@
 name: Rope Horizontal All
-material: PAPER
+item: paper
 custom-model-data: 6855
 model: 'cocricotmod:block/rope_horizontal_all'
 

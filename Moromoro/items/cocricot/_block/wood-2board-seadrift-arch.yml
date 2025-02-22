@@ -1,5 +1,5 @@
 name: Wood  2board Seadrift Arch
-material: PAPER
+item: paper
 custom-model-data: 9363
 model: 'cocricotmod:block/wood_2board_seadrift_arch'
 

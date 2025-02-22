@@ -1,5 +1,5 @@
 name: Window Color Lightgray Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8738
 model: 'cocricotmod:block/window_color_lightgray_pane_both'
 

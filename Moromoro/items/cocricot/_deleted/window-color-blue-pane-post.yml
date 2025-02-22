@@ -1,5 +1,5 @@
 name: Window Color Blue Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8704
 model: 'cocricotmod:block/window_color_blue_pane_post'
 

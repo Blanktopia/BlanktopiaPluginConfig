@@ -1,5 +1,5 @@
 name: Stucco Orange Item
-material: PAPER
+item: paper
 custom-model-data: 8064
 model: 'cocricotmod:block/stucco_orange_item'
 

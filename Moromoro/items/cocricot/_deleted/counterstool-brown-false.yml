@@ -1,5 +1,5 @@
 name: Counterstool Brown False
-material: PAPER
+item: paper
 custom-model-data: 3213
 model: 'cocricotmod:block/counterstool_brown_false'
 

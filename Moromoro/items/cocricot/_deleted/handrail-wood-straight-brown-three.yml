@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Brown Three
-material: PAPER
+item: paper
 custom-model-data: 5604
 model: 'cocricotmod:block/handrail_wood_straight_brown_three'
 

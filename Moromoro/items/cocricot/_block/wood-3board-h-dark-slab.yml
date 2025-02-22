@@ -1,5 +1,5 @@
 name: Wood  3board H Dark Slab
-material: PAPER
+item: paper
 custom-model-data: 9456
 model: 'cocricotmod:block/wood_3board_h_dark_slab'
 

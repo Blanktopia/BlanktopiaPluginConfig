@@ -1,5 +1,5 @@
 name: Handrail Wood Straight White Corner
-material: PAPER
+item: paper
 custom-model-data: 5670
 model: 'cocricotmod:block/handrail_wood_straight_white_corner'
 

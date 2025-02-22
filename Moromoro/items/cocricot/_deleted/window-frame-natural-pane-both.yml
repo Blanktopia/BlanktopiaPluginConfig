@@ -1,5 +1,5 @@
 name: Window Frame Natural Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8969
 model: 'cocricotmod:block/window_frame_natural_pane_both'
 

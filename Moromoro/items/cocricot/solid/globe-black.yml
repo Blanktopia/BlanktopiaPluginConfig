@@ -1,5 +1,5 @@
 name: Globe Black
-material: PAPER
+item: paper
 custom-model-data: 5158
 model: cocricotmod:block/globe_black
 block:

@@ -1,5 +1,5 @@
 name: Chain Thin Black
-material: PAPER
+item: paper
 custom-model-data: 2979
 model: 'cocricotmod:block/chain_thin_black'
 

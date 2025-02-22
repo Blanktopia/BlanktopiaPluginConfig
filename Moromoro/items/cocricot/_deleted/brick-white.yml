@@ -1,5 +1,5 @@
 name: Brick White
-material: PAPER
+item: paper
 custom-model-data: 2741
 model: 'cocricotmod:block/brick_white'
 

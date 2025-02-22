@@ -1,5 +1,5 @@
 name: Leaves Darkgreen 1
-material: PAPER
+item: paper
 custom-model-data: 5945
 model: 'cocricotmod:block/leaves_darkgreen1'
 

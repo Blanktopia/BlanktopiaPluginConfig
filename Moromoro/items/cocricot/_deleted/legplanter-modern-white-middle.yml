@@ -1,5 +1,5 @@
 name: Legplanter Modern White Middle
-material: PAPER
+item: paper
 custom-model-data: 6002
 model: 'cocricotmod:block/legplanter_modern_white_middle'
 

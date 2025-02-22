@@ -1,5 +1,5 @@
 name: Purfume Gray
-material: PAPER
+item: paper
 custom-model-data: 6297
 model: 'cocricotmod:block/purfume_gray'
 

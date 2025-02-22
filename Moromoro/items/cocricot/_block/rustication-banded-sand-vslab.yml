@@ -1,5 +1,5 @@
 name: Rustication Banded Sand Vslab
-material: PAPER
+item: paper
 custom-model-data: 7112
 model: 'cocricotmod:block/rustication_banded_sand_vslab'
 

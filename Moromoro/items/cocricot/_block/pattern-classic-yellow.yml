@@ -1,5 +1,5 @@
 name: Pattern Classic Yellow
-material: PAPER
+item: paper
 custom-model-data: 6198
 model: 'cocricotmod:block/pattern_classic_yellow'
 

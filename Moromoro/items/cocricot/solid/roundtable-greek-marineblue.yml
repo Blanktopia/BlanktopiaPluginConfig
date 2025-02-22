@@ -1,5 +1,5 @@
 name: Roundtable Greek Marineblue
-material: PAPER
+item: paper
 custom-model-data: 6891
 model: cocricotmod:block/roundtable_greek_marineblue
 block:

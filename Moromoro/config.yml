@@ -3,8 +3,8 @@ discover-all-recipes: true
 tick-interval: 1
 tick-slow-interval: 5
 projectile-tick-interval: 2
-resource-pack-url: https://files.blanktopia.com/Blanktopia-6d11af674b91e9ef88bc6ea8d06115e6c6b4d0a4.zip
-resource-pack-hash: 6d11af674b91e9ef88bc6ea8d06115e6c6b4d0a4
+resource-pack-url: https://files.blanktopia.com/Blanktopia-f5d9cc6c87d654e9d51bb7576408a8ba6b58a47a.zip
+resource-pack-hash: f5d9cc6c87d654e9d51bb7576408a8ba6b58a47a
 render-distance: 32
 render-interval: 3
 force-migration: false

@@ -1,0 +1,10 @@
+name: Beheading
+anvil-cost: 2
+max-level: 5
+minimum-cost-base: 5
+minimum-cost-per-level: 8
+maximum-cost-base: 25
+maximum-cost-per-level: 8
+weight: 1
+primary-items:
+  - "#axes"

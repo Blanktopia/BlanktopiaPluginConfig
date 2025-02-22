@@ -1,5 +1,5 @@
 name: Coffeetable Midcentury Dark Single
-material: PAPER
+item: paper
 custom-model-data: 3182
 model: cocricotmod:block/coffeetable_midcentury_dark_single
 block:

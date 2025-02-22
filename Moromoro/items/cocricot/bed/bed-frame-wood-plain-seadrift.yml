@@ -1,5 +1,5 @@
 name: Bed Frame Wood Plain Seadrift
-material: PAPER
+item: paper
 custom-model-data: 2400
 model: cocricotmod:block/bed_frame_wood_plain_seadrift
 block:

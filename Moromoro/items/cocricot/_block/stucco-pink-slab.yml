@@ -1,5 +1,5 @@
 name: Stucco Pink Slab
-material: PAPER
+item: paper
 custom-model-data: 8080
 model: 'cocricotmod:block/stucco_pink_slab'
 

@@ -1,5 +1,5 @@
 name: Tile Grid Blackwhite
-material: PAPER
+item: paper
 custom-model-data: 8265
 model: 'cocricotmod:block/tile_grid_blackwhite'
 

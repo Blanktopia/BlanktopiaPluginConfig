@@ -1,5 +1,6 @@
+version: 1
 name: "<white>Ruby Block"
-material: PAPER
+item: paper
 custom-model-data: 1013
 model: "blanktopia:block/ruby_block"
 

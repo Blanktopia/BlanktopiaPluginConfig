@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Natural Bothpost
-material: PAPER
+item: paper
 custom-model-data: 5730
 model: 'cocricotmod:block/handrail_wood_turnedleg_natural_bothpost'
 

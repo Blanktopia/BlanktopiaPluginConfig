@@ -1,5 +1,5 @@
 name: Barrel Mug
-material: PAPER
+item: paper
 custom-model-data: 2302
 model: 'cocricotmod:block/barrel_mug'
 

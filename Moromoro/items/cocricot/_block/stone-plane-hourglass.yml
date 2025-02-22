@@ -1,5 +1,5 @@
 name: Stone Plane Hourglass
-material: PAPER
+item: paper
 custom-model-data: 7915
 model: 'cocricotmod:block/stone_plane_hourglass'
 

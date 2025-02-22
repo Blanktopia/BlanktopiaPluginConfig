@@ -1,5 +1,5 @@
 name: Brick Vslab
-material: PAPER
+item: paper
 custom-model-data: 2740
 model: 'cocricotmod:block/brick_vslab'
 

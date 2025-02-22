@@ -1,5 +1,5 @@
 name: Window Color Lightgray Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8739
 model: 'cocricotmod:block/window_color_lightgray_pane_post'
 

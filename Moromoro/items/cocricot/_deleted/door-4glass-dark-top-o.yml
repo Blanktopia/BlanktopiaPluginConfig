@@ -1,5 +1,5 @@
 name: Door  4glass Dark Top O
-material: PAPER
+item: paper
 custom-model-data: 3717
 model: 'cocricotmod:block/door_4glass_dark_top_o'
 

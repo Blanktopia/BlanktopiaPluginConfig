@@ -1,5 +1,5 @@
 name: Sofa Simple White Single
-material: PAPER
+item: paper
 custom-model-data: 7432
 model: cocricotmod:block/sofa_simple_white_single
 block:

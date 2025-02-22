@@ -1,5 +1,5 @@
 name: Glass Frame Line
-material: PAPER
+item: paper
 custom-model-data: 5108
 model: 'cocricotmod:block/glass_frame_line'
 

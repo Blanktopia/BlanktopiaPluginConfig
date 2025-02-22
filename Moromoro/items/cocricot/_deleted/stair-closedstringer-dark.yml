@@ -1,5 +1,5 @@
 name: Stair Closedstringer Dark
-material: PAPER
+item: paper
 custom-model-data: 7565
 model: 'cocricotmod:block/stair_closedstringer_dark'
 

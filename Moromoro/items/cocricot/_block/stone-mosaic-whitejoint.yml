@@ -1,5 +1,5 @@
 name: Stone Mosaic Whitejoint
-material: PAPER
+item: paper
 custom-model-data: 7893
 model: 'cocricotmod:block/stone_mosaic_whitejoint'
 

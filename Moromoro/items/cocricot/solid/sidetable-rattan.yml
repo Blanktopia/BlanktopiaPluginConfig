@@ -1,5 +1,5 @@
 name: Sidetable Rattan
-material: PAPER
+item: paper
 custom-model-data: 7257
 model: cocricotmod:block/sidetable_rattan
 block:

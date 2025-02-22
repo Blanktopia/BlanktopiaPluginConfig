@@ -1,5 +1,5 @@
 name: Window Frame Dark Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8957
 model: 'cocricotmod:block/window_frame_dark_pane_side'
 

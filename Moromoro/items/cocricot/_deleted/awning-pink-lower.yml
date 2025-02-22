@@ -1,5 +1,5 @@
 name: Awning Pink Lower
-material: PAPER
+item: paper
 custom-model-data: 2113
 model: 'cocricotmod:block/awning_pink_lower'
 

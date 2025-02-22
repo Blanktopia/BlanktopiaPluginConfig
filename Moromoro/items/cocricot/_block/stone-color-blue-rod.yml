@@ -1,5 +1,5 @@
 name: Stone Color Blue Rod
-material: PAPER
+item: paper
 custom-model-data: 7713
 model: 'cocricotmod:block/stone_color_blue_rod'
 

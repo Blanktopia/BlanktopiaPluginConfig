@@ -1,5 +1,5 @@
 name: Chair Paris Brown
-material: PAPER
+item: paper
 custom-model-data: 3046
 model: cocricotmod:block/chair_paris_brown
 block:

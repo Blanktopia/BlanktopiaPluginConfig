@@ -1,5 +1,5 @@
 version: 1
-material: ARROW
+item: arrow
 soulbound: true
 lore:
   - ''

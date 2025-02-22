@@ -1,5 +1,5 @@
 name: Roof Copper Red
-material: PAPER
+item: paper
 custom-model-data: 6506
 model: 'cocricotmod:block/roof_copper_red'
 

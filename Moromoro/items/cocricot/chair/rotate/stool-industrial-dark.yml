@@ -1,5 +1,5 @@
 name: Stool Industrial Dark
-material: PAPER
+item: paper
 custom-model-data: 8002
 model: cocricotmod:block/stool_industrial_dark
 block:

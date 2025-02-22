@@ -1,5 +1,5 @@
 name: Awning Lightpurple Stairs
-material: PAPER
+item: paper
 custom-model-data: 2095
 model: 'cocricotmod:block/awning_lightpurple_stairs'
 

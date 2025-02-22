@@ -1,5 +1,5 @@
 name: Flowerpot Inner Dypsislutescens
-material: PAPER
+item: paper
 custom-model-data: 4900
 model: 'cocricotmod:block/flowerpot_inner_dypsislutescens'
 

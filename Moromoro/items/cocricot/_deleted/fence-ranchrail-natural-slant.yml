@@ -1,5 +1,5 @@
 name: Fence Ranchrail Natural Slant
-material: PAPER
+item: paper
 custom-model-data: 4787
 model: 'cocricotmod:block/fence_ranchrail_natural_slant'
 

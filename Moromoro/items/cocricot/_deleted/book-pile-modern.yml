@@ -1,5 +1,5 @@
 name: Book Pile Modern
-material: PAPER
+item: paper
 custom-model-data: 2494
 model: 'cocricotmod:block/book_pile_modern'
 

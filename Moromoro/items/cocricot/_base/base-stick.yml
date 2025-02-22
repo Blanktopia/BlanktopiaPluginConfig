@@ -1,5 +1,5 @@
 name: Base Stick
-material: PAPER
+item: paper
 custom-model-data: 2353
 model: 'cocricotmod:block/base_stick'
 

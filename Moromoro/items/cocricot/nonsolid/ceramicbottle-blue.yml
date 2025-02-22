@@ -1,5 +1,5 @@
 name: Ceramicbottle Blue
-material: PAPER
+item: paper
 custom-model-data: 2961
 model: 'cocricotmod:block/ceramicbottle_blue'
 

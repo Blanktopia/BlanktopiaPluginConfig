@@ -1,5 +1,5 @@
 name: Door  2panel Gray Bottom
-material: PAPER
+item: paper
 custom-model-data: 3584
 model: 'cocricotmod:block/door_2panel_gray_bottom'
 

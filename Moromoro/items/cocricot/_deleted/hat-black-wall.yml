@@ -1,5 +1,5 @@
 name: Hat Black Wall
-material: PAPER
+item: paper
 custom-model-data: 5805
 model: 'cocricotmod:block/hat_black_wall'
 

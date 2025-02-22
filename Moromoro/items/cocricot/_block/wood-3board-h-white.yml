@@ -1,5 +1,5 @@
 name: Wood  3board H White
-material: PAPER
+item: paper
 custom-model-data: 9478
 model: 'cocricotmod:block/wood_3board_h_white'
 

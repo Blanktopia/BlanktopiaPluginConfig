@@ -1,5 +1,5 @@
 name: Roof Claytile Blue Incline Outer
-material: PAPER
+item: paper
 custom-model-data: 6371
 model: 'cocricotmod:block/roof_claytile_blue_incline_outer'
 

@@ -1,5 +1,5 @@
 name: Telephone Retro Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 8250
 model: 'cocricotmod:block/telephone_retro_mintgreen'
 

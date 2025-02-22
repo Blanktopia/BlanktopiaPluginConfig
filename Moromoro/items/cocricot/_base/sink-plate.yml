@@ -1,5 +1,5 @@
 name: Sink Plate
-material: PAPER
+item: paper
 custom-model-data: 7314
 model: 'cocricotmod:block/sink_plate'
 

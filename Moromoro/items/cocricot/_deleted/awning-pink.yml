@@ -1,5 +1,5 @@
 name: Awning Pink
-material: PAPER
+item: paper
 custom-model-data: 2111
 model: 'cocricotmod:block/awning_pink'
 

@@ -1,5 +1,5 @@
 name: Garland Cute Both
-material: PAPER
+item: paper
 custom-model-data: 5011
 model: 'cocricotmod:block/garland_cute_both'
 

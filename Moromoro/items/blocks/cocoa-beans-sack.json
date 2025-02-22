@@ -5,7 +5,7 @@
       "type": "mushroom"
    },
    "custom-model-data": 1007,
-   "material": "PAPER",
+   "item": "paper",
    "model": "blanktopia:block/cocoa_beans_sack",
    "name": "<white>Cocoa Beans Sack"
 }

@@ -1,5 +1,5 @@
 name: Wood  3board Clear Item
-material: PAPER
+item: paper
 custom-model-data: 9409
 model: 'cocricotmod:block/wood_3board_clear_item'
 

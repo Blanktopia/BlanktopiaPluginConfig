@@ -1,5 +1,5 @@
 name: Roof Spanish Yellow Stairs
-material: PAPER
+item: paper
 custom-model-data: 6789
 model: 'cocricotmod:block/roof_spanish_yellow_stairs'
 

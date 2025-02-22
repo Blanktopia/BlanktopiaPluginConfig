@@ -1,5 +1,5 @@
 name: Cushion Black
-material: PAPER
+item: paper
 custom-model-data: 3291
 model: 'cocricotmod:block/cushion_black'
 

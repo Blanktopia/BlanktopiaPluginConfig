@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel Red Bottom
-material: PAPER
+item: paper
 custom-model-data: 4016
 model: 'cocricotmod:block/door_tall_2glass3panel_red_bottom'
 

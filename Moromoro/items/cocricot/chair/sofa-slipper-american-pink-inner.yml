@@ -1,5 +1,5 @@
 name: Sofa Slipper American Pink Inner
-material: PAPER
+item: paper
 custom-model-data: 7456
 model: cocricotmod:block/sofa_slipper_american_pink_inner
 block:

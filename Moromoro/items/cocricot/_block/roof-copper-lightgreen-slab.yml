@@ -1,5 +1,5 @@
 name: Roof Copper Lightgreen Slab
-material: PAPER
+item: paper
 custom-model-data: 6499
 model: 'cocricotmod:block/roof_copper_lightgreen_slab'
 

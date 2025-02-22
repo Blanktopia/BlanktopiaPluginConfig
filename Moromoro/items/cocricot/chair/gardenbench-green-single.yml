@@ -1,5 +1,5 @@
 name: Gardenbench Green Single
-material: PAPER
+item: paper
 custom-model-data: 4958
 model: cocricotmod:block/gardenbench_green_single
 block:

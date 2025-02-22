@@ -1,5 +1,5 @@
 name: Garland Cool Side
-material: PAPER
+item: paper
 custom-model-data: 5007
 model: 'cocricotmod:block/garland_cool_side'
 

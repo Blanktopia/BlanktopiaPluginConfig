@@ -1,0 +1,4 @@
+name: "Direwolf (Desert)"
+item: leather_horse_armor
+custom-model-data: 2021
+model: "littleroom_direwolf:items/direwolfheaddesert"

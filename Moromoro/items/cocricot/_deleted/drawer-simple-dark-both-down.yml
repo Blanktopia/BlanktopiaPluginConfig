@@ -1,5 +1,5 @@
 name: Drawer Simple Dark Both Down
-material: PAPER
+item: paper
 custom-model-data: 4581
 model: 'cocricotmod:block/drawer_simple_dark_both_down'
 

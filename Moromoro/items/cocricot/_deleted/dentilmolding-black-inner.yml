@@ -1,5 +1,5 @@
 name: Dentilmolding Black Inner
-material: PAPER
+item: paper
 custom-model-data: 3409
 model: 'cocricotmod:block/dentilmolding_black_inner'
 

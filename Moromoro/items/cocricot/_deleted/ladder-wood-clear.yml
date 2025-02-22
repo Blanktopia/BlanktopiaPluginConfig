@@ -1,5 +1,5 @@
 name: Ladder Wood Clear
-material: PAPER
+item: paper
 custom-model-data: 5896
 model: 'cocricotmod:block/ladder_wood_clear'
 

@@ -1,5 +1,5 @@
 name: Stone Tile Sand Slab
-material: PAPER
+item: paper
 custom-model-data: 7981
 model: 'cocricotmod:block/stone_tile_sand_slab'
 

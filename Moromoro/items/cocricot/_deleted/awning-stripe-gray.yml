@@ -1,5 +1,5 @@
 name: Awning Stripe Gray
-material: PAPER
+item: paper
 custom-model-data: 2169
 model: 'cocricotmod:block/awning_stripe_gray'
 

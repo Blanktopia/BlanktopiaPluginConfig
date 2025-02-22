@@ -1,5 +1,5 @@
 name: Chair American Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 2988
 model: cocricotmod:block/chair_american_mintgreen
 block:

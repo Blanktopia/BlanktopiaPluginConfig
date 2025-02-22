@@ -1,5 +1,5 @@
 name: Fluorescentlamp Bot
-material: PAPER
+item: paper
 custom-model-data: 4924
 model: 'cocricotmod:block/fluorescentlamp_bot'
 

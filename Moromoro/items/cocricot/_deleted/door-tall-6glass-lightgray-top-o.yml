@@ -1,5 +1,5 @@
 name: Door Tall  6glass Lightgray Top O
-material: PAPER
+item: paper
 custom-model-data: 4349
 model: 'cocricotmod:block/door_tall_6glass_lightgray_top_o'
 

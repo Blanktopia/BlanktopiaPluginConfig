@@ -1,5 +1,5 @@
 name: Bookshelf Antique White Full Vslab Item
-material: PAPER
+item: paper
 custom-model-data: 2545
 model: 'cocricotmod:block/bookshelf_antique_white_full_vslab_item'
 

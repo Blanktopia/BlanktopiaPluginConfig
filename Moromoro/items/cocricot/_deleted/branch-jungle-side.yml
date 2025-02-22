@@ -1,5 +1,5 @@
 name: Branch Jungle Side
-material: PAPER
+item: paper
 custom-model-data: 2600
 model: 'cocricotmod:block/branch_jungle_side'
 

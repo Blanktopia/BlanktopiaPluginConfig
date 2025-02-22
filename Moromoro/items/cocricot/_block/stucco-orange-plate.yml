@@ -1,5 +1,5 @@
 name: Stucco Orange Plate
-material: PAPER
+item: paper
 custom-model-data: 8065
 model: 'cocricotmod:block/stucco_orange_plate'
 

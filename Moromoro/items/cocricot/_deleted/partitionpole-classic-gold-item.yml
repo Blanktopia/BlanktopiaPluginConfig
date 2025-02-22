@@ -1,5 +1,5 @@
 name: Partitionpole Classic Gold Item
-material: PAPER
+item: paper
 custom-model-data: 6175
 model: 'cocricotmod:block/partitionpole_classic_gold_item'
 

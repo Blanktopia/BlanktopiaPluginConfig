@@ -1,5 +1,5 @@
 name: Roof Tile Black Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6808
 model: 'cocricotmod:block/roof_tile_black_slab_upper'
 

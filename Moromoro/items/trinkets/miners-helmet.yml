@@ -1,6 +1,6 @@
 version: 2
 name: "<transition:#f7fc92:#fccf8a>Miner's Helmet"
-material: GLOWSTONE_DUST
+item: glowstone_dust
 custom-model-data: 1
 model: "blanktopia:hats/miners_helmet"
 soulbound: true
@@ -10,7 +10,7 @@ lore:
   - ''
   - '<white>Grants you <grey>Haste II<white>.'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - HEAD
   - TRINKET

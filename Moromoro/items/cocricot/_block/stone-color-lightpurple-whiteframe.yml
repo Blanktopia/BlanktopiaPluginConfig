@@ -1,5 +1,5 @@
 name: Stone Color Lightpurple Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 7812
 model: 'cocricotmod:block/stone_color_lightpurple_whiteframe'
 

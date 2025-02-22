@@ -1,0 +1,74 @@
+version: 1
+name: "<transition:#41a65c:#91cc5e>Giant"
+item: paper
+# custom-model-data: 2
+# model: "blanktopia:rares/ambrosia"
+soulbound: true
+unenchantable: true
+unique: true
+lore:
+  - ''
+  - '<white>Makes you huge.'
+  - ''
+  - '<grey>Slot: <#ff4e1d>Trinket'
+slots:
+  - TRINKET
+triggers:
+  equip-armor:
+    - type: add-attribute-modifier
+      attribute-modifiers:
+        - attribute: scale
+          uuid: cad3a674-de10-4fd2-978f-e875421dd32e
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1
+    - type: add-attribute-modifier
+      attribute-modifiers:
+        - attribute: movement_speed
+          uuid: 2bc784fe-b7b7-4ebf-8c95-e191c15f1b4c
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1
+    - type: add-attribute-modifier
+      attribute-modifiers:
+        - attribute: step_height
+          uuid: b49b3211-b15a-45f3-bade-d33af4c08b8b
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1
+    - type: add-attribute-modifier
+      attribute-modifiers:
+        - attribute: jump_strength
+          uuid: cedf7fbb-5e70-3246-be7b-8952ffd32d5c
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1
+  unequip-armor:
+    - type: remove-attribute-modifier
+      attribute-modifiers:
+        - attribute: scale
+          uuid: cad3a674-de10-3fd2-978f-e875421dd32e
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1
+    - type: remove-attribute-modifier
+      attribute-modifiers:
+        - attribute: movement_speed
+          uuid: 2bc784fe-b7b7-4ebf-8c95-e191c15f1b4c
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1
+    - type: remove-attribute-modifier
+      attribute-modifiers:
+        - attribute: step_height
+          uuid: b49b3211-b15a-45f3-bade-d33af4c08b8b
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1
+    - type: remove-attribute-modifier
+      attribute-modifiers:
+        - attribute: jump_strength
+          uuid: cedf7fbb-5e70-3246-be7b-8952ffd32d5c
+          name: Ambrosia
+          amount: 0.2
+          operation: MULTIPLY_SCALAR_1

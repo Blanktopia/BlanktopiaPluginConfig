@@ -1,5 +1,5 @@
 name: Ceilingspotlight Rail Silver
-material: PAPER
+item: paper
 custom-model-data: 2949
 model: 'cocricotmod:block/ceilingspotlight_rail_silver'
 

@@ -1,5 +1,5 @@
 name: Window Frame Brown Pane All
-material: PAPER
+item: paper
 custom-model-data: 8940
 model: 'cocricotmod:block/window_frame_brown_pane_all'
 

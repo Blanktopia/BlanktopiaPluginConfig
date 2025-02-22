@@ -1,6 +1,6 @@
 version: 1
 name: "<transition:#d580fc:#ffbf0d>Horn of Plenty"
-material: BOWL
+item: bowl
 custom-model-data: 1
 model: "blanktopia:rares/horn_of_plenty"
 soulbound: true
@@ -12,7 +12,7 @@ lore:
   - '<white>hunger, but keeps your'
   - '<white>saturation low.'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:

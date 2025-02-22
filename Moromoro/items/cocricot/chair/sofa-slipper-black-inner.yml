@@ -1,5 +1,5 @@
 name: Sofa Slipper Black Inner
-material: PAPER
+item: paper
 custom-model-data: 7468
 model: cocricotmod:block/sofa_slipper_black_inner
 block:

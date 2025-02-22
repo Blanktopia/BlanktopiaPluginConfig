@@ -1,5 +1,5 @@
 name: Shelf Normal Basket Bread
-material: PAPER
+item: paper
 custom-model-data: 7158
 model: 'cocricotmod:block/shelf_normal_basket_bread'
 

@@ -1,5 +1,5 @@
 name: Garland Pop Both
-material: PAPER
+item: paper
 custom-model-data: 5031
 model: 'cocricotmod:block/garland_pop_both'
 

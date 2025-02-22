@@ -1,5 +1,5 @@
 name: Door Tall  1glass Seadrift Top Rh O
-material: PAPER
+item: paper
 custom-model-data: 3919
 model: 'cocricotmod:block/door_tall_1glass_seadrift_top_rh_o'
 

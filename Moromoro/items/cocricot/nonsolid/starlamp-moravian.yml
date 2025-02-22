@@ -1,5 +1,5 @@
 name: Starlamp Moravian
-material: PAPER
+item: paper
 custom-model-data: 7614
 model: 'cocricotmod:block/starlamp_moravian'
 

@@ -1,5 +1,5 @@
 name: Signpost Wood Seadrift 3
-material: PAPER
+item: paper
 custom-model-data: 7291
 model: 'cocricotmod:block/signpost_wood_seadrift3'
 

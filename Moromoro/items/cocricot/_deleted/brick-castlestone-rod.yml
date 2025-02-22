@@ -1,5 +1,5 @@
 name: Brick Castlestone Rod
-material: PAPER
+item: paper
 custom-model-data: 2642
 model: 'cocricotmod:block/brick_castlestone_rod'
 

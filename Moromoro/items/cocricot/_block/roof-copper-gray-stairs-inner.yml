@@ -1,5 +1,5 @@
 name: Roof Copper Gray Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 6452
 model: 'cocricotmod:block/roof_copper_gray_stairs_inner'
 

@@ -1,5 +1,5 @@
 name: Table Ironleg Brown All
-material: PAPER
+item: paper
 custom-model-data: 8181
 model: cocricotmod:block/table_ironleg_brown_all
 block:

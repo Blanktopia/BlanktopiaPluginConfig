@@ -1,5 +1,5 @@
 name: Booklamp
-material: PAPER
+item: paper
 custom-model-data: 2496
 model: 'cocricotmod:block/booklamp'
 

@@ -1,5 +1,5 @@
 name: Wood  2board Clear Plate
-material: PAPER
+item: paper
 custom-model-data: 9279
 model: 'cocricotmod:block/wood_2board_clear_plate'
 

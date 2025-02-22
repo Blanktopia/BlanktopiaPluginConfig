@@ -1,5 +1,5 @@
 name: Roof Spanish Blue Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 6649
 model: 'cocricotmod:block/roof_spanish_blue_stairs_outer'
 

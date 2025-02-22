@@ -1,5 +1,5 @@
 name: Chair Dining Normal White
-material: PAPER
+item: paper
 custom-model-data: 3009
 model: cocricotmod:block/chair_dining_normal_white
 block:

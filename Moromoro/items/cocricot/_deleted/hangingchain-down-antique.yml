@@ -1,5 +1,5 @@
 name: Hangingchain Down Antique
-material: PAPER
+item: paper
 custom-model-data: 5788
 model: 'cocricotmod:block/hangingchain_down_antique'
 

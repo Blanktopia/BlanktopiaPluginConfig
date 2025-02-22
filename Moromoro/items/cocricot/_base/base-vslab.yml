@@ -1,5 +1,5 @@
 name: Base Vslab
-material: PAPER
+item: paper
 custom-model-data: 2354
 model: 'cocricotmod:block/base_vslab'
 

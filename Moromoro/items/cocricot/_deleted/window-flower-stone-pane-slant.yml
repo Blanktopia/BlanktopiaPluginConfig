@@ -1,5 +1,5 @@
 name: Window Flower Stone Pane Slant
-material: PAPER
+item: paper
 custom-model-data: 8924
 model: 'cocricotmod:block/window_flower_stone_pane_slant'
 

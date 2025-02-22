@@ -1,5 +1,5 @@
 name: Sink Color Blue
-material: PAPER
+item: paper
 custom-model-data: 7303
 model: cocricotmod:block/sink_color_blue
 block:

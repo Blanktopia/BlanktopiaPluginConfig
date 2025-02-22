@@ -1,5 +1,5 @@
 name: Stonebrick Vslab
-material: PAPER
+item: paper
 custom-model-data: 7995
 model: 'cocricotmod:block/stonebrick_vslab'
 

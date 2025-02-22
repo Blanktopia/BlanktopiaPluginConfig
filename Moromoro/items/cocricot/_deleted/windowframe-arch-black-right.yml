@@ -1,5 +1,5 @@
 name: Windowframe Arch Black Right
-material: PAPER
+item: paper
 custom-model-data: 9035
 model: 'cocricotmod:block/windowframe_arch_black_right'
 

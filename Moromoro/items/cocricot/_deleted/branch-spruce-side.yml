@@ -1,5 +1,5 @@
 name: Branch Spruce Side
-material: PAPER
+item: paper
 custom-model-data: 2608
 model: 'cocricotmod:block/branch_spruce_side'
 

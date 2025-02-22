@@ -1,5 +1,5 @@
 name: Bed Pillow Brown
-material: PAPER
+item: paper
 custom-model-data: 2425
 model: 'cocricotmod:block/bed_pillow_brown'
 

@@ -1,5 +1,5 @@
 name: Wallshelf Bracket White Right False
-material: PAPER
+item: paper
 custom-model-data: 8479
 model: 'cocricotmod:block/wallshelf_bracket_white_right_false'
 

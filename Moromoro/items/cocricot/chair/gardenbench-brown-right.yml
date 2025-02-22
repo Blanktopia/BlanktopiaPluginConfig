@@ -1,5 +1,5 @@
 name: Gardenbench Brown Right
-material: PAPER
+item: paper
 custom-model-data: 4945
 model: cocricotmod:block/gardenbench_brown_right
 block:

@@ -1,5 +1,5 @@
 name: Pattern Star Night
-material: PAPER
+item: paper
 custom-model-data: 6202
 model: 'cocricotmod:block/pattern_star_night'
 

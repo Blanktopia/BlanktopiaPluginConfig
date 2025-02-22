@@ -1,5 +1,5 @@
 name: Masonjar Lemonade Table
-material: PAPER
+item: paper
 custom-model-data: 6100
 model: 'cocricotmod:block/masonjar_lemonade_table'
 

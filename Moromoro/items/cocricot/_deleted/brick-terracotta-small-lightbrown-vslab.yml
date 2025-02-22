@@ -1,5 +1,5 @@
 name: Brick Terracotta Small Lightbrown Vslab
-material: PAPER
+item: paper
 custom-model-data: 2733
 model: 'cocricotmod:block/brick_terracotta_small_lightbrown_vslab'
 

@@ -1,5 +1,5 @@
 name: Roof Claytile Orange Rod
-material: PAPER
+item: paper
 custom-model-data: 6418
 model: 'cocricotmod:block/roof_claytile_orange_rod'
 

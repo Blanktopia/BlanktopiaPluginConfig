@@ -1,5 +1,5 @@
 name: Door  1glass Brown Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 3523
 model: 'cocricotmod:block/door_1glass_brown_bottom_rh_o'
 

@@ -1,5 +1,5 @@
 name: Handrail Turnedleg Sandstone Corner
-material: PAPER
+item: paper
 custom-model-data: 5575
 model: 'cocricotmod:block/handrail_turnedleg_sandstone_corner'
 

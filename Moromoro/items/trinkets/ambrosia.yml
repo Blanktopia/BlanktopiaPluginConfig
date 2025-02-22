@@ -1,6 +1,6 @@
 version: 1
 name: "<transition:#9cfcf6:#e5fff6>Ambr<transition:#e5fff6:#9cfcf6>osia"
-material: BOWL
+item: bowl
 custom-model-data: 2
 model: "blanktopia:rares/ambrosia"
 soulbound: true
@@ -10,14 +10,14 @@ lore:
   - ''
   - '<white>Grants two additional hearts.'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:
   equip-armor:
     - type: add-attribute-modifier
       attribute-modifiers:
-        - attribute: generic.max_health
+        - attribute: max_health
           uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
           name: Ambrosia
           amount: 4.0
@@ -25,7 +25,7 @@ triggers:
   unequip-armor:
     - type: remove-attribute-modifier
       attribute-modifiers:
-        - attribute: generic.max_health
+        - attribute: max_health
           uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
           name: Ambrosia
           amount: 4.0

@@ -1,5 +1,5 @@
 name: Roof Spanish Yellow Incline White
-material: PAPER
+item: paper
 custom-model-data: 6780
 model: 'cocricotmod:block/roof_spanish_yellow_incline_white'
 

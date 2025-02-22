@@ -1,5 +1,5 @@
 name: Chair Pool White
-material: PAPER
+item: paper
 custom-model-data: 3051
 model: cocricotmod:block/chair_pool_white
 block:

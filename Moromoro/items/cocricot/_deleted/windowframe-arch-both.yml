@@ -1,5 +1,5 @@
 name: Windowframe Arch Both
-material: PAPER
+item: paper
 custom-model-data: 9036
 model: 'cocricotmod:block/windowframe_arch_both'
 

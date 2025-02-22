@@ -1,5 +1,5 @@
 name: Sofa Log Birch Rustic Single
-material: PAPER
+item: paper
 custom-model-data: 7356
 model: cocricotmod:block/sofa_log_birch_rustic_single
 block:

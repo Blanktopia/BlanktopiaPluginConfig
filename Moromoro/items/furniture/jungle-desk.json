@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1023,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/jungle_desk",
    "name": "<white>Jungle Desk"
 }

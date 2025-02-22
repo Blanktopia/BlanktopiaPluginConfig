@@ -1,5 +1,5 @@
 name: Lamppost Side
-material: PAPER
+item: paper
 custom-model-data: 5903
 model: 'cocricotmod:block/lamppost_side'
 

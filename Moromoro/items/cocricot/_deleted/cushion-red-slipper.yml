@@ -1,5 +1,5 @@
 name: Cushion Red Slipper
-material: PAPER
+item: paper
 custom-model-data: 3353
 model: 'cocricotmod:block/cushion_red_slipper'
 

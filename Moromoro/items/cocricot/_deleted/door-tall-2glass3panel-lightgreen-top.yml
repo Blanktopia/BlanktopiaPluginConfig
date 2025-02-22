@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel Lightgreen Top
-material: PAPER
+item: paper
 custom-model-data: 3980
 model: 'cocricotmod:block/door_tall_2glass3panel_lightgreen_top'
 

@@ -1,5 +1,5 @@
 name: Halftimber Whitepurple Frame Slab
-material: PAPER
+item: paper
 custom-model-data: 5509
 model: 'cocricotmod:block/halftimber_whitepurple_frame_slab'
 

@@ -1,5 +1,5 @@
 name: Window Diamond Dark Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8829
 model: 'cocricotmod:block/window_diamond_dark_pane_both'
 

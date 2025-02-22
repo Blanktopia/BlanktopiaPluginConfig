@@ -1,0 +1,8 @@
+name: Harvest
+anvil-cost: 8
+max-level: 1
+minimum-cost-base: 20
+maximum-cost-base: 50
+weight: 1
+primary-items:
+  - "#hoes"

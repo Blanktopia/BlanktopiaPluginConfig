@@ -1,5 +1,5 @@
 name: Openplate
-material: PAPER
+item: paper
 custom-model-data: 6153
 model: 'cocricotmod:block/openplate'
 

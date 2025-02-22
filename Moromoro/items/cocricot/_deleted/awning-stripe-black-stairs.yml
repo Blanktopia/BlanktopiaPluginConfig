@@ -1,5 +1,5 @@
 name: Awning Stripe Black Stairs
-material: PAPER
+item: paper
 custom-model-data: 2142
 model: 'cocricotmod:block/awning_stripe_black_stairs'
 

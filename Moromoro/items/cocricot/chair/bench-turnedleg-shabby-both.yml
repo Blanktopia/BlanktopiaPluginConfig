@@ -1,5 +1,5 @@
 name: Bench Turnedleg Shabby Both
-material: PAPER
+item: paper
 custom-model-data: 2452
 model: cocricotmod:block/bench_turnedleg_shabby_both
 block:

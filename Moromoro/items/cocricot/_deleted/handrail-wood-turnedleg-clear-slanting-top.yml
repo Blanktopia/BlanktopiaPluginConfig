@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Clear Slanting Top
-material: PAPER
+item: paper
 custom-model-data: 5706
 model: 'cocricotmod:block/handrail_wood_turnedleg_clear_slanting_top'
 

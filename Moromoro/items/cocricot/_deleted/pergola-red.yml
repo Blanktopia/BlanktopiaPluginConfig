@@ -1,5 +1,5 @@
 name: Pergola Red
-material: PAPER
+item: paper
 custom-model-data: 6233
 model: 'cocricotmod:block/pergola_red'
 

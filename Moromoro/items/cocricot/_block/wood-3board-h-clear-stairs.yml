@@ -1,5 +1,5 @@
 name: Wood  3board H Clear Stairs
-material: PAPER
+item: paper
 custom-model-data: 9450
 model: 'cocricotmod:block/wood_3board_h_clear_stairs'
 

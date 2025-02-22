@@ -1,5 +1,5 @@
 name: Wood  6board Brown Arch Single
-material: PAPER
+item: paper
 custom-model-data: 9536
 model: 'cocricotmod:block/wood_6board_brown_arch_single'
 

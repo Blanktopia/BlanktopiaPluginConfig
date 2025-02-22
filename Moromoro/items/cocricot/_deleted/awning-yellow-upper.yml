@@ -1,5 +1,5 @@
 name: Awning Yellow Upper
-material: PAPER
+item: paper
 custom-model-data: 2290
 model: 'cocricotmod:block/awning_yellow_upper'
 

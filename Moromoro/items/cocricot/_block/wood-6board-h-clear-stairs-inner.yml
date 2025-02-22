@@ -1,5 +1,5 @@
 name: Wood  6board H Clear Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9591
 model: 'cocricotmod:block/wood_6board_h_clear_stairs_inner'
 

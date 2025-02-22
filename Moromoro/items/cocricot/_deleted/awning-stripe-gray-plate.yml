@@ -1,5 +1,5 @@
 name: Awning Stripe Gray Plate
-material: PAPER
+item: paper
 custom-model-data: 2172
 model: 'cocricotmod:block/awning_stripe_gray_plate'
 

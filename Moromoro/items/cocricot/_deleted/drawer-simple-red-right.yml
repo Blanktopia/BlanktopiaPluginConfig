@@ -1,5 +1,5 @@
 name: Drawer Simple Red Right
-material: PAPER
+item: paper
 custom-model-data: 4604
 model: 'cocricotmod:block/drawer_simple_red_right'
 

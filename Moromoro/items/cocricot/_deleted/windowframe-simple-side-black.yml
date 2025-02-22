@@ -1,5 +1,5 @@
 name: Windowframe Simple Side Black
-material: PAPER
+item: paper
 custom-model-data: 9170
 model: 'cocricotmod:block/windowframe_simple_side_black'
 

@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Clear Corner
-material: PAPER
+item: paper
 custom-model-data: 5608
 model: 'cocricotmod:block/handrail_wood_straight_clear_corner'
 

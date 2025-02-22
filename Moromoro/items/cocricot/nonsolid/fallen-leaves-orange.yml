@@ -1,5 +1,5 @@
 name: Fallen Leaves Orange
-material: PAPER
+item: paper
 custom-model-data: 4671
 model: 'cocricotmod:block/fallen_leaves_orange'
 

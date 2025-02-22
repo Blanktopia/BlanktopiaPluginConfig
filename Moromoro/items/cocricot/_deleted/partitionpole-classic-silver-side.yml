@@ -1,5 +1,5 @@
 name: Partitionpole Classic Silver Side
-material: PAPER
+item: paper
 custom-model-data: 6180
 model: 'cocricotmod:block/partitionpole_classic_silver_side'
 

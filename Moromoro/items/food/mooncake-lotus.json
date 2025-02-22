@@ -1,6 +1,6 @@
 {
    "custom-model-data": 11,
-   "material": "COOKIE",
+   "item": "cookie",
    "model": "blanktopia:food/mooncakes/lotus",
    "name": "<white>Lotus Paste Mooncake",
    "triggers": {

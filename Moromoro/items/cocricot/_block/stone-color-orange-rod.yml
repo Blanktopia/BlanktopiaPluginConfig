@@ -1,5 +1,5 @@
 name: Stone Color Orange Rod
-material: PAPER
+item: paper
 custom-model-data: 7817
 model: 'cocricotmod:block/stone_color_orange_rod'
 

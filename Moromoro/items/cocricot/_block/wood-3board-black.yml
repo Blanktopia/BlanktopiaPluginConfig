@@ -1,5 +1,5 @@
 name: Wood  3board Black
-material: PAPER
+item: paper
 custom-model-data: 9382
 model: 'cocricotmod:block/wood_3board_black'
 

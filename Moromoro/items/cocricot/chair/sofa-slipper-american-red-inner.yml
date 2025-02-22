@@ -1,5 +1,5 @@
 name: Sofa Slipper American Red Inner
-material: PAPER
+item: paper
 custom-model-data: 7459
 model: cocricotmod:block/sofa_slipper_american_red_inner
 block:

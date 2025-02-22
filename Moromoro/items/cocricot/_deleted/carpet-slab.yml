@@ -1,5 +1,5 @@
 name: Carpet Slab
-material: PAPER
+item: paper
 custom-model-data: 2921
 model: 'cocricotmod:block/carpet_slab'
 

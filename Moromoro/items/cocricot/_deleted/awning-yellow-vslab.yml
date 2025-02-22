@@ -1,5 +1,5 @@
 name: Awning Yellow Vslab
-material: PAPER
+item: paper
 custom-model-data: 2291
 model: 'cocricotmod:block/awning_yellow_vslab'
 

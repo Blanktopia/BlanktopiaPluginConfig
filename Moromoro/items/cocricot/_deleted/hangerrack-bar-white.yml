@@ -1,5 +1,5 @@
 name: Hangerrack Bar White
-material: PAPER
+item: paper
 custom-model-data: 5764
 model: 'cocricotmod:block/hangerrack_bar_white'
 

@@ -1,5 +1,5 @@
 name: Piano White
-material: PAPER
+item: paper
 custom-model-data: 6252
 model: cocricotmod:block/piano_white
 block:

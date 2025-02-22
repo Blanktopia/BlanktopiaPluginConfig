@@ -1,5 +1,5 @@
 name: Wood  6board Natural Plate
-material: PAPER
+item: paper
 custom-model-data: 9629
 model: 'cocricotmod:block/wood_6board_natural_plate'
 

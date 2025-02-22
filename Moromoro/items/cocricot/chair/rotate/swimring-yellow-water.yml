@@ -1,5 +1,5 @@
 name: Swimring Yellow Water
-material: PAPER
+item: paper
 custom-model-data: 8148
 model: cocricotmod:block/swimring_yellow_water
 block:

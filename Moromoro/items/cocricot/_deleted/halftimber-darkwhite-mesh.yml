@@ -1,5 +1,5 @@
 name: Halftimber Darkwhite Mesh
-material: PAPER
+item: paper
 custom-model-data: 5405
 model: 'cocricotmod:block/halftimber_darkwhite_mesh'
 

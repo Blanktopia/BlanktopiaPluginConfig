@@ -1,5 +1,5 @@
 name: Bed Mattress Red Gingham
-material: PAPER
+item: paper
 custom-model-data: 2418
 model: cocricotmod:block/bed_mattress_red_gingham
 block:

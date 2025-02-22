@@ -1,5 +1,5 @@
 name: Stone Tile Sand
-material: PAPER
+item: paper
 custom-model-data: 7969
 model: 'cocricotmod:block/stone_tile_sand'
 

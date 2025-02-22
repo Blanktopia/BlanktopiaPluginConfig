@@ -1,5 +1,5 @@
 name: "Straw Hat"
-material: LEATHER_HORSE_ARMOR
+item: leather_horse_armor
 custom-model-data: 2000
 model: "blanktopia:hats/straw_hat"
 lore:

@@ -1,6 +1,6 @@
 version: 3
 name: "<transition:#5b577f:#4a217c>Venom"
-material: NETHERITE_SWORD
+item: netherite_sword
 custom-model-data: 1
 soulbound: true
 unbreakable: true

@@ -1,5 +1,5 @@
 name: Chair Greek Red
-material: PAPER
+item: paper
 custom-model-data: 3028
 model: cocricotmod:block/chair_greek_red
 block:

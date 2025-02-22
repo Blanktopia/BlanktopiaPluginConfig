@@ -5,7 +5,7 @@
       "type": "mushroom"
    },
    "custom-model-data": 1002,
-   "material": "PAPER",
+   "item": "paper",
    "model": "blanktopia:block/bamboo_block",
    "name": "<white>Bamboo Block"
 }

@@ -1,5 +1,5 @@
 name: Door  4glass Brown Top
-material: PAPER
+item: paper
 custom-model-data: 3700
 model: 'cocricotmod:block/door_4glass_brown_top'
 

@@ -1,5 +1,5 @@
 name: Awning Stripe Lightpurple Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2218
 model: 'cocricotmod:block/awning_stripe_lightpurple_slab_upper'
 

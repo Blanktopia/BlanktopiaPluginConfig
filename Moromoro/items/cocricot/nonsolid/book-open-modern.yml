@@ -1,5 +1,5 @@
 name: Book Open Modern
-material: PAPER
+item: paper
 custom-model-data: 2490
 model: 'cocricotmod:block/book_open_modern'
 

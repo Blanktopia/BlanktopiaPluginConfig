@@ -1,5 +1,5 @@
 name: Bed Mattress White
-material: PAPER
+item: paper
 custom-model-data: 2420
 model: cocricotmod:block/bed_mattress_white
 block:

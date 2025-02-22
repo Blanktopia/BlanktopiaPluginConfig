@@ -1,5 +1,5 @@
 name: Shelf Normal Empty
-material: PAPER
+item: paper
 custom-model-data: 7162
 model: 'cocricotmod:block/shelf_normal_empty'
 

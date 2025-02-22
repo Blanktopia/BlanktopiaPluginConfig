@@ -1,5 +1,5 @@
 name: Stucco Marineblue Item
-material: PAPER
+item: paper
 custom-model-data: 8048
 model: 'cocricotmod:block/stucco_marineblue_item'
 

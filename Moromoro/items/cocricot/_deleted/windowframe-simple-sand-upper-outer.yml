@@ -1,5 +1,5 @@
 name: Windowframe Simple Sand Upper Outer
-material: PAPER
+item: paper
 custom-model-data: 9169
 model: 'cocricotmod:block/windowframe_simple_sand_upper_outer'
 

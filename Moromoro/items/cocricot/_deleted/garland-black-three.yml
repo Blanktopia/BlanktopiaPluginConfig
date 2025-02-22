@@ -1,5 +1,5 @@
 name: Garland Black Three
-material: PAPER
+item: paper
 custom-model-data: 5003
 model: 'cocricotmod:block/garland_black_three'
 

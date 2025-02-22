@@ -1,5 +1,5 @@
 name: Bathrobe
-material: PAPER
+item: paper
 custom-model-data: 2375
 model: 'cocricotmod:block/bathrobe'
 

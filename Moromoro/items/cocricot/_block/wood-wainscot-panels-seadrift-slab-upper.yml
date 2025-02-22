@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Seadrift Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9848
 model: 'cocricotmod:block/wood_wainscot_panels_seadrift_slab_upper'
 

@@ -1,5 +1,5 @@
 name: Milkglasslamp Round Small
-material: PAPER
+item: paper
 custom-model-data: 6120
 model: 'cocricotmod:block/milkglasslamp_round_small'
 

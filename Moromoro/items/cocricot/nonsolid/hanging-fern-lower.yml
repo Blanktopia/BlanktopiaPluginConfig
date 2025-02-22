@@ -1,5 +1,5 @@
 name: Hanging Fern Lower
-material: PAPER
+item: paper
 custom-model-data: 5779
 model: 'cocricotmod:block/hanging_fern_lower'
 

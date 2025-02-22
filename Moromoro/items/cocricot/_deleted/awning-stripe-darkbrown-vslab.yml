@@ -1,5 +1,5 @@
 name: Awning Stripe Darkbrown Vslab
-material: PAPER
+item: paper
 custom-model-data: 2168
 model: 'cocricotmod:block/awning_stripe_darkbrown_vslab'
 

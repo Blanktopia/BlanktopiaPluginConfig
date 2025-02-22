@@ -1,5 +1,5 @@
 name: Flowerpot Brown
-material: PAPER
+item: paper
 custom-model-data: 4888
 model: 'cocricotmod:block/flowerpot_brown'
 

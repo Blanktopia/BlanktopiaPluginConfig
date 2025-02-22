@@ -1,5 +1,5 @@
 name: Chair Rocking
-material: PAPER
+item: paper
 custom-model-data: 3052
 model: cocricotmod:block/chair_rocking
 block:

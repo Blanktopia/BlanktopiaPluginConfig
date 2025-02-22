@@ -1,5 +1,5 @@
 name: Bed Pillow Orange
-material: PAPER
+item: paper
 custom-model-data: 2431
 model: 'cocricotmod:block/bed_pillow_orange'
 

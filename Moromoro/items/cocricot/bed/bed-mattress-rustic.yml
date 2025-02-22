@@ -1,5 +1,5 @@
 name: Bed Mattress Rustic
-material: PAPER
+item: paper
 custom-model-data: 2419
 model: cocricotmod:block/bed_mattress_rustic
 block:

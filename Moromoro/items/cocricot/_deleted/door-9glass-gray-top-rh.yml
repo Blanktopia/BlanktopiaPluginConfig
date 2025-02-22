@@ -1,5 +1,5 @@
 name: Door  9glass Gray Top Rh
-material: PAPER
+item: paper
 custom-model-data: 3766
 model: 'cocricotmod:block/door_9glass_gray_top_rh'
 

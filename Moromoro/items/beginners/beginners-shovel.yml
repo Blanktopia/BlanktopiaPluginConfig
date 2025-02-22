@@ -1,6 +1,6 @@
 version: 1
 name: "Beginner's Shovel"
-material: WOODEN_SHOVEL
+item: wooden_shovel
 soulbound: true
 unenchantable: true
 lore:

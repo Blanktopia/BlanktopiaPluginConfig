@@ -1,5 +1,5 @@
 name: Floorlamp Simpleleg Black Lower
-material: PAPER
+item: paper
 custom-model-data: 4850
 model: 'cocricotmod:block/floorlamp_simpleleg_black_lower'
 

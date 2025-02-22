@@ -1,5 +1,5 @@
 name: Drainpipe Elbow Antique
-material: PAPER
+item: paper
 custom-model-data: 4502
 model: 'cocricotmod:block/drainpipe_elbow_antique'
 

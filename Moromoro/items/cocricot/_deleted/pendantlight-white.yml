@@ -1,5 +1,5 @@
 name: Pendantlight White
-material: PAPER
+item: paper
 custom-model-data: 6221
 model: 'cocricotmod:block/pendantlight_white'
 

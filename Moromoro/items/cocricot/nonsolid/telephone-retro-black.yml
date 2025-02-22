@@ -1,5 +1,5 @@
 name: Telephone Retro Black
-material: PAPER
+item: paper
 custom-model-data: 8249
 model: 'cocricotmod:block/telephone_retro_black'
 

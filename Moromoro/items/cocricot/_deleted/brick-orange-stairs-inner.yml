@@ -1,5 +1,5 @@
 name: Brick Orange Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 2683
 model: 'cocricotmod:block/brick_orange_stairs_inner'
 

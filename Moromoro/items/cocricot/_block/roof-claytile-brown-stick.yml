@@ -1,5 +1,5 @@
 name: Roof Claytile Brown Stick
-material: PAPER
+item: paper
 custom-model-data: 6404
 model: 'cocricotmod:block/roof_claytile_brown_stick'
 

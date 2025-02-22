@@ -1,6 +1,6 @@
 local furniture(name, model, customModelData, collision = false, sitHeight = null, sitRotate = null, options = {}) = {
     name: "<white>" + name,
-    material: "LEATHER_HORSE_ARMOR",
+    item: "leather_horse_armor",
     'custom-model-data': customModelData,
     model: "blanktopia:furniture/" + model,
     block: {

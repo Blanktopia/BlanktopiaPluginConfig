@@ -1,5 +1,5 @@
 name: Marble Plate
-material: PAPER
+item: paper
 custom-model-data: 6055
 model: 'cocricotmod:block/marble_plate'
 

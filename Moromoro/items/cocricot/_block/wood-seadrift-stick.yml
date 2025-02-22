@@ -1,5 +1,5 @@
 name: Wood Seadrift Stick
-material: PAPER
+item: paper
 custom-model-data: 9808
 model: 'cocricotmod:block/wood_seadrift_stick'
 

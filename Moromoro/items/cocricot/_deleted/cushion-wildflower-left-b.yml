@@ -1,5 +1,5 @@
 name: Cushion Wildflower Left B
-material: PAPER
+item: paper
 custom-model-data: 3393
 model: 'cocricotmod:block/cushion_wildflower_left_b'
 

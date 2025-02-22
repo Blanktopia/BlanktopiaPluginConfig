@@ -1,5 +1,5 @@
 name: Base Nothickness Slant
-material: PAPER
+item: paper
 custom-model-data: 2324
 model: 'cocricotmod:block/base_nothickness_slant'
 

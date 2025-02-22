@@ -1,5 +1,5 @@
 name: Bracket White
-material: PAPER
+item: paper
 custom-model-data: 2589
 model: 'cocricotmod:block/bracket_white'
 

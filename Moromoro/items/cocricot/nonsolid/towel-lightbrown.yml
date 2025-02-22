@@ -1,5 +1,5 @@
 name: Towel Lightbrown
-material: PAPER
+item: paper
 custom-model-data: 8321
 model: 'cocricotmod:block/towel_lightbrown'
 

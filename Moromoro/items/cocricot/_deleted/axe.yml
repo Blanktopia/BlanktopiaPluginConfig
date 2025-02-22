@@ -1,5 +1,5 @@
 name: Axe
-material: PAPER
+item: paper
 custom-model-data: 2292
 model: 'cocricotmod:block/axe'
 

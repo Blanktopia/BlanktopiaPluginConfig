@@ -1,5 +1,5 @@
 name: Wood Herringbone Seadrift Plate 2
-material: PAPER
+item: paper
 custom-model-data: 9764
 model: 'cocricotmod:block/wood_herringbone_seadrift_plate2'
 

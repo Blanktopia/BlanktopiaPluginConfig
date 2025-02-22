@@ -1,5 +1,5 @@
 name: Roundtable Greek Red
-material: PAPER
+item: paper
 custom-model-data: 6893
 model: cocricotmod:block/roundtable_greek_red
 block:

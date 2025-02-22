@@ -1,5 +1,5 @@
 name: Ironfence Chain White Post
-material: PAPER
+item: paper
 custom-model-data: 5857
 model: 'cocricotmod:block/ironfence_chain_white_post'
 

@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1025,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/dark_oak_desk",
    "name": "<white>Dark Oak Desk"
 }

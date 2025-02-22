@@ -1,5 +1,5 @@
 name: Wood Herringbone Black Plate 2
-material: PAPER
+item: paper
 custom-model-data: 9714
 model: 'cocricotmod:block/wood_herringbone_black_plate2'
 

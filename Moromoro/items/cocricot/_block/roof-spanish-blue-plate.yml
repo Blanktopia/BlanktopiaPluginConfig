@@ -1,5 +1,5 @@
 name: Roof Spanish Blue Plate
-material: PAPER
+item: paper
 custom-model-data: 6643
 model: 'cocricotmod:block/roof_spanish_blue_plate'
 

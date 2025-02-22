@@ -1,5 +1,5 @@
 name: Marble Vslab
-material: PAPER
+item: paper
 custom-model-data: 6065
 model: 'cocricotmod:block/marble_vslab'
 

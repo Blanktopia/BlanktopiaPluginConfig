@@ -1,5 +1,5 @@
 name: Halftimber Darkblue Cross
-material: PAPER
+item: paper
 custom-model-data: 5310
 model: 'cocricotmod:block/halftimber_darkblue_cross'
 

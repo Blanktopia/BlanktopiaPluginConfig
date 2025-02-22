@@ -1,5 +1,5 @@
 name: Sink Shabby Black
-material: PAPER
+item: paper
 custom-model-data: 7326
 model: cocricotmod:block/sink_shabby_black
 block:

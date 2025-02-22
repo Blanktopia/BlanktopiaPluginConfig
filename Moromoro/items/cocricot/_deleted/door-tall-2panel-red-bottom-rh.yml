@@ -1,5 +1,5 @@
 name: Door Tall  2panel Red Bottom Rh
-material: PAPER
+item: paper
 custom-model-data: 4138
 model: 'cocricotmod:block/door_tall_2panel_red_bottom_rh'
 

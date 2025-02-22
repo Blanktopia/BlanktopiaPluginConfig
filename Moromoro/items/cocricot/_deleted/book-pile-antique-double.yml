@@ -1,5 +1,5 @@
 name: Book Pile Antique Double
-material: PAPER
+item: paper
 custom-model-data: 2493
 model: 'cocricotmod:block/book_pile_antique_double'
 

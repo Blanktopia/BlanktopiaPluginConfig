@@ -1,5 +1,5 @@
 name: Window Color Black Pane All
-material: PAPER
+item: paper
 custom-model-data: 8695
 model: 'cocricotmod:block/window_color_black_pane_all'
 

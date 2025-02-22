@@ -1,5 +1,5 @@
 name: Windowframe Classic Sand Lower Outer
-material: PAPER
+item: paper
 custom-model-data: 9082
 model: 'cocricotmod:block/windowframe_classic_sand_lower_outer'
 

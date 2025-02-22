@@ -1,5 +1,5 @@
 name: Curtain Fringe White
-material: PAPER
+item: paper
 custom-model-data: 3248
 model: 'cocricotmod:block/curtain_fringe_white'
 

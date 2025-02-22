@@ -1,5 +1,5 @@
 name: Window Diamond Seadrift Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8885
 model: 'cocricotmod:block/window_diamond_seadrift_pane_both'
 

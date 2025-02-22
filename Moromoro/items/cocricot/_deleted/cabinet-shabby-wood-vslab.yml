@@ -1,5 +1,5 @@
 name: Cabinet Shabby Wood Vslab
-material: PAPER
+item: paper
 custom-model-data: 2829
 model: 'cocricotmod:block/cabinet_shabby_wood_vslab'
 

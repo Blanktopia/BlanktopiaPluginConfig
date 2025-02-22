@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Brown Slab
-material: PAPER
+item: paper
 custom-model-data: 9817
 model: 'cocricotmod:block/wood_wainscot_panels_brown_slab'
 

@@ -1,5 +1,5 @@
 name: Chest Shabby Lightgreen
-material: PAPER
+item: paper
 custom-model-data: 3089
 model: 'cocricotmod:block/chest_shabby_lightgreen'
 

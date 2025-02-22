@@ -1,5 +1,5 @@
 name: Door  9glass Wood Top
-material: PAPER
+item: paper
 custom-model-data: 3852
 model: 'cocricotmod:block/door_9glass_wood_top'
 

@@ -1,5 +1,5 @@
 name: Window Arch White
-material: PAPER
+item: paper
 custom-model-data: 8575
 model: 'cocricotmod:block/window_arch_white'
 

@@ -1,5 +1,5 @@
 name: Huntingtrophy Deer
-material: PAPER
+item: paper
 custom-model-data: 5822
 model: 'cocricotmod:block/huntingtrophy_deer'
 

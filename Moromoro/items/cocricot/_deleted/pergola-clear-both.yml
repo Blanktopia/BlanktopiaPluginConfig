@@ -1,5 +1,5 @@
 name: Pergola Clear Both
-material: PAPER
+item: paper
 custom-model-data: 6226
 model: 'cocricotmod:block/pergola_clear_both'
 

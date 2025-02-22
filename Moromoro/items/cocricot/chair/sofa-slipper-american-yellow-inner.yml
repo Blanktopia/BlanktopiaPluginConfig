@@ -1,5 +1,5 @@
 name: Sofa Slipper American Yellow Inner
-material: PAPER
+item: paper
 custom-model-data: 7465
 model: cocricotmod:block/sofa_slipper_american_yellow_inner
 block:

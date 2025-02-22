@@ -1,5 +1,5 @@
 name: Wood Brown Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 9683
 model: 'cocricotmod:block/wood_brown_stairs_outer'
 

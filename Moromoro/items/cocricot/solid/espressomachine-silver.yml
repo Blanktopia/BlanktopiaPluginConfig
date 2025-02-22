@@ -1,5 +1,5 @@
 name: Espressomachine Silver
-material: PAPER
+item: paper
 custom-model-data: 4664
 model: cocricotmod:block/espressomachine_silver
 block:

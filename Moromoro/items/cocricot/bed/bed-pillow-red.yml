@@ -1,5 +1,5 @@
 name: Bed Pillow Red
-material: PAPER
+item: paper
 custom-model-data: 2434
 model: 'cocricotmod:block/bed_pillow_red'
 

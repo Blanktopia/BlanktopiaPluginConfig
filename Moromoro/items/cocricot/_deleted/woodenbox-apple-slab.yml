@@ -1,5 +1,5 @@
 name: Woodenbox Apple Slab
-material: PAPER
+item: paper
 custom-model-data: 9916
 model: 'cocricotmod:block/woodenbox_apple_slab'
 

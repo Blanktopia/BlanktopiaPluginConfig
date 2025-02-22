@@ -1,5 +1,5 @@
 name: Chair Greek Lightblue
-material: PAPER
+item: paper
 custom-model-data: 3025
 model: cocricotmod:block/chair_greek_lightblue
 block:

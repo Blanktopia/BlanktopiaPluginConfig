@@ -1,5 +1,5 @@
 name: Industrialshadelamp Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 5841
 model: 'cocricotmod:block/industrialshadelamp_mintgreen'
 

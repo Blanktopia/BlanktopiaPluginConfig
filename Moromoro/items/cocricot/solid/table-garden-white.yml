@@ -1,5 +1,5 @@
 name: Table Garden White
-material: PAPER
+item: paper
 custom-model-data: 8173
 model: cocricotmod:block/table_garden_white
 block:

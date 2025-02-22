@@ -1,5 +1,5 @@
 name: Tablelamp Stainedglass Red
-material: PAPER
+item: paper
 custom-model-data: 8229
 model: 'cocricotmod:block/tablelamp_stainedglass_red'
 

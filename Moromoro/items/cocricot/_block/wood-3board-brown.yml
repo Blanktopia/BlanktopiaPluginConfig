@@ -1,5 +1,5 @@
 name: Wood  3board Brown
-material: PAPER
+item: paper
 custom-model-data: 9394
 model: 'cocricotmod:block/wood_3board_brown'
 

@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1000,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/oak_chair",
    "name": "<white>Oak Chair"
 }

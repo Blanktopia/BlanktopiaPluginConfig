@@ -1,5 +1,5 @@
 name: Sofa Simple Green Right
-material: PAPER
+item: paper
 custom-model-data: 7415
 model: cocricotmod:block/sofa_simple_green_right
 block:

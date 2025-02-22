@@ -1,5 +1,5 @@
 name: Garland Pop Post
-material: PAPER
+item: paper
 custom-model-data: 5032
 model: 'cocricotmod:block/garland_pop_post'
 

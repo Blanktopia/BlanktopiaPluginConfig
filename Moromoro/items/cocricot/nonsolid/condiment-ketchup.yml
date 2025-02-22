@@ -1,5 +1,5 @@
 name: Condiment Ketchup
-material: PAPER
+item: paper
 custom-model-data: 3195
 model: 'cocricotmod:block/condiment_ketchup'
 

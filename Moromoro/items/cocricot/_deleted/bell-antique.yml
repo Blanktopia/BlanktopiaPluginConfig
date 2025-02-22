@@ -1,5 +1,5 @@
 name: Bell Antique
-material: PAPER
+item: paper
 custom-model-data: 2442
 model: 'cocricotmod:block/bell_antique'
 

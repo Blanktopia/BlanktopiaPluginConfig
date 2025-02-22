@@ -1,5 +1,5 @@
 name: Halftimber Darkblue Tudor
-material: PAPER
+item: paper
 custom-model-data: 5320
 model: 'cocricotmod:block/halftimber_darkblue_tudor'
 

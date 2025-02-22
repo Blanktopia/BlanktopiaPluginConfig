@@ -1,5 +1,5 @@
 name: Stone Tile Sand Plate
-material: PAPER
+item: paper
 custom-model-data: 7979
 model: 'cocricotmod:block/stone_tile_sand_plate'
 

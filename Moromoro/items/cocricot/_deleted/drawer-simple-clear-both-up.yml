@@ -1,5 +1,5 @@
 name: Drawer Simple Clear Both Up
-material: PAPER
+item: paper
 custom-model-data: 4567
 model: 'cocricotmod:block/drawer_simple_clear_both_up'
 

@@ -1,5 +1,5 @@
 name: Stone Color Yellow Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7873
 model: 'cocricotmod:block/stone_color_yellow_stairs_inner'
 

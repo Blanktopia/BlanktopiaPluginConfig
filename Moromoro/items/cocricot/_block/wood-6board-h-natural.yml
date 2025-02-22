@@ -1,5 +1,5 @@
 name: Wood  6board H Natural
-material: PAPER
+item: paper
 custom-model-data: 9602
 model: 'cocricotmod:block/wood_6board_h_natural'
 

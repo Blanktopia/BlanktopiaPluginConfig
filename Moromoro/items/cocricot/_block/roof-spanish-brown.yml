@@ -1,5 +1,5 @@
 name: Roof Spanish Brown
-material: PAPER
+item: paper
 custom-model-data: 6652
 model: 'cocricotmod:block/roof_spanish_brown'
 

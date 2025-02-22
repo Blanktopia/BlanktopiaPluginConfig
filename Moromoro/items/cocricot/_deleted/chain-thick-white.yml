@@ -1,5 +1,5 @@
 name: Chain Thick White
-material: PAPER
+item: paper
 custom-model-data: 2977
 model: 'cocricotmod:block/chain_thick_white'
 

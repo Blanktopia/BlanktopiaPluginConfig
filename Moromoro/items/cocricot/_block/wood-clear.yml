@@ -1,5 +1,5 @@
 name: Wood Clear
-material: PAPER
+item: paper
 custom-model-data: 9686
 model: 'cocricotmod:block/wood_clear'
 

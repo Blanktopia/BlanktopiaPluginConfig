@@ -1,5 +1,5 @@
 name: Awning Gray Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 2053
 model: 'cocricotmod:block/awning_gray_stairs_outer'
 

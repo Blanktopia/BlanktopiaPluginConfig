@@ -1,5 +1,5 @@
 name: Breakfast Croissant
-material: PAPER
+item: paper
 custom-model-data: 2617
 model: 'cocricotmod:block/breakfast_croissant'
 

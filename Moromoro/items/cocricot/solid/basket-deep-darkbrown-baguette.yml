@@ -1,5 +1,5 @@
 name: Basket Deep Darkbrown Baguette
-material: PAPER
+item: paper
 custom-model-data: 2365
 model: cocricotmod:block/basket_deep_darkbrown_baguette
 block:

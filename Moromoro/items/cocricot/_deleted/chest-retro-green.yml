@@ -1,5 +1,5 @@
 name: Chest Retro Green
-material: PAPER
+item: paper
 custom-model-data: 3079
 model: 'cocricotmod:block/chest_retro_green'
 

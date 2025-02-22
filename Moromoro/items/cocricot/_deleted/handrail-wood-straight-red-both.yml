@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Red Both
-material: PAPER
+item: paper
 custom-model-data: 5646
 model: 'cocricotmod:block/handrail_wood_straight_red_both'
 

@@ -1,5 +1,5 @@
 name: Curtain Separate Lightgreen Left
-material: PAPER
+item: paper
 custom-model-data: 3276
 model: 'cocricotmod:block/curtain_separate_lightgreen_left'
 

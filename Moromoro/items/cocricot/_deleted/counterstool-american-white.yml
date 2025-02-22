@@ -1,5 +1,5 @@
 name: Counterstool American White
-material: PAPER
+item: paper
 custom-model-data: 3206
 model: 'cocricotmod:block/counterstool_american_white'
 

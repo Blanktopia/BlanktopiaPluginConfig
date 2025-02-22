@@ -1,5 +1,5 @@
 name: Tapioca Matchamilk
-material: PAPER
+item: paper
 custom-model-data: 8240
 model: 'cocricotmod:block/tapioca_matchamilk'
 

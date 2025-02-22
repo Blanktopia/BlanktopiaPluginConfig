@@ -1,5 +1,5 @@
 name: Rustication Banded Black Vslab
-material: PAPER
+item: paper
 custom-model-data: 7106
 model: 'cocricotmod:block/rustication_banded_black_vslab'
 

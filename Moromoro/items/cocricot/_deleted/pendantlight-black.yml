@@ -1,5 +1,5 @@
 name: Pendantlight Black
-material: PAPER
+item: paper
 custom-model-data: 6208
 model: 'cocricotmod:block/pendantlight_black'
 

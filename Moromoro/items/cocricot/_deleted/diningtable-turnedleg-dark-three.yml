@@ -1,5 +1,5 @@
 name: Diningtable Turnedleg Dark Three
-material: PAPER
+item: paper
 custom-model-data: 3477
 model: 'cocricotmod:block/diningtable_turnedleg_dark_three'
 

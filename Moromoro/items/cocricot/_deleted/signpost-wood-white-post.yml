@@ -1,5 +1,5 @@
 name: Signpost Wood White Post
-material: PAPER
+item: paper
 custom-model-data: 7299
 model: 'cocricotmod:block/signpost_wood_white_post'
 

@@ -1,5 +1,5 @@
 name: Ottoman Resort
-material: PAPER
+item: paper
 custom-model-data: 6154
 model: cocricotmod:block/ottoman_resort
 block:

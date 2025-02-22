@@ -1,5 +1,5 @@
 name: Stucco Pink Item
-material: PAPER
+item: paper
 custom-model-data: 8077
 model: 'cocricotmod:block/stucco_pink_item'
 

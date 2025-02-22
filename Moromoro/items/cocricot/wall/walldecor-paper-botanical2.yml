@@ -1,5 +1,5 @@
 name: Walldecor Paper Botanical 2
-material: PAPER
+item: paper
 custom-model-data: 8362
 model: 'cocricotmod:block/walldecor_paper_botanical2'
 

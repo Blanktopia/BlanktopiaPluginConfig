@@ -1,5 +1,5 @@
 name: Window Frame Marineblue Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8963
 model: 'cocricotmod:block/window_frame_marineblue_pane_post'
 

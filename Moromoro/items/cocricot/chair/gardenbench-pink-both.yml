@@ -1,5 +1,5 @@
 name: Gardenbench Pink Both
-material: PAPER
+item: paper
 custom-model-data: 4976
 model: cocricotmod:block/gardenbench_pink_both
 block:

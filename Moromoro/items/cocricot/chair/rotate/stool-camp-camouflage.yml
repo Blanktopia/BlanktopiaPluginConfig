@@ -1,5 +1,5 @@
 name: Stool Camp Camouflage
-material: PAPER
+item: paper
 custom-model-data: 7997
 model: cocricotmod:block/stool_camp_camouflage
 block:

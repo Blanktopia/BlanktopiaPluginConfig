@@ -1,5 +1,5 @@
 name: Glass Frame Brown Shift
-material: PAPER
+item: paper
 custom-model-data: 5067
 model: 'cocricotmod:block/glass_frame_brown_shift'
 

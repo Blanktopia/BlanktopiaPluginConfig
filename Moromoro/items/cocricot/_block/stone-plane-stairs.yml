@@ -1,5 +1,5 @@
 name: Stone Plane Stairs
-material: PAPER
+item: paper
 custom-model-data: 7939
 model: 'cocricotmod:block/stone_plane_stairs'
 

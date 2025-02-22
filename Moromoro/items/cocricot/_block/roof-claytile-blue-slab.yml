@@ -1,5 +1,5 @@
 name: Roof Claytile Blue Slab
-material: PAPER
+item: paper
 custom-model-data: 6379
 model: 'cocricotmod:block/roof_claytile_blue_slab'
 

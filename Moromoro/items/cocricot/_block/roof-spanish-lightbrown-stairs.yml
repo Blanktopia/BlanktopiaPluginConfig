@@ -1,5 +1,5 @@
 name: Roof Spanish Lightbrown Stairs
-material: PAPER
+item: paper
 custom-model-data: 6709
 model: 'cocricotmod:block/roof_spanish_lightbrown_stairs'
 

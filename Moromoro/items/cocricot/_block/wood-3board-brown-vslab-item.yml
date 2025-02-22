@@ -1,5 +1,5 @@
 name: Wood  3board Brown Vslab Item
-material: PAPER
+item: paper
 custom-model-data: 9405
 model: 'cocricotmod:block/wood_3board_brown_vslab_item'
 

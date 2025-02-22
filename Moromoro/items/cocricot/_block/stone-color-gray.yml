@@ -1,5 +1,5 @@
 name: Stone Color Gray
-material: PAPER
+item: paper
 custom-model-data: 7735
 model: 'cocricotmod:block/stone_color_gray'
 

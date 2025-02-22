@@ -1,5 +1,5 @@
 name: Fence Victorian White Side
-material: PAPER
+item: paper
 custom-model-data: 4829
 model: 'cocricotmod:block/fence_victorian_white_side'
 

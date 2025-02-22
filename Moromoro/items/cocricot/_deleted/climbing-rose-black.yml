@@ -1,5 +1,5 @@
 name: Climbing Rose Black
-material: PAPER
+item: paper
 custom-model-data: 3098
 model: 'cocricotmod:block/climbing_rose_black'
 

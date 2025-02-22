@@ -1,5 +1,5 @@
 name: Stone Color Lightgray Stick
-material: PAPER
+item: paper
 custom-model-data: 7784
 model: 'cocricotmod:block/stone_color_lightgray_stick'
 

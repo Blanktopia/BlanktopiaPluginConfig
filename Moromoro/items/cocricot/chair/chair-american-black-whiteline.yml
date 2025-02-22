@@ -1,5 +1,5 @@
 name: Chair American Black Whiteline
-material: PAPER
+item: paper
 custom-model-data: 2985
 model: cocricotmod:block/chair_american_black_whiteline
 block:

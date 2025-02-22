@@ -1,5 +1,5 @@
 name: Windowframe Simple Upper Inner
-material: PAPER
+item: paper
 custom-model-data: 9213
 model: 'cocricotmod:block/windowframe_simple_upper_inner'
 

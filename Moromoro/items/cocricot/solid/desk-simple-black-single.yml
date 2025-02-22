@@ -1,5 +1,5 @@
 name: Desk Simple Black Single
-material: PAPER
+item: paper
 custom-model-data: 3424
 model: cocricotmod:block/desk_simple_black_single
 block:

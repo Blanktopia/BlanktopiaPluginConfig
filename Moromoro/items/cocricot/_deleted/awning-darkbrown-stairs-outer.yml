@@ -1,5 +1,5 @@
 name: Awning Darkbrown Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 2042
 model: 'cocricotmod:block/awning_darkbrown_stairs_outer'
 

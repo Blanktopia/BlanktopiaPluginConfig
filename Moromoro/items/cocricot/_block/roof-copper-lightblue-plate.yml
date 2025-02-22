@@ -1,5 +1,5 @@
 name: Roof Copper Lightblue Plate
-material: PAPER
+item: paper
 custom-model-data: 6482
 model: 'cocricotmod:block/roof_copper_lightblue_plate'
 

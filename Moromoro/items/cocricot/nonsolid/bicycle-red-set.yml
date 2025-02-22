@@ -1,5 +1,5 @@
 name: Bicycle Red Set
-material: PAPER
+item: paper
 custom-model-data: 2470
 model: 'cocricotmod:block/bicycle_red_set'
 

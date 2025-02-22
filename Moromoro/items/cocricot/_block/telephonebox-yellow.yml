@@ -1,5 +1,5 @@
 name: Telephonebox Yellow
-material: PAPER
+item: paper
 custom-model-data: 8260
 model: 'cocricotmod:block/telephonebox_yellow'
 

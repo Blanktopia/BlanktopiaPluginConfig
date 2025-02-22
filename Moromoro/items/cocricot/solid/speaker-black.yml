@@ -1,5 +1,5 @@
 name: Speaker Black
-material: PAPER
+item: paper
 custom-model-data: 7532
 model: cocricotmod:block/speaker_black
 block:

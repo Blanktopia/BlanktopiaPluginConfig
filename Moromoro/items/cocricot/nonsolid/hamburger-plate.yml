@@ -1,5 +1,5 @@
 name: Hamburger Plate
-material: PAPER
+item: paper
 custom-model-data: 5552
 model: 'cocricotmod:block/hamburger_plate'
 

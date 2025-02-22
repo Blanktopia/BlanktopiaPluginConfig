@@ -1,5 +1,5 @@
 name: Recordplayer Brown
-material: PAPER
+item: paper
 custom-model-data: 6331
 model: 'cocricotmod:block/recordplayer_brown'
 

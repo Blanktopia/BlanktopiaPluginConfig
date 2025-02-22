@@ -1,5 +1,5 @@
 name: Table Ironleg Seadrift Corner
-material: PAPER
+item: paper
 custom-model-data: 8207
 model: cocricotmod:block/table_ironleg_seadrift_corner
 block:

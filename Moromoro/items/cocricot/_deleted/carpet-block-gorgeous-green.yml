@@ -1,5 +1,5 @@
 name: Carpet Block Gorgeous Green
-material: PAPER
+item: paper
 custom-model-data: 2909
 model: 'cocricotmod:block/carpet_block_gorgeous_green'
 

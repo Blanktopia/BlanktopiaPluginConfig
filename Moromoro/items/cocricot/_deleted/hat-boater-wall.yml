@@ -1,5 +1,5 @@
 name: Hat Boater Wall
-material: PAPER
+item: paper
 custom-model-data: 5807
 model: 'cocricotmod:block/hat_boater_wall'
 

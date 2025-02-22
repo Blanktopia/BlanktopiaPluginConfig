@@ -1,6 +1,6 @@
 version: 1
 name: "<transition:#3b875c:#8ec153>Botanic Manipulator"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1010
 model: "blanktopia:rares/biome_wand"
 soulbound: true

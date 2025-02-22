@@ -1,5 +1,5 @@
 name: Stone Bushrock Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 7652
 model: 'cocricotmod:block/stone_bushrock_slab_upper'
 

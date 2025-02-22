@@ -1,5 +1,5 @@
 name: Roof Claytile Blue
-material: PAPER
+item: paper
 custom-model-data: 6366
 model: 'cocricotmod:block/roof_claytile_blue'
 

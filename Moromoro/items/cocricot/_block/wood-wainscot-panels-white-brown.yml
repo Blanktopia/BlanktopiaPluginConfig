@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels White Brown
-material: PAPER
+item: paper
 custom-model-data: 9853
 model: 'cocricotmod:block/wood_wainscot_panels_white_brown'
 

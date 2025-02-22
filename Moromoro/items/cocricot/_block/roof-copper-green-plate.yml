@@ -1,5 +1,5 @@
 name: Roof Copper Green Plate
-material: PAPER
+item: paper
 custom-model-data: 6462
 model: 'cocricotmod:block/roof_copper_green_plate'
 

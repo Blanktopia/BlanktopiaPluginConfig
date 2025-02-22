@@ -1,5 +1,5 @@
 name: Window Diamond Clear Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8822
 model: 'cocricotmod:block/window_diamond_clear_pane_both'
 

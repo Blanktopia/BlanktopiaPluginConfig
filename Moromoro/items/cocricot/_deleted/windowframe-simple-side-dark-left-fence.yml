@@ -1,5 +1,5 @@
 name: Windowframe Simple Side Dark Left Fence
-material: PAPER
+item: paper
 custom-model-data: 9185
 model: 'cocricotmod:block/windowframe_simple_side_dark_left_fence'
 

@@ -1,5 +1,5 @@
 name: Carpet Block Fringe
-material: PAPER
+item: paper
 custom-model-data: 2901
 model: 'cocricotmod:block/carpet_block_fringe'
 

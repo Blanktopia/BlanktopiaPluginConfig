@@ -1,5 +1,5 @@
 name: Leaves Orange
-material: PAPER
+item: paper
 custom-model-data: 5959
 model: 'cocricotmod:block/leaves_orange'
 

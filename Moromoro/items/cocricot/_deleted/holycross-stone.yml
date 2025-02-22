@@ -1,5 +1,5 @@
 name: Holycross Stone
-material: PAPER
+item: paper
 custom-model-data: 5817
 model: 'cocricotmod:block/holycross_stone'
 

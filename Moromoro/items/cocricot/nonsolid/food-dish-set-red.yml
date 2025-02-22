@@ -1,5 +1,5 @@
 name: Food Dish Set Red
-material: PAPER
+item: paper
 custom-model-data: 4933
 model: 'cocricotmod:block/food_dish_set_red'
 

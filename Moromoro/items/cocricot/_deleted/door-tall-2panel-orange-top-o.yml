@@ -1,5 +1,5 @@
 name: Door Tall  2panel Orange Top O
-material: PAPER
+item: paper
 custom-model-data: 4125
 model: 'cocricotmod:block/door_tall_2panel_orange_top_o'
 

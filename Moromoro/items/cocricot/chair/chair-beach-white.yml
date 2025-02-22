@@ -1,5 +1,5 @@
 name: Chair Beach White
-material: PAPER
+item: paper
 custom-model-data: 3002
 model: cocricotmod:block/chair_beach_white
 block:

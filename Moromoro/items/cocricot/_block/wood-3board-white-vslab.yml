@@ -1,5 +1,5 @@
 name: Wood  3board White Vslab
-material: PAPER
+item: paper
 custom-model-data: 9520
 model: 'cocricotmod:block/wood_3board_white_vslab'
 

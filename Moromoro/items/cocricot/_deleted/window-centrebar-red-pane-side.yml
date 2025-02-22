@@ -1,5 +1,5 @@
 name: Window Centrebar Red Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8670
 model: 'cocricotmod:block/window_centrebar_red_pane_side'
 

@@ -1,5 +1,5 @@
 name: Stool Camp Vintage
-material: PAPER
+item: paper
 custom-model-data: 7999
 model: cocricotmod:block/stool_camp_vintage
 block:

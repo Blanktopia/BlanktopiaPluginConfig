@@ -1,5 +1,5 @@
 name: Door  9glass Green Top
-material: PAPER
+item: paper
 custom-model-data: 3772
 model: 'cocricotmod:block/door_9glass_green_top'
 

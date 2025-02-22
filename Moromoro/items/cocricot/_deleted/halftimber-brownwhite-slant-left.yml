@@ -1,5 +1,5 @@
 name: Halftimber Brownwhite Slant Left
-material: PAPER
+item: paper
 custom-model-data: 5288
 model: 'cocricotmod:block/halftimber_brownwhite_slant_left'
 

@@ -1,5 +1,5 @@
 name: Wood Herringbone Brown Vslab
-material: PAPER
+item: paper
 custom-model-data: 9730
 model: 'cocricotmod:block/wood_herringbone_brown_vslab'
 

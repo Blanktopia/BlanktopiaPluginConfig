@@ -1,5 +1,5 @@
 name: Flowerpot Inner Olive False
-material: PAPER
+item: paper
 custom-model-data: 4907
 model: 'cocricotmod:block/flowerpot_inner_olive_false'
 

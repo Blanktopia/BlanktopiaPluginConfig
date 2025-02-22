@@ -1,5 +1,5 @@
 name: Postbox Green
-material: PAPER
+item: paper
 custom-model-data: 6275
 model: cocricotmod:block/postbox_green
 block:

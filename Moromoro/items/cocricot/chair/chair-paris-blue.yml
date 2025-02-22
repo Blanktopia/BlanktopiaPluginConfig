@@ -1,5 +1,5 @@
 name: Chair Paris Blue
-material: PAPER
+item: paper
 custom-model-data: 3045
 model: cocricotmod:block/chair_paris_blue
 block:

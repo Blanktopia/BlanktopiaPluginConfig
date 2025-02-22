@@ -1,5 +1,5 @@
 name: Parkbench Black Both
-material: PAPER
+item: paper
 custom-model-data: 6159
 model: cocricotmod:block/parkbench_black_both
 block:

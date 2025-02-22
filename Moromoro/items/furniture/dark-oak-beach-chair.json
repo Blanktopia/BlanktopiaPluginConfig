@@ -7,7 +7,7 @@
    },
    "custom-model-data": 1045,
    "dyeable": true,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/dark_oak_beach_chair",
    "name": "<white>Dark Oak Beach Chair"
 }

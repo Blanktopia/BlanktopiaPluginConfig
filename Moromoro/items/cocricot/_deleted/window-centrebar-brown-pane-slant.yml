@@ -1,5 +1,5 @@
 name: Window Centrebar Brown Pane Slant
-material: PAPER
+item: paper
 custom-model-data: 8608
 model: 'cocricotmod:block/window_centrebar_brown_pane_slant'
 

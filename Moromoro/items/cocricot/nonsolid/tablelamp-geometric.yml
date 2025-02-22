@@ -1,5 +1,5 @@
 name: Tablelamp Geometric
-material: PAPER
+item: paper
 custom-model-data: 8223
 model: 'cocricotmod:block/tablelamp_geometric'
 

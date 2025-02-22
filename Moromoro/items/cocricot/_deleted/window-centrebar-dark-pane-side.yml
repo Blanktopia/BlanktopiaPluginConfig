@@ -1,5 +1,5 @@
 name: Window Centrebar Dark Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8621
 model: 'cocricotmod:block/window_centrebar_dark_pane_side'
 

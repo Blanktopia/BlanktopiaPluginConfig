@@ -1,5 +1,5 @@
 name: Bed Pillow Gray
-material: PAPER
+item: paper
 custom-model-data: 2427
 model: 'cocricotmod:block/bed_pillow_gray'
 

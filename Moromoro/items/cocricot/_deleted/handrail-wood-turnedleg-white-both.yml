@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg White Both
-material: PAPER
+item: paper
 custom-model-data: 5751
 model: 'cocricotmod:block/handrail_wood_turnedleg_white_both'
 

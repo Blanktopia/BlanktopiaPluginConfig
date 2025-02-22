@@ -1,5 +1,5 @@
 name: Wood  6board Black Slab
-material: PAPER
+item: paper
 custom-model-data: 9527
 model: 'cocricotmod:block/wood_6board_black_slab'
 

@@ -1,5 +1,5 @@
 name: "<transition:#ea4f4f:#fff56d>Rocket Boots"
-material: FIREWORK_ROCKET
+item: firework_rocket
 custom-model-data: 1
 unique: true
 lore:

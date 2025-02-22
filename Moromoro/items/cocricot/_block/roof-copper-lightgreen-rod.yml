@@ -1,5 +1,5 @@
 name: Roof Copper Lightgreen Rod
-material: PAPER
+item: paper
 custom-model-data: 6498
 model: 'cocricotmod:block/roof_copper_lightgreen_rod'
 

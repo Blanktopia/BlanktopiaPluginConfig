@@ -1,5 +1,5 @@
 name: Sofa Slipper Lightblue Inner
-material: PAPER
+item: paper
 custom-model-data: 7492
 model: cocricotmod:block/sofa_slipper_lightblue_inner
 block:

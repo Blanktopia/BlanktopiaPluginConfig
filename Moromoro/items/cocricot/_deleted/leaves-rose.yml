@@ -1,5 +1,5 @@
 name: Leaves Rose
-material: PAPER
+item: paper
 custom-model-data: 5966
 model: 'cocricotmod:block/leaves_rose'
 

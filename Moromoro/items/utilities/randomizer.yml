@@ -1,6 +1,6 @@
 alias: block-zapper
 name: "<#a46bff>Randomizer ?"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1005
 model: "minecraft:item/popped_chorus_fruit"
 soulbound: true

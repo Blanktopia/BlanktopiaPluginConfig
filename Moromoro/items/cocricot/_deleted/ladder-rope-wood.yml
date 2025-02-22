@@ -1,5 +1,5 @@
 name: Ladder Rope Wood
-material: PAPER
+item: paper
 custom-model-data: 5893
 model: 'cocricotmod:block/ladder_rope_wood'
 

@@ -1,1 +1,63 @@
-{"parent":"item/generated","textures":{"layer0":"item/feather"},"display":{"head":{"rotation":[0,0,45],"translation":[-1,13,7],"scale":[1,1,1]}},"overrides":[{"model":"blanktopia:rares/hummingbird","predicate":{"custom_model_data":1}},{"model":"blanktopia:rares/parachute","predicate":{"custom_model_data":2}},{"model":"littleroom_bdaycake:bdaycake","predicate":{"custom_model_data":100}},{"model":"littleroom_bdaycake:bdaycard","predicate":{"custom_model_data":101}},{"model":"littleroom_bdaycake:middlepiece","predicate":{"custom_model_data":102}},{"model":"littleroom_bdaycake:cornerpiece","predicate":{"custom_model_data":103}}]}
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/feather"
+    },
+    "display": {
+        "head": {
+            "rotation": [
+                0,
+                0,
+                45
+            ],
+            "translation": [
+                -1,
+                13,
+                7
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        }
+    },
+    "overrides": [
+        {
+            "model": "blanktopia:rares/hummingbird",
+            "predicate": {
+                "custom_model_data": 1
+            }
+        },
+        {
+            "model": "blanktopia:rares/parachute",
+            "predicate": {
+                "custom_model_data": 2
+            }
+        },
+        {
+            "model": "littleroom_bdaycake:bdaycake",
+            "predicate": {
+                "custom_model_data": 100
+            }
+        },
+        {
+            "model": "littleroom_bdaycake:bdaycard",
+            "predicate": {
+                "custom_model_data": 101
+            }
+        },
+        {
+            "model": "littleroom_bdaycake:middlepiece",
+            "predicate": {
+                "custom_model_data": 102
+            }
+        },
+        {
+            "model": "littleroom_bdaycake:cornerpiece",
+            "predicate": {
+                "custom_model_data": 103
+            }
+        }
+    ]
+}

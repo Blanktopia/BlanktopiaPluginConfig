@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Dark White Three
-material: PAPER
+item: paper
 custom-model-data: 5727
 model: 'cocricotmod:block/handrail_wood_turnedleg_dark_white_three'
 

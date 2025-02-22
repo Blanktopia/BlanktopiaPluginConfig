@@ -1,5 +1,5 @@
 name: Car Windshield 1 Bo
-material: PAPER
+item: paper
 custom-model-data: 2896
 model: 'cocricotmod:block/car_windshield1_bo'
 

@@ -1,5 +1,5 @@
 name: Bracket Antique Gold
-material: PAPER
+item: paper
 custom-model-data: 2583
 model: 'cocricotmod:block/bracket_antique_gold'
 

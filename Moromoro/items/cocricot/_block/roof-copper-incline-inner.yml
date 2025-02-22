@@ -1,5 +1,5 @@
 name: Roof Copper Incline Inner
-material: PAPER
+item: paper
 custom-model-data: 6472
 model: 'cocricotmod:block/roof_copper_incline_inner'
 

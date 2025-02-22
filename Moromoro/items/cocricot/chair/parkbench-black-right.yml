@@ -1,5 +1,5 @@
 name: Parkbench Black Right
-material: PAPER
+item: paper
 custom-model-data: 6161
 model: cocricotmod:block/parkbench_black_right
 block:

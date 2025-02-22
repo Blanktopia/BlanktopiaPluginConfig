@@ -1,5 +1,5 @@
 name: Desklamp White
-material: PAPER
+item: paper
 custom-model-data: 3439
 model: 'cocricotmod:block/desklamp_white'
 

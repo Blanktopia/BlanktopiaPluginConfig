@@ -1,5 +1,5 @@
 name: Window Color Gray Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8718
 model: 'cocricotmod:block/window_color_gray_pane_post'
 

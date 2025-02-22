@@ -1,5 +1,5 @@
 name: Door  9glass White Bottom
-material: PAPER
+item: paper
 custom-model-data: 3840
 model: 'cocricotmod:block/door_9glass_white_bottom'
 

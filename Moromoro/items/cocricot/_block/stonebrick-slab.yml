@@ -1,5 +1,5 @@
 name: Stonebrick Slab
-material: PAPER
+item: paper
 custom-model-data: 7992
 model: 'cocricotmod:block/stonebrick_slab'
 

@@ -1,5 +1,5 @@
 name: Door  9glass Seadrift Top O
-material: PAPER
+item: paper
 custom-model-data: 3837
 model: 'cocricotmod:block/door_9glass_seadrift_top_o'
 

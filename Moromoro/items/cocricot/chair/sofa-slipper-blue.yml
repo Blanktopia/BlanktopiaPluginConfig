@@ -1,5 +1,5 @@
 name: Sofa Slipper Blue
-material: PAPER
+item: paper
 custom-model-data: 7470
 model: cocricotmod:block/sofa_slipper_blue
 block:

@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Seadrift Left
-material: PAPER
+item: paper
 custom-model-data: 8468
 model: 'cocricotmod:block/wallshelf_bracket_seadrift_left'
 

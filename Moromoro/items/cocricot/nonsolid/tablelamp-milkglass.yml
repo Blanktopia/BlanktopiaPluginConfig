@@ -1,5 +1,5 @@
 name: Tablelamp Milkglass
-material: PAPER
+item: paper
 custom-model-data: 8225
 model: 'cocricotmod:block/tablelamp_milkglass'
 

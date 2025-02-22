@@ -1,6 +1,6 @@
 {
    "custom-model-data": 4,
-   "material": "COOKIE",
+   "item": "cookie",
    "model": "blanktopia:food/cheese",
    "name": "<white>Cheese",
    "triggers": {

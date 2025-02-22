@@ -1,5 +1,5 @@
 name: Barberspole Side
-material: PAPER
+item: paper
 custom-model-data: 2299
 model: 'cocricotmod:block/barberspole_side'
 

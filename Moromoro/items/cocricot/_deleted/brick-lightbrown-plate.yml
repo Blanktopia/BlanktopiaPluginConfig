@@ -1,5 +1,5 @@
 name: Brick Lightbrown Plate
-material: PAPER
+item: paper
 custom-model-data: 2654
 model: 'cocricotmod:block/brick_lightbrown_plate'
 

@@ -1,5 +1,5 @@
 name: Fence Victorian Marineblue Side
-material: PAPER
+item: paper
 custom-model-data: 4817
 model: 'cocricotmod:block/fence_victorian_marineblue_side'
 

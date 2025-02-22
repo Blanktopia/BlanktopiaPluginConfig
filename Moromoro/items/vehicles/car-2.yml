@@ -1,0 +1,6 @@
+name: Car 2
+item: paper
+model: blanktopia:vehicles/car_2
+
+block:
+  type: item

@@ -1,5 +1,5 @@
 name: Glass Frame Silver
-material: PAPER
+item: paper
 custom-model-data: 5121
 model: 'cocricotmod:block/glass_frame_silver'
 

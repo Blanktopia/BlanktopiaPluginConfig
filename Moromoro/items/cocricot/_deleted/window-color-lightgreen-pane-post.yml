@@ -1,5 +1,5 @@
 name: Window Color Lightgreen Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8746
 model: 'cocricotmod:block/window_color_lightgreen_pane_post'
 

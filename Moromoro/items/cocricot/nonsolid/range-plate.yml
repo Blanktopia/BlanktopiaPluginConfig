@@ -1,5 +1,5 @@
 name: Range Plate
-material: PAPER
+item: paper
 custom-model-data: 6308
 model: 'cocricotmod:block/range_plate'
 

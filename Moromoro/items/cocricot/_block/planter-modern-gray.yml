@@ -1,5 +1,5 @@
 name: Planter Modern Gray
-material: PAPER
+item: paper
 custom-model-data: 6268
 model: 'cocricotmod:block/planter_modern_gray'
 

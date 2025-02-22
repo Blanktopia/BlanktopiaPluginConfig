@@ -1,5 +1,5 @@
 name: Glass Frame Line Slab Shift
-material: PAPER
+item: paper
 custom-model-data: 5117
 model: 'cocricotmod:block/glass_frame_line_slab_shift'
 

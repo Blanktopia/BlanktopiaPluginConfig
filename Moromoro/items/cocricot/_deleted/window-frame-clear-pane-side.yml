@@ -1,5 +1,5 @@
 name: Window Frame Clear Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8950
 model: 'cocricotmod:block/window_frame_clear_pane_side'
 

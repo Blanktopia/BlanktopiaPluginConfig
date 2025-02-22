@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Natural
-material: PAPER
+item: paper
 custom-model-data: 9840
 model: 'cocricotmod:block/wood_wainscot_panels_natural'
 

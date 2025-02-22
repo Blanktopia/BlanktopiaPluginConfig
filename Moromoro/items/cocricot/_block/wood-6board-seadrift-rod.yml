@@ -1,5 +1,5 @@
 name: Wood  6board Seadrift Rod
-material: PAPER
+item: paper
 custom-model-data: 9642
 model: 'cocricotmod:block/wood_6board_seadrift_rod'
 

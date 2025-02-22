@@ -1,5 +1,5 @@
 name: "Cat Ears"
-material: LEATHER_HORSE_ARMOR
+item: leather_horse_armor
 custom-model-data: 2002
 model: "blanktopia:hats/cat_ears"
 lore:

@@ -1,5 +1,5 @@
 name: Gaslamp Black
-material: PAPER
+item: paper
 custom-model-data: 5042
 model: 'cocricotmod:block/gaslamp_black'
 

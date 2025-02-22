@@ -1,0 +1,4 @@
+name: "Capra Horns"
+item: leather_horse_armor
+custom-model-data: 2015
+model: "littleroom_capra:capra/horns"

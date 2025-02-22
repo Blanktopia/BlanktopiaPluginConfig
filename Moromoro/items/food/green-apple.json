@@ -1,6 +1,6 @@
 {
    "custom-model-data": 3,
-   "material": "APPLE",
+   "item": "apple",
    "model": "blanktopia:food/fruits/green_apple",
    "name": "<white>Green Apple",
    "triggers": {

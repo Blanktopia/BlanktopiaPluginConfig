@@ -1,5 +1,5 @@
 name: Roof Woodshake Black Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6848
 model: 'cocricotmod:block/roof_woodshake_black_slab_upper'
 

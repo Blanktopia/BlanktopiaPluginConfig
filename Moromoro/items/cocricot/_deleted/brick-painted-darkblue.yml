@@ -1,5 +1,5 @@
 name: Brick Painted Darkblue
-material: PAPER
+item: paper
 custom-model-data: 2689
 model: 'cocricotmod:block/brick_painted_darkblue'
 

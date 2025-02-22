@@ -1,5 +1,5 @@
 name: Window Frame Clear Pane Three
-material: PAPER
+item: paper
 custom-model-data: 8952
 model: 'cocricotmod:block/window_frame_clear_pane_three'
 

@@ -1,5 +1,5 @@
 name: Counterstool Backrest Brown Iron
-material: PAPER
+item: paper
 custom-model-data: 3210
 model: 'cocricotmod:block/counterstool_backrest_brown_iron'
 

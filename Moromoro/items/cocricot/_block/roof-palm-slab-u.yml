@@ -1,5 +1,5 @@
 name: Roof Palm Slab U
-material: PAPER
+item: paper
 custom-model-data: 6627
 model: 'cocricotmod:block/roof_palm_slab_u'
 

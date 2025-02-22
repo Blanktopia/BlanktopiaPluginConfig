@@ -1,5 +1,5 @@
 name: Basket Towel Slab
-material: PAPER
+item: paper
 custom-model-data: 2372
 model: 'cocricotmod:block/basket_towel_slab'
 

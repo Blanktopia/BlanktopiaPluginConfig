@@ -1,5 +1,5 @@
 name: Drawer Simple Seadrift Both Up
-material: PAPER
+item: paper
 custom-model-data: 4615
 model: 'cocricotmod:block/drawer_simple_seadrift_both_up'
 

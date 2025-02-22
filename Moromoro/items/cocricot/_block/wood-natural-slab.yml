@@ -1,5 +1,5 @@
 name: Wood Natural Slab
-material: PAPER
+item: paper
 custom-model-data: 9786
 model: 'cocricotmod:block/wood_natural_slab'
 

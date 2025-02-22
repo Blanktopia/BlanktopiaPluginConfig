@@ -1,5 +1,5 @@
 name: Table Stainless Side
-material: PAPER
+item: paper
 custom-model-data: 8220
 model: cocricotmod:block/table_stainless_side
 block:

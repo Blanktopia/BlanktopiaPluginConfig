@@ -1,5 +1,5 @@
 name: Curtain Fringe Black
-material: PAPER
+item: paper
 custom-model-data: 3243
 model: 'cocricotmod:block/curtain_fringe_black'
 

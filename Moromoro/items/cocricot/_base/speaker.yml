@@ -1,5 +1,5 @@
 name: Speaker
-material: PAPER
+item: paper
 custom-model-data: 7530
 model: 'cocricotmod:block/speaker'
 

@@ -1,5 +1,5 @@
 name: Bougainvillea White
-material: PAPER
+item: paper
 custom-model-data: 2563
 model: 'cocricotmod:block/bougainvillea_white'
 

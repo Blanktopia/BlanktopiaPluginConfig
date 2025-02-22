@@ -1,5 +1,5 @@
 name: Stone Color Blue Plate
-material: PAPER
+item: paper
 custom-model-data: 7712
 model: 'cocricotmod:block/stone_color_blue_plate'
 

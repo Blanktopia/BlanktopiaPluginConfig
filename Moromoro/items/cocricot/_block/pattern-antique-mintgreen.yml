@@ -1,5 +1,5 @@
 name: Pattern Antique Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 6190
 model: 'cocricotmod:block/pattern_antique_mintgreen'
 

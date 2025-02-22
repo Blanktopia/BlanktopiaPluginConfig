@@ -1,5 +1,5 @@
 name: Base Pyramid
-material: PAPER
+item: paper
 custom-model-data: 2338
 model: 'cocricotmod:block/base_pyramid'
 

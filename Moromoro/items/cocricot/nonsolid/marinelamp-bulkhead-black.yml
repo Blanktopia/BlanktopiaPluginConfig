@@ -1,5 +1,5 @@
 name: Marinelamp Bulkhead Black
-material: PAPER
+item: paper
 custom-model-data: 6068
 model: 'cocricotmod:block/marinelamp_bulkhead_black'
 

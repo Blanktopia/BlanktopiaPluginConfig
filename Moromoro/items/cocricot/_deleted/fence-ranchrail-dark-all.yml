@@ -1,5 +1,5 @@
 name: Fence Ranchrail Dark All
-material: PAPER
+item: paper
 custom-model-data: 4771
 model: 'cocricotmod:block/fence_ranchrail_dark_all'
 

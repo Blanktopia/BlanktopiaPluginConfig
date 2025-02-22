@@ -1,5 +1,5 @@
 name: Chair Dining Normal Shabby
-material: PAPER
+item: paper
 custom-model-data: 3008
 model: cocricotmod:block/chair_dining_normal_shabby
 block:

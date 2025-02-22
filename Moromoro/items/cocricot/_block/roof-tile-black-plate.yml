@@ -1,5 +1,5 @@
 name: Roof Tile Black Plate
-material: PAPER
+item: paper
 custom-model-data: 6805
 model: 'cocricotmod:block/roof_tile_black_plate'
 

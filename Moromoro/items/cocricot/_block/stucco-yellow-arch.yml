@@ -1,5 +1,5 @@
 name: Stucco Yellow Arch
-material: PAPER
+item: paper
 custom-model-data: 8114
 model: 'cocricotmod:block/stucco_yellow_arch'
 

@@ -1,5 +1,5 @@
 name: Window Color Black Pane Slant
-material: PAPER
+item: paper
 custom-model-data: 8699
 model: 'cocricotmod:block/window_color_black_pane_slant'
 

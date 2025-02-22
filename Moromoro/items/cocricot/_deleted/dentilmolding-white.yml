@@ -1,5 +1,5 @@
 name: Dentilmolding White
-material: PAPER
+item: paper
 custom-model-data: 3417
 model: 'cocricotmod:block/dentilmolding_white'
 

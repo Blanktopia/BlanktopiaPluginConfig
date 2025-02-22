@@ -1,5 +1,5 @@
 name: Window Flower Sand
-material: PAPER
+item: paper
 custom-model-data: 8911
 model: 'cocricotmod:block/window_flower_sand'
 

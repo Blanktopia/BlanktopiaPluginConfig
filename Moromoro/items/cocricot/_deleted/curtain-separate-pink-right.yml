@@ -1,5 +1,5 @@
 name: Curtain Separate Pink Right
-material: PAPER
+item: paper
 custom-model-data: 3283
 model: 'cocricotmod:block/curtain_separate_pink_right'
 

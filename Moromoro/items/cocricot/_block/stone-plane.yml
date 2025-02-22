@@ -1,5 +1,5 @@
 name: Stone Plane
-material: PAPER
+item: paper
 custom-model-data: 7912
 model: 'cocricotmod:block/stone_plane'
 

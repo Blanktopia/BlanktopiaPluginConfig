@@ -1,5 +1,5 @@
 name: Sofa Slipper American Brown Outer
-material: PAPER
+item: paper
 custom-model-data: 7442
 model: cocricotmod:block/sofa_slipper_american_brown_outer
 block:

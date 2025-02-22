@@ -1,5 +1,5 @@
 name: Window Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8999
 model: 'cocricotmod:block/window_pane_side'
 

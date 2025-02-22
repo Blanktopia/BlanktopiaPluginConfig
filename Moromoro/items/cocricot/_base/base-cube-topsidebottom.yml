@@ -1,5 +1,5 @@
 name: Base Cube Topsidebottom
-material: PAPER
+item: paper
 custom-model-data: 2317
 model: 'cocricotmod:block/base_cube_topsidebottom'
 

@@ -1,5 +1,5 @@
 name: Wood  3board Natural Plate
-material: PAPER
+item: paper
 custom-model-data: 9490
 model: 'cocricotmod:block/wood_3board_natural_plate'
 

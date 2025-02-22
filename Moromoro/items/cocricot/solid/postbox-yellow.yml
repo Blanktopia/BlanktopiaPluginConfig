@@ -1,5 +1,5 @@
 name: Postbox Yellow
-material: PAPER
+item: paper
 custom-model-data: 6279
 model: cocricotmod:block/postbox_yellow
 block:

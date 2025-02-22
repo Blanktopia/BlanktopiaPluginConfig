@@ -1,5 +1,5 @@
 name: Stair Dark Outer
-material: PAPER
+item: paper
 custom-model-data: 7571
 model: 'cocricotmod:block/stair_dark_outer'
 

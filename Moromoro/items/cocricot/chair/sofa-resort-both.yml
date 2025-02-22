@@ -1,5 +1,5 @@
 name: Sofa Resort Both
-material: PAPER
+item: paper
 custom-model-data: 7397
 model: cocricotmod:block/sofa_resort_both
 block:

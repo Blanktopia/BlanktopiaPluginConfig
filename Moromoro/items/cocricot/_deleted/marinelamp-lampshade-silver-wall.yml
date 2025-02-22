@@ -1,5 +1,5 @@
 name: Marinelamp Lampshade Silver Wall
-material: PAPER
+item: paper
 custom-model-data: 6086
 model: 'cocricotmod:block/marinelamp_lampshade_silver_wall'
 

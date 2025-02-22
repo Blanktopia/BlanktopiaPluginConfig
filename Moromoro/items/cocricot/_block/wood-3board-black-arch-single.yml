@@ -1,5 +1,5 @@
 name: Wood  3board Black Arch Single
-material: PAPER
+item: paper
 custom-model-data: 9384
 model: 'cocricotmod:block/wood_3board_black_arch_single'
 

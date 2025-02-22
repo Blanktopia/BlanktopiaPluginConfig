@@ -1,6 +1,6 @@
 version: 2
-name: "ainbow&Paint Brush"
-material: WOODEN_HOE
+name: "<rainbow>Paint Brush"
+item: wooden_hoe
 custom-model-data: 1001
 model: "blanktopia:rares/paint_brush"
 soulbound: true

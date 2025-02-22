@@ -1,5 +1,5 @@
 name: Door  1glass Clear Top Rh
-material: PAPER
+item: paper
 custom-model-data: 3534
 model: 'cocricotmod:block/door_1glass_clear_top_rh'
 

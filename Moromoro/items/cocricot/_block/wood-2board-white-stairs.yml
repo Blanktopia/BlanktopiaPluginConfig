@@ -1,5 +1,5 @@
 name: Wood  2board White Stairs
-material: PAPER
+item: paper
 custom-model-data: 9378
 model: 'cocricotmod:block/wood_2board_white_stairs'
 

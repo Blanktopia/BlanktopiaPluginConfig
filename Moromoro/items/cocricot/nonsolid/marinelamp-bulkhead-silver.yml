@@ -1,5 +1,5 @@
 name: Marinelamp Bulkhead Silver
-material: PAPER
+item: paper
 custom-model-data: 6070
 model: 'cocricotmod:block/marinelamp_bulkhead_silver'
 

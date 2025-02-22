@@ -1,5 +1,5 @@
 name: Wood Herringbone Natural Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9756
 model: 'cocricotmod:block/wood_herringbone_natural_slab_upper'
 

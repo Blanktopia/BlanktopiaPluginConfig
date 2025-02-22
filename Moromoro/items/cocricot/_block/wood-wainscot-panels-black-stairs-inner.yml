@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Black Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9814
 model: 'cocricotmod:block/wood_wainscot_panels_black_stairs_inner'
 

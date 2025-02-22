@@ -1,0 +1,8 @@
+name: Night Vision
+anvil-cost: 8
+max-level: 1
+minimum-cost-base: 20
+maximum-cost-base: 50
+weight: 1
+primary-items:
+  - "#enchantable/head_armor"

@@ -1,5 +1,5 @@
 name: Marble Diagonal Large Blackwhite
-material: PAPER
+item: paper
 custom-model-data: 6050
 model: 'cocricotmod:block/marble_diagonal_large_blackwhite'
 

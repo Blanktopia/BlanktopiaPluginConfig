@@ -1,5 +1,5 @@
 name: Chair Greek Green
-material: PAPER
+item: paper
 custom-model-data: 3024
 model: cocricotmod:block/chair_greek_green
 block:

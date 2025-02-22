@@ -1,5 +1,5 @@
 name: Stone Color Lightgreen
-material: PAPER
+item: paper
 custom-model-data: 7787
 model: 'cocricotmod:block/stone_color_lightgreen'
 

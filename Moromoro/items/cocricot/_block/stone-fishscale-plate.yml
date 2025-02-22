@@ -1,5 +1,5 @@
 name: Stone Fishscale Plate
-material: PAPER
+item: paper
 custom-model-data: 7886
 model: 'cocricotmod:block/stone_fishscale_plate'
 

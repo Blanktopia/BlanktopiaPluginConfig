@@ -1,5 +1,5 @@
 name: Captionplate Green Stand
-material: PAPER
+item: paper
 custom-model-data: 2882
 model: 'cocricotmod:block/captionplate_green_stand'
 

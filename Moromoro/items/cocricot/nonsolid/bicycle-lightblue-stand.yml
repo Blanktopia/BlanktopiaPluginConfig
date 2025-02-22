@@ -1,5 +1,5 @@
 name: Bicycle Lightblue Stand
-material: PAPER
+item: paper
 custom-model-data: 2469
 model: 'cocricotmod:block/bicycle_lightblue_stand'
 

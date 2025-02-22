@@ -1,5 +1,5 @@
 name: Wood  2board Black Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9263
 model: 'cocricotmod:block/wood_2board_black_stairs_inner'
 

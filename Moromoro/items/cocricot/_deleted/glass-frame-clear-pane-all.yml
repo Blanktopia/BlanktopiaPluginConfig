@@ -1,5 +1,5 @@
 name: Glass Frame Clear Pane All
-material: PAPER
+item: paper
 custom-model-data: 5073
 model: 'cocricotmod:block/glass_frame_clear_pane_all'
 

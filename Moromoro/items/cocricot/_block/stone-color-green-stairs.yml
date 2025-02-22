@@ -1,5 +1,5 @@
 name: Stone Color Green Stairs
-material: PAPER
+item: paper
 custom-model-data: 7755
 model: 'cocricotmod:block/stone_color_green_stairs'
 

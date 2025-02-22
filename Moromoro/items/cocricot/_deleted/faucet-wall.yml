@@ -1,5 +1,5 @@
 name: Faucet Wall
-material: PAPER
+item: paper
 custom-model-data: 4685
 model: 'cocricotmod:block/faucet_wall'
 

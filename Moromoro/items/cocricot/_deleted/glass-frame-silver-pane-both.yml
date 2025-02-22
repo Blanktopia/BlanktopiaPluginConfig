@@ -1,5 +1,5 @@
 name: Glass Frame Silver Pane Both
-material: PAPER
+item: paper
 custom-model-data: 5123
 model: 'cocricotmod:block/glass_frame_silver_pane_both'
 

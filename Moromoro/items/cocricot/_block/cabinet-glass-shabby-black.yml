@@ -1,5 +1,5 @@
 name: Cabinet Glass Shabby Black
-material: PAPER
+item: paper
 custom-model-data: 2795
 model: 'cocricotmod:block/cabinet_glass_shabby_black'
 

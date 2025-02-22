@@ -3,7 +3,7 @@
       "type": "item"
    },
    "custom-model-data": 106,
-   "material": "WOODEN_HOE",
+   "item": "wooden_hoe",
    "model": "blanktopia:instruments/bell",
    "name": "<white>Bell"
 }

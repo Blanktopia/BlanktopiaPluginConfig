@@ -1,5 +1,5 @@
 name: Stone Color Green Arch Single
-material: PAPER
+item: paper
 custom-model-data: 7750
 model: 'cocricotmod:block/stone_color_green_arch_single'
 

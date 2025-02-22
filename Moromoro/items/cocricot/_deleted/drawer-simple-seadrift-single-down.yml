@@ -1,5 +1,5 @@
 name: Drawer Simple Seadrift Single Down
-material: PAPER
+item: paper
 custom-model-data: 4625
 model: 'cocricotmod:block/drawer_simple_seadrift_single_down'
 

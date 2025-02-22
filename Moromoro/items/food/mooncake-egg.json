@@ -1,6 +1,6 @@
 {
    "custom-model-data": 9,
-   "material": "COOKIE",
+   "item": "cookie",
    "model": "blanktopia:food/mooncakes/egg",
    "name": "<white>Mooncake with Egg",
    "triggers": {

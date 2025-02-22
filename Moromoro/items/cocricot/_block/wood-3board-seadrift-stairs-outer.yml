@@ -1,5 +1,5 @@
 name: Wood  3board Seadrift Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 9507
 model: 'cocricotmod:block/wood_3board_seadrift_stairs_outer'
 

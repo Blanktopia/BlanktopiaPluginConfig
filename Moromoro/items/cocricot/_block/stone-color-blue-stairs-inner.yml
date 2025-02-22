@@ -1,5 +1,5 @@
 name: Stone Color Blue Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7717
 model: 'cocricotmod:block/stone_color_blue_stairs_inner'
 

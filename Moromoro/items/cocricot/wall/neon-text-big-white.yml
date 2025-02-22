@@ -1,5 +1,5 @@
 name: Neon Text Big White
-material: PAPER
+item: paper
 custom-model-data: 6150
 model: 'cocricotmod:block/neon_text_big_white'
 

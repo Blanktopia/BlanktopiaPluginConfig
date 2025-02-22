@@ -1,5 +1,5 @@
 name: Shoes Rainboots Red
-material: PAPER
+item: paper
 custom-model-data: 7181
 model: 'cocricotmod:block/shoes_rainboots_red'
 

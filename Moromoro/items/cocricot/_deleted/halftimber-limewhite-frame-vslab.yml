@@ -1,5 +1,5 @@
 name: Halftimber Limewhite Frame Vslab
-material: PAPER
+item: paper
 custom-model-data: 5449
 model: 'cocricotmod:block/halftimber_limewhite_frame_vslab'
 

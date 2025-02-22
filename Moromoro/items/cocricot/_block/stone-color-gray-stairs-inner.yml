@@ -1,5 +1,5 @@
 name: Stone Color Gray Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7743
 model: 'cocricotmod:block/stone_color_gray_stairs_inner'
 

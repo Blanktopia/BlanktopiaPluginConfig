@@ -1,5 +1,5 @@
 name: Bottle Glass Water
-material: PAPER
+item: paper
 custom-model-data: 2550
 model: 'cocricotmod:block/bottle_glass_water'
 

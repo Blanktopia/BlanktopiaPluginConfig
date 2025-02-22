@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Natural Slab
-material: PAPER
+item: paper
 custom-model-data: 9841
 model: 'cocricotmod:block/wood_wainscot_panels_natural_slab'
 

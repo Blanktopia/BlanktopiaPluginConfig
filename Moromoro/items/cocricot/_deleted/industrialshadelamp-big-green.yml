@@ -1,5 +1,5 @@
 name: Industrialshadelamp Big Green
-material: PAPER
+item: paper
 custom-model-data: 5825
 model: 'cocricotmod:block/industrialshadelamp_big_green'
 

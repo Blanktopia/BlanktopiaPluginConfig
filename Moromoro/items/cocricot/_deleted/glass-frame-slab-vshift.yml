@@ -1,5 +1,5 @@
 name: Glass Frame Slab Vshift
-material: PAPER
+item: paper
 custom-model-data: 5135
 model: 'cocricotmod:block/glass_frame_slab_vshift'
 

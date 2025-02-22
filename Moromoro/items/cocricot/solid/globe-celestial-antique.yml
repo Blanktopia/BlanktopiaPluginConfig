@@ -1,5 +1,5 @@
 name: Globe Celestial Antique
-material: PAPER
+item: paper
 custom-model-data: 5160
 model: cocricotmod:block/globe_celestial_antique
 block:

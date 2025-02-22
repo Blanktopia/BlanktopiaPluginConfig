@@ -1,5 +1,5 @@
 name: Fence Ranchrail White Three
-material: PAPER
+item: paper
 custom-model-data: 4806
 model: 'cocricotmod:block/fence_ranchrail_white_three'
 

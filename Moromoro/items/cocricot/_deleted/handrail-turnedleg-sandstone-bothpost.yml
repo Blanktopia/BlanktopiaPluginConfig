@@ -1,5 +1,5 @@
 name: Handrail Turnedleg Sandstone Bothpost
-material: PAPER
+item: paper
 custom-model-data: 5574
 model: 'cocricotmod:block/handrail_turnedleg_sandstone_bothpost'
 

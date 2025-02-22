@@ -1,0 +1,4 @@
+name: "Capra Scythe"
+item: netherite_sword
+custom-model-data: 102
+model: "littleroom_capra:capra/scythe"

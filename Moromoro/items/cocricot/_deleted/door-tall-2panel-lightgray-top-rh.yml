@@ -1,5 +1,5 @@
 name: Door Tall  2panel Lightgray Top Rh
-material: PAPER
+item: paper
 custom-model-data: 4102
 model: 'cocricotmod:block/door_tall_2panel_lightgray_top_rh'
 

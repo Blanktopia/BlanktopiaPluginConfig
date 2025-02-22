@@ -1,5 +1,5 @@
 name: Wood  6board Black Stairs
-material: PAPER
+item: paper
 custom-model-data: 9529
 model: 'cocricotmod:block/wood_6board_black_stairs'
 

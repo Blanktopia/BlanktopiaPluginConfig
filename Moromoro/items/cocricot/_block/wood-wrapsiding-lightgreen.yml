@@ -1,5 +1,5 @@
 name: Wood Wrapsiding Lightgreen
-material: PAPER
+item: paper
 custom-model-data: 9890
 model: 'cocricotmod:block/wood_wrapsiding_lightgreen'
 

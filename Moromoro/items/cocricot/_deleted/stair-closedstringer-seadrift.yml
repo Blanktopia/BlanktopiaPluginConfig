@@ -1,5 +1,5 @@
 name: Stair Closedstringer Seadrift
-material: PAPER
+item: paper
 custom-model-data: 7568
 model: 'cocricotmod:block/stair_closedstringer_seadrift'
 

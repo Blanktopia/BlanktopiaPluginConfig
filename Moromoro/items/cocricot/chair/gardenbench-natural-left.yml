@@ -1,5 +1,5 @@
 name: Gardenbench Natural Left
-material: PAPER
+item: paper
 custom-model-data: 4973
 model: cocricotmod:block/gardenbench_natural_left
 block:

@@ -5,7 +5,7 @@
       "type": "mushroom"
    },
    "custom-model-data": 1010,
-   "material": "PAPER",
+   "item": "paper",
    "model": "blanktopia:block/nether_wart_sack",
    "name": "<white>Nether Wart Sack"
 }

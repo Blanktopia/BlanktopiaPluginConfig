@@ -1,5 +1,5 @@
 name: Signpost Wood Brown
-material: PAPER
+item: paper
 custom-model-data: 7280
 model: 'cocricotmod:block/signpost_wood_brown'
 

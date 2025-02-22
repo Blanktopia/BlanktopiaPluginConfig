@@ -1,5 +1,5 @@
 name: Stucco Orange Stick
-material: PAPER
+item: paper
 custom-model-data: 8072
 model: 'cocricotmod:block/stucco_orange_stick'
 

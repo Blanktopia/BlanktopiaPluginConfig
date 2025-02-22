@@ -1,5 +1,5 @@
 name: Tile Mosaic Big Yellow
-material: PAPER
+item: paper
 custom-model-data: 8302
 model: 'cocricotmod:block/tile_mosaic_big_yellow'
 

@@ -1,5 +1,5 @@
 name: Chain Horizontal Three
-material: PAPER
+item: paper
 custom-model-data: 2971
 model: 'cocricotmod:block/chain_horizontal_three'
 

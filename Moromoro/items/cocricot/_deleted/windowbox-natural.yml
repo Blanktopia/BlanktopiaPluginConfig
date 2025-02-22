@@ -1,5 +1,5 @@
 name: Windowbox Natural
-material: PAPER
+item: paper
 custom-model-data: 9012
 model: 'cocricotmod:block/windowbox_natural'
 

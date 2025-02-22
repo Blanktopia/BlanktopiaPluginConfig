@@ -1,5 +1,5 @@
 name: Gardenbench Black Right
-material: PAPER
+item: paper
 custom-model-data: 4940
 model: cocricotmod:block/gardenbench_black_right
 block:

@@ -1,5 +1,5 @@
 name: Roof Copper Yellow Incline Odd Corner
-material: PAPER
+item: paper
 custom-model-data: 6540
 model: 'cocricotmod:block/roof_copper_yellow_incline_odd_corner'
 

@@ -1,5 +1,5 @@
 name: Window Frame White Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8983
 model: 'cocricotmod:block/window_frame_white_pane_both'
 

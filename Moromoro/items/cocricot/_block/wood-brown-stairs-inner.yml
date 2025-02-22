@@ -1,5 +1,5 @@
 name: Wood Brown Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9682
 model: 'cocricotmod:block/wood_brown_stairs_inner'
 

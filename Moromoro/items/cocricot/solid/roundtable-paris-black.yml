@@ -1,5 +1,5 @@
 name: Roundtable Paris Black
-material: PAPER
+item: paper
 custom-model-data: 6896
 model: cocricotmod:block/roundtable_paris_black
 block:

@@ -1,5 +1,5 @@
 name: Pendantlight Darkblue
-material: PAPER
+item: paper
 custom-model-data: 6209
 model: 'cocricotmod:block/pendantlight_darkblue'
 

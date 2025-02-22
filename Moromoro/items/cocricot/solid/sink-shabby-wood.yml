@@ -1,5 +1,5 @@
 name: Sink Shabby Wood
-material: PAPER
+item: paper
 custom-model-data: 7330
 model: cocricotmod:block/sink_shabby_wood
 block:

@@ -1,5 +1,5 @@
 name: Stone Color Blue Stick
-material: PAPER
+item: paper
 custom-model-data: 7719
 model: 'cocricotmod:block/stone_color_blue_stick'
 

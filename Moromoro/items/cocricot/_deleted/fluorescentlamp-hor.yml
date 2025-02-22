@@ -1,5 +1,5 @@
 name: Fluorescentlamp Hor
-material: PAPER
+item: paper
 custom-model-data: 4925
 model: 'cocricotmod:block/fluorescentlamp_hor'
 

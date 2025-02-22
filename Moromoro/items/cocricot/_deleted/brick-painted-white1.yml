@@ -1,5 +1,5 @@
 name: Brick Painted White 1
-material: PAPER
+item: paper
 custom-model-data: 2692
 model: 'cocricotmod:block/brick_painted_white1'
 

@@ -1,5 +1,5 @@
 name: Table
-material: PAPER
+item: paper
 custom-model-data: 8149
 model: 'cocricotmod:block/table'
 

@@ -1,5 +1,5 @@
 name: Cushion Tropical Single B
-material: PAPER
+item: paper
 custom-model-data: 3379
 model: 'cocricotmod:block/cushion_tropical_single_b'
 

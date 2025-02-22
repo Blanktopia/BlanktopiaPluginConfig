@@ -1,5 +1,5 @@
 name: Rainchain Black
-material: PAPER
+item: paper
 custom-model-data: 6304
 model: 'cocricotmod:block/rainchain_black'
 

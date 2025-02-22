@@ -1,5 +1,5 @@
 name: Parkbench Black Single
-material: PAPER
+item: paper
 custom-model-data: 6162
 model: cocricotmod:block/parkbench_black_single
 block:

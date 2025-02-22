@@ -1,5 +1,5 @@
 name: Base Pane Thin Three
-material: PAPER
+item: paper
 custom-model-data: 2331
 model: 'cocricotmod:block/base_pane_thin_three'
 

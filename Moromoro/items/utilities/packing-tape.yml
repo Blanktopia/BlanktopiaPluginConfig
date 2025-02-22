@@ -1,6 +1,6 @@
 version: 0
 name: "<transition:#8f7c71:#87635d>Packing Tape"
-material: SLIME_BALL
+item: slime_ball
 custom-model-data: 1
 model: "blanktopia:rares/packing_tape"
 soulbound: true

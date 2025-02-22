@@ -1,5 +1,5 @@
 name: Window Diamond Natural Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8872
 model: 'cocricotmod:block/window_diamond_natural_pane_post'
 

@@ -4,7 +4,7 @@
       "",
       "<white>Disguises you as a <aqua>Zombie<white>."
    ],
-   "material": "ZOMBIE_HEAD",
+   "item": "zombie_head",
    "name": "<gold>Zombie Disguise<red> ☻",
    "soulbound": true,
    "triggers": {

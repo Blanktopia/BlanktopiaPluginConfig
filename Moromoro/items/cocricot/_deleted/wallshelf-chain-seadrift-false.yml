@@ -1,5 +1,5 @@
 name: Wallshelf Chain Seadrift False
-material: PAPER
+item: paper
 custom-model-data: 8496
 model: 'cocricotmod:block/wallshelf_chain_seadrift_false'
 

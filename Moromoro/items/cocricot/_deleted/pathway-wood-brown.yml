@@ -1,5 +1,5 @@
 name: Pathway Wood Brown
-material: PAPER
+item: paper
 custom-model-data: 6183
 model: 'cocricotmod:block/pathway_wood_brown'
 

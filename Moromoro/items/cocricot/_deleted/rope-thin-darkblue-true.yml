@@ -1,5 +1,5 @@
 name: Rope Thin Darkblue True
-material: PAPER
+item: paper
 custom-model-data: 6866
 model: 'cocricotmod:block/rope_thin_darkblue_true'
 

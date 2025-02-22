@@ -1,5 +1,5 @@
 name: Bicycle White Set
-material: PAPER
+item: paper
 custom-model-data: 2472
 model: 'cocricotmod:block/bicycle_white_set'
 

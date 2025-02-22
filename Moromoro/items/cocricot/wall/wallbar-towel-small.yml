@@ -1,5 +1,5 @@
 name: Wallbar Towel Small
-material: PAPER
+item: paper
 custom-model-data: 8354
 model: 'cocricotmod:block/wallbar_towel_small'
 

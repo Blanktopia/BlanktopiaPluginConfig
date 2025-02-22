@@ -1,5 +1,5 @@
 name: Chair Dining Normal Brown
-material: PAPER
+item: paper
 custom-model-data: 3004
 model: cocricotmod:block/chair_dining_normal_brown
 block:

@@ -1,5 +1,5 @@
 name: Window Frame Brown Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8943
 model: 'cocricotmod:block/window_frame_brown_pane_side'
 

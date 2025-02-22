@@ -1,5 +1,5 @@
 name: Window Color Black Pane Three
-material: PAPER
+item: paper
 custom-model-data: 8700
 model: 'cocricotmod:block/window_color_black_pane_three'
 

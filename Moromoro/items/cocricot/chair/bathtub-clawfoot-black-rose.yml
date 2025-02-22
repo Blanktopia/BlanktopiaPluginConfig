@@ -1,5 +1,5 @@
 name: Bathtub Clawfoot Black Rose
-material: PAPER
+item: paper
 custom-model-data: 2383
 model: cocricotmod:block/bathtub_clawfoot_black_rose
 block:

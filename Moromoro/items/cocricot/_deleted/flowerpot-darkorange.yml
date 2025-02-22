@@ -1,5 +1,5 @@
 name: Flowerpot Darkorange
-material: PAPER
+item: paper
 custom-model-data: 4889
 model: 'cocricotmod:block/flowerpot_darkorange'
 

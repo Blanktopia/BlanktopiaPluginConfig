@@ -1,5 +1,5 @@
 name: Door  2panel Yellow Bottom O
-material: PAPER
+item: paper
 custom-model-data: 3681
 model: 'cocricotmod:block/door_2panel_yellow_bottom_o'
 

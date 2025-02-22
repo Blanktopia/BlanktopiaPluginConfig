@@ -1,5 +1,5 @@
 name: Wallhook Up Gold
-material: PAPER
+item: paper
 custom-model-data: 8373
 model: 'cocricotmod:block/wallhook_up_gold'
 

@@ -1,5 +1,5 @@
 name: Coffee Cup Bread Table
-material: PAPER
+item: paper
 custom-model-data: 3133
 model: 'cocricotmod:block/coffee_cup_bread_table'
 

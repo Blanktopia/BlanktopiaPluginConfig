@@ -1,5 +1,5 @@
 name: Bed Mattress Brown
-material: PAPER
+item: paper
 custom-model-data: 2409
 model: cocricotmod:block/bed_mattress_brown
 block:

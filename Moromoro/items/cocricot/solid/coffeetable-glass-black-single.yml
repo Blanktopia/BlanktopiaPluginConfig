@@ -1,5 +1,5 @@
 name: Coffeetable Glass Black Single
-material: PAPER
+item: paper
 custom-model-data: 3145
 model: cocricotmod:block/coffeetable_glass_black_single
 block:

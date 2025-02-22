@@ -1,5 +1,5 @@
 name: Tablerunner Ecru Leaf
-material: PAPER
+item: paper
 custom-model-data: 8235
 model: 'cocricotmod:block/tablerunner_ecru_leaf'
 

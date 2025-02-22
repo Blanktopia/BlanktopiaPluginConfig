@@ -1,5 +1,5 @@
 name: Rope Thin Red True
-material: PAPER
+item: paper
 custom-model-data: 6879
 model: 'cocricotmod:block/rope_thin_red_true'
 

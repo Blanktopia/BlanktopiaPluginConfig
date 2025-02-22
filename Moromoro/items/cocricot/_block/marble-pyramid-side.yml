@@ -1,5 +1,5 @@
 name: Marble Pyramid Side
-material: PAPER
+item: paper
 custom-model-data: 6057
 model: 'cocricotmod:block/marble_pyramid_side'
 

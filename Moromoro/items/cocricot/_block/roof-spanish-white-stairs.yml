@@ -1,5 +1,5 @@
 name: Roof Spanish White Stairs
-material: PAPER
+item: paper
 custom-model-data: 6769
 model: 'cocricotmod:block/roof_spanish_white_stairs'
 

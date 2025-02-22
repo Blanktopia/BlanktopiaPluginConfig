@@ -1,5 +1,5 @@
 name: Stone Cobble Whitejoint Stairs
-material: PAPER
+item: paper
 custom-model-data: 7691
 model: 'cocricotmod:block/stone_cobble_whitejoint_stairs'
 

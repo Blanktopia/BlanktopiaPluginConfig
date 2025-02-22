@@ -1,5 +1,5 @@
 name: Wood  6board H Natural Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9605
 model: 'cocricotmod:block/wood_6board_h_natural_slab_upper'
 

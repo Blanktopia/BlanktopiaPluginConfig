@@ -1,5 +1,5 @@
 name: Brick Terracotta Orange
-material: PAPER
+item: paper
 custom-model-data: 2729
 model: 'cocricotmod:block/brick_terracotta_orange'
 

@@ -1,5 +1,5 @@
 name: Tile Grid Small Blackwhite Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 8278
 model: 'cocricotmod:block/tile_grid_small_blackwhite_stairs_inner'
 

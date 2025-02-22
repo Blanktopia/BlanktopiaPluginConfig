@@ -1,5 +1,5 @@
 name: Bookshelf Antique Full Dslab
-material: PAPER
+item: paper
 custom-model-data: 2517
 model: 'cocricotmod:block/bookshelf_antique_full_dslab'
 

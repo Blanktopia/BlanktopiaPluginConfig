@@ -1,5 +1,5 @@
 name: Stone Plane Pyramid
-material: PAPER
+item: paper
 custom-model-data: 7918
 model: 'cocricotmod:block/stone_plane_pyramid'
 

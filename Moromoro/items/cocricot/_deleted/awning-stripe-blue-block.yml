@@ -1,5 +1,5 @@
 name: Awning Stripe Blue Block
-material: PAPER
+item: paper
 custom-model-data: 2148
 model: 'cocricotmod:block/awning_stripe_blue_block'
 

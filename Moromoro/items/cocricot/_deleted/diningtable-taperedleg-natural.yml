@@ -1,5 +1,5 @@
 name: Diningtable Taperedleg Natural
-material: PAPER
+item: paper
 custom-model-data: 3447
 model: 'cocricotmod:block/diningtable_taperedleg_natural'
 

@@ -1,5 +1,5 @@
 name: Ladder Pool
-material: PAPER
+item: paper
 custom-model-data: 5891
 model: 'cocricotmod:block/ladder_pool'
 

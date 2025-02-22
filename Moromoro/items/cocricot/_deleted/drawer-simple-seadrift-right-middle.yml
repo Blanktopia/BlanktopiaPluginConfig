@@ -1,5 +1,5 @@
 name: Drawer Simple Seadrift Right Middle
-material: PAPER
+item: paper
 custom-model-data: 4622
 model: 'cocricotmod:block/drawer_simple_seadrift_right_middle'
 

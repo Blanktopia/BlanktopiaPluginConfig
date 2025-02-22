@@ -1,5 +1,5 @@
 name: Window Centrebar Yellow
-material: PAPER
+item: paper
 custom-model-data: 8687
 model: 'cocricotmod:block/window_centrebar_yellow'
 

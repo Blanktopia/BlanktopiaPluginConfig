@@ -1,5 +1,5 @@
 name: Stone Random Slab
-material: PAPER
+item: paper
 custom-model-data: 7945
 model: 'cocricotmod:block/stone_random_slab'
 

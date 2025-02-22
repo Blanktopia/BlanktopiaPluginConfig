@@ -1,5 +1,5 @@
 name: Fence Cross Dark Post
-material: PAPER
+item: paper
 custom-model-data: 4700
 model: 'cocricotmod:block/fence_cross_dark_post'
 

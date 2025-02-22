@@ -1,5 +1,5 @@
 name: Wall Ornament
-material: PAPER
+item: paper
 custom-model-data: 8346
 model: 'cocricotmod:block/wall_ornament'
 

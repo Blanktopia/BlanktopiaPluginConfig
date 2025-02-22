@@ -1,5 +1,5 @@
 name: Stone Random Whitejoint Slab
-material: PAPER
+item: paper
 custom-model-data: 7962
 model: 'cocricotmod:block/stone_random_whitejoint_slab'
 

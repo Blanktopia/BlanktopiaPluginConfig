@@ -1,5 +1,5 @@
 name: Windowframe Simple Side Stone
-material: PAPER
+item: paper
 custom-model-data: 9194
 model: 'cocricotmod:block/windowframe_simple_side_stone'
 

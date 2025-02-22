@@ -1,5 +1,5 @@
 name: Halftimber Darkyellow Cross
-material: PAPER
+item: paper
 custom-model-data: 5415
 model: 'cocricotmod:block/halftimber_darkyellow_cross'
 

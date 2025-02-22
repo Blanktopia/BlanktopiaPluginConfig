@@ -1,5 +1,5 @@
 name: Window Color Blue
-material: PAPER
+item: paper
 custom-model-data: 8701
 model: 'cocricotmod:block/window_color_blue'
 

@@ -1,5 +1,5 @@
 name: Table Ironleg Clear Both
-material: PAPER
+item: paper
 custom-model-data: 8188
 model: cocricotmod:block/table_ironleg_clear_both
 block:

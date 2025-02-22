@@ -1,5 +1,5 @@
 name: Sofa Slipper White Inner
-material: PAPER
+item: paper
 custom-model-data: 7516
 model: cocricotmod:block/sofa_slipper_white_inner
 block:

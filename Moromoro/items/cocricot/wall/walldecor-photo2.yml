@@ -1,5 +1,5 @@
 name: Walldecor Photo 2
-material: PAPER
+item: paper
 custom-model-data: 8365
 model: 'cocricotmod:block/walldecor_photo2'
 

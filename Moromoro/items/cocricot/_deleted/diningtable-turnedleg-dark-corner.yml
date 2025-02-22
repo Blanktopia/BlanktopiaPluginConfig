@@ -1,5 +1,5 @@
 name: Diningtable Turnedleg Dark Corner
-material: PAPER
+item: paper
 custom-model-data: 3475
 model: 'cocricotmod:block/diningtable_turnedleg_dark_corner'
 

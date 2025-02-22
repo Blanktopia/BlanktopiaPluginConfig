@@ -1,5 +1,5 @@
 name: Door  4glass White Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 3739
 model: 'cocricotmod:block/door_4glass_white_bottom_rh_o'
 

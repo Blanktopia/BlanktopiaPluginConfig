@@ -1,5 +1,5 @@
 name: Rangehood Stainless Corner
-material: PAPER
+item: paper
 custom-model-data: 6326
 model: 'cocricotmod:block/rangehood_stainless_corner'
 

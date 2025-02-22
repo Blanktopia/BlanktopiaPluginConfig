@@ -1,5 +1,5 @@
 name: Roof Claytile Orange Incline Odd Corner
-material: PAPER
+item: paper
 custom-model-data: 6410
 model: 'cocricotmod:block/roof_claytile_orange_incline_odd_corner'
 

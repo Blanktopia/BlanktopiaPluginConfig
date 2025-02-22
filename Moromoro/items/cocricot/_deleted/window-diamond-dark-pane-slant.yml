@@ -1,5 +1,5 @@
 name: Window Diamond Dark Pane Slant
-material: PAPER
+item: paper
 custom-model-data: 8832
 model: 'cocricotmod:block/window_diamond_dark_pane_slant'
 

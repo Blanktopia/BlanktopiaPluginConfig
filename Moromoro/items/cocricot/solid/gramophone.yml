@@ -1,5 +1,5 @@
 name: Gramophone
-material: PAPER
+item: paper
 custom-model-data: 5164
 model: cocricotmod:block/gramophone
 block:

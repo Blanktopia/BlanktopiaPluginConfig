@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1037,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/warped_garden_table",
    "name": "<white>Warped Garden Table"
 }

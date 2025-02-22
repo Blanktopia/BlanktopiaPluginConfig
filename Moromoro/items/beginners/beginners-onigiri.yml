@@ -1,6 +1,6 @@
 version: 1
 name: "<white>Onigiri"
-material: COOKIE
+item: cookie
 custom-model-data: 8
 soulbound: true
 unenchantable: true

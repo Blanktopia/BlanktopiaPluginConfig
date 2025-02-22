@@ -1,5 +1,5 @@
 name: Roof Copper Lightgreen Incline Inner
-material: PAPER
+item: paper
 custom-model-data: 6493
 model: 'cocricotmod:block/roof_copper_lightgreen_incline_inner'
 

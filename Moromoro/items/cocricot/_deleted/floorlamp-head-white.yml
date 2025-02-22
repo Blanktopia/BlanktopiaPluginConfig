@@ -1,5 +1,5 @@
 name: Floorlamp Head White
-material: PAPER
+item: paper
 custom-model-data: 4849
 model: 'cocricotmod:block/floorlamp_head_white'
 

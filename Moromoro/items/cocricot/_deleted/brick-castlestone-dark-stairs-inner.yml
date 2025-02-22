@@ -1,5 +1,5 @@
 name: Brick Castlestone Dark Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 2637
 model: 'cocricotmod:block/brick_castlestone_dark_stairs_inner'
 

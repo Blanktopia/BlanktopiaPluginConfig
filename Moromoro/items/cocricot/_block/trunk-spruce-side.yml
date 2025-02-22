@@ -1,5 +1,5 @@
 name: Trunk Spruce Side
-material: PAPER
+item: paper
 custom-model-data: 8338
 model: 'cocricotmod:block/trunk_spruce_side'
 

@@ -1,5 +1,5 @@
 name: Stair Spiral Natural
-material: PAPER
+item: paper
 custom-model-data: 7603
 model: 'cocricotmod:block/stair_spiral_natural'
 

@@ -1,5 +1,5 @@
 name: Wood  3board H Brown Slab
-material: PAPER
+item: paper
 custom-model-data: 9440
 model: 'cocricotmod:block/wood_3board_h_brown_slab'
 

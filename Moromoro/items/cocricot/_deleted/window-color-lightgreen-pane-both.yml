@@ -1,5 +1,5 @@
 name: Window Color Lightgreen Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8745
 model: 'cocricotmod:block/window_color_lightgreen_pane_both'
 

@@ -1,5 +1,5 @@
 name: Hangerrack Brown
-material: PAPER
+item: paper
 custom-model-data: 5766
 model: cocricotmod:block/hangerrack_brown
 block:

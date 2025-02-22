@@ -1,5 +1,5 @@
 name: Vase Darkorange
-material: PAPER
+item: paper
 custom-model-data: 8342
 model: cocricotmod:block/vase_darkorange
 block:

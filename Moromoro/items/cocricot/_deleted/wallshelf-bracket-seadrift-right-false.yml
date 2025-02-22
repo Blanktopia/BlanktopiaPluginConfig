@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Seadrift Right False
-material: PAPER
+item: paper
 custom-model-data: 8471
 model: 'cocricotmod:block/wallshelf_bracket_seadrift_right_false'
 

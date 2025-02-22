@@ -1,5 +1,5 @@
 name: Planter Brick Orange
-material: PAPER
+item: paper
 custom-model-data: 6263
 model: 'cocricotmod:block/planter_brick_orange'
 

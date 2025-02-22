@@ -1,6 +1,6 @@
 version: 2
 name: "<transition:#f4cf8b:#f79859>Boots of Haste"
-material: LEATHER
+item: leather
 custom-model-data: 5
 model: "blanktopia:rares/boots_of_haste"
 soulbound: true
@@ -10,7 +10,7 @@ lore:
   - ''
   - '<white>Allows you to <aqua>sprint<white> faster.'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:
@@ -42,7 +42,7 @@ triggers:
       then:
         - type: add-attribute-modifier
           attribute-modifiers:
-            - attribute: generic.movement_speed
+            - attribute: movement_speed
               uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
               name: Boots of Haste
               amount: 0.5
@@ -67,7 +67,7 @@ triggers:
   unsprint:
     - type: remove-attribute-modifier
       attribute-modifiers:
-        - attribute: generic.movement_speed
+        - attribute: movement_speed
           uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
           name: Boots of Haste
           amount: 0.5
@@ -75,7 +75,7 @@ triggers:
   sneak:
     - type: remove-attribute-modifier
       attribute-modifiers:
-        - attribute: generic.movement_speed
+        - attribute: movement_speed
           uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
           name: Boots of Haste
           amount: 0.5

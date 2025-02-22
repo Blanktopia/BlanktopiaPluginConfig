@@ -1,0 +1,1 @@
+{"model":{"entries":[{"threshold":1,"model":{"model":"blanktopia:rares/everstone","type":"model"}},{"threshold":2,"model":{"model":"blanktopia:rares/pokeball","type":"model"}}],"fallback":{"model":"item/ender_eye","type":"model"},"type":"range_dispatch","property":"custom_model_data"}}

@@ -1,5 +1,5 @@
 name: Parkbench Dark Left
-material: PAPER
+item: paper
 custom-model-data: 6164
 model: cocricotmod:block/parkbench_dark_left
 block:

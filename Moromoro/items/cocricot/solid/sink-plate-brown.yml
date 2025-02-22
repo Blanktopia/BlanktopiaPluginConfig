@@ -1,5 +1,5 @@
 name: Sink Plate Brown
-material: PAPER
+item: paper
 custom-model-data: 7315
 model: cocricotmod:block/sink_plate_brown
 block:

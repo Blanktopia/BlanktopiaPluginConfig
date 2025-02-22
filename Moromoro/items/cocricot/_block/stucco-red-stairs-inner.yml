@@ -1,5 +1,5 @@
 name: Stucco Red Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 8096
 model: 'cocricotmod:block/stucco_red_stairs_inner'
 

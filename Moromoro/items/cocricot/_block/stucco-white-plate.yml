@@ -1,5 +1,5 @@
 name: Stucco White Plate
-material: PAPER
+item: paper
 custom-model-data: 8104
 model: 'cocricotmod:block/stucco_white_plate'
 

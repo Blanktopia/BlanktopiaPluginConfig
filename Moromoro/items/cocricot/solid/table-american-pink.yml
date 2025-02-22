@@ -1,5 +1,5 @@
 name: Table American Pink
-material: PAPER
+item: paper
 custom-model-data: 8154
 model: cocricotmod:block/table_american_pink
 block:

@@ -1,5 +1,5 @@
 name: Roof Woodshake Black Stick
-material: PAPER
+item: paper
 custom-model-data: 6852
 model: 'cocricotmod:block/roof_woodshake_black_stick'
 

@@ -1,5 +1,5 @@
 name: Drainpipe Gutter White Outer
-material: PAPER
+item: paper
 custom-model-data: 4525
 model: 'cocricotmod:block/drainpipe_gutter_white_outer'
 

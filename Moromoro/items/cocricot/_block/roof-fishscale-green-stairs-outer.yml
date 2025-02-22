@@ -1,5 +1,5 @@
 name: Roof Fishscale Green Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 6588
 model: 'cocricotmod:block/roof_fishscale_green_stairs_outer'
 

@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel Black Top Rh
-material: PAPER
+item: paper
 custom-model-data: 3934
 model: 'cocricotmod:block/door_tall_2glass3panel_black_top_rh'
 

@@ -1,5 +1,5 @@
 name: Awning Stripe Orange Stairs
-material: PAPER
+item: paper
 custom-model-data: 2230
 model: 'cocricotmod:block/awning_stripe_orange_stairs'
 

@@ -1,5 +1,5 @@
 name: Door  2panel Lightgray Top
-material: PAPER
+item: paper
 custom-model-data: 3612
 model: 'cocricotmod:block/door_2panel_lightgray_top'
 

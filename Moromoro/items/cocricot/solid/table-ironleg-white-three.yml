@@ -1,5 +1,5 @@
 name: Table Ironleg White Three
-material: PAPER
+item: paper
 custom-model-data: 8215
 model: cocricotmod:block/table_ironleg_white_three
 block:

@@ -1,5 +1,5 @@
 name: Brick Plaster Yellow Red
-material: PAPER
+item: paper
 custom-model-data: 2696
 model: 'cocricotmod:block/brick_plaster_yellow_red'
 

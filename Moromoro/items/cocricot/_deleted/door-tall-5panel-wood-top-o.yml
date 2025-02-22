@@ -1,5 +1,5 @@
 name: Door Tall  5panel Wood Top O
-material: PAPER
+item: paper
 custom-model-data: 4293
 model: 'cocricotmod:block/door_tall_5panel_wood_top_o'
 

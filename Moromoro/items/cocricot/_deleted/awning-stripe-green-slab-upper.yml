@@ -1,5 +1,5 @@
 name: Awning Stripe Green Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2185
 model: 'cocricotmod:block/awning_stripe_green_slab_upper'
 

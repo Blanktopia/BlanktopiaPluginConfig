@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Clear Slab
-material: PAPER
+item: paper
 custom-model-data: 9823
 model: 'cocricotmod:block/wood_wainscot_panels_clear_slab'
 

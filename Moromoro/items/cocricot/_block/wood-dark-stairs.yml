@@ -1,5 +1,5 @@
 name: Wood Dark Stairs
-material: PAPER
+item: paper
 custom-model-data: 9705
 model: 'cocricotmod:block/wood_dark_stairs'
 

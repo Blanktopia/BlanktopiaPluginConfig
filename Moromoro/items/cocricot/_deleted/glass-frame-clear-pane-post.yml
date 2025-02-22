@@ -1,5 +1,5 @@
 name: Glass Frame Clear Pane Post
-material: PAPER
+item: paper
 custom-model-data: 5075
 model: 'cocricotmod:block/glass_frame_clear_pane_post'
 

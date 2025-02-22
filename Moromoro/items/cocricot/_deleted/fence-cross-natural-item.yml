@@ -1,5 +1,5 @@
 name: Fence Cross Natural Item
-material: PAPER
+item: paper
 custom-model-data: 4705
 model: 'cocricotmod:block/fence_cross_natural_item'
 

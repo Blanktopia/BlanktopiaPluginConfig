@@ -1,6 +1,6 @@
 version: 1
 name: "Beginner's Grappling Hook"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1009
 soulbound: true
 unenchantable: true
@@ -18,7 +18,7 @@ lore:
   - '<grey>Range: 15 blocks'
   - '<grey>Speed: Slow'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:
@@ -32,7 +32,7 @@ triggers:
     - type: cancel
   projectile-tick:
     - type: grapple-tick
-      acceleration: 0.2
+      acceleration: 0.15
       max-speed: 0.3
       detach-speed: 0.5
       range: 15

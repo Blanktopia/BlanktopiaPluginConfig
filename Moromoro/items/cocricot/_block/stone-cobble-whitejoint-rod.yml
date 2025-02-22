@@ -1,5 +1,5 @@
 name: Stone Cobble Whitejoint Rod
-material: PAPER
+item: paper
 custom-model-data: 7688
 model: 'cocricotmod:block/stone_cobble_whitejoint_rod'
 

@@ -1,5 +1,5 @@
 name: Brick Castlestone Stick
-material: PAPER
+item: paper
 custom-model-data: 2649
 model: 'cocricotmod:block/brick_castlestone_stick'
 

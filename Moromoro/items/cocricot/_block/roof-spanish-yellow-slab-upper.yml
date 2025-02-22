@@ -1,5 +1,5 @@
 name: Roof Spanish Yellow Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6788
 model: 'cocricotmod:block/roof_spanish_yellow_slab_upper'
 

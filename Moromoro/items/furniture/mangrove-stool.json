@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1018,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/mangrove_stool",
    "name": "<white>Mangrove Stool"
 }

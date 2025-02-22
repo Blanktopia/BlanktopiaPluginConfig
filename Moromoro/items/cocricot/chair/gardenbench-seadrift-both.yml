@@ -1,5 +1,5 @@
 name: Gardenbench Seadrift Both
-material: PAPER
+item: paper
 custom-model-data: 4985
 model: cocricotmod:block/gardenbench_seadrift_both
 block:

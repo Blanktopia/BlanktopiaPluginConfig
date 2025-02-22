@@ -1,5 +1,5 @@
 name: Base Cross Thick
-material: PAPER
+item: paper
 custom-model-data: 2309
 model: 'cocricotmod:block/base_cross_thick'
 

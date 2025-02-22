@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel White Bottom
-material: PAPER
+item: paper
 custom-model-data: 4032
 model: 'cocricotmod:block/door_tall_2glass3panel_white_bottom'
 

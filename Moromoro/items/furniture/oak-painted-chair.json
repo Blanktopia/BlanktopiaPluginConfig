@@ -10,7 +10,7 @@
    "lore": [
       "<grey>Dyeable"
    ],
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/oak_chair",
    "name": "<white>Painted Oak Chair"
 }

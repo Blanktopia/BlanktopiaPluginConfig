@@ -1,5 +1,5 @@
 name: Stone Mosaic Whitejoint Rod
-material: PAPER
+item: paper
 custom-model-data: 7904
 model: 'cocricotmod:block/stone_mosaic_whitejoint_rod'
 

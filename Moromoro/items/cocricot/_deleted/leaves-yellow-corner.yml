@@ -1,5 +1,5 @@
 name: Leaves Yellow Corner
-material: PAPER
+item: paper
 custom-model-data: 5976
 model: 'cocricotmod:block/leaves_yellow_corner'
 

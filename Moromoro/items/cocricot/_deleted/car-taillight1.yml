@@ -1,5 +1,5 @@
 name: Car Taillight 1
-material: PAPER
+item: paper
 custom-model-data: 2895
 model: 'cocricotmod:block/car_taillight1'
 

@@ -1,5 +1,5 @@
 name: Sofa Simple Blue Right
-material: PAPER
+item: paper
 custom-model-data: 7407
 model: cocricotmod:block/sofa_simple_blue_right
 block:

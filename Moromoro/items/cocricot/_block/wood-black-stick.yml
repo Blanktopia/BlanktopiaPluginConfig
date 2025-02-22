@@ -1,5 +1,5 @@
 name: Wood Black Stick
-material: PAPER
+item: paper
 custom-model-data: 9672
 model: 'cocricotmod:block/wood_black_stick'
 

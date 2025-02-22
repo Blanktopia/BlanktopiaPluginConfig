@@ -1,5 +1,5 @@
 name: Stair Spiral Brown Iron True
-material: PAPER
+item: paper
 custom-model-data: 7591
 model: 'cocricotmod:block/stair_spiral_brown_iron_true'
 

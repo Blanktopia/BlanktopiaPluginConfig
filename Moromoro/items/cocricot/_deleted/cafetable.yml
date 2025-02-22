@@ -1,5 +1,5 @@
 name: Cafetable
-material: PAPER
+item: paper
 custom-model-data: 2838
 model: 'cocricotmod:block/cafetable'
 

@@ -1,5 +1,5 @@
 name: Chair American Red Whiteline
-material: PAPER
+item: paper
 custom-model-data: 2993
 model: cocricotmod:block/chair_american_red_whiteline
 block:

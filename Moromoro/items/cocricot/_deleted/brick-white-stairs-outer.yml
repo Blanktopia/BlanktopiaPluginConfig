@@ -1,5 +1,5 @@
 name: Brick White Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 2750
 model: 'cocricotmod:block/brick_white_stairs_outer'
 

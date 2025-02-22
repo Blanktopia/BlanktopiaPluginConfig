@@ -1,5 +1,5 @@
 name: Bed Pillow Green
-material: PAPER
+item: paper
 custom-model-data: 2428
 model: 'cocricotmod:block/bed_pillow_green'
 

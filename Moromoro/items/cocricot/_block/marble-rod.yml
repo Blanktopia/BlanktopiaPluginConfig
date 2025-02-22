@@ -1,5 +1,5 @@
 name: Marble Rod
-material: PAPER
+item: paper
 custom-model-data: 6058
 model: 'cocricotmod:block/marble_rod'
 

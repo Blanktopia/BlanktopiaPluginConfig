@@ -1,5 +1,5 @@
 name: Stone Ashlarslate Sand Slab
-material: PAPER
+item: paper
 custom-model-data: 7632
 model: 'cocricotmod:block/stone_ashlarslate_sand_slab'
 

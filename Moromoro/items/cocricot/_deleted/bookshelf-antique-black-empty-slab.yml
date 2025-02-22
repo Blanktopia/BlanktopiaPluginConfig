@@ -1,5 +1,5 @@
 name: Bookshelf Antique Black Empty Slab
-material: PAPER
+item: paper
 custom-model-data: 2500
 model: 'cocricotmod:block/bookshelf_antique_black_empty_slab'
 

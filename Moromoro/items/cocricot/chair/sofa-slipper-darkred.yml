@@ -1,5 +1,5 @@
 name: Sofa Slipper Darkred
-material: PAPER
+item: paper
 custom-model-data: 7482
 model: cocricotmod:block/sofa_slipper_darkred
 block:

@@ -1,5 +1,5 @@
 name: Bicycle Black Stand
-material: PAPER
+item: paper
 custom-model-data: 2465
 model: 'cocricotmod:block/bicycle_black_stand'
 

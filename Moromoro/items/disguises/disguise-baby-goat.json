@@ -4,7 +4,7 @@
       "",
       "<white>Disguises you as a <aqua>Baby Goat<white>."
    ],
-   "material": "PLAYER_HEAD",
+   "item": "player_head",
    "name": "<gold>Baby Goat Disguise<red> ☻",
    "soulbound": true,
    "triggers": {

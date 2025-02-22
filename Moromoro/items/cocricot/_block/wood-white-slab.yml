@@ -1,5 +1,5 @@
 name: Wood White Slab
-material: PAPER
+item: paper
 custom-model-data: 9869
 model: 'cocricotmod:block/wood_white_slab'
 

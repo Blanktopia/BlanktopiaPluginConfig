@@ -1,5 +1,5 @@
 name: Stucco Orange Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 8071
 model: 'cocricotmod:block/stucco_orange_stairs_outer'
 

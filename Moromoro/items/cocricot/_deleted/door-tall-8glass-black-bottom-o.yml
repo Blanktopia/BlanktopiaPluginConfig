@@ -1,5 +1,5 @@
 name: Door Tall  8glass Black Bottom O
-material: PAPER
+item: paper
 custom-model-data: 4425
 model: 'cocricotmod:block/door_tall_8glass_black_bottom_o'
 

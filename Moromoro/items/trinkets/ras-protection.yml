@@ -1,6 +1,6 @@
 version: 2
 name: "<transition:#ff730f:#ffca2d>Ra's Protection"
-material: GOLD_NUGGET
+item: gold_nugget
 custom-model-data: 1
 model: "blanktopia:rares/ras_protection"
 soulbound: true
@@ -11,7 +11,7 @@ lore:
   - '<white>Grants immunity to fire and'
   - '<white>lava.'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:

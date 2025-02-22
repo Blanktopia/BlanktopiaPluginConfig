@@ -1,5 +1,5 @@
 name: Stone Color Lightgreen Stairs
-material: PAPER
+item: paper
 custom-model-data: 7794
 model: 'cocricotmod:block/stone_color_lightgreen_stairs'
 

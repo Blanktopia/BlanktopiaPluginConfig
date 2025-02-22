@@ -1,5 +1,5 @@
 name: Awning Stairs
-material: PAPER
+item: paper
 custom-model-data: 2133
 model: 'cocricotmod:block/awning_stairs'
 

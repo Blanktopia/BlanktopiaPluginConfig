@@ -1,5 +1,5 @@
 name: Roof Claytile Blue Incline Odd
-material: PAPER
+item: paper
 custom-model-data: 6369
 model: 'cocricotmod:block/roof_claytile_blue_incline_odd'
 

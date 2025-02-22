@@ -1,5 +1,5 @@
 name: Bench Turnedleg White Dark Single
-material: PAPER
+item: paper
 custom-model-data: 2460
 model: cocricotmod:block/bench_turnedleg_white_dark_single
 block:

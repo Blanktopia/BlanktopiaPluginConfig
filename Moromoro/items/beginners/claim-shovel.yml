@@ -1,6 +1,6 @@
 version: 1
 name: "Claim Shovel"
-material: GOLDEN_SHOVEL
+item: golden_shovel
 soulbound: true
 unenchantable: true
 lore:

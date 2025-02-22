@@ -1,5 +1,5 @@
 name: "Witch Hat"
-material: LEATHER_HORSE_ARMOR
+item: leather_horse_armor
 custom-model-data: 2001
 model: "blanktopia:hats/witch_hat"
 lore:

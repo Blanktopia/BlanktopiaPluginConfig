@@ -1,5 +1,5 @@
 name: Stone Color Yellow Vslab
-material: PAPER
+item: paper
 custom-model-data: 7876
 model: 'cocricotmod:block/stone_color_yellow_vslab'
 

@@ -1,5 +1,5 @@
 name: Window Frame Seadrift Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8977
 model: 'cocricotmod:block/window_frame_seadrift_pane_post'
 

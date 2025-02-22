@@ -1,5 +1,5 @@
 name: Table Ironleg Natural
-material: PAPER
+item: paper
 custom-model-data: 8198
 model: cocricotmod:block/table_ironleg_natural
 block:

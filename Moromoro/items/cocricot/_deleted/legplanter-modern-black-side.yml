@@ -1,5 +1,5 @@
 name: Legplanter Modern Black Side
-material: PAPER
+item: paper
 custom-model-data: 5993
 model: 'cocricotmod:block/legplanter_modern_black_side'
 

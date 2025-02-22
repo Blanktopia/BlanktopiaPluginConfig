@@ -1,5 +1,5 @@
 name: Stone Color Blue Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 7721
 model: 'cocricotmod:block/stone_color_blue_whiteframe'
 

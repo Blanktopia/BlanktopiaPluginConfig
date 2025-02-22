@@ -1,5 +1,5 @@
 name: Floorlamp Turnedleg Black
-material: PAPER
+item: paper
 custom-model-data: 4868
 model: 'cocricotmod:block/floorlamp_turnedleg_black'
 

@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1015,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/dark_oak_stool",
    "name": "<white>Dark Oak Stool"
 }

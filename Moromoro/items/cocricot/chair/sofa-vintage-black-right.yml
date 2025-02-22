@@ -1,5 +1,5 @@
 name: Sofa Vintage Black Right
-material: PAPER
+item: paper
 custom-model-data: 7523
 model: cocricotmod:block/sofa_vintage_black_right
 block:

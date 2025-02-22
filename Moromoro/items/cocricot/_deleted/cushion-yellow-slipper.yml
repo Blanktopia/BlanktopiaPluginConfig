@@ -1,5 +1,5 @@
 name: Cushion Yellow Slipper
-material: PAPER
+item: paper
 custom-model-data: 3407
 model: 'cocricotmod:block/cushion_yellow_slipper'
 

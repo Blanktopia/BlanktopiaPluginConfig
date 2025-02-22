@@ -1,5 +1,5 @@
 name: Door  4glass Clear Top O
-material: PAPER
+item: paper
 custom-model-data: 3709
 model: 'cocricotmod:block/door_4glass_clear_top_o'
 

@@ -1,5 +1,5 @@
 name: Signpost Iron White 1
-material: PAPER
+item: paper
 custom-model-data: 7275
 model: 'cocricotmod:block/signpost_iron_white1'
 

@@ -1,5 +1,5 @@
 name: Tile Grid Square Green
-material: PAPER
+item: paper
 custom-model-data: 8281
 model: 'cocricotmod:block/tile_grid_square_green'
 

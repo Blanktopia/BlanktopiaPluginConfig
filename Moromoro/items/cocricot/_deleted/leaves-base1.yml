@@ -1,5 +1,5 @@
 name: Leaves Base 1
-material: PAPER
+item: paper
 custom-model-data: 5935
 model: 'cocricotmod:block/leaves_base1'
 

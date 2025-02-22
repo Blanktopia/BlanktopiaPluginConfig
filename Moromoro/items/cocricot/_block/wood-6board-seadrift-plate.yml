@@ -1,5 +1,5 @@
 name: Wood  6board Seadrift Plate
-material: PAPER
+item: paper
 custom-model-data: 9641
 model: 'cocricotmod:block/wood_6board_seadrift_plate'
 

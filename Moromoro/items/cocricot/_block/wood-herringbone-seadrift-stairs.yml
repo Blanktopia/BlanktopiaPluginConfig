@@ -1,5 +1,5 @@
 name: Wood Herringbone Seadrift Stairs
-material: PAPER
+item: paper
 custom-model-data: 9767
 model: 'cocricotmod:block/wood_herringbone_seadrift_stairs'
 

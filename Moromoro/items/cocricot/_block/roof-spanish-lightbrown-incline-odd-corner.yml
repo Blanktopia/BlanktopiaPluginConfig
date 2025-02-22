@@ -1,5 +1,5 @@
 name: Roof Spanish Lightbrown Incline Odd Corner
-material: PAPER
+item: paper
 custom-model-data: 6696
 model: 'cocricotmod:block/roof_spanish_lightbrown_incline_odd_corner'
 

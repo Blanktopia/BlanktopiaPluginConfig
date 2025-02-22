@@ -1,5 +1,5 @@
 name: Roof Fishscale Brown Vslab
-material: PAPER
+item: paper
 custom-model-data: 6570
 model: 'cocricotmod:block/roof_fishscale_brown_vslab'
 

@@ -1,5 +1,5 @@
 name: Faucet Bridge Black
-material: PAPER
+item: paper
 custom-model-data: 4682
 model: 'cocricotmod:block/faucet_bridge_black'
 

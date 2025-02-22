@@ -1,5 +1,5 @@
 name: Stone Plane Sand Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 7931
 model: 'cocricotmod:block/stone_plane_sand_slab_upper'
 

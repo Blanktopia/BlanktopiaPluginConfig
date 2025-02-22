@@ -1,5 +1,5 @@
 name: Window Color Wood Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8789
 model: 'cocricotmod:block/window_color_wood_pane_side'
 

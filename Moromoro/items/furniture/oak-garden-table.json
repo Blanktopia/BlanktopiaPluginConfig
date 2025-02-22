@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1030,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/oak_garden_table",
    "name": "<white>Oak Garden Table"
 }

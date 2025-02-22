@@ -1,5 +1,5 @@
 name: Pergola Brown Both
-material: PAPER
+item: paper
 custom-model-data: 6224
 model: 'cocricotmod:block/pergola_brown_both'
 

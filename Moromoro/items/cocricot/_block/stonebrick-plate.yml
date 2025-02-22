@@ -1,5 +1,5 @@
 name: Stonebrick Plate
-material: PAPER
+item: paper
 custom-model-data: 7990
 model: 'cocricotmod:block/stonebrick_plate'
 

@@ -1,5 +1,5 @@
 name: Wood Herringbone Brown Slab
-material: PAPER
+item: paper
 custom-model-data: 9725
 model: 'cocricotmod:block/wood_herringbone_brown_slab'
 

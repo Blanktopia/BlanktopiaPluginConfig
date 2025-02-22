@@ -1,5 +1,5 @@
 name: Steak Ironplate
-material: PAPER
+item: paper
 custom-model-data: 7617
 model: 'cocricotmod:block/steak_ironplate'
 

@@ -1,5 +1,5 @@
 name: Awning Stripe Blue Plate
-material: PAPER
+item: paper
 custom-model-data: 2150
 model: 'cocricotmod:block/awning_stripe_blue_plate'
 

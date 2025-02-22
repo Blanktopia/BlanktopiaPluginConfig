@@ -1,5 +1,5 @@
 name: Sawhorse Black Sides
-material: PAPER
+item: paper
 custom-model-data: 7133
 model: 'cocricotmod:block/sawhorse_black_sides'
 

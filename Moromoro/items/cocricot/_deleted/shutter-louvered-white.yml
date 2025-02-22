@@ -1,5 +1,5 @@
 name: Shutter Louvered White
-material: PAPER
+item: paper
 custom-model-data: 7256
 model: 'cocricotmod:block/shutter_louvered_white'
 

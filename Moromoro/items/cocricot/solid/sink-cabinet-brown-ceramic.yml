@@ -1,5 +1,5 @@
 name: Sink Cabinet Brown Ceramic
-material: PAPER
+item: paper
 custom-model-data: 7300
 model: cocricotmod:block/sink_cabinet_brown_ceramic
 block:

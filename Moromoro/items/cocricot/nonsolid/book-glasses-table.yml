@@ -1,5 +1,5 @@
 name: Book Glasses Table
-material: PAPER
+item: paper
 custom-model-data: 2483
 model: 'cocricotmod:block/book_glasses_table'
 

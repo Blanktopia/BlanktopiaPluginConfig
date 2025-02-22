@@ -1,5 +1,5 @@
 name: Door Tall  1glass Clear Top Rh O
-material: PAPER
+item: paper
 custom-model-data: 3895
 model: 'cocricotmod:block/door_tall_1glass_clear_top_rh_o'
 

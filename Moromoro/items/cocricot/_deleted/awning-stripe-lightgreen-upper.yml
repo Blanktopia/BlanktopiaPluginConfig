@@ -1,5 +1,5 @@
 name: Awning Stripe Lightgreen Upper
-material: PAPER
+item: paper
 custom-model-data: 2211
 model: 'cocricotmod:block/awning_stripe_lightgreen_upper'
 

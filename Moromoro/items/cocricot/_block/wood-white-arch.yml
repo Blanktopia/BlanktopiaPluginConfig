@@ -1,5 +1,5 @@
 name: Wood White Arch
-material: PAPER
+item: paper
 custom-model-data: 9865
 model: 'cocricotmod:block/wood_white_arch'
 

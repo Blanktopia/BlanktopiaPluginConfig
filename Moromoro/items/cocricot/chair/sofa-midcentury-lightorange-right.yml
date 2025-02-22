@@ -1,5 +1,5 @@
 name: Sofa Midcentury Lightorange Right
-material: PAPER
+item: paper
 custom-model-data: 7395
 model: cocricotmod:block/sofa_midcentury_lightorange_right
 block:

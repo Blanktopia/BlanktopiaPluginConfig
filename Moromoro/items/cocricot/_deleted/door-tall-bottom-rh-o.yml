@@ -1,5 +1,5 @@
 name: Door Tall Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 4483
 model: 'cocricotmod:block/door_tall_bottom_rh_o'
 

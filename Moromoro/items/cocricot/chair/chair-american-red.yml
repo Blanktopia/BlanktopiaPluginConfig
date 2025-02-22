@@ -1,5 +1,5 @@
 name: Chair American Red
-material: PAPER
+item: paper
 custom-model-data: 2992
 model: cocricotmod:block/chair_american_red
 block:

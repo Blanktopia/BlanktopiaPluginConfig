@@ -1,5 +1,5 @@
 name: Barrel Antique
-material: PAPER
+item: paper
 custom-model-data: 2300
 model: cocricotmod:block/barrel_antique
 block:

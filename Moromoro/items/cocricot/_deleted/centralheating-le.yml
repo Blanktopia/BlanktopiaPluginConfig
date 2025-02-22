@@ -1,5 +1,5 @@
 name: Centralheating Le
-material: PAPER
+item: paper
 custom-model-data: 2958
 model: 'cocricotmod:block/centralheating_le'
 

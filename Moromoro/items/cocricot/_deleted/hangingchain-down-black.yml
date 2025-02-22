@@ -1,5 +1,5 @@
 name: Hangingchain Down Black
-material: PAPER
+item: paper
 custom-model-data: 5789
 model: 'cocricotmod:block/hangingchain_down_black'
 

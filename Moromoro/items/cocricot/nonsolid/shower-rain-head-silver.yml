@@ -1,5 +1,5 @@
 name: Shower Rain Head Silver
-material: PAPER
+item: paper
 custom-model-data: 7241
 model: 'cocricotmod:block/shower_rain_head_silver'
 

@@ -1,5 +1,5 @@
 name: Candleholder Antique False
-material: PAPER
+item: paper
 custom-model-data: 2861
 model: 'cocricotmod:block/candleholder_antique_false'
 

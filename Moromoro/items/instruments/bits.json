@@ -3,7 +3,7 @@
       "type": "item"
    },
    "custom-model-data": 113,
-   "material": "WOODEN_HOE",
+   "item": "wooden_hoe",
    "model": "blanktopia:instruments/bits",
    "name": "<white>Bits"
 }

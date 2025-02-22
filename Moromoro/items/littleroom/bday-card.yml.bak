@@ -1,0 +1,7 @@
+name: "Birthday Card"
+item: feather
+custom-model-data: 101
+model: "littleroom_bdaycake:bdaycard"
+
+block:
+  type: item

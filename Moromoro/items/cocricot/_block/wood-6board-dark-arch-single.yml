@@ -1,5 +1,5 @@
 name: Wood  6board Dark Arch Single
-material: PAPER
+item: paper
 custom-model-data: 9560
 model: 'cocricotmod:block/wood_6board_dark_arch_single'
 

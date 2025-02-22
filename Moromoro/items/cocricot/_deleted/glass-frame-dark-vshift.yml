@@ -1,5 +1,5 @@
 name: Glass Frame Dark Vshift
-material: PAPER
+item: paper
 custom-model-data: 5095
 model: 'cocricotmod:block/glass_frame_dark_vshift'
 

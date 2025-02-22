@@ -1,5 +1,5 @@
 name: Drinkdispenser Berry
-material: PAPER
+item: paper
 custom-model-data: 4647
 model: cocricotmod:block/drinkdispenser_berry
 block:

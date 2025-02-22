@@ -1,5 +1,5 @@
 name: Stone Color Green Stick
-material: PAPER
+item: paper
 custom-model-data: 7758
 model: 'cocricotmod:block/stone_color_green_stick'
 

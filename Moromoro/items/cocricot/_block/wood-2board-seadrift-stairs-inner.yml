@@ -1,5 +1,5 @@
 name: Wood  2board Seadrift Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9369
 model: 'cocricotmod:block/wood_2board_seadrift_stairs_inner'
 

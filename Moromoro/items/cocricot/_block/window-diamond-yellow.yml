@@ -1,5 +1,5 @@
 name: Window Diamond Yellow
-material: PAPER
+item: paper
 custom-model-data: 8897
 model: 'cocricotmod:block/window_diamond_yellow'
 

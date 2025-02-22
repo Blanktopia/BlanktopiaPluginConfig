@@ -1,5 +1,5 @@
 name: Bottle Wine 1
-material: PAPER
+item: paper
 custom-model-data: 2552
 model: 'cocricotmod:block/bottle_wine1'
 

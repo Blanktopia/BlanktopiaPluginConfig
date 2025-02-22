@@ -1,5 +1,5 @@
 name: Wood Herringbone Seadrift Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9766
 model: 'cocricotmod:block/wood_herringbone_seadrift_slab_upper'
 

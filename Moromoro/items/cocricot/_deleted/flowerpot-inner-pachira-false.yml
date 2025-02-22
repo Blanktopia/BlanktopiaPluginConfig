@@ -1,5 +1,5 @@
 name: Flowerpot Inner Pachira False
-material: PAPER
+item: paper
 custom-model-data: 4909
 model: 'cocricotmod:block/flowerpot_inner_pachira_false'
 

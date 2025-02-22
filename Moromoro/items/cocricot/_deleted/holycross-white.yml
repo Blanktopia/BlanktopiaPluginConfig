@@ -1,5 +1,5 @@
 name: Holycross White
-material: PAPER
+item: paper
 custom-model-data: 5818
 model: 'cocricotmod:block/holycross_white'
 

@@ -1,5 +1,5 @@
 name: Stool Industrial Clear
-material: PAPER
+item: paper
 custom-model-data: 8001
 model: cocricotmod:block/stool_industrial_clear
 block:

@@ -1,5 +1,5 @@
 name: Roof Copper Red Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6515
 model: 'cocricotmod:block/roof_copper_red_slab_upper'
 

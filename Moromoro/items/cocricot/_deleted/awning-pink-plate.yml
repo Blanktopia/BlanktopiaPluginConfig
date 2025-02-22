@@ -1,5 +1,5 @@
 name: Awning Pink Plate
-material: PAPER
+item: paper
 custom-model-data: 2114
 model: 'cocricotmod:block/awning_pink_plate'
 

@@ -1,0 +1,4 @@
+name: "Crab Meat"
+item: leather_horse_armor
+custom-model-data: 2025
+model: "littleroom_gigas:items/crabmeat"

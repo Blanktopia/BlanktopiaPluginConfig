@@ -1,5 +1,5 @@
 name: Gardenbench Dark Single
-material: PAPER
+item: paper
 custom-model-data: 4954
 model: cocricotmod:block/gardenbench_dark_single
 block:

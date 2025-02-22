@@ -1,5 +1,5 @@
 name: Wood Wrapsiding Woodshake Gray
-material: PAPER
+item: paper
 custom-model-data: 9910
 model: 'cocricotmod:block/wood_wrapsiding_woodshake_gray'
 

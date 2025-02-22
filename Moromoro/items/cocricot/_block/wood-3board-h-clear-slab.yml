@@ -1,5 +1,5 @@
 name: Wood  3board H Clear Slab
-material: PAPER
+item: paper
 custom-model-data: 9448
 model: 'cocricotmod:block/wood_3board_h_clear_slab'
 

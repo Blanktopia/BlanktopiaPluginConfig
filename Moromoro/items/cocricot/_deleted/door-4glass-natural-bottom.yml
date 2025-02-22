@@ -1,5 +1,5 @@
 name: Door  4glass Natural Bottom
-material: PAPER
+item: paper
 custom-model-data: 3720
 model: 'cocricotmod:block/door_4glass_natural_bottom'
 

@@ -1,5 +1,5 @@
 name: Cushion Tropical
-material: PAPER
+item: paper
 custom-model-data: 3372
 model: 'cocricotmod:block/cushion_tropical'
 

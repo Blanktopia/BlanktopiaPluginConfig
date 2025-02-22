@@ -1,5 +1,5 @@
 name: Wood  3board White Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9516
 model: 'cocricotmod:block/wood_3board_white_slab_upper'
 

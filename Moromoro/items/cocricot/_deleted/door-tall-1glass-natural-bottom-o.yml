@@ -1,5 +1,5 @@
 name: Door Tall  1glass Natural Bottom O
-material: PAPER
+item: paper
 custom-model-data: 3905
 model: 'cocricotmod:block/door_tall_1glass_natural_bottom_o'
 

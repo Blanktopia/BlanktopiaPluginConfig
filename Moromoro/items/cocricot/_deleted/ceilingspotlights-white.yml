@@ -1,5 +1,5 @@
 name: Ceilingspotlights White
-material: PAPER
+item: paper
 custom-model-data: 2956
 model: 'cocricotmod:block/ceilingspotlights_white'
 

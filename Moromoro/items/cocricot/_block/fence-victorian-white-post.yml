@@ -1,5 +1,5 @@
 name: Fence Victorian White Post
-material: PAPER
+item: paper
 custom-model-data: 4828
 model: 'cocricotmod:block/fence_victorian_white_post'
 

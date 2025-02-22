@@ -1,5 +1,5 @@
 name: Stone Cobble Whitejoint Slab
-material: PAPER
+item: paper
 custom-model-data: 7689
 model: 'cocricotmod:block/stone_cobble_whitejoint_slab'
 

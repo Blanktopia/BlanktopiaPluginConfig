@@ -1,5 +1,5 @@
 name: Wood  2board Brown Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9273
 model: 'cocricotmod:block/wood_2board_brown_stairs_inner'
 

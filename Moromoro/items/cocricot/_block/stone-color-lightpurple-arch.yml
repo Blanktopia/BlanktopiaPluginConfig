@@ -1,5 +1,5 @@
 name: Stone Color Lightpurple Arch
-material: PAPER
+item: paper
 custom-model-data: 7801
 model: 'cocricotmod:block/stone_color_lightpurple_arch'
 

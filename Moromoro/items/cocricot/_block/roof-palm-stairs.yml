@@ -1,5 +1,5 @@
 name: Roof Palm Stairs
-material: PAPER
+item: paper
 custom-model-data: 6628
 model: 'cocricotmod:block/roof_palm_stairs'
 

@@ -1,5 +1,5 @@
 name: Stone Color Gray Stick
-material: PAPER
+item: paper
 custom-model-data: 7745
 model: 'cocricotmod:block/stone_color_gray_stick'
 

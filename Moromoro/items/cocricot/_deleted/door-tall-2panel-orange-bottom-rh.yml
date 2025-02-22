@@ -1,5 +1,5 @@
 name: Door Tall  2panel Orange Bottom Rh
-material: PAPER
+item: paper
 custom-model-data: 4122
 model: 'cocricotmod:block/door_tall_2panel_orange_bottom_rh'
 

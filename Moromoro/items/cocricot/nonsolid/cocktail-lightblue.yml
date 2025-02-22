@@ -1,5 +1,5 @@
 name: Cocktail Lightblue
-material: PAPER
+item: paper
 custom-model-data: 3122
 model: 'cocricotmod:block/cocktail_lightblue'
 

@@ -1,5 +1,5 @@
 name: Window Three White Pane Slant
-material: PAPER
+item: paper
 custom-model-data: 9007
 model: 'cocricotmod:block/window_three_white_pane_slant'
 

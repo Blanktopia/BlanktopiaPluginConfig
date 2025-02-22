@@ -1,5 +1,5 @@
 name: Wood  3board Natural Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 9495
 model: 'cocricotmod:block/wood_3board_natural_stairs_outer'
 

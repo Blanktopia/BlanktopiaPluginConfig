@@ -1,5 +1,5 @@
 name: Roundtable Greek Lightblue
-material: PAPER
+item: paper
 custom-model-data: 6890
 model: cocricotmod:block/roundtable_greek_lightblue
 block:

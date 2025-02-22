@@ -1,6 +1,6 @@
-version: 1
+version: 2
 name: "<transition:#fffcdb:#ffc272>Lumos"
-material: WOODEN_HOE
+item: glowstone_dust
 custom-model-data: 1000
 model: "blanktopia:rares/lumos"
 soulbound: true

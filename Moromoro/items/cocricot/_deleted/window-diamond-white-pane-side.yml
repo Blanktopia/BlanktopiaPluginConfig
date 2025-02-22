@@ -1,5 +1,5 @@
 name: Window Diamond White Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8894
 model: 'cocricotmod:block/window_diamond_white_pane_side'
 

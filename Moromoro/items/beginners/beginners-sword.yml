@@ -1,6 +1,6 @@
 version: 1
 name: "Beginner's Sword"
-material: WOODEN_SWORD
+item: wooden_sword
 soulbound: true
 unenchantable: true
 lore:

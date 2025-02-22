@@ -1,5 +1,5 @@
 name: Stone Fishscale Vslab
-material: PAPER
+item: paper
 custom-model-data: 7892
 model: 'cocricotmod:block/stone_fishscale_vslab'
 

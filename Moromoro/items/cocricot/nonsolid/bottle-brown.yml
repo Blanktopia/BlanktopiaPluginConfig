@@ -1,5 +1,5 @@
 name: Bottle Brown
-material: PAPER
+item: paper
 custom-model-data: 2546
 model: 'cocricotmod:block/bottle_brown'
 

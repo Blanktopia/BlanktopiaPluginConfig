@@ -1,5 +1,5 @@
 name: Towel White
-material: PAPER
+item: paper
 custom-model-data: 8322
 model: 'cocricotmod:block/towel_white'
 

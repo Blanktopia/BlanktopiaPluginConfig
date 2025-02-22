@@ -1,5 +1,5 @@
 name: Sofa Slipper Darkbrown Outer
-material: PAPER
+item: paper
 custom-model-data: 7481
 model: cocricotmod:block/sofa_slipper_darkbrown_outer
 block:

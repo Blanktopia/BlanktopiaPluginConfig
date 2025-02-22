@@ -1,5 +1,5 @@
 name: Pattern Classic Green
-material: PAPER
+item: paper
 custom-model-data: 6194
 model: 'cocricotmod:block/pattern_classic_green'
 

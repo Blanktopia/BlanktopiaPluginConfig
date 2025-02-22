@@ -1,5 +1,5 @@
 name: Car Mirror 1
-material: PAPER
+item: paper
 custom-model-data: 2893
 model: 'cocricotmod:block/car_mirror1'
 

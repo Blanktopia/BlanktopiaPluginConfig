@@ -1,5 +1,5 @@
 name: Brick Plaster White White
-material: PAPER
+item: paper
 custom-model-data: 2695
 model: 'cocricotmod:block/brick_plaster_white_white'
 

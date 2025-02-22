@@ -1,5 +1,5 @@
 name: Door  2panel Pink Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 3643
 model: 'cocricotmod:block/door_2panel_pink_bottom_rh_o'
 

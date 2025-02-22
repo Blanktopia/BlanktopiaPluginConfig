@@ -1,5 +1,5 @@
 name: Window Centrebar Mintgreen Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8656
 model: 'cocricotmod:block/window_centrebar_mintgreen_pane_side'
 

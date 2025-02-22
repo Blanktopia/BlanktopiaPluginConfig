@@ -1,5 +1,5 @@
 name: Bed Frame Wood Simple Natural
-material: PAPER
+item: paper
 custom-model-data: 2405
 model: cocricotmod:block/bed_frame_wood_simple_natural
 block:

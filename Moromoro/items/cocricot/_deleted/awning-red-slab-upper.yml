@@ -1,5 +1,5 @@
 name: Awning Red Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2127
 model: 'cocricotmod:block/awning_red_slab_upper'
 

@@ -1,5 +1,5 @@
 name: Woodfence Rope White Item
-material: PAPER
+item: paper
 custom-model-data: 9939
 model: 'cocricotmod:block/woodfence_rope_white_item'
 

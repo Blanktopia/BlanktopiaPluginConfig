@@ -1,5 +1,5 @@
 name: Wood Clear Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 9695
 model: 'cocricotmod:block/wood_clear_stairs_outer'
 

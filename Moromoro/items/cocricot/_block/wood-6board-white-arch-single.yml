@@ -1,5 +1,5 @@
 name: Wood  6board White Arch Single
-material: PAPER
+item: paper
 custom-model-data: 9652
 model: 'cocricotmod:block/wood_6board_white_arch_single'
 

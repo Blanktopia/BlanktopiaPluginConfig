@@ -1,5 +1,5 @@
 name: Hat Black
-material: PAPER
+item: paper
 custom-model-data: 5804
 model: 'cocricotmod:block/hat_black'
 

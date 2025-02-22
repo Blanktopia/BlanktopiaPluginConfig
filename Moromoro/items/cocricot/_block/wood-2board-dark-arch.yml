@@ -1,5 +1,5 @@
 name: Wood  2board Dark Arch
-material: PAPER
+item: paper
 custom-model-data: 9287
 model: 'cocricotmod:block/wood_2board_dark_arch'
 

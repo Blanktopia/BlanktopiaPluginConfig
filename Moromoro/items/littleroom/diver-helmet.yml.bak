@@ -1,0 +1,4 @@
+name: "Diver Helmet"
+item: leather_horse_armor
+custom-model-data: 2027
+model: "littleroom_kraken:diverhelmet"

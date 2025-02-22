@@ -1,5 +1,5 @@
 name: Pot Enameled Red
-material: PAPER
+item: paper
 custom-model-data: 6288
 model: 'cocricotmod:block/pot_enameled_red'
 

@@ -1,5 +1,5 @@
 name: Stone Color Lightgray Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 7786
 model: 'cocricotmod:block/stone_color_lightgray_whiteframe'
 

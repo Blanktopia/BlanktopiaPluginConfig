@@ -1,5 +1,5 @@
 name: Roof Fishscale Green
-material: PAPER
+item: paper
 custom-model-data: 6571
 model: 'cocricotmod:block/roof_fishscale_green'
 

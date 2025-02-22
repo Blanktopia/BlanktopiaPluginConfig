@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Brown All
-material: PAPER
+item: paper
 custom-model-data: 5688
 model: 'cocricotmod:block/handrail_wood_turnedleg_brown_all'
 

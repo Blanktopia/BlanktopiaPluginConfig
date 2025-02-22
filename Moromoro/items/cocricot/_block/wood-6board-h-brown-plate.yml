@@ -1,5 +1,5 @@
 name: Wood  6board H Brown Plate
-material: PAPER
+item: paper
 custom-model-data: 9579
 model: 'cocricotmod:block/wood_6board_h_brown_plate'
 

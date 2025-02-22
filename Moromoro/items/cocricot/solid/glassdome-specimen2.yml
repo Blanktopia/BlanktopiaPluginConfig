@@ -1,5 +1,5 @@
 name: Glassdome Specimen 2
-material: PAPER
+item: paper
 custom-model-data: 5156
 model: cocricotmod:block/glassdome_specimen2
 block:

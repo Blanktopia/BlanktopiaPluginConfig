@@ -1,5 +1,5 @@
 name: Tablelamp Turnedleg
-material: PAPER
+item: paper
 custom-model-data: 8230
 model: 'cocricotmod:block/tablelamp_turnedleg'
 

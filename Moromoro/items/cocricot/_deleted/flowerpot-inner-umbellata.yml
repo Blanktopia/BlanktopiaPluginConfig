@@ -1,5 +1,5 @@
 name: Flowerpot Inner Umbellata
-material: PAPER
+item: paper
 custom-model-data: 4914
 model: 'cocricotmod:block/flowerpot_inner_umbellata'
 

@@ -1,5 +1,5 @@
 name: Brick Vintage Brown
-material: PAPER
+item: paper
 custom-model-data: 2739
 model: 'cocricotmod:block/brick_vintage_brown'
 

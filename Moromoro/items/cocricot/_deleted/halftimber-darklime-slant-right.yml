@@ -1,5 +1,5 @@
 name: Halftimber Darklime Slant Right
-material: PAPER
+item: paper
 custom-model-data: 5349
 model: 'cocricotmod:block/halftimber_darklime_slant_right'
 

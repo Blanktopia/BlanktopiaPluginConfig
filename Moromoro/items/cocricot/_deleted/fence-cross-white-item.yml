@@ -1,5 +1,5 @@
 name: Fence Cross White Item
-material: PAPER
+item: paper
 custom-model-data: 4714
 model: 'cocricotmod:block/fence_cross_white_item'
 

@@ -1,5 +1,5 @@
 name: Door  1glass Black Top O
-material: PAPER
+item: paper
 custom-model-data: 3517
 model: 'cocricotmod:block/door_1glass_black_top_o'
 

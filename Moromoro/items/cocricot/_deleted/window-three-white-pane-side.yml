@@ -1,5 +1,5 @@
 name: Window Three White Pane Side
-material: PAPER
+item: paper
 custom-model-data: 9006
 model: 'cocricotmod:block/window_three_white_pane_side'
 

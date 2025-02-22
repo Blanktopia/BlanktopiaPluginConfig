@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1053,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/jungle_round_table",
    "name": "<white>Jungle Round Table"
 }

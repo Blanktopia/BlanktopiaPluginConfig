@@ -1,5 +1,5 @@
 name: Cabinet Stainless
-material: PAPER
+item: paper
 custom-model-data: 2832
 model: cocricotmod:block/cabinet_stainless
 block:

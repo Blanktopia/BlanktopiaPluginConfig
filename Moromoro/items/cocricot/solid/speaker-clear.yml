@@ -1,5 +1,5 @@
 name: Speaker Clear
-material: PAPER
+item: paper
 custom-model-data: 7534
 model: cocricotmod:block/speaker_clear
 block:

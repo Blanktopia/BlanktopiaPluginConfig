@@ -1,5 +1,5 @@
 name: Marinelamp Lampshade Antique Wall
-material: PAPER
+item: paper
 custom-model-data: 6080
 model: 'cocricotmod:block/marinelamp_lampshade_antique_wall'
 

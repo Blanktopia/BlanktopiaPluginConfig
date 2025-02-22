@@ -1,5 +1,5 @@
 name: Door  2panel Gray Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 3587
 model: 'cocricotmod:block/door_2panel_gray_bottom_rh_o'
 

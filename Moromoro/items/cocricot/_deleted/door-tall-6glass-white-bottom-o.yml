@@ -1,5 +1,5 @@
 name: Door Tall  6glass White Bottom O
-material: PAPER
+item: paper
 custom-model-data: 4401
 model: 'cocricotmod:block/door_tall_6glass_white_bottom_o'
 

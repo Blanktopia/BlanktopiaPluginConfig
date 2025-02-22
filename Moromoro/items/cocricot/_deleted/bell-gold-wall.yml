@@ -1,5 +1,5 @@
 name: Bell Gold Wall
-material: PAPER
+item: paper
 custom-model-data: 2447
 model: 'cocricotmod:block/bell_gold_wall'
 

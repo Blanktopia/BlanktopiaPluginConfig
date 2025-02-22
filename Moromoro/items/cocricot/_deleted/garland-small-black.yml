@@ -1,5 +1,5 @@
 name: Garland Small Black
-material: PAPER
+item: paper
 custom-model-data: 5036
 model: 'cocricotmod:block/garland_small_black'
 

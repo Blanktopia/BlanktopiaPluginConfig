@@ -1,5 +1,5 @@
 name: Leg Turned Antique
-material: PAPER
+item: paper
 custom-model-data: 5978
 model: 'cocricotmod:block/leg_turned_antique'
 

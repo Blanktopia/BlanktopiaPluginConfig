@@ -1,5 +1,5 @@
 name: Walldecor Paper Antique 2
-material: PAPER
+item: paper
 custom-model-data: 8358
 model: 'cocricotmod:block/walldecor_paper_antique2'
 

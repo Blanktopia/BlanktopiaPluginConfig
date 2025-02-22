@@ -1,5 +1,5 @@
 name: Door  2panel Orange Top Rh
-material: PAPER
+item: paper
 custom-model-data: 3638
 model: 'cocricotmod:block/door_2panel_orange_top_rh'
 

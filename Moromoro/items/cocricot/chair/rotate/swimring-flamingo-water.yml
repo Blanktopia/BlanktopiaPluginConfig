@@ -1,5 +1,5 @@
 name: Swimring Flamingo Water
-material: PAPER
+item: paper
 custom-model-data: 8140
 model: cocricotmod:block/swimring_flamingo_water
 block:

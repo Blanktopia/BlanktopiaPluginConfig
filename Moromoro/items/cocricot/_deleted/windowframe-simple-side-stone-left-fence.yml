@@ -1,5 +1,5 @@
 name: Windowframe Simple Side Stone Left Fence
-material: PAPER
+item: paper
 custom-model-data: 9197
 model: 'cocricotmod:block/windowframe_simple_side_stone_left_fence'
 

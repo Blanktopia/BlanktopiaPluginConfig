@@ -1,5 +1,5 @@
 name: Wallshelf Chain White False
-material: PAPER
+item: paper
 custom-model-data: 8498
 model: 'cocricotmod:block/wallshelf_chain_white_false'
 

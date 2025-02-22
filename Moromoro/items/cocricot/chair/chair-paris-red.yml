@@ -1,5 +1,5 @@
 name: Chair Paris Red
-material: PAPER
+item: paper
 custom-model-data: 3048
 model: cocricotmod:block/chair_paris_red
 block:

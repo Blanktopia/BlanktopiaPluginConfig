@@ -1,5 +1,5 @@
 name: Floorlamp Head Antique
-material: PAPER
+item: paper
 custom-model-data: 4846
 model: 'cocricotmod:block/floorlamp_head_antique'
 

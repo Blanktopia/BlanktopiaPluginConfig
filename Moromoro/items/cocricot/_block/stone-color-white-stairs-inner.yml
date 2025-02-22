@@ -1,5 +1,5 @@
 name: Stone Color White Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7860
 model: 'cocricotmod:block/stone_color_white_stairs_inner'
 

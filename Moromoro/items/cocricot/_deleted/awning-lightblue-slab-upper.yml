@@ -1,5 +1,5 @@
 name: Awning Lightblue Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2072
 model: 'cocricotmod:block/awning_lightblue_slab_upper'
 

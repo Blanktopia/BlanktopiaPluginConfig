@@ -1,5 +1,5 @@
 name: Range Retro Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 6316
 model: cocricotmod:block/range_retro_mintgreen
 block:

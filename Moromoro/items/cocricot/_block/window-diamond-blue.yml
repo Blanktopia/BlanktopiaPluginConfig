@@ -1,5 +1,5 @@
 name: Window Diamond Blue
-material: PAPER
+item: paper
 custom-model-data: 8806
 model: 'cocricotmod:block/window_diamond_blue'
 

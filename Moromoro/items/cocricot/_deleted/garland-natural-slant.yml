@@ -1,5 +1,5 @@
 name: Garland Natural Slant
-material: PAPER
+item: paper
 custom-model-data: 5026
 model: 'cocricotmod:block/garland_natural_slant'
 

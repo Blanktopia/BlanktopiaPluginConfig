@@ -1,5 +1,5 @@
 name: Gardenbench Black Both
-material: PAPER
+item: paper
 custom-model-data: 4938
 model: cocricotmod:block/gardenbench_black_both
 block:

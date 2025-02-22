@@ -1,5 +1,5 @@
 name: Rangehood Stainless
-material: PAPER
+item: paper
 custom-model-data: 6323
 model: 'cocricotmod:block/rangehood_stainless'
 

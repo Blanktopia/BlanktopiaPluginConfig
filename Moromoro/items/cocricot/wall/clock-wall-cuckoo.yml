@@ -1,5 +1,5 @@
 name: Clock Wall Cuckoo
-material: PAPER
+item: paper
 custom-model-data: 3112
 model: 'cocricotmod:block/clock_wall_cuckoo'
 

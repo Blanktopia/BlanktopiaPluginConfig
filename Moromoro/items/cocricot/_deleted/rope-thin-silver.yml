@@ -1,5 +1,5 @@
 name: Rope Thin Silver
-material: PAPER
+item: paper
 custom-model-data: 6880
 model: 'cocricotmod:block/rope_thin_silver'
 

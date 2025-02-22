@@ -1,5 +1,5 @@
 name: Fence Iron Classic Black Post
-material: PAPER
+item: paper
 custom-model-data: 4726
 model: 'cocricotmod:block/fence_iron_classic_black_post'
 

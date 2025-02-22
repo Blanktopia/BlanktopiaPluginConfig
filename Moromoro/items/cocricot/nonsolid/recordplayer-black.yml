@@ -1,5 +1,5 @@
 name: Recordplayer Black
-material: PAPER
+item: paper
 custom-model-data: 6330
 model: 'cocricotmod:block/recordplayer_black'
 

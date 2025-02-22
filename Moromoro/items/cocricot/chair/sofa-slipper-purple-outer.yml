@@ -1,5 +1,5 @@
 name: Sofa Slipper Purple Outer
-material: PAPER
+item: paper
 custom-model-data: 7511
 model: cocricotmod:block/sofa_slipper_purple_outer
 block:

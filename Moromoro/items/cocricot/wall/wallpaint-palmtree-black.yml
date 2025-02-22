@@ -1,5 +1,5 @@
 name: Wallpaint Palmtree Black
-material: PAPER
+item: paper
 custom-model-data: 8376
 model: 'cocricotmod:block/wallpaint_palmtree_black'
 

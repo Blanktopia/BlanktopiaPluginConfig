@@ -1,5 +1,5 @@
 name: Halftimber Redwhite Tudor
-material: PAPER
+item: paper
 custom-model-data: 5470
 model: 'cocricotmod:block/halftimber_redwhite_tudor'
 

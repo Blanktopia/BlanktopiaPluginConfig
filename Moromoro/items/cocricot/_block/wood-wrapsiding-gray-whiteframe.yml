@@ -1,5 +1,5 @@
 name: Wood Wrapsiding Gray Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 9881
 model: 'cocricotmod:block/wood_wrapsiding_gray_whiteframe'
 

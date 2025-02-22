@@ -1,5 +1,5 @@
 name: Roof Claytile Orange Incline
-material: PAPER
+item: paper
 custom-model-data: 6407
 model: 'cocricotmod:block/roof_claytile_orange_incline'
 

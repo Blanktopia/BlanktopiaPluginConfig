@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1007,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/warped_chair",
    "name": "<white>Warped Chair"
 }

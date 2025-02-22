@@ -1,5 +1,5 @@
 name: Brick Rod
-material: PAPER
+item: paper
 custom-model-data: 2710
 model: 'cocricotmod:block/brick_rod'
 

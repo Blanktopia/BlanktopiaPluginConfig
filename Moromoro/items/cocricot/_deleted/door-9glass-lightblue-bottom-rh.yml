@@ -1,5 +1,5 @@
 name: Door  9glass Lightblue Bottom Rh
-material: PAPER
+item: paper
 custom-model-data: 3778
 model: 'cocricotmod:block/door_9glass_lightblue_bottom_rh'
 

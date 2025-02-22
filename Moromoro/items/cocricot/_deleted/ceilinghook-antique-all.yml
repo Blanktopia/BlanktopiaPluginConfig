@@ -1,5 +1,5 @@
 name: Ceilinghook Antique All
-material: PAPER
+item: paper
 custom-model-data: 2924
 model: 'cocricotmod:block/ceilinghook_antique_all'
 

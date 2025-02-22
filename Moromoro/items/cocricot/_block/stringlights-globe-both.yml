@@ -1,5 +1,5 @@
 name: Stringlights Globe Both
-material: PAPER
+item: paper
 custom-model-data: 8013
 model: 'cocricotmod:block/stringlights_globe_both'
 

@@ -1,5 +1,5 @@
 name: Window Centrebar Natural Pane Three
-material: PAPER
+item: paper
 custom-model-data: 8665
 model: 'cocricotmod:block/window_centrebar_natural_pane_three'
 

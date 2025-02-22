@@ -1,5 +1,5 @@
 name: Parkbench White Left
-material: PAPER
+item: paper
 custom-model-data: 6172
 model: cocricotmod:block/parkbench_white_left
 block:

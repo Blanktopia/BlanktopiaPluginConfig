@@ -1,5 +1,5 @@
 name: Leaves Lime 1
-material: PAPER
+item: paper
 custom-model-data: 5958
 model: 'cocricotmod:block/leaves_lime1'
 

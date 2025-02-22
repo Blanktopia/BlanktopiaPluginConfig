@@ -1,5 +1,5 @@
 name: Masonjar Bluepunch
-material: PAPER
+item: paper
 custom-model-data: 6097
 model: 'cocricotmod:block/masonjar_bluepunch'
 

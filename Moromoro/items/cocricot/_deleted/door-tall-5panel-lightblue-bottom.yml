@@ -1,5 +1,5 @@
 name: Door Tall  5panel Lightblue Bottom
-material: PAPER
+item: paper
 custom-model-data: 4208
 model: 'cocricotmod:block/door_tall_5panel_lightblue_bottom'
 

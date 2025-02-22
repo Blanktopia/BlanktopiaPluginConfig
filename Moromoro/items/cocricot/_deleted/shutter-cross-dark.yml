@@ -1,5 +1,5 @@
 name: Shutter Cross Dark
-material: PAPER
+item: paper
 custom-model-data: 7244
 model: 'cocricotmod:block/shutter_cross_dark'
 

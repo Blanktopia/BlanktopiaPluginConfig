@@ -1,5 +1,5 @@
 name: Rustication Banded Black Plate
-material: PAPER
+item: paper
 custom-model-data: 7105
 model: 'cocricotmod:block/rustication_banded_black_plate'
 

@@ -1,5 +1,5 @@
 name: Fence Victorian White Three
-material: PAPER
+item: paper
 custom-model-data: 4830
 model: 'cocricotmod:block/fence_victorian_white_three'
 

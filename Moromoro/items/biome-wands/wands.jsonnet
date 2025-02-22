@@ -2,7 +2,7 @@ local colourCode(hex) = '&x' + std.join('', std.map(function(c) '&' + c, std.str
 
 local biomeWand(biome, colour) = {
   name: colourCode(colour) + biome + ' Biome Wand',
-  material: 'WOODEN_HOE',
+  item: 'wooden_hoe',
   'custom-model-data': 1,
   alias: 'biome-wand',
   

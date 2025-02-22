@@ -1,5 +1,5 @@
 name: Chair Greek Yellow
-material: PAPER
+item: paper
 custom-model-data: 3030
 model: cocricotmod:block/chair_greek_yellow
 block:

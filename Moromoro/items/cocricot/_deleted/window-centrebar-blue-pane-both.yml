@@ -1,5 +1,5 @@
 name: Window Centrebar Blue Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8598
 model: 'cocricotmod:block/window_centrebar_blue_pane_both'
 

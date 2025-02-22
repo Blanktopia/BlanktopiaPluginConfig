@@ -1,5 +1,5 @@
 name: Pattern Tribal Big Brown
-material: PAPER
+item: paper
 custom-model-data: 6206
 model: 'cocricotmod:block/pattern_tribal_big_brown'
 

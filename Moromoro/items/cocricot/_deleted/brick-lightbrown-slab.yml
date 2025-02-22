@@ -1,5 +1,5 @@
 name: Brick Lightbrown Slab
-material: PAPER
+item: paper
 custom-model-data: 2656
 model: 'cocricotmod:block/brick_lightbrown_slab'
 

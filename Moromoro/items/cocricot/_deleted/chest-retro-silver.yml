@@ -1,5 +1,5 @@
 name: Chest Retro Silver
-material: PAPER
+item: paper
 custom-model-data: 3085
 model: 'cocricotmod:block/chest_retro_silver'
 

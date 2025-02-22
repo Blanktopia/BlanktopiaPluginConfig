@@ -1,5 +1,5 @@
 name: Chair Midcentury Gray
-material: PAPER
+item: paper
 custom-model-data: 3038
 model: cocricotmod:block/chair_midcentury_gray
 block:

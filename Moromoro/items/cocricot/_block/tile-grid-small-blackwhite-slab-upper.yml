@@ -1,5 +1,5 @@
 name: Tile Grid Small Blackwhite Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 8276
 model: 'cocricotmod:block/tile_grid_small_blackwhite_slab_upper'
 

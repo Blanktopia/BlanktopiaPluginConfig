@@ -1,5 +1,5 @@
 name: Sofa Slipper Pink Outer
-material: PAPER
+item: paper
 custom-model-data: 7508
 model: cocricotmod:block/sofa_slipper_pink_outer
 block:

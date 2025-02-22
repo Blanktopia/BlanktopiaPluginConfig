@@ -1,5 +1,5 @@
 name: Leaves Gold Side
-material: PAPER
+item: paper
 custom-model-data: 5950
 model: 'cocricotmod:block/leaves_gold_side'
 

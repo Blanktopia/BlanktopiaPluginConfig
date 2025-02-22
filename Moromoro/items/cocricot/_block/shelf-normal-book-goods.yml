@@ -1,5 +1,5 @@
 name: Shelf Normal Book Goods
-material: PAPER
+item: paper
 custom-model-data: 7160
 model: 'cocricotmod:block/shelf_normal_book_goods'
 

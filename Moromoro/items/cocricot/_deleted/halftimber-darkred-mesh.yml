@@ -1,5 +1,5 @@
 name: Halftimber Darkred Mesh
-material: PAPER
+item: paper
 custom-model-data: 5390
 model: 'cocricotmod:block/halftimber_darkred_mesh'
 

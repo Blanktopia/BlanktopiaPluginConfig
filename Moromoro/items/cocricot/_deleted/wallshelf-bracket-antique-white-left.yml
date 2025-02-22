@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Antique White Left
-material: PAPER
+item: paper
 custom-model-data: 8428
 model: 'cocricotmod:block/wallshelf_bracket_antique_white_left'
 

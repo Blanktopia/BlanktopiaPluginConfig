@@ -1,5 +1,5 @@
 name: Awning Red Vslab
-material: PAPER
+item: paper
 custom-model-data: 2132
 model: 'cocricotmod:block/awning_red_vslab'
 

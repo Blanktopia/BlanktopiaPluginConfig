@@ -1,5 +1,5 @@
 name: Stone Mosaic Whitejoint Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7908
 model: 'cocricotmod:block/stone_mosaic_whitejoint_stairs_inner'
 

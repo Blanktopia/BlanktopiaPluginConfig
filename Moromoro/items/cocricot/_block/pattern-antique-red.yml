@@ -1,5 +1,5 @@
 name: Pattern Antique Red
-material: PAPER
+item: paper
 custom-model-data: 6192
 model: 'cocricotmod:block/pattern_antique_red'
 

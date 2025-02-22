@@ -1,5 +1,5 @@
 name: Globe Colonial
-material: PAPER
+item: paper
 custom-model-data: 5162
 model: cocricotmod:block/globe_colonial
 block:

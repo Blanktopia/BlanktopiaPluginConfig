@@ -1,5 +1,5 @@
 name: Fence Ranchrail Marineblue Post
-material: PAPER
+item: paper
 custom-model-data: 4779
 model: 'cocricotmod:block/fence_ranchrail_marineblue_post'
 

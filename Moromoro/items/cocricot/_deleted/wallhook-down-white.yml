@@ -1,5 +1,5 @@
 name: Wallhook Down White
-material: PAPER
+item: paper
 custom-model-data: 8370
 model: 'cocricotmod:block/wallhook_down_white'
 

@@ -1,0 +1,7 @@
+name: "Birthday Cake (Middle)"
+item: feather
+custom-model-data: 102
+model: "littleroom_bdaycake:middlepiece"
+
+block:
+  type: item

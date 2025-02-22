@@ -1,5 +1,5 @@
 name: Stone Color Lightpurple Stairs
-material: PAPER
+item: paper
 custom-model-data: 7807
 model: 'cocricotmod:block/stone_color_lightpurple_stairs'
 

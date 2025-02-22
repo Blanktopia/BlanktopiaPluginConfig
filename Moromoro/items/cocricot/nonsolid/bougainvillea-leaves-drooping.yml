@@ -1,5 +1,5 @@
 name: Bougainvillea Leaves Drooping
-material: PAPER
+item: paper
 custom-model-data: 2556
 model: 'cocricotmod:block/bougainvillea_leaves_drooping'
 

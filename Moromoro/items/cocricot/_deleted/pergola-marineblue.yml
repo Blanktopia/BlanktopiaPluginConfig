@@ -1,5 +1,5 @@
 name: Pergola Marineblue
-material: PAPER
+item: paper
 custom-model-data: 6229
 model: 'cocricotmod:block/pergola_marineblue'
 

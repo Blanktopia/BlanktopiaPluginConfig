@@ -1,5 +1,5 @@
 name: Door  2panel Black Bottom O
-material: PAPER
+item: paper
 custom-model-data: 3569
 model: 'cocricotmod:block/door_2panel_black_bottom_o'
 

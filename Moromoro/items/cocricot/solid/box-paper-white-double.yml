@@ -1,5 +1,5 @@
 name: Box Paper White Double
-material: PAPER
+item: paper
 custom-model-data: 2577
 model: cocricotmod:block/box_paper_white_double
 block:

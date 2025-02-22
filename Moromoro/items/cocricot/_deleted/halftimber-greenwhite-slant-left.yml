@@ -1,5 +1,5 @@
 name: Halftimber Greenwhite Slant Left
-material: PAPER
+item: paper
 custom-model-data: 5438
 model: 'cocricotmod:block/halftimber_greenwhite_slant_left'
 

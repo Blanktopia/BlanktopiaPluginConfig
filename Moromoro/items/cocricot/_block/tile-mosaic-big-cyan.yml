@@ -1,5 +1,5 @@
 name: Tile Mosaic Big Cyan
-material: PAPER
+item: paper
 custom-model-data: 8294
 model: 'cocricotmod:block/tile_mosaic_big_cyan'
 

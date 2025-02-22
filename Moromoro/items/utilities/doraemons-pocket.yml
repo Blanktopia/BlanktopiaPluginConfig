@@ -1,6 +1,6 @@
 alias: pokeball
 name: "<blue>Doraemon's Pocket"
-material: ENDER_CHEST
+item: ender_chest
 lore:
   - ''
   - '<aqua>Right-click<white> from your'

@@ -1,5 +1,5 @@
 name: Chair Midcentury Red
-material: PAPER
+item: paper
 custom-model-data: 3042
 model: cocricotmod:block/chair_midcentury_red
 block:

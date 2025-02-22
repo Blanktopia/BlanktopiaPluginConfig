@@ -1,5 +1,5 @@
 name: Tile Moroccan Lightblue
-material: PAPER
+item: paper
 custom-model-data: 8287
 model: 'cocricotmod:block/tile_moroccan_lightblue'
 

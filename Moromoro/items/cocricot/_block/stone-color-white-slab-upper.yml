@@ -1,5 +1,5 @@
 name: Stone Color White Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 7858
 model: 'cocricotmod:block/stone_color_white_slab_upper'
 

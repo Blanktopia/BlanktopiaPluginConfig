@@ -1,5 +1,5 @@
 name: Hanging Plant Macrame 1
-material: PAPER
+item: paper
 custom-model-data: 5787
 model: 'cocricotmod:block/hanging_plant_macrame1'
 

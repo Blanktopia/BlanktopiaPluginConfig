@@ -1,5 +1,5 @@
 name: Barrel Clear
-material: PAPER
+item: paper
 custom-model-data: 2301
 model: cocricotmod:block/barrel_clear
 block:

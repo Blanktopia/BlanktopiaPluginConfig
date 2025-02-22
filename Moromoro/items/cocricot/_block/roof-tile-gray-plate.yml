@@ -1,5 +1,5 @@
 name: Roof Tile Gray Plate
-material: PAPER
+item: paper
 custom-model-data: 6825
 model: 'cocricotmod:block/roof_tile_gray_plate'
 

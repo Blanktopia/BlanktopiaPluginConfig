@@ -1,5 +1,5 @@
 name: Stool Log 2
-material: PAPER
+item: paper
 custom-model-data: 8007
 model: cocricotmod:block/stool_log2
 block:

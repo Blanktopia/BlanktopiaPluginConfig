@@ -1,5 +1,5 @@
 name: Wood  6board Natural Vslab
-material: PAPER
+item: paper
 custom-model-data: 9637
 model: 'cocricotmod:block/wood_6board_natural_vslab'
 

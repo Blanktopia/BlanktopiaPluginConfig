@@ -1,5 +1,5 @@
 name: Brick Castlestone Arch Single
-material: PAPER
+item: paper
 custom-model-data: 2627
 model: 'cocricotmod:block/brick_castlestone_arch_single'
 

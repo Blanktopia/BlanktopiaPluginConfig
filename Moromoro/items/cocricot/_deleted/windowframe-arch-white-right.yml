@@ -1,5 +1,5 @@
 name: Windowframe Arch White Right
-material: PAPER
+item: paper
 custom-model-data: 9058
 model: 'cocricotmod:block/windowframe_arch_white_right'
 

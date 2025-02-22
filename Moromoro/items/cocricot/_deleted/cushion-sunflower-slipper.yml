@@ -1,5 +1,5 @@
 name: Cushion Sunflower Slipper
-material: PAPER
+item: paper
 custom-model-data: 3371
 model: 'cocricotmod:block/cushion_sunflower_slipper'
 

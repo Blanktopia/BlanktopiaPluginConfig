@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1066,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/crimson_table",
    "name": "<white>Crimson Table"
 }

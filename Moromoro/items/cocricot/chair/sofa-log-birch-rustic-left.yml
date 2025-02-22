@@ -1,5 +1,5 @@
 name: Sofa Log Birch Rustic Left
-material: PAPER
+item: paper
 custom-model-data: 7354
 model: cocricotmod:block/sofa_log_birch_rustic_left
 block:

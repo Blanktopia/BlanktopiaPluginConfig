@@ -1,5 +1,5 @@
 name: Sofa Vintage Brown Right
-material: PAPER
+item: paper
 custom-model-data: 7527
 model: cocricotmod:block/sofa_vintage_brown_right
 block:

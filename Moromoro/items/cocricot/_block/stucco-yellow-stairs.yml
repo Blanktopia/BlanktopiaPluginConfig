@@ -1,5 +1,5 @@
 name: Stucco Yellow Stairs
-material: PAPER
+item: paper
 custom-model-data: 8121
 model: 'cocricotmod:block/stucco_yellow_stairs'
 

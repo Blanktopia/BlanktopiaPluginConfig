@@ -1,5 +1,5 @@
 name: Lifebuoys Orange
-material: PAPER
+item: paper
 custom-model-data: 6012
 model: 'cocricotmod:block/lifebuoys_orange'
 

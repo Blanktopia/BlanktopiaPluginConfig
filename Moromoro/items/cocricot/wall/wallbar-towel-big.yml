@@ -1,5 +1,5 @@
 name: Wallbar Towel Big
-material: PAPER
+item: paper
 custom-model-data: 8353
 model: 'cocricotmod:block/wallbar_towel_big'
 

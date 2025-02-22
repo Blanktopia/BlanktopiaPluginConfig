@@ -1,5 +1,5 @@
 name: Carpet Block Gorgeous Blue Stair
-material: PAPER
+item: paper
 custom-model-data: 2908
 model: 'cocricotmod:block/carpet_block_gorgeous_blue_stair'
 

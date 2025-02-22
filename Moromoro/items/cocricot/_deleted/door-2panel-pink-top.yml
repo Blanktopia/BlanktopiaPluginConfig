@@ -1,5 +1,5 @@
 name: Door  2panel Pink Top
-material: PAPER
+item: paper
 custom-model-data: 3644
 model: 'cocricotmod:block/door_2panel_pink_top'
 

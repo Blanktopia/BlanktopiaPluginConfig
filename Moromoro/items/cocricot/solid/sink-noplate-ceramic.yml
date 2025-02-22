@@ -1,5 +1,5 @@
 name: Sink Noplate Ceramic
-material: PAPER
+item: paper
 custom-model-data: 7312
 model: cocricotmod:block/sink_noplate_ceramic
 block:

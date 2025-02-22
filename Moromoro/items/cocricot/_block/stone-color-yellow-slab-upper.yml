@@ -1,5 +1,5 @@
 name: Stone Color Yellow Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 7871
 model: 'cocricotmod:block/stone_color_yellow_slab_upper'
 

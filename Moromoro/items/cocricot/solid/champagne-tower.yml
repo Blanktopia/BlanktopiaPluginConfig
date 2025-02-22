@@ -1,5 +1,5 @@
 name: Champagne Tower
-material: PAPER
+item: paper
 custom-model-data: 3057
 model: cocricotmod:block/champagne_tower
 block:

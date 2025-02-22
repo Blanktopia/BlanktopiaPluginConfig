@@ -1,5 +1,5 @@
 name: Industrialshadelamp Black Wall
-material: PAPER
+item: paper
 custom-model-data: 5834
 model: 'cocricotmod:block/industrialshadelamp_black_wall'
 

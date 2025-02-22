@@ -1,6 +1,6 @@
 version: 1
 name: "<transition:#b1cde3:#afa7d9>Everstone"
-material: ENDER_EYE
+item: ender_eye
 custom-model-data: 1
 model: "blanktopia:rares/everstone"
 soulbound: true

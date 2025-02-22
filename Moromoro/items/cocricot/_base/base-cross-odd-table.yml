@@ -1,5 +1,5 @@
 name: Base Cross Odd Table
-material: PAPER
+item: paper
 custom-model-data: 2308
 model: 'cocricotmod:block/base_cross_odd_table'
 

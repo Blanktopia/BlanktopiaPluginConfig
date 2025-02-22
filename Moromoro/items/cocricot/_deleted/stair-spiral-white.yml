@@ -1,5 +1,5 @@
 name: Stair Spiral White
-material: PAPER
+item: paper
 custom-model-data: 7609
 model: 'cocricotmod:block/stair_spiral_white'
 

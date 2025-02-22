@@ -1,5 +1,5 @@
 name: Wood Herringbone Natural
-material: PAPER
+item: paper
 custom-model-data: 9751
 model: 'cocricotmod:block/wood_herringbone_natural'
 

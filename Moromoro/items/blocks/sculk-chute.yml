@@ -1,7 +1,7 @@
 alias: sculk_catalyst
 
 name: '<white>Sculk Chute'
-material: PAPER
+item: paper
 custom-model-data: 1021
 model: "blanktopia:block/sculk_chute"
 

@@ -1,5 +1,5 @@
 name: Windowframe Classic Side Stone Fence
-material: PAPER
+item: paper
 custom-model-data: 9111
 model: 'cocricotmod:block/windowframe_classic_side_stone_fence'
 

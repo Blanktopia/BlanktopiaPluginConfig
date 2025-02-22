@@ -1,5 +1,5 @@
 name: Awning Red Block
-material: PAPER
+item: paper
 custom-model-data: 2123
 model: 'cocricotmod:block/awning_red_block'
 

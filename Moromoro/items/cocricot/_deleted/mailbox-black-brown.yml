@@ -1,5 +1,5 @@
 name: Mailbox Black Brown
-material: PAPER
+item: paper
 custom-model-data: 6032
 model: 'cocricotmod:block/mailbox_black_brown'
 

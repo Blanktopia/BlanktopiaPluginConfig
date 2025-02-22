@@ -1,5 +1,5 @@
 name: Wood White Arch Single
-material: PAPER
+item: paper
 custom-model-data: 9866
 model: 'cocricotmod:block/wood_white_arch_single'
 

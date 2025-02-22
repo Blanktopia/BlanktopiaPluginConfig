@@ -1,5 +1,5 @@
 name: Glass Frame Black Pane Three
-material: PAPER
+item: paper
 custom-model-data: 5054
 model: 'cocricotmod:block/glass_frame_black_pane_three'
 

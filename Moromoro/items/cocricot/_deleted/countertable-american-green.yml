@@ -1,5 +1,5 @@
 name: Countertable American Green
-material: PAPER
+item: paper
 custom-model-data: 3229
 model: 'cocricotmod:block/countertable_american_green'
 

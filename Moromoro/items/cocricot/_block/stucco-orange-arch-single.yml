@@ -1,5 +1,5 @@
 name: Stucco Orange Arch Single
-material: PAPER
+item: paper
 custom-model-data: 8063
 model: 'cocricotmod:block/stucco_orange_arch_single'
 

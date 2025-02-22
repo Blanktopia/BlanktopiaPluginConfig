@@ -1,5 +1,5 @@
 name: Path Grass Sand
-material: PAPER
+item: paper
 custom-model-data: 6182
 model: 'cocricotmod:block/path_grass_sand'
 

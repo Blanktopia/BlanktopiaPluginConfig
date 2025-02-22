@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Dark Stairs
-material: PAPER
+item: paper
 custom-model-data: 9831
 model: 'cocricotmod:block/wood_wainscot_panels_dark_stairs'
 

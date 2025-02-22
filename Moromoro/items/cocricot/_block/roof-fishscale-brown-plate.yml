@@ -1,5 +1,5 @@
 name: Roof Fishscale Brown Plate
-material: PAPER
+item: paper
 custom-model-data: 6562
 model: 'cocricotmod:block/roof_fishscale_brown_plate'
 

@@ -1,5 +1,5 @@
 name: Vase Marineblue
-material: PAPER
+item: paper
 custom-model-data: 8344
 model: cocricotmod:block/vase_marineblue
 block:

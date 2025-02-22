@@ -1,5 +1,5 @@
 name: Bookshelf Antique Full Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2519
 model: 'cocricotmod:block/bookshelf_antique_full_slab_upper'
 

@@ -1,5 +1,5 @@
 name: Wood Dark Slab
-material: PAPER
+item: paper
 custom-model-data: 9703
 model: 'cocricotmod:block/wood_dark_slab'
 

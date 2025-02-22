@@ -1,5 +1,5 @@
 name: Awning Stripe Darkbrown Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2163
 model: 'cocricotmod:block/awning_stripe_darkbrown_slab_upper'
 

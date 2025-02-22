@@ -1,8 +1,0 @@
-name: "Magnus Shield"
-material: SHIELD
-custom-model-data: 102
-model: "littleroom_magnus:magnus_shield"
-models:
-- material: SHIELD
-  model: "littleroom_magnus:magnus_shield_blocking"
-  predicate: { custom_model_data: 102, blocking: 1 }

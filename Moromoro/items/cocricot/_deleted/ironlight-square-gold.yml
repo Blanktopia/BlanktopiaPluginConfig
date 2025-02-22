@@ -1,5 +1,5 @@
 name: Ironlight Square Gold
-material: PAPER
+item: paper
 custom-model-data: 5863
 model: 'cocricotmod:block/ironlight_square_gold'
 

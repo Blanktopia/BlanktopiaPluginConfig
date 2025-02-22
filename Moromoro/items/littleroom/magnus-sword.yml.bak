@@ -1,0 +1,4 @@
+name: "Magnus Sword"
+item: netherite_sword
+custom-model-data: 104
+model: "littleroom_magnus:magnus_sword"

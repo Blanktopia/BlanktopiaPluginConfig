@@ -1,4 +1,7 @@
 name: Car 1
-material: paper
+item: paper
 custom-model-data: 10000
 model: blanktopia:vehicles/car_1
+
+block:
+  type: item

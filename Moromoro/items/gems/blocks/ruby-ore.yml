@@ -1,5 +1,5 @@
 name: "<white>Ruby Ore"
-material: PAPER
+item: paper
 custom-model-data: 1014
 model: "blanktopia:block/ruby_ore"
 

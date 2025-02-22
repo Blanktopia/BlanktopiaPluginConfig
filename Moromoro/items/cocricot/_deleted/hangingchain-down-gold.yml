@@ -1,5 +1,5 @@
 name: Hangingchain Down Gold
-material: PAPER
+item: paper
 custom-model-data: 5790
 model: 'cocricotmod:block/hangingchain_down_gold'
 

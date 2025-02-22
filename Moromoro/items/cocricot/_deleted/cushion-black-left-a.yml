@@ -1,5 +1,5 @@
 name: Cushion Black Left A
-material: PAPER
+item: paper
 custom-model-data: 3293
 model: 'cocricotmod:block/cushion_black_left_a'
 

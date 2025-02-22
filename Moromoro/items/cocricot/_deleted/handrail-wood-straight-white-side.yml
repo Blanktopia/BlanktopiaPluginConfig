@@ -1,5 +1,5 @@
 name: Handrail Wood Straight White Side
-material: PAPER
+item: paper
 custom-model-data: 5672
 model: 'cocricotmod:block/handrail_wood_straight_white_side'
 

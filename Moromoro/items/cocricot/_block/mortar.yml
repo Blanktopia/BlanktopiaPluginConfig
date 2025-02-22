@@ -1,5 +1,5 @@
 name: Mortar
-material: PAPER
+item: paper
 custom-model-data: 6129
 model: 'cocricotmod:block/mortar'
 

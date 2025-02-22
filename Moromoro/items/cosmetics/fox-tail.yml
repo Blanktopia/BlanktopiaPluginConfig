@@ -1,6 +1,6 @@
 version: 1
 
 name: "Fox Tail"
-material: LEATHER_HORSE_ARMOR
+item: leather_horse_armor
 custom-model-data: 2012
 model: "blanktopia:cosmetics/fox_tail"

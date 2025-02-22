@@ -1,5 +1,5 @@
 name: Window Centrebar White
-material: PAPER
+item: paper
 custom-model-data: 8680
 model: 'cocricotmod:block/window_centrebar_white'
 

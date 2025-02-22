@@ -1,5 +1,5 @@
 name: Wheel Large Brown
-material: PAPER
+item: paper
 custom-model-data: 8529
 model: 'cocricotmod:block/wheel_large_brown'
 

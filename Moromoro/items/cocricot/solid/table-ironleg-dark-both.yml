@@ -1,5 +1,5 @@
 name: Table Ironleg Dark Both
-material: PAPER
+item: paper
 custom-model-data: 8194
 model: cocricotmod:block/table_ironleg_dark_both
 block:

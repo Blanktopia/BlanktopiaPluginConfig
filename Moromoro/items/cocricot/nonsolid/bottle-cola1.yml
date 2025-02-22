@@ -1,5 +1,5 @@
 name: Bottle Cola 1
-material: PAPER
+item: paper
 custom-model-data: 2548
 model: 'cocricotmod:block/bottle_cola1'
 

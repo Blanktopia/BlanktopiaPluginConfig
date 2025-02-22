@@ -1,5 +1,5 @@
 name: Table Garden Natural
-material: PAPER
+item: paper
 custom-model-data: 8172
 model: cocricotmod:block/table_garden_natural
 block:

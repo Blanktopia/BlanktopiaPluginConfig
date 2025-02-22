@@ -4,7 +4,7 @@
       "",
       "<white>Disguises you as a <aqua>Skeleton<white>."
    ],
-   "material": "SKELETON_SKULL",
+   "item": "skeleton_skull",
    "name": "<gold>Skeleton Disguise<red> ☻",
    "soulbound": true,
    "triggers": {

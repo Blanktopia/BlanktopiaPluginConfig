@@ -1,5 +1,5 @@
 name: Food Pancake
-material: PAPER
+item: paper
 custom-model-data: 4934
 model: 'cocricotmod:block/food_pancake'
 

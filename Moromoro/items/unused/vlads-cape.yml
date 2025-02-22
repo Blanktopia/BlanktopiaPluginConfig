@@ -1,5 +1,5 @@
 name: "<transition:#ea4f4f:#fff56d>Vlad's Cape"
-material: LEATHER
+item: leather
 unique: true
 lore:
   - '<dark_grey>-------------------------'

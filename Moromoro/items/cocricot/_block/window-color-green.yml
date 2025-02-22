@@ -1,5 +1,5 @@
 name: Window Color Green
-material: PAPER
+item: paper
 custom-model-data: 8722
 model: 'cocricotmod:block/window_color_green'
 

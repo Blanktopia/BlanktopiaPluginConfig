@@ -1,6 +1,6 @@
 local crateCoupon(name, crate) = {
   name: '<gold>' + name + ' Crate Coupon',
-  material: 'PAPER',
+  item: 'paper',
   'custom-model-data': 4,
   model: 'blanktopia:misc/key_coupon',
 

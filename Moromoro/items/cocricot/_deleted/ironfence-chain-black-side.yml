@@ -1,5 +1,5 @@
 name: Ironfence Chain Black Side
-material: PAPER
+item: paper
 custom-model-data: 5855
 model: 'cocricotmod:block/ironfence_chain_black_side'
 

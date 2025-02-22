@@ -1,5 +1,5 @@
 name: Rug Anywhere Dark
-material: PAPER
+item: paper
 custom-model-data: 6917
 model: 'cocricotmod:block/rug_anywhere_dark'
 

@@ -1,5 +1,5 @@
 name: Marble Stairs
-material: PAPER
+item: paper
 custom-model-data: 6061
 model: 'cocricotmod:block/marble_stairs'
 

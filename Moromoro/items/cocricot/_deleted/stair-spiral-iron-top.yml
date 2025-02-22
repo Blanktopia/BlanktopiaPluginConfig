@@ -1,5 +1,5 @@
 name: Stair Spiral Iron Top
-material: PAPER
+item: paper
 custom-model-data: 7601
 model: 'cocricotmod:block/stair_spiral_iron_top'
 

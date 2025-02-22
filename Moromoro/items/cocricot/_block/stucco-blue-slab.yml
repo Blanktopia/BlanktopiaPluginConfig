@@ -1,5 +1,5 @@
 name: Stucco Blue Slab
-material: PAPER
+item: paper
 custom-model-data: 8025
 model: 'cocricotmod:block/stucco_blue_slab'
 

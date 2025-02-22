@@ -1,5 +1,5 @@
 name: Refrigerator Retro Black
-material: PAPER
+item: paper
 custom-model-data: 6352
 model: cocricotmod:block/refrigerator_retro_black
 block:

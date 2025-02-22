@@ -1,5 +1,5 @@
 name: Glassbottle Flower Cute
-material: PAPER
+item: paper
 custom-model-data: 5152
 model: 'cocricotmod:block/glassbottle_flower_cute'
 

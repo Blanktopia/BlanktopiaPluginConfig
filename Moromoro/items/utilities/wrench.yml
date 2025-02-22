@@ -1,6 +1,6 @@
 version: 1
 name: "<transition:#adb0b8:#7e8596>Wrench"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1002
 model: "blanktopia:rares/wrench"
 soulbound: true

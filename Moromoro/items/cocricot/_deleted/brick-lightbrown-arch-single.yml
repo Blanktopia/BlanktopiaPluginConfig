@@ -1,5 +1,5 @@
 name: Brick Lightbrown Arch Single
-material: PAPER
+item: paper
 custom-model-data: 2653
 model: 'cocricotmod:block/brick_lightbrown_arch_single'
 

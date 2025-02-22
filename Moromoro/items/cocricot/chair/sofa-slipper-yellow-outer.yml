@@ -1,5 +1,5 @@
 name: Sofa Slipper Yellow Outer
-material: PAPER
+item: paper
 custom-model-data: 7520
 model: cocricotmod:block/sofa_slipper_yellow_outer
 block:

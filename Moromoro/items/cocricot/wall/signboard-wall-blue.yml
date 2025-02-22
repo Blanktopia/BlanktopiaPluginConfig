@@ -1,5 +1,5 @@
 name: Signboard Wall Blue
-material: PAPER
+item: paper
 custom-model-data: 7264
 model: 'cocricotmod:block/signboard_wall_blue'
 

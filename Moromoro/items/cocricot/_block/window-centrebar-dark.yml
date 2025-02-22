@@ -1,5 +1,5 @@
 name: Window Centrebar Dark
-material: PAPER
+item: paper
 custom-model-data: 8617
 model: 'cocricotmod:block/window_centrebar_dark'
 

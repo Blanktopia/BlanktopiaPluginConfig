@@ -1,0 +1,7 @@
+name: "Birthday Cake (Corner)"
+item: feather
+custom-model-data: 103
+model: "littleroom_bdaycake:cornerpiece"
+
+block:
+  type: item

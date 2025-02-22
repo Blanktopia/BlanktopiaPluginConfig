@@ -1,5 +1,5 @@
 name: Window Diamond Yellow Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8900
 model: 'cocricotmod:block/window_diamond_yellow_pane_post'
 

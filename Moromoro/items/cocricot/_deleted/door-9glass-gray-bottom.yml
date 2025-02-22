@@ -1,5 +1,5 @@
 name: Door  9glass Gray Bottom
-material: PAPER
+item: paper
 custom-model-data: 3760
 model: 'cocricotmod:block/door_9glass_gray_bottom'
 

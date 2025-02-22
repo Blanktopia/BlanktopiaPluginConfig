@@ -1,5 +1,5 @@
 name: Stool Shabby
-material: PAPER
+item: paper
 custom-model-data: 8009
 model: cocricotmod:block/stool_shabby
 block:

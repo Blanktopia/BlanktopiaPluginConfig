@@ -1,5 +1,5 @@
 name: Windowframe Arch White Both
-material: PAPER
+item: paper
 custom-model-data: 9056
 model: 'cocricotmod:block/windowframe_arch_white_both'
 

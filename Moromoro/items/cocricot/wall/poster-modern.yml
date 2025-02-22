@@ -1,5 +1,5 @@
 name: Poster Modern
-material: PAPER
+item: paper
 custom-model-data: 6281
 model: 'cocricotmod:block/poster_modern'
 

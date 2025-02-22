@@ -1,5 +1,5 @@
 name: Sofa Slipper American Green
-material: PAPER
+item: paper
 custom-model-data: 7446
 model: cocricotmod:block/sofa_slipper_american_green
 block:

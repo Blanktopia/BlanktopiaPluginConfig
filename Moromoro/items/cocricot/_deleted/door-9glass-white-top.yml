@@ -1,5 +1,5 @@
 name: Door  9glass White Top
-material: PAPER
+item: paper
 custom-model-data: 3844
 model: 'cocricotmod:block/door_9glass_white_top'
 

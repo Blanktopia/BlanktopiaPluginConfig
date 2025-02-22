@@ -1,6 +1,6 @@
 version: 2
 name: "<gold>Lumberjack<red> ⛏"
-material: IRON_AXE
+item: iron_axe
 custom-model-data: 1
 model: "blanktopia:rares/lumberjack"
 soulbound: true

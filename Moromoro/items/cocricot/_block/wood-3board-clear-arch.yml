@@ -1,5 +1,5 @@
 name: Wood  3board Clear Arch
-material: PAPER
+item: paper
 custom-model-data: 9407
 model: 'cocricotmod:block/wood_3board_clear_arch'
 

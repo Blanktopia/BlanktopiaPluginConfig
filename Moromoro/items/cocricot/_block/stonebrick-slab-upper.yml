@@ -1,5 +1,5 @@
 name: Stonebrick Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 7993
 model: 'cocricotmod:block/stonebrick_slab_upper'
 

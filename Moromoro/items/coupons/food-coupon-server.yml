@@ -1,5 +1,5 @@
 name: "<aqua>Food Coupon (Server-wide)"
-material: PAPER
+item: paper
 custom-model-data: 3
 model: "blanktopia:misc/food_coupon"
 lore:

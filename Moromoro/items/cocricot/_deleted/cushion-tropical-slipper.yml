@@ -1,5 +1,5 @@
 name: Cushion Tropical Slipper
-material: PAPER
+item: paper
 custom-model-data: 3380
 model: 'cocricotmod:block/cushion_tropical_slipper'
 

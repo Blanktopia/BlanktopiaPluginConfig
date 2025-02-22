@@ -1,5 +1,5 @@
 name: Gardenbench Red Both
-material: PAPER
+item: paper
 custom-model-data: 4980
 model: cocricotmod:block/gardenbench_red_both
 block:

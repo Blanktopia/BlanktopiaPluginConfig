@@ -1,5 +1,5 @@
 name: Paperbag
-material: PAPER
+item: paper
 custom-model-data: 6157
 model: 'cocricotmod:block/paperbag'
 

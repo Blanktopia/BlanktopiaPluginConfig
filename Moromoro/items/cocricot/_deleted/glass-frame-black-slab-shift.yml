@@ -1,5 +1,5 @@
 name: Glass Frame Black Slab Shift
-material: PAPER
+item: paper
 custom-model-data: 5057
 model: 'cocricotmod:block/glass_frame_black_slab_shift'
 

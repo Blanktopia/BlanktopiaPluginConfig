@@ -1,5 +1,5 @@
 name: Rug Rustic True
-material: PAPER
+item: paper
 custom-model-data: 6934
 model: 'cocricotmod:block/rug_rustic_true'
 

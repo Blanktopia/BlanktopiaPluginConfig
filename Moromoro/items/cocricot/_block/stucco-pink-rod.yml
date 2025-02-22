@@ -1,5 +1,5 @@
 name: Stucco Pink Rod
-material: PAPER
+item: paper
 custom-model-data: 8079
 model: 'cocricotmod:block/stucco_pink_rod'
 

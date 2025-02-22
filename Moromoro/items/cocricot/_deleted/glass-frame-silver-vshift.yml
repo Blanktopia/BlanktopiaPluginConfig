@@ -1,5 +1,5 @@
 name: Glass Frame Silver Vshift
-material: PAPER
+item: paper
 custom-model-data: 5132
 model: 'cocricotmod:block/glass_frame_silver_vshift'
 

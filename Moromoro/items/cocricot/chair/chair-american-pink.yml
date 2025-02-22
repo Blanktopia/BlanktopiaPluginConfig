@@ -1,5 +1,5 @@
 name: Chair American Pink
-material: PAPER
+item: paper
 custom-model-data: 2990
 model: cocricotmod:block/chair_american_pink
 block:

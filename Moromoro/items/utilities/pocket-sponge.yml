@@ -1,6 +1,6 @@
 version: 0
 name: "<transition:#fffcdb:#ffc272>Pocket Sponge"
-material: SPONGE
+item: sponge
 soulbound: true
 unbreakable: true
 unenchantable: true

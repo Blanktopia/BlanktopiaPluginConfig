@@ -1,5 +1,5 @@
 name: Hanging Plant Basket
-material: PAPER
+item: paper
 custom-model-data: 5784
 model: 'cocricotmod:block/hanging_plant_basket'
 

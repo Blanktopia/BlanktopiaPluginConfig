@@ -1,5 +1,5 @@
 name: "<#546dd1>Elf Hat"
-material: GREEN_WOOL
+item: green_wool
 custom-model-data: 1
 model: "blanktopia:hats/elf"
 

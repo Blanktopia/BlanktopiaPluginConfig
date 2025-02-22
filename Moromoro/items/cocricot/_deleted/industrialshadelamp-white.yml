@@ -1,5 +1,5 @@
 name: Industrialshadelamp White
-material: PAPER
+item: paper
 custom-model-data: 5849
 model: 'cocricotmod:block/industrialshadelamp_white'
 

@@ -1,5 +1,5 @@
 name: Windowframe Simple Black Upper Outer
-material: PAPER
+item: paper
 custom-model-data: 9148
 model: 'cocricotmod:block/windowframe_simple_black_upper_outer'
 

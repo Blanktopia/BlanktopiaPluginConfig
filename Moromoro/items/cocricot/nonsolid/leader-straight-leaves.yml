@@ -1,5 +1,5 @@
 name: Leader Straight Leaves
-material: PAPER
+item: paper
 custom-model-data: 5932
 model: 'cocricotmod:block/leader_straight_leaves'
 

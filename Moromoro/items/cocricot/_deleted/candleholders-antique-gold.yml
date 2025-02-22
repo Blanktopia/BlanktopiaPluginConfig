@@ -1,5 +1,5 @@
 name: Candleholders Antique Gold
-material: PAPER
+item: paper
 custom-model-data: 2872
 model: 'cocricotmod:block/candleholders_antique_gold'
 

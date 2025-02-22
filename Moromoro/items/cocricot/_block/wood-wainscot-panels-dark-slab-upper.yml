@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels Dark Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9830
 model: 'cocricotmod:block/wood_wainscot_panels_dark_slab_upper'
 

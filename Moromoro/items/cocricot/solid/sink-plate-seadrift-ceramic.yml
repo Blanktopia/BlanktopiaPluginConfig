@@ -1,5 +1,5 @@
 name: Sink Plate Seadrift Ceramic
-material: PAPER
+item: paper
 custom-model-data: 7323
 model: cocricotmod:block/sink_plate_seadrift_ceramic
 block:

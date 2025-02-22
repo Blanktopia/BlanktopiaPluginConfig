@@ -1,5 +1,5 @@
 name: Awning Green Stairs
-material: PAPER
+item: paper
 custom-model-data: 2062
 model: 'cocricotmod:block/awning_green_stairs'
 

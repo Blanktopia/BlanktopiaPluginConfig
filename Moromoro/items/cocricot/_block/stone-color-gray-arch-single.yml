@@ -1,5 +1,5 @@
 name: Stone Color Gray Arch Single
-material: PAPER
+item: paper
 custom-model-data: 7737
 model: 'cocricotmod:block/stone_color_gray_arch_single'
 

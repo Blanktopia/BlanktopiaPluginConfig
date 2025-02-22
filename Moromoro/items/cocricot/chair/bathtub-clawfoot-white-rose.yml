@@ -1,5 +1,5 @@
 name: Bathtub Clawfoot White Rose
-material: PAPER
+item: paper
 custom-model-data: 2386
 model: cocricotmod:block/bathtub_clawfoot_white_rose
 block:

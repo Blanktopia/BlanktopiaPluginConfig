@@ -1,5 +1,5 @@
 name: Gardenbench Mintgreen Right
-material: PAPER
+item: paper
 custom-model-data: 4970
 model: cocricotmod:block/gardenbench_mintgreen_right
 block:

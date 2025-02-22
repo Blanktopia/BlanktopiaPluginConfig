@@ -1,5 +1,5 @@
 name: Shelf Normal Towel
-material: PAPER
+item: paper
 custom-model-data: 7165
 model: 'cocricotmod:block/shelf_normal_towel'
 

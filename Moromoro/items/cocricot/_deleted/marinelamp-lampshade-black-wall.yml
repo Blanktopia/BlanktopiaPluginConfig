@@ -1,5 +1,5 @@
 name: Marinelamp Lampshade Black Wall
-material: PAPER
+item: paper
 custom-model-data: 6082
 model: 'cocricotmod:block/marinelamp_lampshade_black_wall'
 

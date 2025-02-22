@@ -1,5 +1,5 @@
 name: Stone Color Blue Arch
-material: PAPER
+item: paper
 custom-model-data: 7710
 model: 'cocricotmod:block/stone_color_blue_arch'
 

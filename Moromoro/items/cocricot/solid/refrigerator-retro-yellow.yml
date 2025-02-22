@@ -1,5 +1,5 @@
 name: Refrigerator Retro Yellow
-material: PAPER
+item: paper
 custom-model-data: 6363
 model: cocricotmod:block/refrigerator_retro_yellow
 block:

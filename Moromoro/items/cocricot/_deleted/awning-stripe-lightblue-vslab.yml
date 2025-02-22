@@ -1,5 +1,5 @@
 name: Awning Stripe Lightblue Vslab
-material: PAPER
+item: paper
 custom-model-data: 2201
 model: 'cocricotmod:block/awning_stripe_lightblue_vslab'
 

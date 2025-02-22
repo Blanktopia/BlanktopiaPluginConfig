@@ -1,5 +1,5 @@
 name: Wood  2board H Seadrift Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 9342
 model: 'cocricotmod:block/wood_2board_h_seadrift_stairs_outer'
 

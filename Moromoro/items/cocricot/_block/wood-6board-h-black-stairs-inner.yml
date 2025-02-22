@@ -1,5 +1,5 @@
 name: Wood  6board H Black Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9575
 model: 'cocricotmod:block/wood_6board_h_black_stairs_inner'
 

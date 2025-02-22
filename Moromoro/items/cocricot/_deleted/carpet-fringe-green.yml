@@ -1,5 +1,5 @@
 name: Carpet Fringe Green
-material: PAPER
+item: paper
 custom-model-data: 2919
 model: 'cocricotmod:block/carpet_fringe_green'
 

@@ -1,5 +1,5 @@
 name: Stair Closedstringer Clear
-material: PAPER
+item: paper
 custom-model-data: 7564
 model: 'cocricotmod:block/stair_closedstringer_clear'
 

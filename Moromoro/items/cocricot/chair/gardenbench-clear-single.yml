@@ -1,5 +1,5 @@
 name: Gardenbench Clear Single
-material: PAPER
+item: paper
 custom-model-data: 4950
 model: cocricotmod:block/gardenbench_clear_single
 block:

@@ -1,5 +1,5 @@
 name: Bed Frame Iron
-material: PAPER
+item: paper
 custom-model-data: 2392
 model: cocricotmod:block/bed_frame_iron
 block:

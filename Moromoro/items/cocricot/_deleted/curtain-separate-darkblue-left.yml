@@ -1,5 +1,5 @@
 name: Curtain Separate Darkblue Left
-material: PAPER
+item: paper
 custom-model-data: 3251
 model: 'cocricotmod:block/curtain_separate_darkblue_left'
 

@@ -1,5 +1,5 @@
 name: Wood Natural Stick
-material: PAPER
+item: paper
 custom-model-data: 9791
 model: 'cocricotmod:block/wood_natural_stick'
 

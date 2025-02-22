@@ -1,5 +1,5 @@
 name: Brick Arch
-material: PAPER
+item: paper
 custom-model-data: 2623
 model: 'cocricotmod:block/brick_arch'
 

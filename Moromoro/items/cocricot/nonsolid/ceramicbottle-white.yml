@@ -1,5 +1,5 @@
 name: Ceramicbottle White
-material: PAPER
+item: paper
 custom-model-data: 2962
 model: 'cocricotmod:block/ceramicbottle_white'
 

@@ -1,5 +1,5 @@
 name: Mintchocolatechip Glass
-material: PAPER
+item: paper
 custom-model-data: 6122
 model: 'cocricotmod:block/mintchocolatechip_glass'
 

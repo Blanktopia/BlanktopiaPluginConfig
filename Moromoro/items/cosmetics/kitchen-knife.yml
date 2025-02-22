@@ -1,4 +1,4 @@
 name: "Kitchen Knife"
-material: NETHERITE_SWORD
+item: netherite_sword
 custom-model-data: 2
 model: "blanktopia:cosmetics/kitchen_knife"

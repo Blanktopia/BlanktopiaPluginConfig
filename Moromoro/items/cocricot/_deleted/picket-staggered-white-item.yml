@@ -1,5 +1,5 @@
 name: Picket Staggered White Item
-material: PAPER
+item: paper
 custom-model-data: 6256
 model: 'cocricotmod:block/picket_staggered_white_item'
 

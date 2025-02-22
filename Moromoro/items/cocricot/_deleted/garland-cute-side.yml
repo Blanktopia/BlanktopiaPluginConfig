@@ -1,5 +1,5 @@
 name: Garland Cute Side
-material: PAPER
+item: paper
 custom-model-data: 5013
 model: 'cocricotmod:block/garland_cute_side'
 

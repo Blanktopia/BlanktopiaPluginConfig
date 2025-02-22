@@ -1,5 +1,5 @@
 name: Fence Iron White Three
-material: PAPER
+item: paper
 custom-model-data: 4752
 model: 'cocricotmod:block/fence_iron_white_three'
 

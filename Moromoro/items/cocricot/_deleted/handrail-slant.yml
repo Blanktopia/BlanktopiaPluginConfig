@@ -1,5 +1,5 @@
 name: Handrail Slant
-material: PAPER
+item: paper
 custom-model-data: 5562
 model: 'cocricotmod:block/handrail_slant'
 

@@ -1,5 +1,5 @@
 name: Windowframe Side Right Fence
-material: PAPER
+item: paper
 custom-model-data: 9142
 model: 'cocricotmod:block/windowframe_side_right_fence'
 

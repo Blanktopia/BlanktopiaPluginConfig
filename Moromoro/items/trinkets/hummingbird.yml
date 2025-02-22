@@ -1,6 +1,6 @@
 version: 2
 name: "<transition:#f76c9d:#b5f9cb>Hummingbird"
-material: FEATHER
+item: feather
 custom-model-data: 1
 model: "blanktopia:rares/hummingbird"
 soulbound: true
@@ -9,9 +9,9 @@ unique: true
 lore:
   - ''
   - '<white>Allows you to hover in claims'
-  - '<white>you are <aqua>/trusted<white> in.'
+  - '<white>you are <bold>/trusted</bold><white> in.'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:
@@ -21,16 +21,16 @@ triggers:
   unequip-armor:
     - type: fly-in-claims
       fly: false
-  tick-slow:
-    - type: if
-      if:
-        type: is-flying
-      then:
-        - type: spawn-particle
-          count: 1
-          y: 0.9
-          offset-x: 0.3
-          offset-y: 0.6
-          offset-z: 0.3
-          particle: FALLING_DUST
-          block: PEARLESCENT_FROGLIGHT
+#   tick-slow:
+#     - type: if
+#       if:
+#         type: is-flying
+#       then:
+#         - type: spawn-particle
+#           count: 1
+#           y: 0.9
+#           offset-x: 0.3
+#           offset-y: 0.6
+#           offset-z: 0.3
+#           particle: FALLING_DUST
+#           block: PEARLESCENT_FROGLIGHT

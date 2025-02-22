@@ -1,5 +1,5 @@
 name: Windowframe Classic Side Sand Fence
-material: PAPER
+item: paper
 custom-model-data: 9105
 model: 'cocricotmod:block/windowframe_classic_side_sand_fence'
 

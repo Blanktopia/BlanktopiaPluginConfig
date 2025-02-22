@@ -1,5 +1,5 @@
 name: Brick Plate
-material: PAPER
+item: paper
 custom-model-data: 2697
 model: 'cocricotmod:block/brick_plate'
 

@@ -1,5 +1,5 @@
 name: Sink Plate Seadrift
-material: PAPER
+item: paper
 custom-model-data: 7322
 model: cocricotmod:block/sink_plate_seadrift
 block:

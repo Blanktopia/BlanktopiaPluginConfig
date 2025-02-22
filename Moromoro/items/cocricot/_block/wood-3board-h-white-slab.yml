@@ -1,5 +1,5 @@
 name: Wood  3board H White Slab
-material: PAPER
+item: paper
 custom-model-data: 9480
 model: 'cocricotmod:block/wood_3board_h_white_slab'
 

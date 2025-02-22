@@ -1,5 +1,5 @@
 name: Stair White Outer
-material: PAPER
+item: paper
 custom-model-data: 7613
 model: 'cocricotmod:block/stair_white_outer'
 

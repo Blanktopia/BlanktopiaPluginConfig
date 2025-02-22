@@ -1,5 +1,5 @@
 name: Rose Placed
-material: PAPER
+item: paper
 custom-model-data: 6887
 model: 'cocricotmod:block/rose_placed'
 

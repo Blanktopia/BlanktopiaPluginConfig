@@ -1,5 +1,5 @@
 name: Glass Frame Dark Slab
-material: PAPER
+item: paper
 custom-model-data: 5092
 model: 'cocricotmod:block/glass_frame_dark_slab'
 

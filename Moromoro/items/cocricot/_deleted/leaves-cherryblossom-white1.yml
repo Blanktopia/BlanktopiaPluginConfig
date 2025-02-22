@@ -1,5 +1,5 @@
 name: Leaves Cherryblossom White 1
-material: PAPER
+item: paper
 custom-model-data: 5943
 model: 'cocricotmod:block/leaves_cherryblossom_white1'
 

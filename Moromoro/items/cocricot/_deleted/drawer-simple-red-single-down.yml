@@ -1,5 +1,5 @@
 name: Drawer Simple Red Single Down
-material: PAPER
+item: paper
 custom-model-data: 4609
 model: 'cocricotmod:block/drawer_simple_red_single_down'
 

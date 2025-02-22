@@ -1,5 +1,5 @@
 name: Drawer Simple Dark Left
-material: PAPER
+item: paper
 custom-model-data: 4584
 model: 'cocricotmod:block/drawer_simple_dark_left'
 

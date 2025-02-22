@@ -1,5 +1,5 @@
 name: Roof Tile Black Incline Odd
-material: PAPER
+item: paper
 custom-model-data: 6797
 model: 'cocricotmod:block/roof_tile_black_incline_odd'
 

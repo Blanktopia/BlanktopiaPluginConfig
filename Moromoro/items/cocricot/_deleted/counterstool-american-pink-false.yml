@@ -1,5 +1,5 @@
 name: Counterstool American Pink False
-material: PAPER
+item: paper
 custom-model-data: 3203
 model: 'cocricotmod:block/counterstool_american_pink_false'
 

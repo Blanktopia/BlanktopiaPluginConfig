@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel Seadrift Top
-material: PAPER
+item: paper
 custom-model-data: 4028
 model: 'cocricotmod:block/door_tall_2glass3panel_seadrift_top'
 

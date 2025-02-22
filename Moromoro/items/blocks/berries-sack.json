@@ -5,7 +5,7 @@
       "type": "mushroom"
    },
    "custom-model-data": 1004,
-   "material": "PAPER",
+   "item": "paper",
    "model": "blanktopia:block/berry_sack",
    "name": "<white>Berries Sack"
 }

@@ -1,5 +1,5 @@
 name: Coffee Cup Blue Table
-material: PAPER
+item: paper
 custom-model-data: 3131
 model: 'cocricotmod:block/coffee_cup_blue_table'
 

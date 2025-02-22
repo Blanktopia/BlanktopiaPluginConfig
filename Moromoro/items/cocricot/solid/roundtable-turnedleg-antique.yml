@@ -1,5 +1,5 @@
 name: Roundtable Turnedleg Antique
-material: PAPER
+item: paper
 custom-model-data: 6899
 model: cocricotmod:block/roundtable_turnedleg_antique
 block:

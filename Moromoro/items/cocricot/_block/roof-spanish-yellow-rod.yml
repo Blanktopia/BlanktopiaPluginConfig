@@ -1,5 +1,5 @@
 name: Roof Spanish Yellow Rod
-material: PAPER
+item: paper
 custom-model-data: 6786
 model: 'cocricotmod:block/roof_spanish_yellow_rod'
 

@@ -1,5 +1,5 @@
 name: Stone Color Darkbrown Slab
-material: PAPER
+item: paper
 custom-model-data: 7727
 model: 'cocricotmod:block/stone_color_darkbrown_slab'
 

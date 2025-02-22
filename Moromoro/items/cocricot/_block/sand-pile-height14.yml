@@ -1,5 +1,5 @@
 name: Sand Pile Height 4
-material: PAPER
+item: paper
 custom-model-data: 7126
 model: 'cocricotmod:block/sand_pile_height14'
 

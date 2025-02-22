@@ -1,5 +1,5 @@
 name: Wood  6board H White Slab
-material: PAPER
+item: paper
 custom-model-data: 9620
 model: 'cocricotmod:block/wood_6board_h_white_slab'
 

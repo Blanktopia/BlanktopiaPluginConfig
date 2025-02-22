@@ -1,5 +1,5 @@
 name: Stone Mosaic Whitejoint Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 7909
 model: 'cocricotmod:block/stone_mosaic_whitejoint_stairs_outer'
 

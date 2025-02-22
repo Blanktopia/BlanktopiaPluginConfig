@@ -1,5 +1,5 @@
 name: Stone Bushrock Pile Height 4
-material: PAPER
+item: paper
 custom-model-data: 7643
 model: 'cocricotmod:block/stone_bushrock_pile_height4'
 

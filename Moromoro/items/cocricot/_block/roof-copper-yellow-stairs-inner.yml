@@ -1,5 +1,5 @@
 name: Roof Copper Yellow Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 6547
 model: 'cocricotmod:block/roof_copper_yellow_stairs_inner'
 

@@ -1,5 +1,5 @@
 name: Tile Mosaic White
-material: PAPER
+item: paper
 custom-model-data: 8305
 model: 'cocricotmod:block/tile_mosaic_white'
 

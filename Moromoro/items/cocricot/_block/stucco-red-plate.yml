@@ -1,5 +1,5 @@
 name: Stucco Red Plate
-material: PAPER
+item: paper
 custom-model-data: 8091
 model: 'cocricotmod:block/stucco_red_plate'
 

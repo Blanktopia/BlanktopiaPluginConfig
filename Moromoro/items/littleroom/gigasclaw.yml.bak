@@ -1,0 +1,4 @@
+name: "Giga's Claw"
+item: leather_horse_armor
+custom-model-data: 2026
+model: "littleroom_gigas:items/gigasclaw"

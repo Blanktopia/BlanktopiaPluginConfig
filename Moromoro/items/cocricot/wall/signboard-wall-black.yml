@@ -1,5 +1,5 @@
 name: Signboard Wall Black
-material: PAPER
+item: paper
 custom-model-data: 7263
 model: 'cocricotmod:block/signboard_wall_black'
 

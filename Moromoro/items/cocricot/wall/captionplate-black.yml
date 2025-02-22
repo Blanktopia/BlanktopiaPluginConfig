@@ -1,5 +1,5 @@
 name: Captionplate Black
-material: PAPER
+item: paper
 custom-model-data: 2878
 model: 'cocricotmod:block/captionplate_black'
 

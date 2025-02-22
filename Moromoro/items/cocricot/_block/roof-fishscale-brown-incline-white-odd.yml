@@ -1,5 +1,5 @@
 name: Roof Fishscale Brown Incline White Odd
-material: PAPER
+item: paper
 custom-model-data: 6559
 model: 'cocricotmod:block/roof_fishscale_brown_incline_white_odd'
 

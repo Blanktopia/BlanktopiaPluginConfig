@@ -1,6 +1,6 @@
 version: 2
 name: "<transition:#89c4c0:#d2e8e8>Pathfinder's Grappling Hook"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1009
 model: "blanktopia:rares/grappling_hook"
 soulbound: true
@@ -16,7 +16,7 @@ lore:
   - '<grey>Range: 50 blocks'
   - '<grey>Speed: Fast'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:
@@ -30,7 +30,7 @@ triggers:
     - type: cancel
   projectile-tick:
     - type: grapple-tick
-      acceleration: 1.0
+      acceleration: 0.3
       max-speed: 1.0
       detach-speed: 0.5
       range: 50

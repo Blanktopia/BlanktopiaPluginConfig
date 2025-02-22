@@ -1,5 +1,5 @@
 name: Photoframe Antique Black Down
-material: PAPER
+item: paper
 custom-model-data: 6240
 model: 'cocricotmod:block/photoframe_antique_black_down'
 

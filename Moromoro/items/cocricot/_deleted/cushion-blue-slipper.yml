@@ -1,5 +1,5 @@
 name: Cushion Blue Slipper
-material: PAPER
+item: paper
 custom-model-data: 3308
 model: 'cocricotmod:block/cushion_blue_slipper'
 

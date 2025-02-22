@@ -1,5 +1,5 @@
 name: Roof Fishscale Green Incline
-material: PAPER
+item: paper
 custom-model-data: 6572
 model: 'cocricotmod:block/roof_fishscale_green_incline'
 

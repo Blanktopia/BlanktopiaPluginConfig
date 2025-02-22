@@ -1,5 +1,5 @@
 name: Wood  2board Black Slab
-material: PAPER
+item: paper
 custom-model-data: 9260
 model: 'cocricotmod:block/wood_2board_black_slab'
 

@@ -1,5 +1,5 @@
 name: Log All Oak
-material: PAPER
+item: paper
 custom-model-data: 6022
 model: 'cocricotmod:block/log_all_oak'
 

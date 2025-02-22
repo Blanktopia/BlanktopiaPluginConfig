@@ -1,5 +1,5 @@
 name: Window Centrebar Dark Pane Three
-material: PAPER
+item: paper
 custom-model-data: 8623
 model: 'cocricotmod:block/window_centrebar_dark_pane_three'
 

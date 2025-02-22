@@ -1,5 +1,5 @@
 name: Industrialshadelamp Red
-material: PAPER
+item: paper
 custom-model-data: 5845
 model: 'cocricotmod:block/industrialshadelamp_red'
 

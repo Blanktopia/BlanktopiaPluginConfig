@@ -1,5 +1,5 @@
 name: Roof Tile Black Rod
-material: PAPER
+item: paper
 custom-model-data: 6806
 model: 'cocricotmod:block/roof_tile_black_rod'
 

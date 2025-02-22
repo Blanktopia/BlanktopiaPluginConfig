@@ -1,5 +1,5 @@
 name: Hanging Beach 1
-material: PAPER
+item: paper
 custom-model-data: 5778
 model: 'cocricotmod:block/hanging_beach1'
 

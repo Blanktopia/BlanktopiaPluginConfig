@@ -1,5 +1,5 @@
 name: Curtain Separate Both
-material: PAPER
+item: paper
 custom-model-data: 3249
 model: 'cocricotmod:block/curtain_separate_both'
 

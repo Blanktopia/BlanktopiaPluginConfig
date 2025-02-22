@@ -1,5 +1,5 @@
 name: Chain Silver
-material: PAPER
+item: paper
 custom-model-data: 2972
 model: 'cocricotmod:block/chain_silver'
 

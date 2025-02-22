@@ -1,5 +1,5 @@
 name: Door Tall  8glass White Top
-material: PAPER
+item: paper
 custom-model-data: 4476
 model: 'cocricotmod:block/door_tall_8glass_white_top'
 

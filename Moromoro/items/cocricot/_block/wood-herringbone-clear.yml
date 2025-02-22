@@ -1,5 +1,5 @@
 name: Wood Herringbone Clear
-material: PAPER
+item: paper
 custom-model-data: 9731
 model: 'cocricotmod:block/wood_herringbone_clear'
 

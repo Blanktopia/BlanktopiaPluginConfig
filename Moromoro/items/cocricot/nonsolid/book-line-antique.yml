@@ -1,5 +1,5 @@
 name: Book Line Antique
-material: PAPER
+item: paper
 custom-model-data: 2484
 model: 'cocricotmod:block/book_line_antique'
 

@@ -1,5 +1,5 @@
 name: Base Nothickness Post
-material: PAPER
+item: paper
 custom-model-data: 2322
 model: 'cocricotmod:block/base_nothickness_post'
 

@@ -1,5 +1,5 @@
 name: Curtain Cafe Ecru
-material: PAPER
+item: paper
 custom-model-data: 3242
 model: 'cocricotmod:block/curtain_cafe_ecru'
 

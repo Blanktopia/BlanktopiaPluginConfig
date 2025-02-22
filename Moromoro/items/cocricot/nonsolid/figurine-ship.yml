@@ -1,5 +1,5 @@
 name: Figurine Ship
-material: PAPER
+item: paper
 custom-model-data: 4833
 model: 'cocricotmod:block/figurine_ship'
 

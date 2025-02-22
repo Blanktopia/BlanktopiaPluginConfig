@@ -1,5 +1,5 @@
 name: Stone Color Orange Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 7822
 model: 'cocricotmod:block/stone_color_orange_stairs_outer'
 

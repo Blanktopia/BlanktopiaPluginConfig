@@ -1,5 +1,5 @@
 name: Stucco Lightblue Item
-material: PAPER
+item: paper
 custom-model-data: 8035
 model: 'cocricotmod:block/stucco_lightblue_item'
 

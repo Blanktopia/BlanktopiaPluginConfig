@@ -1,5 +1,5 @@
 name: Marble Diagonal Smallest Blackwhite
-material: PAPER
+item: paper
 custom-model-data: 6052
 model: 'cocricotmod:block/marble_diagonal_smallest_blackwhite'
 

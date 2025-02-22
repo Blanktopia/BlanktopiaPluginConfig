@@ -1,5 +1,5 @@
 name: Wood Herringbone Black Stairs
-material: PAPER
+item: paper
 custom-model-data: 9717
 model: 'cocricotmod:block/wood_herringbone_black_stairs'
 

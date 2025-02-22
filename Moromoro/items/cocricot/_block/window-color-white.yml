@@ -1,5 +1,5 @@
 name: Window Color White
-material: PAPER
+item: paper
 custom-model-data: 8778
 model: 'cocricotmod:block/window_color_white'
 

@@ -1,5 +1,5 @@
 name: Table Garden Brown
-material: PAPER
+item: paper
 custom-model-data: 8171
 model: cocricotmod:block/table_garden_brown
 block:

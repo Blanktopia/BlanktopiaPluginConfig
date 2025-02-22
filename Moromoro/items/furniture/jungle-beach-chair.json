@@ -7,7 +7,7 @@
    },
    "custom-model-data": 1043,
    "dyeable": true,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/jungle_beach_chair",
    "name": "<white>Jungle Beach Chair"
 }

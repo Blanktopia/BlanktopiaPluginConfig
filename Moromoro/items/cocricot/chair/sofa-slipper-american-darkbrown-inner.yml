@@ -1,5 +1,5 @@
 name: Sofa Slipper American Darkbrown Inner
-material: PAPER
+item: paper
 custom-model-data: 7444
 model: cocricotmod:block/sofa_slipper_american_darkbrown_inner
 block:

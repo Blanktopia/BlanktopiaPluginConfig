@@ -1,5 +1,5 @@
 name: Roof Spanish Green Incline White Outer
-material: PAPER
+item: paper
 custom-model-data: 6682
 model: 'cocricotmod:block/roof_spanish_green_incline_white_outer'
 

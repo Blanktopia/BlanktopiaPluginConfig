@@ -1,5 +1,5 @@
 name: Cakestand Cupcake
-material: PAPER
+item: paper
 custom-model-data: 2846
 model: 'cocricotmod:block/cakestand_cupcake'
 

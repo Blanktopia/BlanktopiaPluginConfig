@@ -1,5 +1,5 @@
 name: Stone Bushrock Whitejoint Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7673
 model: 'cocricotmod:block/stone_bushrock_whitejoint_stairs_inner'
 

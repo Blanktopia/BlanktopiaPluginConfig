@@ -1,5 +1,5 @@
 name: Speaker Floor White
-material: PAPER
+item: paper
 custom-model-data: 7543
 model: cocricotmod:block/speaker_floor_white
 block:

@@ -1,5 +1,5 @@
 name: Stone Mosaic Whitejoint Plate
-material: PAPER
+item: paper
 custom-model-data: 7903
 model: 'cocricotmod:block/stone_mosaic_whitejoint_plate'
 

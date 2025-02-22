@@ -1,5 +1,5 @@
 name: Stucco Pink Vslab
-material: PAPER
+item: paper
 custom-model-data: 8086
 model: 'cocricotmod:block/stucco_pink_vslab'
 

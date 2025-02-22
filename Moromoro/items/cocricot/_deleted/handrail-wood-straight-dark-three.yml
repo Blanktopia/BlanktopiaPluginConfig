@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Dark Three
-material: PAPER
+item: paper
 custom-model-data: 5624
 model: 'cocricotmod:block/handrail_wood_straight_dark_three'
 

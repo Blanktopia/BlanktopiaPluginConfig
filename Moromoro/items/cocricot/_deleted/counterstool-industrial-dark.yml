@@ -1,5 +1,5 @@
 name: Counterstool Industrial Dark
-material: PAPER
+item: paper
 custom-model-data: 3218
 model: 'cocricotmod:block/counterstool_industrial_dark'
 

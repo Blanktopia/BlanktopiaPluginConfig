@@ -1,5 +1,5 @@
 name: Halftimber Redwhite Slant Left
-material: PAPER
+item: paper
 custom-model-data: 5468
 model: 'cocricotmod:block/halftimber_redwhite_slant_left'
 

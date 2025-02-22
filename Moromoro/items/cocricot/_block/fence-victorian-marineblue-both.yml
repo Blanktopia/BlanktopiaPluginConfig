@@ -1,5 +1,5 @@
 name: Fence Victorian Marineblue Both
-material: PAPER
+item: paper
 custom-model-data: 4814
 model: 'cocricotmod:block/fence_victorian_marineblue_both'
 

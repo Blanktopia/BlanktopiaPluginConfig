@@ -1,5 +1,5 @@
 name: Garland Natural Both
-material: PAPER
+item: paper
 custom-model-data: 5023
 model: 'cocricotmod:block/garland_natural_both'
 

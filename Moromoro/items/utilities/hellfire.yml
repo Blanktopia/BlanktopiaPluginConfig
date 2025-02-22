@@ -1,6 +1,6 @@
 version: 3
 name: "<transition:#e71e02:#ffd729>Hellfire"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1007
 model: "minecraft:item/lava_bucket"
 soulbound: true

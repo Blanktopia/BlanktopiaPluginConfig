@@ -1,5 +1,5 @@
 name: Clock Tambour
-material: PAPER
+item: paper
 custom-model-data: 3108
 model: 'cocricotmod:block/clock_tambour'
 

@@ -1,5 +1,5 @@
 name: Pot Enameled Black
-material: PAPER
+item: paper
 custom-model-data: 6284
 model: 'cocricotmod:block/pot_enameled_black'
 

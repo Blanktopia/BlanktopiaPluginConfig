@@ -1,5 +1,5 @@
 name: Swimring Red Water
-material: PAPER
+item: paper
 custom-model-data: 8143
 model: cocricotmod:block/swimring_red_water
 block:

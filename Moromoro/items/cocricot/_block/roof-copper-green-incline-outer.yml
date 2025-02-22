@@ -1,5 +1,5 @@
 name: Roof Copper Green Incline Outer
-material: PAPER
+item: paper
 custom-model-data: 6461
 model: 'cocricotmod:block/roof_copper_green_incline_outer'
 

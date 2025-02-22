@@ -1,5 +1,5 @@
 name: Legplanter Modern White Side
-material: PAPER
+item: paper
 custom-model-data: 6004
 model: 'cocricotmod:block/legplanter_modern_white_side'
 

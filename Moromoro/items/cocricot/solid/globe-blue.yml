@@ -1,5 +1,5 @@
 name: Globe Blue
-material: PAPER
+item: paper
 custom-model-data: 5159
 model: cocricotmod:block/globe_blue
 block:

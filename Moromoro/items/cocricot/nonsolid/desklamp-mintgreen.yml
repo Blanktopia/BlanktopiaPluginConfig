@@ -1,5 +1,5 @@
 name: Desklamp Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 3436
 model: 'cocricotmod:block/desklamp_mintgreen'
 

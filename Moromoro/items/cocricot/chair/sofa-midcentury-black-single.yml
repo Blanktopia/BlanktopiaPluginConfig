@@ -1,5 +1,5 @@
 name: Sofa Midcentury Black Single
-material: PAPER
+item: paper
 custom-model-data: 7368
 model: cocricotmod:block/sofa_midcentury_black_single
 block:

@@ -1,5 +1,5 @@
 name: Countertable Wood Clear
-material: PAPER
+item: paper
 custom-model-data: 3239
 model: 'cocricotmod:block/countertable_wood_clear'
 

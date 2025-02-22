@@ -1,5 +1,5 @@
 name: Sofa Midcentury Brown Both
-material: PAPER
+item: paper
 custom-model-data: 7373
 model: cocricotmod:block/sofa_midcentury_brown_both
 block:

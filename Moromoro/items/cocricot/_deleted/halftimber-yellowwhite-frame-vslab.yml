@@ -1,5 +1,5 @@
 name: Halftimber Yellowwhite Frame Vslab
-material: PAPER
+item: paper
 custom-model-data: 5541
 model: 'cocricotmod:block/halftimber_yellowwhite_frame_vslab'
 

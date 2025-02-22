@@ -1,5 +1,5 @@
 name: Flowerpot Inner Branch False
-material: PAPER
+item: paper
 custom-model-data: 4895
 model: 'cocricotmod:block/flowerpot_inner_branch_false'
 

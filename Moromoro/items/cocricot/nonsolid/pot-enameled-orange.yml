@@ -1,5 +1,5 @@
 name: Pot Enameled Orange
-material: PAPER
+item: paper
 custom-model-data: 6287
 model: 'cocricotmod:block/pot_enameled_orange'
 

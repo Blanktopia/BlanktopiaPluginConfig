@@ -1,5 +1,5 @@
 name: Halftimber Bluewhite Tudor
-material: PAPER
+item: paper
 custom-model-data: 5200
 model: 'cocricotmod:block/halftimber_bluewhite_tudor'
 

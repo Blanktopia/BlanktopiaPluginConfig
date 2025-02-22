@@ -1,5 +1,5 @@
 name: Windowframe Classic Black Upper Inner
-material: PAPER
+item: paper
 custom-model-data: 9063
 model: 'cocricotmod:block/windowframe_classic_black_upper_inner'
 

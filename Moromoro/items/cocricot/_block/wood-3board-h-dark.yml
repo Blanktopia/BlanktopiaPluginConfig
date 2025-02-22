@@ -1,5 +1,5 @@
 name: Wood  3board H Dark
-material: PAPER
+item: paper
 custom-model-data: 9454
 model: 'cocricotmod:block/wood_3board_h_dark'
 

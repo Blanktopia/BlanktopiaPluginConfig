@@ -1,6 +1,6 @@
 version: 1
 name: "<transition:#f9c1ae:#f9e7e0>Parachute"
-material: FEATHER
+item: feather
 custom-model-data: 2
 model: "blanktopia:rares/parachute"
 soulbound: true
@@ -11,7 +11,7 @@ lore:
   - '<white>Grants immunity to fall'
   - '<white>damage.'
   - ''
-  - '<grey>Slot: <#ff4e1d>&Trinket'
+  - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
   - TRINKET
 triggers:

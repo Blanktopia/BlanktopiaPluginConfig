@@ -1,5 +1,5 @@
 name: Cabinet Retro Red
-material: PAPER
+item: paper
 custom-model-data: 2816
 model: 'cocricotmod:block/cabinet_retro_red'
 

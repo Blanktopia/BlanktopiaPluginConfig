@@ -1,5 +1,5 @@
 name: Stone Color Gray Vslab
-material: PAPER
+item: paper
 custom-model-data: 7746
 model: 'cocricotmod:block/stone_color_gray_vslab'
 

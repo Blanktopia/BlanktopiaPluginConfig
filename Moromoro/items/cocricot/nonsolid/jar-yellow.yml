@@ -1,5 +1,5 @@
 name: Jar Yellow
-material: PAPER
+item: paper
 custom-model-data: 5874
 model: 'cocricotmod:block/jar_yellow'
 

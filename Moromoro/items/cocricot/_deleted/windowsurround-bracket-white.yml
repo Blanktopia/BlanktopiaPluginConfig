@@ -1,5 +1,5 @@
 name: Windowsurround Bracket White
-material: PAPER
+item: paper
 custom-model-data: 9249
 model: 'cocricotmod:block/windowsurround_bracket_white'
 

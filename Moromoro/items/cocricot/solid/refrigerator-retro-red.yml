@@ -1,5 +1,5 @@
 name: Refrigerator Retro Red
-material: PAPER
+item: paper
 custom-model-data: 6360
 model: cocricotmod:block/refrigerator_retro_red
 block:

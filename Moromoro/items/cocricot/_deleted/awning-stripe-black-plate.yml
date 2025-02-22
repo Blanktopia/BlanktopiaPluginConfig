@@ -1,5 +1,5 @@
 name: Awning Stripe Black Plate
-material: PAPER
+item: paper
 custom-model-data: 2139
 model: 'cocricotmod:block/awning_stripe_black_plate'
 

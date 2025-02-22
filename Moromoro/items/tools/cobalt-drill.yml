@@ -1,16 +1,16 @@
 version: 2
 name: "<transition:#1363d3:#5eeaf2>Cobalt Drill"
-material: NETHERITE_PICKAXE
+item: netherite_pickaxe
 custom-model-data: 1
 model: "blanktopia:rares/cobalt_drill"
 models:
-  - material: NETHERITE_SHOVEL
+  - item: netherite_shovel
     predicate: {custom_model_data: 1}
     model: "blanktopia:rares/cobalt_drill"
-  - material: NETHERITE_AXE
+  - item: netherite_axe
     predicate: {custom_model_data: 1}
     model: "blanktopia:rares/cobalt_drill"
-  - material: DIAMOND_HOE
+  - item: diamond_hoe
     predicate: {custom_model_data: 1}
     model: "blanktopia:rares/cobalt_drill"
 soulbound: true
@@ -32,13 +32,13 @@ enchantments:
   silk_touch: 1
 attributes:
   - amount: 4.0
-    attribute: generic.attack_damage
+    attribute: attack_damage
     name: Attack Damage
     operation: ADD_NUMBER
     slot: HAND
     uuid: aa1fcf0e-8d0e-4cc2-b374-bd8ec556eb2d
   - amount: 2.0
-    attribute: generic.attack_speed
+    attribute: attack_speed
     name: Attack Speed
     operation: ADD_NUMBER
     slot: HAND

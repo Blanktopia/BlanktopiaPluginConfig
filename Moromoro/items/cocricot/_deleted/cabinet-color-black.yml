@@ -1,5 +1,5 @@
 name: Cabinet Color Black
-material: PAPER
+item: paper
 custom-model-data: 2753
 model: 'cocricotmod:block/cabinet_color_black'
 

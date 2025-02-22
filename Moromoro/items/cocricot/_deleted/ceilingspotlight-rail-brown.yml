@@ -1,5 +1,5 @@
 name: Ceilingspotlight Rail Brown
-material: PAPER
+item: paper
 custom-model-data: 2947
 model: 'cocricotmod:block/ceilingspotlight_rail_brown'
 

@@ -1,5 +1,5 @@
 name: Hangerrack Dark
-material: PAPER
+item: paper
 custom-model-data: 5771
 model: cocricotmod:block/hangerrack_dark
 block:

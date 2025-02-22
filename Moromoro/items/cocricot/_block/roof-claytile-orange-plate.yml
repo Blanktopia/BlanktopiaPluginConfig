@@ -1,5 +1,5 @@
 name: Roof Claytile Orange Plate
-material: PAPER
+item: paper
 custom-model-data: 6417
 model: 'cocricotmod:block/roof_claytile_orange_plate'
 

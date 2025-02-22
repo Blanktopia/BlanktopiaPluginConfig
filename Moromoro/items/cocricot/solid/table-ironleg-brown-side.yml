@@ -1,5 +1,5 @@
 name: Table Ironleg Brown Side
-material: PAPER
+item: paper
 custom-model-data: 8184
 model: cocricotmod:block/table_ironleg_brown_side
 block:

@@ -1,5 +1,5 @@
 name: Swimring Blue
-material: PAPER
+item: paper
 custom-model-data: 8133
 model: cocricotmod:block/swimring_blue
 block:

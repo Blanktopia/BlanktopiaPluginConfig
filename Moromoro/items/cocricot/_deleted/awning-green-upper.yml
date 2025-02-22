@@ -1,5 +1,5 @@
 name: Awning Green Upper
-material: PAPER
+item: paper
 custom-model-data: 2065
 model: 'cocricotmod:block/awning_green_upper'
 

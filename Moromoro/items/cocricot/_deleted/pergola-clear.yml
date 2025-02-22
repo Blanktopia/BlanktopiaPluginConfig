@@ -1,5 +1,5 @@
 name: Pergola Clear
-material: PAPER
+item: paper
 custom-model-data: 6225
 model: 'cocricotmod:block/pergola_clear'
 

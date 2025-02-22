@@ -1,5 +1,5 @@
 name: Stone Tile Sand Pile Height 2
-material: PAPER
+item: paper
 custom-model-data: 7972
 model: 'cocricotmod:block/stone_tile_sand_pile_height2'
 

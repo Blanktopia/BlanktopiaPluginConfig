@@ -1,5 +1,5 @@
 name: Stone Color Darkbrown
-material: PAPER
+item: paper
 custom-model-data: 7722
 model: 'cocricotmod:block/stone_color_darkbrown'
 

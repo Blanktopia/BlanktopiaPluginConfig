@@ -1,5 +1,5 @@
 name: Windowframe Simple Brown Upper
-material: PAPER
+item: paper
 custom-model-data: 9152
 model: 'cocricotmod:block/windowframe_simple_brown_upper'
 

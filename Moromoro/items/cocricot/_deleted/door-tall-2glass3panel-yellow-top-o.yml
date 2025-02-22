@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel Yellow Top O
-material: PAPER
+item: paper
 custom-model-data: 4053
 model: 'cocricotmod:block/door_tall_2glass3panel_yellow_top_o'
 

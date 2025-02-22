@@ -1,5 +1,5 @@
 name: Chest Retro Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 3082
 model: 'cocricotmod:block/chest_retro_mintgreen'
 

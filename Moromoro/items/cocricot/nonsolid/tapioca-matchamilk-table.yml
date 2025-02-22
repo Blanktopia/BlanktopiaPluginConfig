@@ -1,5 +1,5 @@
 name: Tapioca Matchamilk Table
-material: PAPER
+item: paper
 custom-model-data: 8241
 model: 'cocricotmod:block/tapioca_matchamilk_table'
 

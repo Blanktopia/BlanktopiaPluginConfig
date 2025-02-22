@@ -1,5 +1,5 @@
 name: Door Tall  8glass Natural Bottom
-material: PAPER
+item: paper
 custom-model-data: 4456
 model: 'cocricotmod:block/door_tall_8glass_natural_bottom'
 

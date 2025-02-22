@@ -1,5 +1,5 @@
 name: Door  9glass Green Bottom
-material: PAPER
+item: paper
 custom-model-data: 3768
 model: 'cocricotmod:block/door_9glass_green_bottom'
 

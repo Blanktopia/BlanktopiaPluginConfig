@@ -1,5 +1,5 @@
 name: Wood Herringbone Black Vslab
-material: PAPER
+item: paper
 custom-model-data: 9720
 model: 'cocricotmod:block/wood_herringbone_black_vslab'
 

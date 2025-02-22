@@ -1,5 +1,5 @@
 name: Rope Thin Lightblue
-material: PAPER
+item: paper
 custom-model-data: 6871
 model: 'cocricotmod:block/rope_thin_lightblue'
 

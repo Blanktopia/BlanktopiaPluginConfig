@@ -1,5 +1,5 @@
 name: Ivy Up
-material: PAPER
+item: paper
 custom-model-data: 5868
 model: 'cocricotmod:block/ivy_up'
 

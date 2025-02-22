@@ -1,5 +1,5 @@
 name: Leader Limp
-material: PAPER
+item: paper
 custom-model-data: 5929
 model: 'cocricotmod:block/leader_limp'
 

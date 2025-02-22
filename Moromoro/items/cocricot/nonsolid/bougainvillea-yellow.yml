@@ -1,5 +1,5 @@
 name: Bougainvillea Yellow
-material: PAPER
+item: paper
 custom-model-data: 2565
 model: 'cocricotmod:block/bougainvillea_yellow'
 

@@ -1,5 +1,5 @@
 name: Car Fender 1
-material: PAPER
+item: paper
 custom-model-data: 2890
 model: 'cocricotmod:block/car_fender1'
 

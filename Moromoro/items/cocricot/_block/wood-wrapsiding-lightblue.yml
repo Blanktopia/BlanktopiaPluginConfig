@@ -1,5 +1,5 @@
 name: Wood Wrapsiding Lightblue
-material: PAPER
+item: paper
 custom-model-data: 9884
 model: 'cocricotmod:block/wood_wrapsiding_lightblue'
 

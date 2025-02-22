@@ -4,7 +4,7 @@
       "",
       "<white>Disguises you as a <aqua>Fern<white>."
    ],
-   "material": "FERN",
+   "item": "fern",
    "name": "<gold>Fern Disguise<red> ☻",
    "soulbound": true,
    "triggers": {

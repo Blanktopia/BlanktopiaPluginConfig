@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Natural Three
-material: PAPER
+item: paper
 custom-model-data: 5737
 model: 'cocricotmod:block/handrail_wood_turnedleg_natural_three'
 

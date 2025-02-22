@@ -7,7 +7,7 @@
    },
    "custom-model-data": 1048,
    "dyeable": true,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/mangrove_beach_chair",
    "name": "<white>Mangrove Beach Chair"
 }

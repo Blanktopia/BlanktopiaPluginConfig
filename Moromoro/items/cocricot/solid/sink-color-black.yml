@@ -1,5 +1,5 @@
 name: Sink Color Black
-material: PAPER
+item: paper
 custom-model-data: 7302
 model: cocricotmod:block/sink_color_black
 block:

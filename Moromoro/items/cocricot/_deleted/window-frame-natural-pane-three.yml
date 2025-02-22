@@ -1,5 +1,5 @@
 name: Window Frame Natural Pane Three
-material: PAPER
+item: paper
 custom-model-data: 8973
 model: 'cocricotmod:block/window_frame_natural_pane_three'
 

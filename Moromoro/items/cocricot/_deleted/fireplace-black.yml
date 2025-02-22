@@ -1,5 +1,5 @@
 name: Fireplace Black
-material: PAPER
+item: paper
 custom-model-data: 4836
 model: 'cocricotmod:block/fireplace_black'
 

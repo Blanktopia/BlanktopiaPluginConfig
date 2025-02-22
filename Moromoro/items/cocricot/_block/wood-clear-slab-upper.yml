@@ -1,5 +1,5 @@
 name: Wood Clear Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9692
 model: 'cocricotmod:block/wood_clear_slab_upper'
 

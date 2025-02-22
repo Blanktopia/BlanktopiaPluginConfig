@@ -1,5 +1,5 @@
 name: Fence Iron Black Both
-material: PAPER
+item: paper
 custom-model-data: 4718
 model: 'cocricotmod:block/fence_iron_black_both'
 

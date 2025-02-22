@@ -1,5 +1,5 @@
 name: Wallphoto Big Beach 2
-material: PAPER
+item: paper
 custom-model-data: 8381
 model: 'cocricotmod:block/wallphoto_big_beach2'
 

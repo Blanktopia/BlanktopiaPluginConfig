@@ -1,5 +1,5 @@
 name: Windowframe Arch Black Left
-material: PAPER
+item: paper
 custom-model-data: 9034
 model: 'cocricotmod:block/windowframe_arch_black_left'
 

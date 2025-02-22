@@ -1,5 +1,5 @@
 name: Sofa Slipper Mintgreen Outer
-material: PAPER
+item: paper
 custom-model-data: 7505
 model: cocricotmod:block/sofa_slipper_mintgreen_outer
 block:

@@ -1,5 +1,5 @@
 name: Sofa Simple Lightbrown Both
-material: PAPER
+item: paper
 custom-model-data: 7417
 model: cocricotmod:block/sofa_simple_lightbrown_both
 block:

@@ -1,5 +1,5 @@
 name: Glass Frame Gold
-material: PAPER
+item: paper
 custom-model-data: 5096
 model: 'cocricotmod:block/glass_frame_gold'
 

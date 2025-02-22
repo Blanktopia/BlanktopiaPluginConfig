@@ -1,5 +1,5 @@
 name: Roof Spanish Orange Stairs
-material: PAPER
+item: paper
 custom-model-data: 6729
 model: 'cocricotmod:block/roof_spanish_orange_stairs'
 

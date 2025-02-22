@@ -1,5 +1,5 @@
 name: Ceilinghook Black Both
-material: PAPER
+item: paper
 custom-model-data: 2930
 model: 'cocricotmod:block/ceilinghook_black_both'
 

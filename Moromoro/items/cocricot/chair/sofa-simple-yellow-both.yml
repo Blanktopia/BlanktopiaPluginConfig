@@ -1,5 +1,5 @@
 name: Sofa Simple Yellow Both
-material: PAPER
+item: paper
 custom-model-data: 7433
 model: cocricotmod:block/sofa_simple_yellow_both
 block:

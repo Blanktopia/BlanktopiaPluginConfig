@@ -1,5 +1,5 @@
 name: Roof Copper Yellow Stairs
-material: PAPER
+item: paper
 custom-model-data: 6546
 model: 'cocricotmod:block/roof_copper_yellow_stairs'
 

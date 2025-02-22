@@ -1,5 +1,5 @@
 name: Leaves Gold Corner
-material: PAPER
+item: paper
 custom-model-data: 5949
 model: 'cocricotmod:block/leaves_gold_corner'
 

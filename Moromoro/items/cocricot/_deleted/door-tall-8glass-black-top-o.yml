@@ -1,5 +1,5 @@
 name: Door Tall  8glass Black Top O
-material: PAPER
+item: paper
 custom-model-data: 4429
 model: 'cocricotmod:block/door_tall_8glass_black_top_o'
 

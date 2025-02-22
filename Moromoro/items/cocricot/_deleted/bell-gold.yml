@@ -1,5 +1,5 @@
 name: Bell Gold
-material: PAPER
+item: paper
 custom-model-data: 2446
 model: 'cocricotmod:block/bell_gold'
 

@@ -1,5 +1,5 @@
 name: Fence Ranchrail Red Post
-material: PAPER
+item: paper
 custom-model-data: 4791
 model: 'cocricotmod:block/fence_ranchrail_red_post'
 

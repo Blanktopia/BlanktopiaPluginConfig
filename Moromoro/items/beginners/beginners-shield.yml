@@ -1,6 +1,6 @@
 version: 1
 name: "Beginner's Shield"
-material: SHIELD
+item: shield
 soulbound: true
 unenchantable: true
 lore:

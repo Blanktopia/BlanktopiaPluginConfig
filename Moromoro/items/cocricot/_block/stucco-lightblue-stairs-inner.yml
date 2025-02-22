@@ -1,5 +1,5 @@
 name: Stucco Lightblue Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 8041
 model: 'cocricotmod:block/stucco_lightblue_stairs_inner'
 

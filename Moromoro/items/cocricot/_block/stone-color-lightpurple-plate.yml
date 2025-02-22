@@ -1,5 +1,5 @@
 name: Stone Color Lightpurple Plate
-material: PAPER
+item: paper
 custom-model-data: 7803
 model: 'cocricotmod:block/stone_color_lightpurple_plate'
 

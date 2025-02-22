@@ -1,5 +1,5 @@
 name: Stone Color Lightblue
-material: PAPER
+item: paper
 custom-model-data: 7761
 model: 'cocricotmod:block/stone_color_lightblue'
 

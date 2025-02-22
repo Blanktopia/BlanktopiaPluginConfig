@@ -1,5 +1,5 @@
 name: Sofa Simple Blue Both
-material: PAPER
+item: paper
 custom-model-data: 7405
 model: cocricotmod:block/sofa_simple_blue_both
 block:

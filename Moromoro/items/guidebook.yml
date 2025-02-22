@@ -1,6 +1,6 @@
 version: 1
 name: Beginner's Guide
-material: KNOWLEDGE_BOOK
+item: knowledge_book
 soulbound: true
 unenchantable: true
 lore:

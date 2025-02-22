@@ -1,5 +1,5 @@
 name: Brick Castlestone
-material: PAPER
+item: paper
 custom-model-data: 2625
 model: 'cocricotmod:block/brick_castlestone'
 

@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Seadrift Slanting
-material: PAPER
+item: paper
 custom-model-data: 5662
 model: 'cocricotmod:block/handrail_wood_straight_seadrift_slanting'
 

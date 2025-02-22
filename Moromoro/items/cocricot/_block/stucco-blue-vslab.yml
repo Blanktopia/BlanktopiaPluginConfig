@@ -1,5 +1,5 @@
 name: Stucco Blue Vslab
-material: PAPER
+item: paper
 custom-model-data: 8031
 model: 'cocricotmod:block/stucco_blue_vslab'
 

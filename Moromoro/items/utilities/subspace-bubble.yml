@@ -1,7 +1,7 @@
 version: 1
 alias: everstone
 name: "<transition:#258273:#8af1df>Subspace Bubble"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1008
 model: "minecraft:item/ender_pearl"
 soulbound: true

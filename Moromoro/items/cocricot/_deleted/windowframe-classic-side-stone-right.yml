@@ -1,5 +1,5 @@
 name: Windowframe Classic Side Stone Right
-material: PAPER
+item: paper
 custom-model-data: 9114
 model: 'cocricotmod:block/windowframe_classic_side_stone_right'
 

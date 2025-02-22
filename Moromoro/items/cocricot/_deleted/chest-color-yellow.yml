@@ -1,5 +1,5 @@
 name: Chest Color Yellow
-material: PAPER
+item: paper
 custom-model-data: 3073
 model: 'cocricotmod:block/chest_color_yellow'
 

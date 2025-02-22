@@ -1,5 +1,5 @@
 name: Lamppost White Post
-material: PAPER
+item: paper
 custom-model-data: 5904
 model: 'cocricotmod:block/lamppost_white_post'
 

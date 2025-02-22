@@ -1,5 +1,5 @@
 name: Wood  2board Black Arch Single
-material: PAPER
+item: paper
 custom-model-data: 9258
 model: 'cocricotmod:block/wood_2board_black_arch_single'
 

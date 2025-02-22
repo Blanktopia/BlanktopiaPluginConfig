@@ -1,5 +1,5 @@
 name: Cocktail Lime Stem
-material: PAPER
+item: paper
 custom-model-data: 3125
 model: 'cocricotmod:block/cocktail_lime_stem'
 

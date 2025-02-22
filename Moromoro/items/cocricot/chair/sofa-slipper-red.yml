@@ -1,5 +1,5 @@
 name: Sofa Slipper Red
-material: PAPER
+item: paper
 custom-model-data: 7512
 model: cocricotmod:block/sofa_slipper_red
 block:

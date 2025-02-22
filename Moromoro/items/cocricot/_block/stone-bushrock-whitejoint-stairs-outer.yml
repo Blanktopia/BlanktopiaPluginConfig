@@ -1,5 +1,5 @@
 name: Stone Bushrock Whitejoint Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 7674
 model: 'cocricotmod:block/stone_bushrock_whitejoint_stairs_outer'
 

@@ -1,5 +1,5 @@
 name: Roof Spanish Red Incline White Outer
-material: PAPER
+item: paper
 custom-model-data: 6744
 model: 'cocricotmod:block/roof_spanish_red_incline_white_outer'
 

@@ -1,5 +1,5 @@
 name: Counterstool Industrial Brown
-material: PAPER
+item: paper
 custom-model-data: 3214
 model: 'cocricotmod:block/counterstool_industrial_brown'
 

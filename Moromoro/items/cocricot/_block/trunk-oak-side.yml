@@ -1,5 +1,5 @@
 name: Trunk Oak Side
-material: PAPER
+item: paper
 custom-model-data: 8335
 model: 'cocricotmod:block/trunk_oak_side'
 

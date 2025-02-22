@@ -1,5 +1,5 @@
 name: Rope Thin Pink
-material: PAPER
+item: paper
 custom-model-data: 6876
 model: 'cocricotmod:block/rope_thin_pink'
 

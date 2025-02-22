@@ -1,5 +1,5 @@
 name: Ceilinghook White Three
-material: PAPER
+item: paper
 custom-model-data: 2943
 model: 'cocricotmod:block/ceilinghook_white_three'
 

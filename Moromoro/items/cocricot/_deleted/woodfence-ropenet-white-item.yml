@@ -1,5 +1,5 @@
 name: Woodfence Ropenet White Item
-material: PAPER
+item: paper
 custom-model-data: 9947
 model: 'cocricotmod:block/woodfence_ropenet_white_item'
 

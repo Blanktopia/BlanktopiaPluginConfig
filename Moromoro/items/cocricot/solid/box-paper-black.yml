@@ -1,5 +1,5 @@
 name: Box Paper Black
-material: PAPER
+item: paper
 custom-model-data: 2572
 model: cocricotmod:block/box_paper_black
 block:

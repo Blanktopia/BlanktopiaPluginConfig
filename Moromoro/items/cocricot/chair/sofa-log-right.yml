@@ -1,5 +1,5 @@
 name: Sofa Log Right
-material: PAPER
+item: paper
 custom-model-data: 7363
 model: cocricotmod:block/sofa_log_right
 block:

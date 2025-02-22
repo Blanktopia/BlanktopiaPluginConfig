@@ -1,5 +1,5 @@
 name: Rope Horizontal Slant
-material: PAPER
+item: paper
 custom-model-data: 6859
 model: 'cocricotmod:block/rope_horizontal_slant'
 

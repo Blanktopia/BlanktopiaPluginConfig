@@ -1,5 +1,5 @@
 name: Gaslamp White
-material: PAPER
+item: paper
 custom-model-data: 5046
 model: 'cocricotmod:block/gaslamp_white'
 

@@ -1,5 +1,5 @@
 name: Stair Monostringer Brown
-material: PAPER
+item: paper
 custom-model-data: 7575
 model: 'cocricotmod:block/stair_monostringer_brown'
 

@@ -1,5 +1,5 @@
 name: Sofa Slipper Gray Outer
-material: PAPER
+item: paper
 custom-model-data: 7487
 model: cocricotmod:block/sofa_slipper_gray_outer
 block:

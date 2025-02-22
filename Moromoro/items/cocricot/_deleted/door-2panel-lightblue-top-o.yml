@@ -1,5 +1,5 @@
 name: Door  2panel Lightblue Top O
-material: PAPER
+item: paper
 custom-model-data: 3605
 model: 'cocricotmod:block/door_2panel_lightblue_top_o'
 

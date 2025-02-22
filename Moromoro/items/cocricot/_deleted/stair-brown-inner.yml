@@ -1,5 +1,5 @@
 name: Stair Brown Inner
-material: PAPER
+item: paper
 custom-model-data: 7558
 model: 'cocricotmod:block/stair_brown_inner'
 

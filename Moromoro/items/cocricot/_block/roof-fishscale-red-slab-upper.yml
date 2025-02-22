@@ -1,5 +1,5 @@
 name: Roof Fishscale Red Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6605
 model: 'cocricotmod:block/roof_fishscale_red_slab_upper'
 

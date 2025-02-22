@@ -1,5 +1,5 @@
 name: Chair Dining Normal Dark
-material: PAPER
+item: paper
 custom-model-data: 3006
 model: cocricotmod:block/chair_dining_normal_dark
 block:

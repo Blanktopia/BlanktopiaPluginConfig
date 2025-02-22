@@ -1,5 +1,5 @@
 name: Tapioca Cafelatte
-material: PAPER
+item: paper
 custom-model-data: 8236
 model: 'cocricotmod:block/tapioca_cafelatte'
 

@@ -1,5 +1,5 @@
 name: Hangingrope Up Black
-material: PAPER
+item: paper
 custom-model-data: 5802
 model: 'cocricotmod:block/hangingrope_up_black'
 

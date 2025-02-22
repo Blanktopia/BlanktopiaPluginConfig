@@ -1,5 +1,5 @@
 name: Centralheating Bo
-material: PAPER
+item: paper
 custom-model-data: 2957
 model: 'cocricotmod:block/centralheating_bo'
 

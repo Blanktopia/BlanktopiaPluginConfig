@@ -1,5 +1,5 @@
 name: Countertable Marble White
-material: PAPER
+item: paper
 custom-model-data: 3237
 model: 'cocricotmod:block/countertable_marble_white'
 

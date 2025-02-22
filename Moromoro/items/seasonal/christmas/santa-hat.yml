@@ -1,5 +1,5 @@
 name: "<#a12727>Santa Hat"
-material: RED_WOOL
+item: red_wool
 custom-model-data: 1
 model: "blanktopia:hats/santa"
 

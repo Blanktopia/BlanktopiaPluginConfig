@@ -1,5 +1,5 @@
 name: Door  2panel Lightpurple Bottom O
-material: PAPER
+item: paper
 custom-model-data: 3625
 model: 'cocricotmod:block/door_2panel_lightpurple_bottom_o'
 

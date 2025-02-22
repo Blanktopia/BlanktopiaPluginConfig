@@ -1,5 +1,5 @@
 name: Sofa Slipper Darkblue Inner
-material: PAPER
+item: paper
 custom-model-data: 7477
 model: cocricotmod:block/sofa_slipper_darkblue_inner
 block:

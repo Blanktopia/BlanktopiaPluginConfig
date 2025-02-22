@@ -1,5 +1,5 @@
 name: Window Diamond Seadrift Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8886
 model: 'cocricotmod:block/window_diamond_seadrift_pane_post'
 

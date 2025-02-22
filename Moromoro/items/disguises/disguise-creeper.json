@@ -4,7 +4,7 @@
       "",
       "<white>Disguises you as a <aqua>Creeper<white>."
    ],
-   "material": "CREEPER_HEAD",
+   "item": "creeper_head",
    "name": "<gold>Creeper Disguise<red> ☻",
    "soulbound": true,
    "triggers": {

@@ -1,5 +1,5 @@
 name: Door  9glass Lightpurple Top Rh
-material: PAPER
+item: paper
 custom-model-data: 3806
 model: 'cocricotmod:block/door_9glass_lightpurple_top_rh'
 

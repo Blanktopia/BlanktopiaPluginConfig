@@ -1,5 +1,5 @@
 name: Roof Claytile Orange Incline White Outer
-material: PAPER
+item: paper
 custom-model-data: 6416
 model: 'cocricotmod:block/roof_claytile_orange_incline_white_outer'
 

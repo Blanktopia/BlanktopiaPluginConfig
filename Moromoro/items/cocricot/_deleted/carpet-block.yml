@@ -1,5 +1,5 @@
 name: Carpet Block
-material: PAPER
+item: paper
 custom-model-data: 2900
 model: 'cocricotmod:block/carpet_block'
 

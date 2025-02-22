@@ -1,5 +1,5 @@
 name: Countertable Wood Dark
-material: PAPER
+item: paper
 custom-model-data: 3240
 model: 'cocricotmod:block/countertable_wood_dark'
 

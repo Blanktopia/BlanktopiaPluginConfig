@@ -1,5 +1,5 @@
 name: Book Modern Table
-material: PAPER
+item: paper
 custom-model-data: 2487
 model: 'cocricotmod:block/book_modern_table'
 

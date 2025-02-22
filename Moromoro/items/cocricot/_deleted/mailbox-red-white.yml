@@ -1,5 +1,5 @@
 name: Mailbox Red White
-material: PAPER
+item: paper
 custom-model-data: 6037
 model: 'cocricotmod:block/mailbox_red_white'
 

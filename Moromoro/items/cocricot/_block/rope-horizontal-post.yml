@@ -1,5 +1,5 @@
 name: Rope Horizontal Post
-material: PAPER
+item: paper
 custom-model-data: 6857
 model: 'cocricotmod:block/rope_horizontal_post'
 

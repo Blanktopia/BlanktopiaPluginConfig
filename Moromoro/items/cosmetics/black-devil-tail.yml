@@ -1,6 +1,6 @@
 version: 1
 
 name: "Black Devil Tail"
-material: LEATHER_HORSE_ARMOR
+item: leather_horse_armor
 custom-model-data: 2010
 model: "blanktopia:cosmetics/black_demon_tail"

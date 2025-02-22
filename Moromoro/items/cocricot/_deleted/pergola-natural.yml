@@ -1,5 +1,5 @@
 name: Pergola Natural
-material: PAPER
+item: paper
 custom-model-data: 6231
 model: 'cocricotmod:block/pergola_natural'
 

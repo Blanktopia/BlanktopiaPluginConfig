@@ -1,0 +1,4 @@
+name: "Medusa"
+item: leather_horse_armor
+custom-model-data: 2028
+model: "littleroom_medusa:medusa_head"

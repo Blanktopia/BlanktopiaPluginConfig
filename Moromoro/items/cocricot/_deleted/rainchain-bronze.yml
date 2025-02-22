@@ -1,5 +1,5 @@
 name: Rainchain Bronze
-material: PAPER
+item: paper
 custom-model-data: 6305
 model: 'cocricotmod:block/rainchain_bronze'
 

@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1021,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/spruce_desk",
    "name": "<white>Spruce Desk"
 }

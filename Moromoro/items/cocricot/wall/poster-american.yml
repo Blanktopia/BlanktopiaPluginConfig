@@ -1,5 +1,5 @@
 name: Poster American
-material: PAPER
+item: paper
 custom-model-data: 6280
 model: 'cocricotmod:block/poster_american'
 

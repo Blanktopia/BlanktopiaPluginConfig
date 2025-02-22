@@ -1,5 +1,5 @@
 name: Hanging Flower Dried
-material: PAPER
+item: paper
 custom-model-data: 5781
 model: 'cocricotmod:block/hanging_flower_dried'
 

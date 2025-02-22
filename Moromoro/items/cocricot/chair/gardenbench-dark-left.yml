@@ -1,5 +1,5 @@
 name: Gardenbench Dark Left
-material: PAPER
+item: paper
 custom-model-data: 4952
 model: cocricotmod:block/gardenbench_dark_left
 block:

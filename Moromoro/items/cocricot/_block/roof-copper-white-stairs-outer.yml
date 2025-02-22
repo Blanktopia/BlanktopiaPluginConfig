@@ -1,5 +1,5 @@
 name: Roof Copper White Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 6533
 model: 'cocricotmod:block/roof_copper_white_stairs_outer'
 

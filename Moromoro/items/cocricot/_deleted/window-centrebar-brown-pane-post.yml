@@ -1,5 +1,5 @@
 name: Window Centrebar Brown Pane Post
-material: PAPER
+item: paper
 custom-model-data: 8606
 model: 'cocricotmod:block/window_centrebar_brown_pane_post'
 

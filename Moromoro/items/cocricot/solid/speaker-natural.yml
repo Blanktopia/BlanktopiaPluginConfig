@@ -1,5 +1,5 @@
 name: Speaker Natural
-material: PAPER
+item: paper
 custom-model-data: 7544
 model: cocricotmod:block/speaker_natural
 block:

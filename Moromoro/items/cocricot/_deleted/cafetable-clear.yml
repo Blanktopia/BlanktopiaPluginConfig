@@ -1,5 +1,5 @@
 name: Cafetable Clear
-material: PAPER
+item: paper
 custom-model-data: 2841
 model: 'cocricotmod:block/cafetable_clear'
 

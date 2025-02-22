@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Seadrift Post
-material: PAPER
+item: paper
 custom-model-data: 5742
 model: 'cocricotmod:block/handrail_wood_turnedleg_seadrift_post'
 

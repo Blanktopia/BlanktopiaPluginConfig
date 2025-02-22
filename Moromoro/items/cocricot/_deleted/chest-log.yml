@@ -1,5 +1,5 @@
 name: Chest Log
-material: PAPER
+item: paper
 custom-model-data: 3074
 model: 'cocricotmod:block/chest_log'
 

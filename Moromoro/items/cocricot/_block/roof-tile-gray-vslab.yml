@@ -1,5 +1,5 @@
 name: Roof Tile Gray Vslab
-material: PAPER
+item: paper
 custom-model-data: 6833
 model: 'cocricotmod:block/roof_tile_gray_vslab'
 

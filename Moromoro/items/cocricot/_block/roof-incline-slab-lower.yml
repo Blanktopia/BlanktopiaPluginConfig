@@ -1,5 +1,5 @@
 name: Roof Incline Slab Lower
-material: PAPER
+item: paper
 custom-model-data: 6616
 model: 'cocricotmod:block/roof_incline_slab_lower'
 

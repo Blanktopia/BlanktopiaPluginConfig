@@ -1,6 +1,6 @@
 {
    "custom-model-data": 2,
-   "material": "POTION",
+   "item": "potion",
    "model": "blanktopia:food/vinegar",
    "name": "<white>Vinegar",
    "triggers": {

@@ -1,5 +1,5 @@
 name: Wood Seadrift Plate
-material: PAPER
+item: paper
 custom-model-data: 9801
 model: 'cocricotmod:block/wood_seadrift_plate'
 

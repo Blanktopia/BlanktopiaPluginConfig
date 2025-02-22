@@ -1,5 +1,5 @@
 name: Roof Copper Lightgreen Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6500
 model: 'cocricotmod:block/roof_copper_lightgreen_slab_upper'
 

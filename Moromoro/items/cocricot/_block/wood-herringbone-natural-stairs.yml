@@ -1,5 +1,5 @@
 name: Wood Herringbone Natural Stairs
-material: PAPER
+item: paper
 custom-model-data: 9757
 model: 'cocricotmod:block/wood_herringbone_natural_stairs'
 

@@ -1,5 +1,5 @@
 name: Log All Spruce
-material: PAPER
+item: paper
 custom-model-data: 6023
 model: 'cocricotmod:block/log_all_spruce'
 

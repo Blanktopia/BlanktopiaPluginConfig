@@ -1,5 +1,5 @@
 name: Drainpipe Leaderhead Antique
-material: PAPER
+item: paper
 custom-model-data: 4527
 model: 'cocricotmod:block/drainpipe_leaderhead_antique'
 

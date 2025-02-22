@@ -1,5 +1,5 @@
 name: Stringlights Globe Wall
-material: PAPER
+item: paper
 custom-model-data: 8018
 model: 'cocricotmod:block/stringlights_globe_wall'
 

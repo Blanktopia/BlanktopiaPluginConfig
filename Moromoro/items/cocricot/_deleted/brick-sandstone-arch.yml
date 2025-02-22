@@ -1,5 +1,5 @@
 name: Brick Sandstone Arch
-material: PAPER
+item: paper
 custom-model-data: 2712
 model: 'cocricotmod:block/brick_sandstone_arch'
 

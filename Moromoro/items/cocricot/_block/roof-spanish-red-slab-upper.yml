@@ -1,5 +1,5 @@
 name: Roof Spanish Red Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6748
 model: 'cocricotmod:block/roof_spanish_red_slab_upper'
 

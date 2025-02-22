@@ -1,5 +1,5 @@
 name: Armscandleholder Antique Gold
-material: PAPER
+item: paper
 custom-model-data: 2004
 model: 'cocricotmod:block/armscandleholder_antique_gold'
 

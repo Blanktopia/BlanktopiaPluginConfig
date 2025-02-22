@@ -1,5 +1,5 @@
 name: Wood  3board Dark Plate
-material: PAPER
+item: paper
 custom-model-data: 9422
 model: 'cocricotmod:block/wood_3board_dark_plate'
 

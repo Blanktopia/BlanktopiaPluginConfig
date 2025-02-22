@@ -1,5 +1,5 @@
 name: Stone Plane Stick
-material: PAPER
+item: paper
 custom-model-data: 7942
 model: 'cocricotmod:block/stone_plane_stick'
 

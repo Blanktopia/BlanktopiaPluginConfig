@@ -1,5 +1,5 @@
 name: Table Cloth Red
-material: PAPER
+item: paper
 custom-model-data: 8168
 model: 'cocricotmod:block/table_cloth_red'
 

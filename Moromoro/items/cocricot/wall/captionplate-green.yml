@@ -1,5 +1,5 @@
 name: Captionplate Green
-material: PAPER
+item: paper
 custom-model-data: 2881
 model: 'cocricotmod:block/captionplate_green'
 

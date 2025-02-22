@@ -1,5 +1,5 @@
 name: Door  2panel Wood Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 3675
 model: 'cocricotmod:block/door_2panel_wood_bottom_rh_o'
 

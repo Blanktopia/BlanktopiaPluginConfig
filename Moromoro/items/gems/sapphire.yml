@@ -1,4 +1,4 @@
 name: "<white>Sapphire"
-material: EMERALD
+item: emerald
 custom-model-data: 2
 model: "blanktopia:gems/sapphire"

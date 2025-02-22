@@ -1,5 +1,5 @@
 name: Shutter Louvered Brown
-material: PAPER
+item: paper
 custom-model-data: 7251
 model: 'cocricotmod:block/shutter_louvered_brown'
 

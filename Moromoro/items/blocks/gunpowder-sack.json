@@ -5,7 +5,7 @@
       "type": "mushroom"
    },
    "custom-model-data": 1009,
-   "material": "PAPER",
+   "item": "paper",
    "model": "blanktopia:block/gunpowder_sack",
    "name": "<white>Gunpowder Sack"
 }

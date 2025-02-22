@@ -1,5 +1,5 @@
 name: Postbox Red
-material: PAPER
+item: paper
 custom-model-data: 6277
 model: cocricotmod:block/postbox_red
 block:

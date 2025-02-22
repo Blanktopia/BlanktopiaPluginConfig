@@ -1,5 +1,5 @@
 name: Roof Spanish Orange Incline Odd
-material: PAPER
+item: paper
 custom-model-data: 6717
 model: 'cocricotmod:block/roof_spanish_orange_incline_odd'
 

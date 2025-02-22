@@ -1,5 +1,5 @@
 name: Sofa Simple Red Single
-material: PAPER
+item: paper
 custom-model-data: 7428
 model: cocricotmod:block/sofa_simple_red_single
 block:

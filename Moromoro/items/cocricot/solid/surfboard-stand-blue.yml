@@ -1,5 +1,5 @@
 name: Surfboard Stand Blue
-material: PAPER
+item: paper
 custom-model-data: 8132
 model: cocricotmod:block/surfboard_stand_blue
 block:

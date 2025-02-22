@@ -1,5 +1,5 @@
 name: Wood Brown Stick
-material: PAPER
+item: paper
 custom-model-data: 9684
 model: 'cocricotmod:block/wood_brown_stick'
 

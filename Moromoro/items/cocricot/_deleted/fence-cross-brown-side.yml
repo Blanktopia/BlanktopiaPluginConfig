@@ -1,5 +1,5 @@
 name: Fence Cross Brown Side
-material: PAPER
+item: paper
 custom-model-data: 4695
 model: 'cocricotmod:block/fence_cross_brown_side'
 

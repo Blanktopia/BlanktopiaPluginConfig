@@ -1,6 +1,6 @@
 alias: packing-tape
 name: "<#33876d>Portable Trash Can ⏹"
-material: STRIPPED_WARPED_HYPHAE
+item: stripped_warped_hyphae
 soulbound: true
 unbreakable: true
 unenchantable: true

@@ -1,5 +1,5 @@
 name: Stone Color Lightgray Plate
-material: PAPER
+item: paper
 custom-model-data: 7777
 model: 'cocricotmod:block/stone_color_lightgray_plate'
 

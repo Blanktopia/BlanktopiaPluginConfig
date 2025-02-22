@@ -1,5 +1,5 @@
 name: Figurine Eiffeltower
-material: PAPER
+item: paper
 custom-model-data: 4831
 model: 'cocricotmod:block/figurine_eiffeltower'
 

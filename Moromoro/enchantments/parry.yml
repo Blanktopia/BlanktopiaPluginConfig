@@ -1,0 +1,12 @@
+name: Parry 
+anvil-cost: 4
+max-level: 2
+minimum-cost-base: 10
+minimum-cost-per-level: 20
+maximum-cost-base: 60
+maximum-cost-per-level: 20
+weight: 2
+primary-items:
+  - shield
+exclusive-with:
+  - blanktopia:rush

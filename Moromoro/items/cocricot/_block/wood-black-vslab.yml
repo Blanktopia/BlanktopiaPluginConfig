@@ -1,5 +1,5 @@
 name: Wood Black Vslab
-material: PAPER
+item: paper
 custom-model-data: 9673
 model: 'cocricotmod:block/wood_black_vslab'
 

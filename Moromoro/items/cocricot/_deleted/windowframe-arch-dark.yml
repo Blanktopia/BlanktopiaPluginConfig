@@ -1,5 +1,5 @@
 name: Windowframe Arch Dark
-material: PAPER
+item: paper
 custom-model-data: 9041
 model: 'cocricotmod:block/windowframe_arch_dark'
 

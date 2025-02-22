@@ -1,5 +1,5 @@
 name: Window Centrebar Clear Pane Three
-material: PAPER
+item: paper
 custom-model-data: 8616
 model: 'cocricotmod:block/window_centrebar_clear_pane_three'
 

@@ -1,5 +1,5 @@
 name: Mortar Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 6137
 model: 'cocricotmod:block/mortar_stairs_inner'
 

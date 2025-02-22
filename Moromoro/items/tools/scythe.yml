@@ -1,6 +1,6 @@
 version: 2
 name: "<#2d7a53>Scythe"
-material: SHEARS
+item: shears
 custom-model-data: 1
 model: "blanktopia:rares/scythe"
 soulbound: true
@@ -16,13 +16,13 @@ enchantments:
   silk_touch: 1
 attributes:
   - amount: 5
-    attribute: generic.attack_damage
+    attribute: attack_damage
     name: Tool modifier
     operation: ADD_NUMBER
     slot: HAND
     uuid: 61f83826-cf9e-4239-8b80-dac5367e7507
   - amount: -1.5
-    attribute: generic.attack_speed
+    attribute: attack_speed
     name: Tool modifier
     operation: ADD_NUMBER
     slot: HAND

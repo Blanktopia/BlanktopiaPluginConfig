@@ -1,5 +1,5 @@
 name: Brick Castlestone Dark Arch Single
-material: PAPER
+item: paper
 custom-model-data: 2630
 model: 'cocricotmod:block/brick_castlestone_dark_arch_single'
 

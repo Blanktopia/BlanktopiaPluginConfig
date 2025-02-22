@@ -1,5 +1,5 @@
 name: Wood  2board H Brown Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9307
 model: 'cocricotmod:block/wood_2board_h_brown_slab_upper'
 

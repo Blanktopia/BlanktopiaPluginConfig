@@ -1,5 +1,5 @@
 name: Window Diamond Antique Pane Slant
-material: PAPER
+item: paper
 custom-model-data: 8804
 model: 'cocricotmod:block/window_diamond_antique_pane_slant'
 

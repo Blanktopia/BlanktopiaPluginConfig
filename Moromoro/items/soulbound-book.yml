@@ -1,5 +1,5 @@
 name: "<yellow>Soulbound Tome"
-material: ENCHANTED_BOOK
+item: enchanted_book
 soulbound: true
 lore:
   - ''

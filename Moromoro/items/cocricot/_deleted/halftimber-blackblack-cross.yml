@@ -1,5 +1,5 @@
 name: Halftimber Blackblack Cross
-material: PAPER
+item: paper
 custom-model-data: 5175
 model: 'cocricotmod:block/halftimber_blackblack_cross'
 

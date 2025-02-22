@@ -1,5 +1,5 @@
 name: Wood  2board Black
-material: PAPER
+item: paper
 custom-model-data: 9256
 model: 'cocricotmod:block/wood_2board_black'
 

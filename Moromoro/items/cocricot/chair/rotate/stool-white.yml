@@ -1,5 +1,5 @@
 name: Stool White
-material: PAPER
+item: paper
 custom-model-data: 8011
 model: cocricotmod:block/stool_white
 block:

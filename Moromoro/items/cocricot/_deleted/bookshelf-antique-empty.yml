@@ -1,5 +1,5 @@
 name: Bookshelf Antique Empty
-material: PAPER
+item: paper
 custom-model-data: 2510
 model: 'cocricotmod:block/bookshelf_antique_empty'
 

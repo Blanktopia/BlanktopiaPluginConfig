@@ -1,5 +1,5 @@
 name: Chest Brown Tile White
-material: PAPER
+item: paper
 custom-model-data: 3063
 model: 'cocricotmod:block/chest_brown_tile_white'
 

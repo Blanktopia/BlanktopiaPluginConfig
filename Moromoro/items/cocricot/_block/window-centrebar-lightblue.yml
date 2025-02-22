@@ -1,5 +1,5 @@
 name: Window Centrebar Lightblue
-material: PAPER
+item: paper
 custom-model-data: 8631
 model: 'cocricotmod:block/window_centrebar_lightblue'
 

@@ -1,5 +1,5 @@
 name: Door  2panel Red Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 3651
 model: 'cocricotmod:block/door_2panel_red_bottom_rh_o'
 

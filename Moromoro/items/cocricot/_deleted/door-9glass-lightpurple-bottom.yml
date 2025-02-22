@@ -1,5 +1,5 @@
 name: Door  9glass Lightpurple Bottom
-material: PAPER
+item: paper
 custom-model-data: 3800
 model: 'cocricotmod:block/door_9glass_lightpurple_bottom'
 

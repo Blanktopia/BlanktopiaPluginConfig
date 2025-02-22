@@ -1,5 +1,5 @@
 name: Shipinabottle
-material: PAPER
+item: paper
 custom-model-data: 7168
 model: 'cocricotmod:block/shipinabottle'
 

@@ -1,5 +1,5 @@
 name: Sofa Slipper American Lightorange
-material: PAPER
+item: paper
 custom-model-data: 7449
 model: cocricotmod:block/sofa_slipper_american_lightorange
 block:

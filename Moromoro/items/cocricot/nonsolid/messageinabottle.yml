@@ -1,5 +1,5 @@
 name: Messageinabottle
-material: PAPER
+item: paper
 custom-model-data: 6114
 model: 'cocricotmod:block/messageinabottle'
 

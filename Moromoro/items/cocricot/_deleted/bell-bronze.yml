@@ -1,5 +1,5 @@
 name: Bell Bronze
-material: PAPER
+item: paper
 custom-model-data: 2444
 model: 'cocricotmod:block/bell_bronze'
 

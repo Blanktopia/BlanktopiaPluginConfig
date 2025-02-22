@@ -1,5 +1,5 @@
 name: Sofa Resort Single
-material: PAPER
+item: paper
 custom-model-data: 7400
 model: cocricotmod:block/sofa_resort_single
 block:

@@ -1,5 +1,5 @@
 name: Mailbox White White
-material: PAPER
+item: paper
 custom-model-data: 6045
 model: 'cocricotmod:block/mailbox_white_white'
 

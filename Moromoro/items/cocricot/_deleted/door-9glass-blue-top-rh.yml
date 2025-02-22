@@ -1,5 +1,5 @@
 name: Door  9glass Blue Top Rh
-material: PAPER
+item: paper
 custom-model-data: 3758
 model: 'cocricotmod:block/door_9glass_blue_top_rh'
 

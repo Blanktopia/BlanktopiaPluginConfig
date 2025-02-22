@@ -1,5 +1,5 @@
 name: "Mjolnir"
-material: TRIDENT
+item: trident
 custom-model-data: 1
 unique: true
 lore:
@@ -19,13 +19,13 @@ enchantments:
   blanktopia:soulbound: 1
 attributes:
   - amount: 11
-    attribute: generic.attack_damage
+    attribute: attack_damage
     name: Tool modifier
     operation: ADD_NUMBER
     slot: HAND
     uuid: 61f83826-cf9e-4239-8b80-dac5367e7507
   - amount: -2.4
-    attribute: generic.attack_speed
+    attribute: attack_speed
     name: Tool modifier
     operation: ADD_NUMBER
     slot: HAND

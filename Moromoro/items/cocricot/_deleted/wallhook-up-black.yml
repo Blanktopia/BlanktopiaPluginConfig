@@ -1,5 +1,5 @@
 name: Wallhook Up Black
-material: PAPER
+item: paper
 custom-model-data: 8372
 model: 'cocricotmod:block/wallhook_up_black'
 

@@ -1,5 +1,5 @@
 name: Door Tall  2panel Yellow Bottom Rh O
-material: PAPER
+item: paper
 custom-model-data: 4171
 model: 'cocricotmod:block/door_tall_2panel_yellow_bottom_rh_o'
 

@@ -1,5 +1,5 @@
 name: Gardenbench Yellow Both
-material: PAPER
+item: paper
 custom-model-data: 4994
 model: cocricotmod:block/gardenbench_yellow_both
 block:

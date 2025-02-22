@@ -1,5 +1,5 @@
 name: Laundrypole Both
-material: PAPER
+item: paper
 custom-model-data: 5922
 model: 'cocricotmod:block/laundrypole_both'
 

@@ -1,5 +1,5 @@
 name: Windowframe Classic Side White Fence
-material: PAPER
+item: paper
 custom-model-data: 9117
 model: 'cocricotmod:block/windowframe_classic_side_white_fence'
 

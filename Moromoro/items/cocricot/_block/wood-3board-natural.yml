@@ -1,5 +1,5 @@
 name: Wood  3board Natural
-material: PAPER
+item: paper
 custom-model-data: 9486
 model: 'cocricotmod:block/wood_3board_natural'
 

@@ -1,5 +1,5 @@
 name: Wood  3board Seadrift Arch Single
-material: PAPER
+item: paper
 custom-model-data: 9500
 model: 'cocricotmod:block/wood_3board_seadrift_arch_single'
 

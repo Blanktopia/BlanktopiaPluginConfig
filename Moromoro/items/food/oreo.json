@@ -1,6 +1,6 @@
 {
    "custom-model-data": 7,
-   "material": "COOKIE",
+   "item": "cookie",
    "model": "blanktopia:food/oreo",
    "name": "<white>Oreos",
    "triggers": {

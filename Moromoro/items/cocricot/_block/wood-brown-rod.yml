@@ -1,5 +1,5 @@
 name: Wood Brown Rod
-material: PAPER
+item: paper
 custom-model-data: 9678
 model: 'cocricotmod:block/wood_brown_rod'
 

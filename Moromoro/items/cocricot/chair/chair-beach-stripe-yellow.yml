@@ -1,5 +1,5 @@
 name: Chair Beach Stripe Yellow
-material: PAPER
+item: paper
 custom-model-data: 3001
 model: cocricotmod:block/chair_beach_stripe_yellow
 block:

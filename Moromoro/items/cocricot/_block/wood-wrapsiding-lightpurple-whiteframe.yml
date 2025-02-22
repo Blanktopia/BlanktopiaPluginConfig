@@ -1,5 +1,5 @@
 name: Wood Wrapsiding Lightpurple Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 9897
 model: 'cocricotmod:block/wood_wrapsiding_lightpurple_whiteframe'
 

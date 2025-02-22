@@ -1,5 +1,5 @@
 name: Chest White Brown
-material: PAPER
+item: paper
 custom-model-data: 3095
 model: 'cocricotmod:block/chest_white_brown'
 

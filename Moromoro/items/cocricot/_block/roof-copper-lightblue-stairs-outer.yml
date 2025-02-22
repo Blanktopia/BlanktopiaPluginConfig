@@ -1,5 +1,5 @@
 name: Roof Copper Lightblue Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 6488
 model: 'cocricotmod:block/roof_copper_lightblue_stairs_outer'
 

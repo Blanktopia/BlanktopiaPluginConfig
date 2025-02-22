@@ -1,5 +1,5 @@
 name: Window Frame Antique Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8934
 model: 'cocricotmod:block/window_frame_antique_pane_both'
 

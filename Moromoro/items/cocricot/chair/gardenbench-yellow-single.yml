@@ -1,5 +1,5 @@
 name: Gardenbench Yellow Single
-material: PAPER
+item: paper
 custom-model-data: 4997
 model: cocricotmod:block/gardenbench_yellow_single
 block:

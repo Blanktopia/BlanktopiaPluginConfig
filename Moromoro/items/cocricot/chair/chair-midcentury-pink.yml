@@ -1,5 +1,5 @@
 name: Chair Midcentury Pink
-material: PAPER
+item: paper
 custom-model-data: 3041
 model: cocricotmod:block/chair_midcentury_pink
 block:

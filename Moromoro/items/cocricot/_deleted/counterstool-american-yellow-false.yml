@@ -1,5 +1,5 @@
 name: Counterstool American Yellow False
-material: PAPER
+item: paper
 custom-model-data: 3209
 model: 'cocricotmod:block/counterstool_american_yellow_false'
 

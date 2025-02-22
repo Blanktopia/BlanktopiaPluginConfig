@@ -1,5 +1,5 @@
 name: Wood  6board Clear Arch
-material: PAPER
+item: paper
 custom-model-data: 9547
 model: 'cocricotmod:block/wood_6board_clear_arch'
 

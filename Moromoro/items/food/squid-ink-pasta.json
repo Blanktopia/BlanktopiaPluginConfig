@@ -1,6 +1,6 @@
 {
    "custom-model-data": 2,
-   "material": "MUSHROOM_STEW",
+   "item": "mushroom_stew",
    "model": "blanktopia:food/squid_ink_pasta",
    "name": "<white>Squid Ink Pasta",
    "triggers": {

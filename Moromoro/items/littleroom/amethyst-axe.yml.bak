@@ -1,0 +1,4 @@
+name: "Amethyst Axe"
+item: netherite_axe
+custom-model-data: 101
+model: "littleroom_amethystgolem:amethystaxe"

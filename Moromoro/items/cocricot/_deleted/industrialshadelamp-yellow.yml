@@ -1,5 +1,5 @@
 name: Industrialshadelamp Yellow
-material: PAPER
+item: paper
 custom-model-data: 5851
 model: 'cocricotmod:block/industrialshadelamp_yellow'
 

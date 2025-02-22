@@ -1,5 +1,5 @@
 name: Bed Mattress Purple
-material: PAPER
+item: paper
 custom-model-data: 2416
 model: cocricotmod:block/bed_mattress_purple
 block:

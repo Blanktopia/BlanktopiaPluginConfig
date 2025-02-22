@@ -1,5 +1,5 @@
 name: Sofa Simple White Left
-material: PAPER
+item: paper
 custom-model-data: 7430
 model: cocricotmod:block/sofa_simple_white_left
 block:

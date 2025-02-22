@@ -1,5 +1,5 @@
 name: Gardenbench Clear Both
-material: PAPER
+item: paper
 custom-model-data: 4947
 model: cocricotmod:block/gardenbench_clear_both
 block:

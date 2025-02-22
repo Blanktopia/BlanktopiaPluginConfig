@@ -1,5 +1,5 @@
 name: Chair Dining Windsor Brown
-material: PAPER
+item: paper
 custom-model-data: 3017
 model: cocricotmod:block/chair_dining_windsor_brown
 block:

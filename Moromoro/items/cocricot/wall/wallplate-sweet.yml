@@ -1,5 +1,5 @@
 name: Wallplate Sweet
-material: PAPER
+item: paper
 custom-model-data: 8384
 model: 'cocricotmod:block/wallplate_sweet'
 

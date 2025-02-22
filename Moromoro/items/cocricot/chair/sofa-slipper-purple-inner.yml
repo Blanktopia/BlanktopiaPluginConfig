@@ -1,5 +1,5 @@
 name: Sofa Slipper Purple Inner
-material: PAPER
+item: paper
 custom-model-data: 7510
 model: cocricotmod:block/sofa_slipper_purple_inner
 block:

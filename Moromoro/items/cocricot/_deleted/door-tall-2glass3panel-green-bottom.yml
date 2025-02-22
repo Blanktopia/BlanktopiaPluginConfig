@@ -1,5 +1,5 @@
 name: Door Tall  2glass 3panel Green Bottom
-material: PAPER
+item: paper
 custom-model-data: 3952
 model: 'cocricotmod:block/door_tall_2glass3panel_green_bottom'
 

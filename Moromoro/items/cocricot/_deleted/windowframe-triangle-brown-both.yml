@@ -1,5 +1,5 @@
 name: Windowframe Triangle Brown Both
-material: PAPER
+item: paper
 custom-model-data: 9228
 model: 'cocricotmod:block/windowframe_triangle_brown_both'
 

@@ -1,5 +1,5 @@
 name: Rug Jute Round Side
-material: PAPER
+item: paper
 custom-model-data: 6925
 model: 'cocricotmod:block/rug_jute_round_side'
 

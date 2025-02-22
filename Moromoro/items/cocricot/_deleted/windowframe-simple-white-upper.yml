@@ -1,5 +1,5 @@
 name: Windowframe Simple White Upper
-material: PAPER
+item: paper
 custom-model-data: 9218
 model: 'cocricotmod:block/windowframe_simple_white_upper'
 

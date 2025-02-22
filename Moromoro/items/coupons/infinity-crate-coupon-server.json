@@ -11,7 +11,7 @@
       "",
       "<dark_grey>-------------------------"
    ],
-   "material": "PAPER",
+   "item": "paper",
    "model": "blanktopia:misc/key_coupon",
    "name": "<gold>INFINITY Crate Coupon",
    "triggers": {

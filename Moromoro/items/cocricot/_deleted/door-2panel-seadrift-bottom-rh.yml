@@ -1,5 +1,5 @@
 name: Door  2panel Seadrift Bottom Rh
-material: PAPER
+item: paper
 custom-model-data: 3658
 model: 'cocricotmod:block/door_2panel_seadrift_bottom_rh'
 

@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Seadrift Three
-material: PAPER
+item: paper
 custom-model-data: 5747
 model: 'cocricotmod:block/handrail_wood_turnedleg_seadrift_three'
 

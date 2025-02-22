@@ -1,5 +1,5 @@
 name: Base Plate All
-material: PAPER
+item: paper
 custom-model-data: 2335
 model: 'cocricotmod:block/base_plate_all'
 

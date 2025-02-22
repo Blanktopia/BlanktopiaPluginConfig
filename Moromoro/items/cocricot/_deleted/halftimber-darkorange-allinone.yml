@@ -1,5 +1,5 @@
 name: Halftimber Darkorange Allinone
-material: PAPER
+item: paper
 custom-model-data: 5368
 model: 'cocricotmod:block/halftimber_darkorange_allinone'
 

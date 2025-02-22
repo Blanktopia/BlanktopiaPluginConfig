@@ -1,5 +1,5 @@
 name: Wood Rustic Dark
-material: PAPER
+item: paper
 custom-model-data: 9795
 model: 'cocricotmod:block/wood_rustic_dark'
 

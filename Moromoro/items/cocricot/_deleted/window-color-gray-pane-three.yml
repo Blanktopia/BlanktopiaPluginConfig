@@ -1,5 +1,5 @@
 name: Window Color Gray Pane Three
-material: PAPER
+item: paper
 custom-model-data: 8721
 model: 'cocricotmod:block/window_color_gray_pane_three'
 

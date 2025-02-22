@@ -1,0 +1,4 @@
+name: "Chitin Spear"
+item: netherite_sword
+custom-model-data: 103
+model: "littleroom_kraken:chitin_spear"

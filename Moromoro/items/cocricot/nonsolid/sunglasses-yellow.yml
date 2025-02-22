@@ -1,5 +1,5 @@
 name: Sunglasses Yellow
-material: PAPER
+item: paper
 custom-model-data: 8131
 model: 'cocricotmod:block/sunglasses_yellow'
 

@@ -1,5 +1,5 @@
 name: Rambling Leaves
-material: PAPER
+item: paper
 custom-model-data: 6307
 model: 'cocricotmod:block/rambling_leaves'
 

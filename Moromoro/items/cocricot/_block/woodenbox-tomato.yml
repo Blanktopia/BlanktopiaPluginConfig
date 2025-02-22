@@ -1,5 +1,5 @@
 name: Woodenbox Tomato
-material: PAPER
+item: paper
 custom-model-data: 9930
 model: 'cocricotmod:block/woodenbox_tomato'
 

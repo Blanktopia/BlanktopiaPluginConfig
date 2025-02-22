@@ -1,5 +1,5 @@
 name: Rustication Banded Sand Arch Both
-material: PAPER
+item: paper
 custom-model-data: 7109
 model: 'cocricotmod:block/rustication_banded_sand_arch_both'
 

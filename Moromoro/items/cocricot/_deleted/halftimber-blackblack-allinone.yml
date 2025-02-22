@@ -1,5 +1,5 @@
 name: Halftimber Blackblack Allinone
-material: PAPER
+item: paper
 custom-model-data: 5173
 model: 'cocricotmod:block/halftimber_blackblack_allinone'
 

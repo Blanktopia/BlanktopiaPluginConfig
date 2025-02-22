@@ -1,5 +1,5 @@
 name: Purfume Pink
-material: PAPER
+item: paper
 custom-model-data: 6298
 model: 'cocricotmod:block/purfume_pink'
 

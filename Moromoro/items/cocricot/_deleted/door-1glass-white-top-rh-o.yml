@@ -1,5 +1,5 @@
 name: Door  1glass White Top Rh O
-material: PAPER
+item: paper
 custom-model-data: 3567
 model: 'cocricotmod:block/door_1glass_white_top_rh_o'
 

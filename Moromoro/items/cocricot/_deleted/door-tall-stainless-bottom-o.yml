@@ -1,5 +1,5 @@
 name: Door Tall Stainless Bottom O
-material: PAPER
+item: paper
 custom-model-data: 4485
 model: 'cocricotmod:block/door_tall_stainless_bottom_o'
 

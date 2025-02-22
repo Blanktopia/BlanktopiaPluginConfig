@@ -1,5 +1,5 @@
 name: Basket Bread Slab
-material: PAPER
+item: paper
 custom-model-data: 2362
 model: 'cocricotmod:block/basket_bread_slab'
 

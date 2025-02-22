@@ -1,5 +1,5 @@
 name: Door Tall  5panel Lightpurple Bottom O
-material: PAPER
+item: paper
 custom-model-data: 4233
 model: 'cocricotmod:block/door_tall_5panel_lightpurple_bottom_o'
 

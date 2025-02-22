@@ -1,5 +1,5 @@
 name: Log All Acacia
-material: PAPER
+item: paper
 custom-model-data: 6018
 model: 'cocricotmod:block/log_all_acacia'
 

@@ -1,5 +1,5 @@
 name: Marble
-material: PAPER
+item: paper
 custom-model-data: 6047
 model: 'cocricotmod:block/marble'
 

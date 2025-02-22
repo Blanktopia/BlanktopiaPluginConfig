@@ -1,5 +1,5 @@
 name: Shell
-material: PAPER
+item: paper
 custom-model-data: 7167
 model: 'cocricotmod:block/shell'
 

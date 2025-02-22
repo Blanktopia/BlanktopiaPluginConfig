@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Marineblue All
-material: PAPER
+item: paper
 custom-model-data: 5625
 model: 'cocricotmod:block/handrail_wood_straight_marineblue_all'
 

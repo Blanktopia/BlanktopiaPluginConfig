@@ -1,5 +1,5 @@
 name: Stone Bushrock Stairs
-material: PAPER
+item: paper
 custom-model-data: 7653
 model: 'cocricotmod:block/stone_bushrock_stairs'
 

@@ -1,5 +1,5 @@
 name: Roof Copper White Plate
-material: PAPER
+item: paper
 custom-model-data: 6527
 model: 'cocricotmod:block/roof_copper_white_plate'
 

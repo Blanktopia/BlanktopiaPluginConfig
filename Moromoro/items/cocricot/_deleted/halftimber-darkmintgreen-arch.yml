@@ -1,5 +1,5 @@
 name: Halftimber Darkmintgreen Arch
-material: PAPER
+item: paper
 custom-model-data: 5354
 model: 'cocricotmod:block/halftimber_darkmintgreen_arch'
 

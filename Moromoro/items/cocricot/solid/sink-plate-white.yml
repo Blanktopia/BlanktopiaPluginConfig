@@ -1,5 +1,5 @@
 name: Sink Plate White
-material: PAPER
+item: paper
 custom-model-data: 7324
 model: cocricotmod:block/sink_plate_white
 block:

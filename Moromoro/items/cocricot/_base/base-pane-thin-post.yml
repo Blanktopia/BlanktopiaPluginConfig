@@ -1,5 +1,5 @@
 name: Base Pane Thin Post
-material: PAPER
+item: paper
 custom-model-data: 2329
 model: 'cocricotmod:block/base_pane_thin_post'
 

@@ -1,5 +1,5 @@
 name: Climbing Rose Pink
-material: PAPER
+item: paper
 custom-model-data: 3101
 model: 'cocricotmod:block/climbing_rose_pink'
 

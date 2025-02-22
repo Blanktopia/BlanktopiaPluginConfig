@@ -1,5 +1,5 @@
 name: Cabinet Retro Silver
-material: PAPER
+item: paper
 custom-model-data: 2817
 model: 'cocricotmod:block/cabinet_retro_silver'
 

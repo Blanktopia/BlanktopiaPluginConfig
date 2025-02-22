@@ -1,5 +1,5 @@
 name: Chair Dining Normal Clear
-material: PAPER
+item: paper
 custom-model-data: 3005
 model: cocricotmod:block/chair_dining_normal_clear
 block:

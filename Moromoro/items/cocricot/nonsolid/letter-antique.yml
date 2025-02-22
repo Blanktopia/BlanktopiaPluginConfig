@@ -1,5 +1,5 @@
 name: Letter Antique
-material: PAPER
+item: paper
 custom-model-data: 6009
 model: 'cocricotmod:block/letter_antique'
 

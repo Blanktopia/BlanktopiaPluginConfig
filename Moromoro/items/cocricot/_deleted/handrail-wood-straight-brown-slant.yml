@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Brown Slant
-material: PAPER
+item: paper
 custom-model-data: 5601
 model: 'cocricotmod:block/handrail_wood_straight_brown_slant'
 

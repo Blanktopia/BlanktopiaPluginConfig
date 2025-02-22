@@ -1,5 +1,5 @@
 name: Bed Mattress Gray
-material: PAPER
+item: paper
 custom-model-data: 2411
 model: cocricotmod:block/bed_mattress_gray
 block:

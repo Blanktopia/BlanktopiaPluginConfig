@@ -1,5 +1,5 @@
 name: Chain Antique
-material: PAPER
+item: paper
 custom-model-data: 2963
 model: 'cocricotmod:block/chain_antique'
 

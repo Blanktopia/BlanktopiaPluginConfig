@@ -1,5 +1,5 @@
 name: Roof Tile Gray Stairs
-material: PAPER
+item: paper
 custom-model-data: 6829
 model: 'cocricotmod:block/roof_tile_gray_stairs'
 

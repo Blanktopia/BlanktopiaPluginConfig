@@ -1,5 +1,5 @@
 name: Flowerpot Antique White
-material: PAPER
+item: paper
 custom-model-data: 4876
 model: 'cocricotmod:block/flowerpot_antique_white'
 

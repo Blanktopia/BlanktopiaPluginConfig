@@ -1,5 +1,5 @@
 name: Window Flower Stone Pane Flower
-material: PAPER
+item: paper
 custom-model-data: 8921
 model: 'cocricotmod:block/window_flower_stone_pane_flower'
 

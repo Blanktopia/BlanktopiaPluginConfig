@@ -1,5 +1,5 @@
 name: Stone Bushrock Arch Single
-material: PAPER
+item: paper
 custom-model-data: 7641
 model: 'cocricotmod:block/stone_bushrock_arch_single'
 

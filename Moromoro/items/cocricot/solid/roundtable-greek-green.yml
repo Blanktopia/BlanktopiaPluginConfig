@@ -1,5 +1,5 @@
 name: Roundtable Greek Green
-material: PAPER
+item: paper
 custom-model-data: 6889
 model: cocricotmod:block/roundtable_greek_green
 block:

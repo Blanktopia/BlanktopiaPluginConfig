@@ -1,5 +1,5 @@
 name: Wisteria
-material: PAPER
+item: paper
 custom-model-data: 9255
 model: 'cocricotmod:block/wisteria'
 

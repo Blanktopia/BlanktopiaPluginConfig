@@ -1,5 +1,5 @@
 name: Ladder Wood Brown
-material: PAPER
+item: paper
 custom-model-data: 5895
 model: 'cocricotmod:block/ladder_wood_brown'
 

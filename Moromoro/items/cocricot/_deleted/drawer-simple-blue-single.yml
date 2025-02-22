@@ -1,5 +1,5 @@
 name: Drawer Simple Blue Single
-material: PAPER
+item: paper
 custom-model-data: 4544
 model: 'cocricotmod:block/drawer_simple_blue_single'
 

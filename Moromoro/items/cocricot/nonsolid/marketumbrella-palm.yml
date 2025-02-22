@@ -1,5 +1,5 @@
 name: Marketumbrella Palm
-material: PAPER
+item: paper
 custom-model-data: 6093
 model: 'cocricotmod:block/marketumbrella_palm'
 

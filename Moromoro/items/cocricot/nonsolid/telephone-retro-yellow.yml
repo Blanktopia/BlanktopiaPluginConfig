@@ -1,5 +1,5 @@
 name: Telephone Retro Yellow
-material: PAPER
+item: paper
 custom-model-data: 8253
 model: 'cocricotmod:block/telephone_retro_yellow'
 

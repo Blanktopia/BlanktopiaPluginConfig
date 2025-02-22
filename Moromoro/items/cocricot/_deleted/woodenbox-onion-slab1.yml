@@ -1,5 +1,5 @@
 name: Woodenbox Onion Slab 1
-material: PAPER
+item: paper
 custom-model-data: 9923
 model: 'cocricotmod:block/woodenbox_onion_slab1'
 

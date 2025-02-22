@@ -1,5 +1,5 @@
 name: Chain White
-material: PAPER
+item: paper
 custom-model-data: 2983
 model: 'cocricotmod:block/chain_white'
 

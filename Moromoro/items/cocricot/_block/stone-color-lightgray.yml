@@ -1,5 +1,5 @@
 name: Stone Color Lightgray
-material: PAPER
+item: paper
 custom-model-data: 7774
 model: 'cocricotmod:block/stone_color_lightgray'
 

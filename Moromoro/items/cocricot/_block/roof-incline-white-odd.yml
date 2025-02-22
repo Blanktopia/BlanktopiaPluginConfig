@@ -1,5 +1,5 @@
 name: Roof Incline White Odd
-material: PAPER
+item: paper
 custom-model-data: 6621
 model: 'cocricotmod:block/roof_incline_white_odd'
 

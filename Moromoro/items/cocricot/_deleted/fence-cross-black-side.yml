@@ -1,5 +1,5 @@
 name: Fence Cross Black Side
-material: PAPER
+item: paper
 custom-model-data: 4692
 model: 'cocricotmod:block/fence_cross_black_side'
 

@@ -1,5 +1,5 @@
 name: Flowerpot Inner Benjamin False
-material: PAPER
+item: paper
 custom-model-data: 4893
 model: 'cocricotmod:block/flowerpot_inner_benjamin_false'
 

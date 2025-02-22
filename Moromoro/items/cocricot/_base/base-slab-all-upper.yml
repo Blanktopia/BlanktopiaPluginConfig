@@ -1,5 +1,5 @@
 name: Base Slab All Upper
-material: PAPER
+item: paper
 custom-model-data: 2343
 model: 'cocricotmod:block/base_slab_all_upper'
 

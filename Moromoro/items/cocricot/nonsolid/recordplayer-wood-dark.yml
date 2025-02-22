@@ -1,5 +1,5 @@
 name: Recordplayer Wood Dark
-material: PAPER
+item: paper
 custom-model-data: 6340
 model: 'cocricotmod:block/recordplayer_wood_dark'
 

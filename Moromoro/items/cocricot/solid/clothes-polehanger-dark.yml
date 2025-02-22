@@ -1,5 +1,5 @@
 name: Clothes Polehanger Dark
-material: PAPER
+item: paper
 custom-model-data: 3120
 model: cocricotmod:block/clothes_polehanger_dark
 block:

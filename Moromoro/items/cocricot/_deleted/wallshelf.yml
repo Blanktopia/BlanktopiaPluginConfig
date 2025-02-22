@@ -1,5 +1,5 @@
 name: Wallshelf
-material: PAPER
+item: paper
 custom-model-data: 8385
 model: 'cocricotmod:block/wallshelf'
 

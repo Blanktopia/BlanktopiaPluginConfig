@@ -1,5 +1,5 @@
 name: Piano Antique
-material: PAPER
+item: paper
 custom-model-data: 6250
 model: cocricotmod:block/piano_antique
 block:

@@ -1,5 +1,5 @@
 name: Wood  2board Seadrift
-material: PAPER
+item: paper
 custom-model-data: 9362
 model: 'cocricotmod:block/wood_2board_seadrift'
 

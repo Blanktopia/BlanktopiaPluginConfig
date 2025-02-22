@@ -1,5 +1,5 @@
 name: Sofa Midcentury Green Single
-material: PAPER
+item: paper
 custom-model-data: 7388
 model: cocricotmod:block/sofa_midcentury_green_single
 block:

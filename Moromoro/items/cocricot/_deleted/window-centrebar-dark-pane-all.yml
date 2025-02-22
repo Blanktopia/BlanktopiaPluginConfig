@@ -1,5 +1,5 @@
 name: Window Centrebar Dark Pane All
-material: PAPER
+item: paper
 custom-model-data: 8618
 model: 'cocricotmod:block/window_centrebar_dark_pane_all'
 

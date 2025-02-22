@@ -1,5 +1,5 @@
 name: Table Ironleg White Both
-material: PAPER
+item: paper
 custom-model-data: 8212
 model: cocricotmod:block/table_ironleg_white_both
 block:

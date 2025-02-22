@@ -1,5 +1,5 @@
 name: Roof Copper Yellow Vslab
-material: PAPER
+item: paper
 custom-model-data: 6550
 model: 'cocricotmod:block/roof_copper_yellow_vslab'
 

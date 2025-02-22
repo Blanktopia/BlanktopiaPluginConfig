@@ -1,5 +1,5 @@
 name: Door Tall  2panel Green Top
-material: PAPER
+item: paper
 custom-model-data: 4084
 model: 'cocricotmod:block/door_tall_2panel_green_top'
 

@@ -1,5 +1,5 @@
 name: Breakfast Croissant Blue
-material: PAPER
+item: paper
 custom-model-data: 2618
 model: 'cocricotmod:block/breakfast_croissant_blue'
 

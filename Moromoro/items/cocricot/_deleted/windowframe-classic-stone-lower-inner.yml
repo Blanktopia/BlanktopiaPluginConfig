@@ -1,5 +1,5 @@
 name: Windowframe Classic Stone Lower Inner
-material: PAPER
+item: paper
 custom-model-data: 9123
 model: 'cocricotmod:block/windowframe_classic_stone_lower_inner'
 

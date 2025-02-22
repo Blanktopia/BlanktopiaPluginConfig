@@ -1,5 +1,5 @@
 name: Curtain Separate Yellow Right
-material: PAPER
+item: paper
 custom-model-data: 3290
 model: 'cocricotmod:block/curtain_separate_yellow_right'
 

@@ -1,5 +1,5 @@
 name: Range Retro Blue
-material: PAPER
+item: paper
 custom-model-data: 6311
 model: cocricotmod:block/range_retro_blue
 block:

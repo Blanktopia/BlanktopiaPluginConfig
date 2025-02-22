@@ -1,6 +1,6 @@
 alias: packing-tape
 name: "<#33d8f2>Portable Ore Compactor ⏹"
-material: NETHER_STAR
+item: nether_star
 soulbound: true
 unbreakable: true
 unenchantable: true

@@ -1,5 +1,5 @@
 name: Chest Color Black
-material: PAPER
+item: paper
 custom-model-data: 3064
 model: 'cocricotmod:block/chest_color_black'
 

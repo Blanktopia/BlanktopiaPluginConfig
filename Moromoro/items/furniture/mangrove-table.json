@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1068,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/mangrove_table",
    "name": "<white>Mangrove Table"
 }

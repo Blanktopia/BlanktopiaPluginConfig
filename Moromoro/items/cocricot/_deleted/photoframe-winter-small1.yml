@@ -1,5 +1,5 @@
 name: Photoframe Winter Small 1
-material: PAPER
+item: paper
 custom-model-data: 6249
 model: 'cocricotmod:block/photoframe_winter_small1'
 

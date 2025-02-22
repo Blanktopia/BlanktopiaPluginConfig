@@ -1,5 +1,5 @@
 name: Mailbox
-material: PAPER
+item: paper
 custom-model-data: 6030
 model: 'cocricotmod:block/mailbox'
 

@@ -1,5 +1,5 @@
 name: Stone Color Red
-material: PAPER
+item: paper
 custom-model-data: 7839
 model: 'cocricotmod:block/stone_color_red'
 

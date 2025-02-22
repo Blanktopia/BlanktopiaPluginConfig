@@ -10,7 +10,7 @@
    "lore": [
       "<grey>Dyeable"
    ],
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/spruce_chair",
    "name": "<white>Spruce Chair"
 }

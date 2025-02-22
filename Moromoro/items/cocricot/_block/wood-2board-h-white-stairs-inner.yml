@@ -1,5 +1,5 @@
 name: Wood  2board H White Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9349
 model: 'cocricotmod:block/wood_2board_h_white_stairs_inner'
 

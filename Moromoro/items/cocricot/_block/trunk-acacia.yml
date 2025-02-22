@@ -1,5 +1,5 @@
 name: Trunk Acacia
-material: PAPER
+item: paper
 custom-model-data: 8326
 model: 'cocricotmod:block/trunk_acacia'
 

@@ -1,5 +1,5 @@
 name: Tire Large
-material: PAPER
+item: paper
 custom-model-data: 8307
 model: 'cocricotmod:block/tire_large'
 

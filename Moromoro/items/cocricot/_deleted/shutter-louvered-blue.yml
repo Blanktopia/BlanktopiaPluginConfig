@@ -1,5 +1,5 @@
 name: Shutter Louvered Blue
-material: PAPER
+item: paper
 custom-model-data: 7250
 model: 'cocricotmod:block/shutter_louvered_blue'
 

@@ -1,5 +1,5 @@
 name: Awning Stripe Red Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 2254
 model: 'cocricotmod:block/awning_stripe_red_stairs_outer'
 

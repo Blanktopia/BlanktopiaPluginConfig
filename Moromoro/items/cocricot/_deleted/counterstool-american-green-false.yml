@@ -1,5 +1,5 @@
 name: Counterstool American Green False
-material: PAPER
+item: paper
 custom-model-data: 3199
 model: 'cocricotmod:block/counterstool_american_green_false'
 

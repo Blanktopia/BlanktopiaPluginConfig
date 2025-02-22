@@ -1,5 +1,5 @@
 name: Garland Cute Three
-material: PAPER
+item: paper
 custom-model-data: 5015
 model: 'cocricotmod:block/garland_cute_three'
 

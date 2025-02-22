@@ -1,5 +1,5 @@
 name: Flowerpot White
-material: PAPER
+item: paper
 custom-model-data: 4922
 model: 'cocricotmod:block/flowerpot_white'
 

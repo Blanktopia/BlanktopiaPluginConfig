@@ -1,5 +1,5 @@
 name: Wood  2board H Brown Stairs
-material: PAPER
+item: paper
 custom-model-data: 9308
 model: 'cocricotmod:block/wood_2board_h_brown_stairs'
 

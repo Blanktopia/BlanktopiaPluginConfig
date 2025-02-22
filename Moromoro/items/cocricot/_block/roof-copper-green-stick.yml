@@ -1,5 +1,5 @@
 name: Roof Copper Green Stick
-material: PAPER
+item: paper
 custom-model-data: 6469
 model: 'cocricotmod:block/roof_copper_green_stick'
 

@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Natural Right False
-material: PAPER
+item: paper
 custom-model-data: 8463
 model: 'cocricotmod:block/wallshelf_bracket_natural_right_false'
 

@@ -1,5 +1,5 @@
 name: Desk Simple Black Left
-material: PAPER
+item: paper
 custom-model-data: 3422
 model: cocricotmod:block/desk_simple_black_left
 block:

@@ -1,0 +1,4 @@
+name: "Pharaoh"
+item: leather_horse_armor
+custom-model-data: 2020
+model: "littleroom_desertpack:item/pharaohhat"

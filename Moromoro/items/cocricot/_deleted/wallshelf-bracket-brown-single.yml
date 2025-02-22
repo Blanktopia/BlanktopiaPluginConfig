@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Brown Single
-material: PAPER
+item: paper
 custom-model-data: 8444
 model: 'cocricotmod:block/wallshelf_bracket_brown_single'
 

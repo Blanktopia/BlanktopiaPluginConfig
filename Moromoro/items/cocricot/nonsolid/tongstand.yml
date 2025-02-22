@@ -1,5 +1,5 @@
 name: Tongstand
-material: PAPER
+item: paper
 custom-model-data: 8320
 model: 'cocricotmod:block/tongstand'
 

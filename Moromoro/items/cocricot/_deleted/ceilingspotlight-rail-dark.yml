@@ -1,5 +1,5 @@
 name: Ceilingspotlight Rail Dark
-material: PAPER
+item: paper
 custom-model-data: 2948
 model: 'cocricotmod:block/ceilingspotlight_rail_dark'
 

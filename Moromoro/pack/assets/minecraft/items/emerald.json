@@ -1,0 +1,1 @@
+{"model":{"entries":[{"threshold":1,"model":{"model":"blanktopia:gems/ruby","type":"model"}},{"threshold":2,"model":{"model":"blanktopia:gems/sapphire","type":"model"}}],"fallback":{"model":"item/emerald","type":"model"},"type":"range_dispatch","property":"custom_model_data"}}

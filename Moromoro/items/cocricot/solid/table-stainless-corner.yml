@@ -1,5 +1,5 @@
 name: Table Stainless Corner
-material: PAPER
+item: paper
 custom-model-data: 8219
 model: cocricotmod:block/table_stainless_corner
 block:

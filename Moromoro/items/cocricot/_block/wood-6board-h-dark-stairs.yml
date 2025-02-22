@@ -1,5 +1,5 @@
 name: Wood  6board H Dark Stairs
-material: PAPER
+item: paper
 custom-model-data: 9598
 model: 'cocricotmod:block/wood_6board_h_dark_stairs'
 

@@ -1,5 +1,5 @@
 name: Wood Wainscot Panels White Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9862
 model: 'cocricotmod:block/wood_wainscot_panels_white_stairs_inner'
 

@@ -1,5 +1,5 @@
 name: Wood White Stick
-material: PAPER
+item: paper
 custom-model-data: 9874
 model: 'cocricotmod:block/wood_white_stick'
 

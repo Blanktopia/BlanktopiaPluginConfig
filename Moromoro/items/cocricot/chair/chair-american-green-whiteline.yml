@@ -1,5 +1,5 @@
 name: Chair American Green Whiteline
-material: PAPER
+item: paper
 custom-model-data: 2987
 model: cocricotmod:block/chair_american_green_whiteline
 block:

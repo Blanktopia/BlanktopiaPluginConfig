@@ -1,5 +1,5 @@
 name: Holycross Sand
-material: PAPER
+item: paper
 custom-model-data: 5816
 model: 'cocricotmod:block/holycross_sand'
 

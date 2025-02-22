@@ -1,5 +1,5 @@
 name: Sink Color Green
-material: PAPER
+item: paper
 custom-model-data: 7305
 model: cocricotmod:block/sink_color_green
 block:

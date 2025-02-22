@@ -1,5 +1,5 @@
 name: Table American Red
-material: PAPER
+item: paper
 custom-model-data: 8155
 model: cocricotmod:block/table_american_red
 block:

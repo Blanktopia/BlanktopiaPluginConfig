@@ -1,5 +1,5 @@
 name: Pattern Flower Pink
-material: PAPER
+item: paper
 custom-model-data: 6199
 model: 'cocricotmod:block/pattern_flower_pink'
 

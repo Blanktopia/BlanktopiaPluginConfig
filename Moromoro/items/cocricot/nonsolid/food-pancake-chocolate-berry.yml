@@ -1,5 +1,5 @@
 name: Food Pancake Chocolate Berry
-material: PAPER
+item: paper
 custom-model-data: 4937
 model: 'cocricotmod:block/food_pancake_chocolate_berry'
 

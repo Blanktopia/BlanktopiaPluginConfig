@@ -1,5 +1,5 @@
 name: Fallen Leaves Gold Block
-material: PAPER
+item: paper
 custom-model-data: 4669
 model: 'cocricotmod:block/fallen_leaves_gold_block'
 

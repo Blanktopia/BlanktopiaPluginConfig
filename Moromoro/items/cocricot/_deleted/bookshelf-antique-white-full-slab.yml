@@ -1,5 +1,5 @@
 name: Bookshelf Antique White Full Slab
-material: PAPER
+item: paper
 custom-model-data: 2542
 model: 'cocricotmod:block/bookshelf_antique_white_full_slab'
 

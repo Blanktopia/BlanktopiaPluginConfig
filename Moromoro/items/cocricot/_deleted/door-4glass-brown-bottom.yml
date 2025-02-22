@@ -1,5 +1,5 @@
 name: Door  4glass Brown Bottom
-material: PAPER
+item: paper
 custom-model-data: 3696
 model: 'cocricotmod:block/door_4glass_brown_bottom'
 

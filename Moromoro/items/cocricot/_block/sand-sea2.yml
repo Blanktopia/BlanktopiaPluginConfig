@@ -1,5 +1,5 @@
 name: Sand Sea 2
-material: PAPER
+item: paper
 custom-model-data: 7128
 model: 'cocricotmod:block/sand_sea2'
 

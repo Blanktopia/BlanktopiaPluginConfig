@@ -1,5 +1,5 @@
 name: Newspaper
-material: PAPER
+item: paper
 custom-model-data: 6151
 model: 'cocricotmod:block/newspaper'
 

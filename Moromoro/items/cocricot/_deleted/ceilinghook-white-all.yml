@@ -1,5 +1,5 @@
 name: Ceilinghook White All
-material: PAPER
+item: paper
 custom-model-data: 2939
 model: 'cocricotmod:block/ceilinghook_white_all'
 

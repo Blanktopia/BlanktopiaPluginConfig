@@ -1,5 +1,5 @@
 name: Stone Cobble Whitejoint Pile Height 2
-material: PAPER
+item: paper
 custom-model-data: 7680
 model: 'cocricotmod:block/stone_cobble_whitejoint_pile_height2'
 

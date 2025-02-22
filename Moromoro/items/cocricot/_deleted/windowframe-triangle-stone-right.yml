@@ -1,5 +1,5 @@
 name: Windowframe Triangle Stone Right
-material: PAPER
+item: paper
 custom-model-data: 9244
 model: 'cocricotmod:block/windowframe_triangle_stone_right'
 

@@ -1,5 +1,5 @@
 name: Wood Dark
-material: PAPER
+item: paper
 custom-model-data: 9698
 model: 'cocricotmod:block/wood_dark'
 

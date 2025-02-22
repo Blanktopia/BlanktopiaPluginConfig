@@ -1,5 +1,5 @@
 name: Wood  2board H Seadrift Slab
-material: PAPER
+item: paper
 custom-model-data: 9338
 model: 'cocricotmod:block/wood_2board_h_seadrift_slab'
 

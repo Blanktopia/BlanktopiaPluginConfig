@@ -1,5 +1,5 @@
 name: Brick Terracotta Small Lightbrown
-material: PAPER
+item: paper
 custom-model-data: 2730
 model: 'cocricotmod:block/brick_terracotta_small_lightbrown'
 

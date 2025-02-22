@@ -1,5 +1,5 @@
 name: Stone Color Yellow Arch Single
-material: PAPER
+item: paper
 custom-model-data: 7867
 model: 'cocricotmod:block/stone_color_yellow_arch_single'
 

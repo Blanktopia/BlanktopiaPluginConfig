@@ -1,5 +1,5 @@
 name: Counterstool Industrial Seadrift False
-material: PAPER
+item: paper
 custom-model-data: 3223
 model: 'cocricotmod:block/counterstool_industrial_seadrift_false'
 

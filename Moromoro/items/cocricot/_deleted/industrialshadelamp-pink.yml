@@ -1,5 +1,5 @@
 name: Industrialshadelamp Pink
-material: PAPER
+item: paper
 custom-model-data: 5843
 model: 'cocricotmod:block/industrialshadelamp_pink'
 

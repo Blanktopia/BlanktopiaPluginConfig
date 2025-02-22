@@ -1,5 +1,5 @@
 name: Door  1glass Dark Top Rh O
-material: PAPER
+item: paper
 custom-model-data: 3543
 model: 'cocricotmod:block/door_1glass_dark_top_rh_o'
 

@@ -1,5 +1,5 @@
 name: Lightsign Softserveicecream
-material: PAPER
+item: paper
 custom-model-data: 6016
 model: cocricotmod:block/lightsign_softserveicecream
 block:

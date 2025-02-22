@@ -1,5 +1,5 @@
 name: Handrail Wood Turnedleg Clear Slant
-material: PAPER
+item: paper
 custom-model-data: 5704
 model: 'cocricotmod:block/handrail_wood_turnedleg_clear_slant'
 

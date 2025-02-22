@@ -1,5 +1,5 @@
 name: Tire Wild Large
-material: PAPER
+item: paper
 custom-model-data: 8309
 model: 'cocricotmod:block/tire_wild_large'
 

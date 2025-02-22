@@ -1,5 +1,5 @@
 name: Chair Garden Brown
-material: PAPER
+item: paper
 custom-model-data: 3020
 model: cocricotmod:block/chair_garden_brown
 block:

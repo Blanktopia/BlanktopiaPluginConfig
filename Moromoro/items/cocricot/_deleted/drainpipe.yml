@@ -1,5 +1,5 @@
 name: Drainpipe
-material: PAPER
+item: paper
 custom-model-data: 4497
 model: 'cocricotmod:block/drainpipe'
 

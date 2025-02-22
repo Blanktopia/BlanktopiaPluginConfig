@@ -1,5 +1,5 @@
 name: Marinelamp Deck Gold
-material: PAPER
+item: paper
 custom-model-data: 6075
 model: 'cocricotmod:block/marinelamp_deck_gold'
 

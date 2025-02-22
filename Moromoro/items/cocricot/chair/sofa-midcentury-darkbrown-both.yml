@@ -1,5 +1,5 @@
 name: Sofa Midcentury Darkbrown Both
-material: PAPER
+item: paper
 custom-model-data: 7377
 model: cocricotmod:block/sofa_midcentury_darkbrown_both
 block:

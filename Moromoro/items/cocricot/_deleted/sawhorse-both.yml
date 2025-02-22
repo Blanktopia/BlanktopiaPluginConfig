@@ -1,5 +1,5 @@
 name: Sawhorse Both
-material: PAPER
+item: paper
 custom-model-data: 7135
 model: 'cocricotmod:block/sawhorse_both'
 

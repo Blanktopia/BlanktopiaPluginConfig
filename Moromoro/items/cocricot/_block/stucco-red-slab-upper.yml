@@ -1,5 +1,5 @@
 name: Stucco Red Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 8094
 model: 'cocricotmod:block/stucco_red_slab_upper'
 

@@ -1,5 +1,5 @@
 name: Quillpen
-material: PAPER
+item: paper
 custom-model-data: 6300
 model: 'cocricotmod:block/quillpen'
 

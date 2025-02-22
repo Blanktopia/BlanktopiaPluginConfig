@@ -1,5 +1,5 @@
 name: Lifebuoys Blue
-material: PAPER
+item: paper
 custom-model-data: 6011
 model: 'cocricotmod:block/lifebuoys_blue'
 

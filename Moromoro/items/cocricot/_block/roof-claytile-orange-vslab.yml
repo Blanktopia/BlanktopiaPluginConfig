@@ -1,5 +1,5 @@
 name: Roof Claytile Orange Vslab
-material: PAPER
+item: paper
 custom-model-data: 6425
 model: 'cocricotmod:block/roof_claytile_orange_vslab'
 

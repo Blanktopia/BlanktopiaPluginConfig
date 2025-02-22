@@ -1,5 +1,5 @@
 name: Roof Fishscale Red Incline Outer
-material: PAPER
+item: paper
 custom-model-data: 6596
 model: 'cocricotmod:block/roof_fishscale_red_incline_outer'
 

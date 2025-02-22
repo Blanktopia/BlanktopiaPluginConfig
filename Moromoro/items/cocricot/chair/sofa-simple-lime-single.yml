@@ -1,5 +1,5 @@
 name: Sofa Simple Lime Single
-material: PAPER
+item: paper
 custom-model-data: 7424
 model: cocricotmod:block/sofa_simple_lime_single
 block:

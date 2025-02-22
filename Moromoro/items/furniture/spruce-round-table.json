@@ -6,7 +6,7 @@
       "type": "item"
    },
    "custom-model-data": 1051,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/spruce_round_table",
    "name": "<white>Spruce Round Table"
 }

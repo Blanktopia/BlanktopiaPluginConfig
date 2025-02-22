@@ -1,5 +1,5 @@
 name: Rainchain
-material: PAPER
+item: paper
 custom-model-data: 6302
 model: 'cocricotmod:block/rainchain'
 

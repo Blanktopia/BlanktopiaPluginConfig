@@ -1,5 +1,5 @@
 name: Brick Red White Vslab
-material: PAPER
+item: paper
 custom-model-data: 2709
 model: 'cocricotmod:block/brick_red_white_vslab'
 

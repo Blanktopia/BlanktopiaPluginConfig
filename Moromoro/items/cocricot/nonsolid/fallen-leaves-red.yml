@@ -1,5 +1,5 @@
 name: Fallen Leaves Red
-material: PAPER
+item: paper
 custom-model-data: 4674
 model: 'cocricotmod:block/fallen_leaves_red'
 

@@ -1,5 +1,5 @@
 name: Wood  3board Clear Vslab Item
-material: PAPER
+item: paper
 custom-model-data: 9417
 model: 'cocricotmod:block/wood_3board_clear_vslab_item'
 

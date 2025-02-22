@@ -1,5 +1,5 @@
 name: Faucet Bridge Silver
-material: PAPER
+item: paper
 custom-model-data: 4684
 model: 'cocricotmod:block/faucet_bridge_silver'
 

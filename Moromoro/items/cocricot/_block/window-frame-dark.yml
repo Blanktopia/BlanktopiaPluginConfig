@@ -1,5 +1,5 @@
 name: Window Frame Dark
-material: PAPER
+item: paper
 custom-model-data: 8953
 model: 'cocricotmod:block/window_frame_dark'
 

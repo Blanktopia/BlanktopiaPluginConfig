@@ -1,5 +1,5 @@
 name: Speaker Floor Clear
-material: PAPER
+item: paper
 custom-model-data: 7540
 model: cocricotmod:block/speaker_floor_clear
 block:

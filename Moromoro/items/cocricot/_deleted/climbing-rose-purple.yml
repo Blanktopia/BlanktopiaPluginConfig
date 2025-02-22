@@ -1,5 +1,5 @@
 name: Climbing Rose Purple
-material: PAPER
+item: paper
 custom-model-data: 3102
 model: 'cocricotmod:block/climbing_rose_purple'
 

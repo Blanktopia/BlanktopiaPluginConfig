@@ -1,5 +1,5 @@
 name: Door  2panel Green Bottom Rh
-material: PAPER
+item: paper
 custom-model-data: 3594
 model: 'cocricotmod:block/door_2panel_green_bottom_rh'
 

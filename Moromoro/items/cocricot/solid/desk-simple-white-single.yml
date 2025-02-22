@@ -1,5 +1,5 @@
 name: Desk Simple White Single
-material: PAPER
+item: paper
 custom-model-data: 3432
 model: cocricotmod:block/desk_simple_white_single
 block:

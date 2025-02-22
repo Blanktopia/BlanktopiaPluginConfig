@@ -1,5 +1,5 @@
 name: Bougainvillea Yellow Drooping
-material: PAPER
+item: paper
 custom-model-data: 2566
 model: 'cocricotmod:block/bougainvillea_yellow_drooping'
 

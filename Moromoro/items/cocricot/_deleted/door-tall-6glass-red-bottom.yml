@@ -1,5 +1,5 @@
 name: Door Tall  6glass Red Bottom
-material: PAPER
+item: paper
 custom-model-data: 4384
 model: 'cocricotmod:block/door_tall_6glass_red_bottom'
 

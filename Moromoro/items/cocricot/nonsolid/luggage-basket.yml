@@ -1,5 +1,5 @@
 name: Luggage Basket
-material: PAPER
+item: paper
 custom-model-data: 6026
 model: 'cocricotmod:block/luggage_basket'
 

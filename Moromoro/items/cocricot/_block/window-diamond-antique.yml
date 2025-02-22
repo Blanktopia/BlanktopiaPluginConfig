@@ -1,5 +1,5 @@
 name: Window Diamond Antique
-material: PAPER
+item: paper
 custom-model-data: 8799
 model: 'cocricotmod:block/window_diamond_antique'
 

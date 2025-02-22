@@ -1,5 +1,5 @@
 name: Garland Cool Slant
-material: PAPER
+item: paper
 custom-model-data: 5008
 model: 'cocricotmod:block/garland_cool_slant'
 

@@ -1,5 +1,5 @@
 name: Sconce Cube Wood
-material: PAPER
+item: paper
 custom-model-data: 7148
 model: 'cocricotmod:block/sconce_cube_wood'
 

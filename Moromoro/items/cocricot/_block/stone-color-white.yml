@@ -1,5 +1,5 @@
 name: Stone Color White
-material: PAPER
+item: paper
 custom-model-data: 7852
 model: 'cocricotmod:block/stone_color_white'
 

@@ -1,5 +1,5 @@
 name: Roof Fishscale Green Stick
-material: PAPER
+item: paper
 custom-model-data: 6589
 model: 'cocricotmod:block/roof_fishscale_green_stick'
 

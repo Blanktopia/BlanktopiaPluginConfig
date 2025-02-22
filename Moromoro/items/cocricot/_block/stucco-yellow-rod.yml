@@ -1,5 +1,5 @@
 name: Stucco Yellow Rod
-material: PAPER
+item: paper
 custom-model-data: 8118
 model: 'cocricotmod:block/stucco_yellow_rod'
 

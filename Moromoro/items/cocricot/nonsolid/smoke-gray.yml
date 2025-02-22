@@ -1,5 +1,5 @@
 name: Smoke Gray
-material: PAPER
+item: paper
 custom-model-data: 7346
 model: 'cocricotmod:block/smoke_gray'
 

@@ -1,5 +1,5 @@
 name: Door Tall  5panel White Bottom
-material: PAPER
+item: paper
 custom-model-data: 4280
 model: 'cocricotmod:block/door_tall_5panel_white_bottom'
 

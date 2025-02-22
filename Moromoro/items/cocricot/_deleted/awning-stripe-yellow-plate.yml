@@ -1,5 +1,5 @@
 name: Awning Stripe Yellow Plate
-material: PAPER
+item: paper
 custom-model-data: 2260
 model: 'cocricotmod:block/awning_stripe_yellow_plate'
 

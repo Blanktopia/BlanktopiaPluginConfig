@@ -1,5 +1,5 @@
 name: Wood Clear Plate
-material: PAPER
+item: paper
 custom-model-data: 9689
 model: 'cocricotmod:block/wood_clear_plate'
 

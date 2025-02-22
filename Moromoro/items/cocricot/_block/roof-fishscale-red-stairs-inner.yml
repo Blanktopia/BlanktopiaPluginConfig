@@ -1,5 +1,5 @@
 name: Roof Fishscale Red Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 6607
 model: 'cocricotmod:block/roof_fishscale_red_stairs_inner'
 

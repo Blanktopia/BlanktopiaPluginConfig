@@ -1,5 +1,5 @@
 name: Windowframe Arch Sand Left
-material: PAPER
+item: paper
 custom-model-data: 9049
 model: 'cocricotmod:block/windowframe_arch_sand_left'
 

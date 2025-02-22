@@ -1,5 +1,5 @@
 name: Camera Silverblack
-material: PAPER
+item: paper
 custom-model-data: 2849
 model: 'cocricotmod:block/camera_silverblack'
 

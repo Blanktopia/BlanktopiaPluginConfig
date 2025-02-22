@@ -1,5 +1,5 @@
 name: Sofa Midcentury Green Left
-material: PAPER
+item: paper
 custom-model-data: 7386
 model: cocricotmod:block/sofa_midcentury_green_left
 block:

@@ -7,7 +7,7 @@
    },
    "custom-model-data": 1046,
    "dyeable": true,
-   "material": "LEATHER_HORSE_ARMOR",
+   "item": "leather_horse_armor",
    "model": "blanktopia:furniture/crimson_beach_chair",
    "name": "<white>Crimson Beach Chair"
 }

@@ -1,5 +1,5 @@
 name: Ceilingspotlight Silver
-material: PAPER
+item: paper
 custom-model-data: 2951
 model: 'cocricotmod:block/ceilingspotlight_silver'
 

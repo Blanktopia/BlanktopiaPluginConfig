@@ -1,5 +1,5 @@
 name: Chair Dining Normal Natural
-material: PAPER
+item: paper
 custom-model-data: 3007
 model: cocricotmod:block/chair_dining_normal_natural
 block:

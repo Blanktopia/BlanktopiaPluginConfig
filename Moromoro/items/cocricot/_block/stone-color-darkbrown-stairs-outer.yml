@@ -1,5 +1,5 @@
 name: Stone Color Darkbrown Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 7731
 model: 'cocricotmod:block/stone_color_darkbrown_stairs_outer'
 

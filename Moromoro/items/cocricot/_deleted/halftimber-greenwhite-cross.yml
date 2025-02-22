@@ -1,5 +1,5 @@
 name: Halftimber Greenwhite Cross
-material: PAPER
+item: paper
 custom-model-data: 5430
 model: 'cocricotmod:block/halftimber_greenwhite_cross'
 

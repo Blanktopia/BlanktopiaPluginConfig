@@ -1,5 +1,5 @@
 name: Stool Waterhyacinth
-material: PAPER
+item: paper
 custom-model-data: 8010
 model: cocricotmod:block/stool_waterhyacinth
 block:

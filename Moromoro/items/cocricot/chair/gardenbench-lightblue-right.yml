@@ -1,5 +1,5 @@
 name: Gardenbench Lightblue Right
-material: PAPER
+item: paper
 custom-model-data: 4962
 model: cocricotmod:block/gardenbench_lightblue_right
 block:

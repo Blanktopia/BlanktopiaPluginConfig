@@ -1,5 +1,5 @@
 name: Centralheating Si
-material: PAPER
+item: paper
 custom-model-data: 2960
 model: 'cocricotmod:block/centralheating_si'
 

@@ -1,5 +1,5 @@
 name: Wood  3board Brown Stairs Outer
-material: PAPER
+item: paper
 custom-model-data: 9403
 model: 'cocricotmod:block/wood_3board_brown_stairs_outer'
 

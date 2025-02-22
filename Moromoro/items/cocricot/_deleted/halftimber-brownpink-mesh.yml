@@ -1,5 +1,5 @@
 name: Halftimber Brownpink Mesh
-material: PAPER
+item: paper
 custom-model-data: 5255
 model: 'cocricotmod:block/halftimber_brownpink_mesh'
 

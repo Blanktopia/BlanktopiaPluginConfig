@@ -1,5 +1,5 @@
 name: Awning Lightpurple Vslab
-material: PAPER
+item: paper
 custom-model-data: 2099
 model: 'cocricotmod:block/awning_lightpurple_vslab'
 

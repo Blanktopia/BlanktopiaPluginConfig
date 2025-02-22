@@ -1,5 +1,5 @@
 name: Wallbar Brush
-material: PAPER
+item: paper
 custom-model-data: 8348
 model: 'cocricotmod:block/wallbar_brush'
 

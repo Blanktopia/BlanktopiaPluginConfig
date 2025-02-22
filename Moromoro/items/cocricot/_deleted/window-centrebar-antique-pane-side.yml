@@ -1,5 +1,5 @@
 name: Window Centrebar Antique Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8593
 model: 'cocricotmod:block/window_centrebar_antique_pane_side'
 

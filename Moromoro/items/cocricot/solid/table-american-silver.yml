@@ -1,5 +1,5 @@
 name: Table American Silver
-material: PAPER
+item: paper
 custom-model-data: 8156
 model: cocricotmod:block/table_american_silver
 block:

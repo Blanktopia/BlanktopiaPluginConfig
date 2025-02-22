@@ -1,5 +1,5 @@
 name: Drooping Rose Lightpink
-material: PAPER
+item: paper
 custom-model-data: 4655
 model: 'cocricotmod:block/drooping_rose_lightpink'
 

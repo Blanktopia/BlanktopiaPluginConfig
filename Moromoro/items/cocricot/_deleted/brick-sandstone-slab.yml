@@ -1,5 +1,5 @@
 name: Brick Sandstone Slab
-material: PAPER
+item: paper
 custom-model-data: 2716
 model: 'cocricotmod:block/brick_sandstone_slab'
 

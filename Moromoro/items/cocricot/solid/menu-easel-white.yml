@@ -1,5 +1,5 @@
 name: Menu Easel White
-material: PAPER
+item: paper
 custom-model-data: 6112
 model: cocricotmod:block/menu_easel_white
 block:

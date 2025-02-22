@@ -1,5 +1,5 @@
 name: Garland Natural Post
-material: PAPER
+item: paper
 custom-model-data: 5024
 model: 'cocricotmod:block/garland_natural_post'
 

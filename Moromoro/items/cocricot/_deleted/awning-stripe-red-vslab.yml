@@ -1,5 +1,5 @@
 name: Awning Stripe Red Vslab
-material: PAPER
+item: paper
 custom-model-data: 2256
 model: 'cocricotmod:block/awning_stripe_red_vslab'
 

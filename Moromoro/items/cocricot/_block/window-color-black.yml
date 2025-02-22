@@ -1,5 +1,5 @@
 name: Window Color Black
-material: PAPER
+item: paper
 custom-model-data: 8694
 model: 'cocricotmod:block/window_color_black'
 

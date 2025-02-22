@@ -1,5 +1,5 @@
 name: Sofa Simple Gray Single
-material: PAPER
+item: paper
 custom-model-data: 7412
 model: cocricotmod:block/sofa_simple_gray_single
 block:

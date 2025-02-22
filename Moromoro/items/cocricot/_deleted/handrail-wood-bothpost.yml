@@ -1,5 +1,5 @@
 name: Handrail Wood Bothpost
-material: PAPER
+item: paper
 custom-model-data: 5590
 model: 'cocricotmod:block/handrail_wood_bothpost'
 

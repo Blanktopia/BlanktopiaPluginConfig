@@ -1,5 +1,5 @@
 name: Parkbench Light Right
-material: PAPER
+item: paper
 custom-model-data: 6169
 model: cocricotmod:block/parkbench_light_right
 block:

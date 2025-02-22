@@ -1,5 +1,5 @@
 name: Wood Wrapsiding Blue Whiteframe
-material: PAPER
+item: paper
 custom-model-data: 9877
 model: 'cocricotmod:block/wood_wrapsiding_blue_whiteframe'
 

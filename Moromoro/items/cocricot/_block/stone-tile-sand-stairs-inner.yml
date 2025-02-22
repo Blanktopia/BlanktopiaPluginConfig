@@ -1,5 +1,5 @@
 name: Stone Tile Sand Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 7984
 model: 'cocricotmod:block/stone_tile_sand_stairs_inner'
 

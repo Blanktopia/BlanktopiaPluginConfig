@@ -1,6 +1,6 @@
 version: 1
 name: "Beginner's Pickaxe"
-material: WOODEN_PICKAXE
+item: wooden_pickaxe
 soulbound: true
 unenchantable: true
 lore:

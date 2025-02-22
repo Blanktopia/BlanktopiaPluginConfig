@@ -1,5 +1,5 @@
 name: Speaker Floor
-material: PAPER
+item: paper
 custom-model-data: 7536
 model: 'cocricotmod:block/speaker_floor'
 

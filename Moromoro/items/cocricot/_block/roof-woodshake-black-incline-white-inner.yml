@@ -1,5 +1,5 @@
 name: Roof Woodshake Black Incline White Inner
-material: PAPER
+item: paper
 custom-model-data: 6841
 model: 'cocricotmod:block/roof_woodshake_black_incline_white_inner'
 

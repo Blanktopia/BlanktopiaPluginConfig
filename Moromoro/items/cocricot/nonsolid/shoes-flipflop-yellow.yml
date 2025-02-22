@@ -1,5 +1,5 @@
 name: Shoes Flipflop Yellow
-material: PAPER
+item: paper
 custom-model-data: 7177
 model: 'cocricotmod:block/shoes_flipflop_yellow'
 

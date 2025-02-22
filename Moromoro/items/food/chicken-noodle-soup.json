@@ -1,6 +1,6 @@
 {
    "custom-model-data": 3,
-   "material": "MUSHROOM_STEW",
+   "item": "mushroom_stew",
    "model": "blanktopia:food/chicken_noodle_soup",
    "name": "<white>Chicken Noodle Soup",
    "triggers": {

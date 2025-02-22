@@ -1,5 +1,5 @@
 name: Garland Happy Post
-material: PAPER
+item: paper
 custom-model-data: 5018
 model: 'cocricotmod:block/garland_happy_post'
 

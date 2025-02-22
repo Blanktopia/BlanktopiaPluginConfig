@@ -1,5 +1,5 @@
 name: Awning Orange
-material: PAPER
+item: paper
 custom-model-data: 2100
 model: 'cocricotmod:block/awning_orange'
 

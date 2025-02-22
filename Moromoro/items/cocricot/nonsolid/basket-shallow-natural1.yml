@@ -1,5 +1,5 @@
 name: Basket Shallow Natural 1
-material: PAPER
+item: paper
 custom-model-data: 2367
 model: 'cocricotmod:block/basket_shallow_natural1'
 

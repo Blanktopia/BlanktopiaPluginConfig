@@ -1,5 +1,5 @@
 name: Base Cube H
-material: PAPER
+item: paper
 custom-model-data: 2311
 model: 'cocricotmod:block/base_cube_h'
 

@@ -1,5 +1,5 @@
 name: Speaker Floor Black
-material: PAPER
+item: paper
 custom-model-data: 7538
 model: cocricotmod:block/speaker_floor_black
 block:

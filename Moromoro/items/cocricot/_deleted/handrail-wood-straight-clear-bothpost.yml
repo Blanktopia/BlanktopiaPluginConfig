@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Clear Bothpost
-material: PAPER
+item: paper
 custom-model-data: 5607
 model: 'cocricotmod:block/handrail_wood_straight_clear_bothpost'
 

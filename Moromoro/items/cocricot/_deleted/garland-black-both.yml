@@ -1,5 +1,5 @@
 name: Garland Black Both
-material: PAPER
+item: paper
 custom-model-data: 4999
 model: 'cocricotmod:block/garland_black_both'
 

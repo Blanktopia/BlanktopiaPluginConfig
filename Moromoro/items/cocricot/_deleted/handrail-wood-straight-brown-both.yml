@@ -1,5 +1,5 @@
 name: Handrail Wood Straight Brown Both
-material: PAPER
+item: paper
 custom-model-data: 5596
 model: 'cocricotmod:block/handrail_wood_straight_brown_both'
 

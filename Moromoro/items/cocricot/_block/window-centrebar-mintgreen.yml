@@ -1,5 +1,5 @@
 name: Window Centrebar Mintgreen
-material: PAPER
+item: paper
 custom-model-data: 8652
 model: 'cocricotmod:block/window_centrebar_mintgreen'
 

@@ -1,6 +1,6 @@
 version: 3
 name: "<transition:#45b6f7:#c9e7ff>Nile Water"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1006
 model: "minecraft:item/water_bucket"
 soulbound: true

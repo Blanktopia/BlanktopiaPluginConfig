@@ -1,5 +1,5 @@
 name: Bench Turnedleg Black Both
-material: PAPER
+item: paper
 custom-model-data: 2448
 model: cocricotmod:block/bench_turnedleg_black_both
 block:

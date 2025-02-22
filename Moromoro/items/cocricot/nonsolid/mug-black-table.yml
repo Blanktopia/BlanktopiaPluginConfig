@@ -1,5 +1,5 @@
 name: Mug Black Table
-material: PAPER
+item: paper
 custom-model-data: 6142
 model: 'cocricotmod:block/mug_black_table'
 

@@ -1,5 +1,5 @@
 name: Table Stainless
-material: PAPER
+item: paper
 custom-model-data: 8216
 model: cocricotmod:block/table_stainless
 block:

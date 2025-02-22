@@ -1,5 +1,5 @@
 name: Diningtable Turnedleg Black Side
-material: PAPER
+item: paper
 custom-model-data: 3464
 model: 'cocricotmod:block/diningtable_turnedleg_black_side'
 

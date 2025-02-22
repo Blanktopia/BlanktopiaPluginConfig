@@ -1,5 +1,5 @@
 name: Candle Shell False
-material: PAPER
+item: paper
 custom-model-data: 2857
 model: 'cocricotmod:block/candle_shell_false'
 

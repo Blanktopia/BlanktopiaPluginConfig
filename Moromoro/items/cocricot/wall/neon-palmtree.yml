@@ -1,5 +1,5 @@
 name: Neon Palmtree
-material: PAPER
+item: paper
 custom-model-data: 6148
 model: 'cocricotmod:block/neon_palmtree'
 

@@ -1,5 +1,5 @@
 name: Desklamp Yellow
-material: PAPER
+item: paper
 custom-model-data: 3440
 model: 'cocricotmod:block/desklamp_yellow'
 

@@ -1,5 +1,5 @@
 name: Sawhorse Clear Sides
-material: PAPER
+item: paper
 custom-model-data: 7140
 model: 'cocricotmod:block/sawhorse_clear_sides'
 

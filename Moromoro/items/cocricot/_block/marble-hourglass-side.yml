@@ -1,5 +1,5 @@
 name: Marble Hourglass Side
-material: PAPER
+item: paper
 custom-model-data: 6054
 model: 'cocricotmod:block/marble_hourglass_side'
 

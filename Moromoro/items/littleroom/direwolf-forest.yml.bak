@@ -1,0 +1,4 @@
+name: "Direwolf (Forest)"
+item: leather_horse_armor
+custom-model-data: 2022
+model: "littleroom_direwolf:items/direwolfheadforest"

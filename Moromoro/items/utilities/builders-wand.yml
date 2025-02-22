@@ -1,6 +1,6 @@
 version: 2
 name: "<transition:#ffa5ee:#b6a5ff>Builder's Wand"
-material: WOODEN_HOE
+item: wooden_hoe
 custom-model-data: 1003
 model: "blanktopia:rares/builders_wand"
 soulbound: true

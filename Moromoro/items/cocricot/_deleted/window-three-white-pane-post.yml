@@ -1,5 +1,5 @@
 name: Window Three White Pane Post
-material: PAPER
+item: paper
 custom-model-data: 9005
 model: 'cocricotmod:block/window_three_white_pane_post'
 

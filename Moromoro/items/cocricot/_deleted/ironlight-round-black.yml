@@ -1,5 +1,5 @@
 name: Ironlight Round Black
-material: PAPER
+item: paper
 custom-model-data: 5859
 model: 'cocricotmod:block/ironlight_round_black'
 

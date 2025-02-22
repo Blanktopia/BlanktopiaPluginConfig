@@ -1,5 +1,5 @@
 name: Rainchain Antique
-material: PAPER
+item: paper
 custom-model-data: 6303
 model: 'cocricotmod:block/rainchain_antique'
 

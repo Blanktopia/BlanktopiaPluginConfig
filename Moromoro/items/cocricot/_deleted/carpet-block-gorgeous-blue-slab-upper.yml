@@ -1,5 +1,5 @@
 name: Carpet Block Gorgeous Blue Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2907
 model: 'cocricotmod:block/carpet_block_gorgeous_blue_slab_upper'
 

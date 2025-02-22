@@ -1,5 +1,5 @@
 name: Floorlamp Simpleleg Natural Lower
-material: PAPER
+item: paper
 custom-model-data: 4859
 model: 'cocricotmod:block/floorlamp_simpleleg_natural_lower'
 

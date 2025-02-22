@@ -1,0 +1,36 @@
+version: 2
+name: "<transition:#89c4c0:#d2e8e8>Pathfinder's Grappling Hook"
+item: cobweb
+# model: "blanktopia:rares/grappling_hook"
+soulbound: true
+unbreakable: true
+unenchantable: true
+unique: true
+lore:
+  - ''
+  - '<white>Allows you to fire a grappling'
+  - '<white>hook by pressing <aqua>F<white>.'
+  - '<white>Press <aqua>Sneak<white> to release.'
+  - ''
+  - '<grey>Range: 50 blocks'
+  - '<grey>Speed: Fast'
+  - ''
+  - '<grey>Slot: <#ff4e1d>Trinket'
+slots:
+  - TRINKET
+triggers:
+  right-click:
+    - type: launch-grapple
+      speed: 5.0
+    - type: cancel
+  swap-hand:
+    - type: launch-grapple
+      speed: 5.0
+    - type: cancel
+  projectile-tick:
+    - type: grapple-tick
+      acceleration: 0.3
+      max-speed: 1.0
+      detach-speed: 0.5
+      range: 50
+      particle: SOUL_FIRE_FLAME

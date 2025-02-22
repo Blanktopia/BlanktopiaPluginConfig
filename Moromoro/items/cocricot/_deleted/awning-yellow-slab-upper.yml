@@ -1,5 +1,5 @@
 name: Awning Yellow Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2286
 model: 'cocricotmod:block/awning_yellow_slab_upper'
 

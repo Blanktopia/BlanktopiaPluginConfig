@@ -1,5 +1,5 @@
 name: Faucet Wall Silver
-material: PAPER
+item: paper
 custom-model-data: 4689
 model: 'cocricotmod:block/faucet_wall_silver'
 

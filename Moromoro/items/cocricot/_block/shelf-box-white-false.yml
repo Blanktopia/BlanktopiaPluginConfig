@@ -1,5 +1,5 @@
 name: Shelf Box White False
-material: PAPER
+item: paper
 custom-model-data: 7153
 model: 'cocricotmod:block/shelf_box_white_false'
 

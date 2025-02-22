@@ -1,5 +1,5 @@
 name: Stainless American
-material: PAPER
+item: paper
 custom-model-data: 7557
 model: 'cocricotmod:block/stainless_american'
 

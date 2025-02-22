@@ -1,5 +1,5 @@
 name: Halftimber Darkyellow Frame Vslab
-material: PAPER
+item: paper
 custom-model-data: 5419
 model: 'cocricotmod:block/halftimber_darkyellow_frame_vslab'
 

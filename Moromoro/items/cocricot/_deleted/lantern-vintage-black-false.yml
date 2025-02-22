@@ -1,5 +1,5 @@
 name: Lantern Vintage Black False
-material: PAPER
+item: paper
 custom-model-data: 5910
 model: 'cocricotmod:block/lantern_vintage_black_false'
 

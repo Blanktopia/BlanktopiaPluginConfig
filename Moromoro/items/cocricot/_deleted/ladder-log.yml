@@ -1,5 +1,5 @@
 name: Ladder Log
-material: PAPER
+item: paper
 custom-model-data: 5890
 model: 'cocricotmod:block/ladder_log'
 

@@ -1,5 +1,5 @@
 name: Window Flower Sand Pane All
-material: PAPER
+item: paper
 custom-model-data: 8912
 model: 'cocricotmod:block/window_flower_sand_pane_all'
 

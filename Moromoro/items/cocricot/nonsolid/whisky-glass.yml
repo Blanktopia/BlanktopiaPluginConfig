@@ -1,5 +1,5 @@
 name: Whisky Glass
-material: PAPER
+item: paper
 custom-model-data: 8559
 model: 'cocricotmod:block/whisky_glass'
 

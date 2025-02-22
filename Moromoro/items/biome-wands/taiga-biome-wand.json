@@ -14,7 +14,7 @@
       "<dark_grey>-------------------------",
       "<gold>NATURE Crate Item"
    ],
-   "material": "WOODEN_HOE",
+   "item": "wooden_hoe",
    "name": "<#0B6659>Taiga Biome Wand",
    "triggers": {
       "right-click": [

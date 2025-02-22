@@ -1,5 +1,5 @@
 name: Mug Forest Table
-material: PAPER
+item: paper
 custom-model-data: 6144
 model: 'cocricotmod:block/mug_forest_table'
 

@@ -1,5 +1,5 @@
 name: Smoke White
-material: PAPER
+item: paper
 custom-model-data: 7347
 model: 'cocricotmod:block/smoke_white'
 

@@ -1,5 +1,5 @@
 name: Ceilinghook White Side
-material: PAPER
+item: paper
 custom-model-data: 2941
 model: 'cocricotmod:block/ceilinghook_white_side'
 

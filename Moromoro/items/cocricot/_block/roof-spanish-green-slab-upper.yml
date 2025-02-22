@@ -1,5 +1,5 @@
 name: Roof Spanish Green Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 6686
 model: 'cocricotmod:block/roof_spanish_green_slab_upper'
 

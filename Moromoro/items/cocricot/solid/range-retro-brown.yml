@@ -1,5 +1,5 @@
 name: Range Retro Brown
-material: PAPER
+item: paper
 custom-model-data: 6312
 model: cocricotmod:block/range_retro_brown
 block:

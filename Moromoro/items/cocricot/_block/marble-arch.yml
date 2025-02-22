@@ -1,5 +1,5 @@
 name: Marble Arch
-material: PAPER
+item: paper
 custom-model-data: 6048
 model: 'cocricotmod:block/marble_arch'
 

@@ -1,5 +1,5 @@
 name: Cabinet Glass Shabby Lightgreen
-material: PAPER
+item: paper
 custom-model-data: 2797
 model: 'cocricotmod:block/cabinet_glass_shabby_lightgreen'
 

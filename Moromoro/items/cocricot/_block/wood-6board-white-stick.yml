@@ -1,5 +1,5 @@
 name: Wood  6board White Stick
-material: PAPER
+item: paper
 custom-model-data: 9660
 model: 'cocricotmod:block/wood_6board_white_stick'
 

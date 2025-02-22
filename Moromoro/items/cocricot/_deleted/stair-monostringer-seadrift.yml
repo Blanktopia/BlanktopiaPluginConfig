@@ -1,5 +1,5 @@
 name: Stair Monostringer Seadrift
-material: PAPER
+item: paper
 custom-model-data: 7581
 model: 'cocricotmod:block/stair_monostringer_seadrift'
 

@@ -1,5 +1,5 @@
 name: Wine White Double
-material: PAPER
+item: paper
 custom-model-data: 9253
 model: 'cocricotmod:block/wine_white_double'
 

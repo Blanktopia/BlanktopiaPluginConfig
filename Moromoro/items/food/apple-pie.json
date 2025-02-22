@@ -1,6 +1,6 @@
 {
    "custom-model-data": 1,
-   "material": "PUMPKIN_PIE",
+   "item": "pumpkin_pie",
    "model": "blanktopia:food/apple_pie",
    "name": "<white>Apple Pie",
    "triggers": {

@@ -1,5 +1,5 @@
 name: Tissuebox Waterhyacinth
-material: PAPER
+item: paper
 custom-model-data: 8311
 model: 'cocricotmod:block/tissuebox_waterhyacinth'
 

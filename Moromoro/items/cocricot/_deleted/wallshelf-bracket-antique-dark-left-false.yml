@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Antique Dark Left False
-material: PAPER
+item: paper
 custom-model-data: 8405
 model: 'cocricotmod:block/wallshelf_bracket_antique_dark_left_false'
 

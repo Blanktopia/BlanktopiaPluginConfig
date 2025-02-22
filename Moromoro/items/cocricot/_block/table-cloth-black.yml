@@ -1,5 +1,5 @@
 name: Table Cloth Black
-material: PAPER
+item: paper
 custom-model-data: 8159
 model: 'cocricotmod:block/table_cloth_black'
 

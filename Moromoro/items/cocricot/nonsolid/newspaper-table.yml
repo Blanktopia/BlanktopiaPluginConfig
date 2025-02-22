@@ -1,5 +1,5 @@
 name: Newspaper Table
-material: PAPER
+item: paper
 custom-model-data: 6152
 model: 'cocricotmod:block/newspaper_table'
 

@@ -1,5 +1,5 @@
 name: Chair Greek Pink
-material: PAPER
+item: paper
 custom-model-data: 3027
 model: cocricotmod:block/chair_greek_pink
 block:

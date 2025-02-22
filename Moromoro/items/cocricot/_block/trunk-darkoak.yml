@@ -1,5 +1,5 @@
 name: Trunk Darkoak
-material: PAPER
+item: paper
 custom-model-data: 8330
 model: 'cocricotmod:block/trunk_darkoak'
 

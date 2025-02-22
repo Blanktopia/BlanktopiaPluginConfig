@@ -1,5 +1,5 @@
 name: Door  4glass Seadrift Top Rh O
-material: PAPER
+item: paper
 custom-model-data: 3735
 model: 'cocricotmod:block/door_4glass_seadrift_top_rh_o'
 

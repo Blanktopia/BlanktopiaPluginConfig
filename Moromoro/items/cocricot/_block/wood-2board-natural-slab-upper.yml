@@ -1,5 +1,5 @@
 name: Wood  2board Natural Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 9357
 model: 'cocricotmod:block/wood_2board_natural_slab_upper'
 

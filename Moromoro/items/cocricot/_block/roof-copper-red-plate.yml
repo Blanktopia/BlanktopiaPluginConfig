@@ -1,5 +1,5 @@
 name: Roof Copper Red Plate
-material: PAPER
+item: paper
 custom-model-data: 6512
 model: 'cocricotmod:block/roof_copper_red_plate'
 

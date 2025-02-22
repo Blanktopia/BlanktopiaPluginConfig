@@ -1,5 +1,5 @@
 name: Wood White Stairs
-material: PAPER
+item: paper
 custom-model-data: 9871
 model: 'cocricotmod:block/wood_white_stairs'
 

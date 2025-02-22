@@ -1,0 +1,4 @@
+name: "Duck Hat"
+item: leather_horse_armor
+custom-model-data: 2024
+model: "littleroom_duckhat:duck_hat"

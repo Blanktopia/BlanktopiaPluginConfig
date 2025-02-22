@@ -1,5 +1,5 @@
 name: Jar Lightbrown
-material: PAPER
+item: paper
 custom-model-data: 5871
 model: 'cocricotmod:block/jar_lightbrown'
 

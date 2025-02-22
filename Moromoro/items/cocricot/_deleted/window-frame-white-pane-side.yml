@@ -1,5 +1,5 @@
 name: Window Frame White Pane Side
-material: PAPER
+item: paper
 custom-model-data: 8985
 model: 'cocricotmod:block/window_frame_white_pane_side'
 

@@ -1,5 +1,5 @@
 name: Chest Retro Brown
-material: PAPER
+item: paper
 custom-model-data: 3078
 model: 'cocricotmod:block/chest_retro_brown'
 

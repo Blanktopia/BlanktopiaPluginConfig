@@ -1,5 +1,5 @@
 name: Wood  2board H Natural Stairs
-material: PAPER
+item: paper
 custom-model-data: 9332
 model: 'cocricotmod:block/wood_2board_h_natural_stairs'
 

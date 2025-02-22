@@ -1,5 +1,5 @@
 name: Stone Color Black Slab
-material: PAPER
+item: paper
 custom-model-data: 7701
 model: 'cocricotmod:block/stone_color_black_slab'
 

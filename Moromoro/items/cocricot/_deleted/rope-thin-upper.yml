@@ -1,5 +1,5 @@
 name: Rope Thin Upper
-material: PAPER
+item: paper
 custom-model-data: 6882
 model: 'cocricotmod:block/rope_thin_upper'
 

@@ -1,5 +1,5 @@
 name: Wallshelf Bracket Black Single False
-material: PAPER
+item: paper
 custom-model-data: 8439
 model: 'cocricotmod:block/wallshelf_bracket_black_single_false'
 

@@ -1,5 +1,5 @@
 name: Window Diamond Red Pane Both
-material: PAPER
+item: paper
 custom-model-data: 8878
 model: 'cocricotmod:block/window_diamond_red_pane_both'
 

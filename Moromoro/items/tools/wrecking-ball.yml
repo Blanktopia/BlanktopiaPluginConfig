@@ -1,6 +1,6 @@
 version: 2
 name: "<gold>Wrecking Ball<red> ⛏"
-material: IRON_PICKAXE
+item: iron_pickaxe
 custom-model-data: 1
 model: "blanktopia:rares/wrecking_ball"
 soulbound: true

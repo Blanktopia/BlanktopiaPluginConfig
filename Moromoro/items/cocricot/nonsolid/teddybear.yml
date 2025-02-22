@@ -1,5 +1,5 @@
 name: Teddybear
-material: PAPER
+item: paper
 custom-model-data: 8247
 model: 'cocricotmod:block/teddybear'
 

@@ -1,5 +1,5 @@
 name: "<aqua>2x EXP Coupon (Server-wide)"
-material: PAPER
+item: paper
 custom-model-data: 1
 model: "blanktopia:misc/exp_coupon"
 lore:

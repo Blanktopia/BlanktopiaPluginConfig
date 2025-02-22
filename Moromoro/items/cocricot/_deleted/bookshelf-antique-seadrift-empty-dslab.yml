@@ -1,5 +1,5 @@
 name: Bookshelf Antique Seadrift Empty Dslab
-material: PAPER
+item: paper
 custom-model-data: 2523
 model: 'cocricotmod:block/bookshelf_antique_seadrift_empty_dslab'
 

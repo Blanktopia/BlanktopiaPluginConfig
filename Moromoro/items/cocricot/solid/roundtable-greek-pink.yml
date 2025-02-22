@@ -1,5 +1,5 @@
 name: Roundtable Greek Pink
-material: PAPER
+item: paper
 custom-model-data: 6892
 model: cocricotmod:block/roundtable_greek_pink
 block:

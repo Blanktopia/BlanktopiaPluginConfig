@@ -1,5 +1,5 @@
 name: Shelf Normal Empty Cobweb
-material: PAPER
+item: paper
 custom-model-data: 7163
 model: 'cocricotmod:block/shelf_normal_empty_cobweb'
 

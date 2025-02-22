@@ -1,5 +1,5 @@
 name: Wood  3board Black Stairs Inner
-material: PAPER
+item: paper
 custom-model-data: 9390
 model: 'cocricotmod:block/wood_3board_black_stairs_inner'
 

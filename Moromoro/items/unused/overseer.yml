@@ -1,7 +1,7 @@
 version: 1
 
 name: "<transition:#5b577f:#4a217c>Overseer"
-material: BOW
+item: bow
 
 unique: true
 

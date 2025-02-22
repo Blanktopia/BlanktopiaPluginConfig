@@ -1,5 +1,5 @@
 name: Tile Mosaic Big Blue
-material: PAPER
+item: paper
 custom-model-data: 8293
 model: 'cocricotmod:block/tile_mosaic_big_blue'
 

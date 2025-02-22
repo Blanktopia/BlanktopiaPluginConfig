@@ -1,5 +1,5 @@
 name: Wood Seadrift Stairs
-material: PAPER
+item: paper
 custom-model-data: 9805
 model: 'cocricotmod:block/wood_seadrift_stairs'
 

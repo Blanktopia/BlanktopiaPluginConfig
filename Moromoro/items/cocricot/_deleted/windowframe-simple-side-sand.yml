@@ -1,5 +1,5 @@
 name: Windowframe Simple Side Sand
-material: PAPER
+item: paper
 custom-model-data: 9188
 model: 'cocricotmod:block/windowframe_simple_side_sand'
 

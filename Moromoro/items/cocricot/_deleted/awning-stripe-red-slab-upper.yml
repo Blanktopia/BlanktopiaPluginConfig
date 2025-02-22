@@ -1,5 +1,5 @@
 name: Awning Stripe Red Slab Upper
-material: PAPER
+item: paper
 custom-model-data: 2251
 model: 'cocricotmod:block/awning_stripe_red_slab_upper'
 

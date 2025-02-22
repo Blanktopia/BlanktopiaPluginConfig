@@ -1,5 +1,5 @@
 name: Ceilinghook Gold Both
-material: PAPER
+item: paper
 custom-model-data: 2935
 model: 'cocricotmod:block/ceilinghook_gold_both'
 
