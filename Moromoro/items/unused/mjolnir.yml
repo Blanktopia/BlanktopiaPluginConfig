@@ -20,16 +20,14 @@ enchantments:
 attributes:
   - amount: 11
     attribute: attack_damage
-    name: Tool modifier
+    name: mjolnir
     operation: ADD_NUMBER
     slot: HAND
-    uuid: 61f83826-cf9e-4239-8b80-dac5367e7507
   - amount: -2.4
     attribute: attack_speed
-    name: Tool modifier
+    name: mjolnir
     operation: ADD_NUMBER
     slot: HAND
-    uuid: ba636a2c-fa57-4280-a04b-2fae123f4398
 slots: [HAND, OFF_HAND]
 triggers:
   damaged:

@@ -18,15 +18,13 @@ triggers:
     - type: add-attribute-modifier
       attribute-modifiers:
         - attribute: max_health
-          uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
-          name: Ambrosia
+          name: ambrosia
           amount: 4.0
           operation: ADD_NUMBER
   unequip-armor:
     - type: remove-attribute-modifier
       attribute-modifiers:
         - attribute: max_health
-          uuid: 50e1e36d-0651-45d6-a41a-8e0ce68828e4
-          name: Ambrosia
+          name: ambrosia
           amount: 4.0
           operation: ADD_NUMBER

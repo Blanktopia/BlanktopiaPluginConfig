@@ -43,8 +43,7 @@ triggers:
         - type: add-attribute-modifier
           attribute-modifiers:
             - attribute: movement_speed
-              uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
-              name: Boots of Haste
+              name: boots_of_haste
               amount: 0.5
               operation: ADD_SCALAR
         - type: add-velocity
@@ -68,15 +67,13 @@ triggers:
     - type: remove-attribute-modifier
       attribute-modifiers:
         - attribute: movement_speed
-          uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
-          name: Boots of Haste
+          name: boots_of_haste
           amount: 0.5
           operation: ADD_SCALAR
   sneak:
     - type: remove-attribute-modifier
       attribute-modifiers:
         - attribute: movement_speed
-          uuid: 6008e59d-7ef9-4f8d-b835-32c0dc94d652
-          name: Boots of Haste
+          name: boots_of_haste
           amount: 0.5
           operation: ADD_SCALAR

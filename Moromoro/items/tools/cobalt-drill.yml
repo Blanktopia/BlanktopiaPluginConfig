@@ -33,16 +33,14 @@ enchantments:
 attributes:
   - amount: 4.0
     attribute: attack_damage
-    name: Attack Damage
+    name: cobalt_drill
     operation: ADD_NUMBER
     slot: HAND
-    uuid: aa1fcf0e-8d0e-4cc2-b374-bd8ec556eb2d
   - amount: 2.0
     attribute: attack_speed
-    name: Attack Speed
+    name: cobalt_drill
     operation: ADD_NUMBER
     slot: HAND
-    uuid: cba0af9c-106f-45c9-b88a-006bd4a01dd0
 triggers:
   damage-entity:
     - type: play-sound
