@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/d704254139a0b1a926e7552482dd67679c6ae0dc8335c980dbd1c0d99634a708",
+   "item": "player_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Axolotl<white>."
    ],
-   "item": "player_head",
    "name": "<gold>Axolotl Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

@@ -3,7 +3,9 @@ name: "<rainbow>Paint Brush"
 item: wooden_hoe
 custom-model-data: 1001
 model: "blanktopia:rares/paint_brush"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

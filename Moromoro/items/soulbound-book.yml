@@ -1,6 +1,8 @@
 name: "<yellow>Soulbound Tome"
 item: enchanted_book
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 lore:
   - ''
   - '<white>Combine with any item on an anvil to imbue'

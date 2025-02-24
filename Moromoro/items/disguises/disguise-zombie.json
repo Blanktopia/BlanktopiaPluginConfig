@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/null",
+   "item": "zombie_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Zombie<white>."
    ],
-   "item": "zombie_head",
    "name": "<gold>Zombie Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

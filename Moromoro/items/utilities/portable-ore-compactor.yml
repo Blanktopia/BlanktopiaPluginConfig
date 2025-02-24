@@ -1,7 +1,9 @@
 alias: packing-tape
 name: "<#33d8f2>Portable Ore Compactor ⏹"
 item: nether_star
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

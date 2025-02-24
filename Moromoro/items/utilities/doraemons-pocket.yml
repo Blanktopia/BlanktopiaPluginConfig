@@ -6,7 +6,9 @@ lore:
   - '<aqua>Right-click<white> from your'
   - '<white>inventory to access your'
   - '<white>ender chest.'
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

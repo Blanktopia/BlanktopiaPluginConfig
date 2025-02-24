@@ -3,7 +3,9 @@ name: '<transition:#8db360:#056621>Biome Wand'
 item: wooden_hoe
 custom-model-data: 1
 model: "blanktopia:rares/biome_wand"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

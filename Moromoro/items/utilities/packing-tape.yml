@@ -3,7 +3,9 @@ name: "<transition:#8f7c71:#87635d>Packing Tape"
 item: slime_ball
 custom-model-data: 1
 model: "blanktopia:rares/packing_tape"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

@@ -3,7 +3,6 @@ name: "<#2d7a53>Scythe"
 item: shears
 custom-model-data: 1
 model: "blanktopia:rares/scythe"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -11,6 +10,7 @@ lore:
   - ''
   - '<white>Shears in a <aqua>5x5x5<white> area.'
 enchantments:
+  blanktopia:soulbound: 1
   efficiency: 6
   sharpness: 5
   silk_touch: 1

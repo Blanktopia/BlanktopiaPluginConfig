@@ -19,7 +19,6 @@ models:
   - item: crossbow
     predicate: {custom_model_data: 1, charged: 1, firework: 1}
     model: "blanktopia:rares/chu_ko_nu_firework"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -27,6 +26,7 @@ lore:
   - ''
   - '<white>Fires 5 arrows per volley.'
 enchantments:
+  blanktopia:soulbound: 1
   infinity: 1
   quick_charge: 3
 triggers:

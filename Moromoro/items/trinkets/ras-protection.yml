@@ -3,7 +3,9 @@ name: "<transition:#ff730f:#ffca2d>Ra's Protection"
 item: gold_nugget
 custom-model-data: 1
 model: "blanktopia:rares/ras_protection"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

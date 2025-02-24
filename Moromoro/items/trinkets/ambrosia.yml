@@ -3,7 +3,9 @@ name: "<transition:#9cfcf6:#e5fff6>Ambr<transition:#e5fff6:#9cfcf6>osia"
 item: bowl
 custom-model-data: 2
 model: "blanktopia:rares/ambrosia"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

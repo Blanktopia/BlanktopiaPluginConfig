@@ -3,7 +3,6 @@ name: "<gold>Lumberjack<red> ⛏"
 item: iron_axe
 custom-model-data: 1
 model: "blanktopia:rares/lumberjack"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -11,6 +10,7 @@ lore:
   - ''
   - '<white>Chops in a <aqua>3x3<white> area.'
 enchantments:
+  blanktopia:soulbound: 1
   efficiency: 6
   silk_touch: 1
 triggers:

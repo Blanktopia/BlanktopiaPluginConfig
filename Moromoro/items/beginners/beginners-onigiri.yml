@@ -2,7 +2,9 @@ version: 1
 name: "<white>Onigiri"
 item: cookie
 custom-model-data: 8
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 lore:
   - ''

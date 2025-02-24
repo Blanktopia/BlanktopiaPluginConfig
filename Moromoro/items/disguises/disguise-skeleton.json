@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/null",
+   "item": "skeleton_skull",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Skeleton<white>."
    ],
-   "item": "skeleton_skull",
    "name": "<gold>Skeleton Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

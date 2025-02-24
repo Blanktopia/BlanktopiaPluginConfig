@@ -1,7 +1,9 @@
 version: 1
 name: "<transition:#ea4f4f:#fff56d>Booster v2.0"
 item: firework_rocket
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unique: true
 lore:

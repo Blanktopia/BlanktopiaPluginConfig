@@ -3,7 +3,9 @@ name: "<transition:#44c94f:#1b9125>Climbing Gloves"
 item: leather
 custom-model-data: 4
 model: "blanktopia:rares/climbing_gloves"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

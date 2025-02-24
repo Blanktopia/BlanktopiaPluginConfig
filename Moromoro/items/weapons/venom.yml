@@ -2,7 +2,6 @@ version: 3
 name: "<transition:#5b577f:#4a217c>Venom"
 item: netherite_sword
 custom-model-data: 1
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -11,6 +10,7 @@ lore:
   - ''
   - '<white>Unleashs poisonous fangs.'
 enchantments:
+  blanktopia:soulbound: 1
   sharpness: 7
   sweeping_edge: 3
   looting: 4

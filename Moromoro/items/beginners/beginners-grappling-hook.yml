@@ -2,7 +2,9 @@ version: 1
 name: "Beginner's Grappling Hook"
 item: wooden_hoe
 custom-model-data: 1009
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unbreakable: true
 unique: true

@@ -3,7 +3,6 @@ name: "<transition:#45b6f7:#c9e7ff>Nile Water"
 item: wooden_hoe
 custom-model-data: 1006
 model: "minecraft:item/water_bucket"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -11,6 +10,7 @@ lore:
   - ''
   - '<white>Infinite water bucket.'
 enchantments:
+  blanktopia:soulbound: 1
   infinity: 1
 triggers:
   right-click:

@@ -3,7 +3,9 @@ name: "<transition:#adb0b8:#7e8596>Wrench"
 item: wooden_hoe
 custom-model-data: 1002
 model: "blanktopia:rares/wrench"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

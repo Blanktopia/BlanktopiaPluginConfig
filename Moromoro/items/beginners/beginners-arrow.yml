@@ -1,6 +1,8 @@
 version: 1
 item: arrow
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 lore:
   - ''
   - '<white>Soulbound items stay with you when you die.'

@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4",
+   "item": "player_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Pig<white>."
    ],
-   "item": "player_head",
    "name": "<gold>Pig Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

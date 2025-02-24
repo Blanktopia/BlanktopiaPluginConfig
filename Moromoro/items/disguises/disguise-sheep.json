@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70",
+   "item": "player_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Sheep<white>."
    ],
-   "item": "player_head",
    "name": "<gold>Sheep Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

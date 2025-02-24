@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/null",
+   "item": "creeper_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Creeper<white>."
    ],
-   "item": "creeper_head",
    "name": "<gold>Creeper Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

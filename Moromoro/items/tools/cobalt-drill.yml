@@ -13,7 +13,6 @@ models:
   - item: diamond_hoe
     predicate: {custom_model_data: 1}
     model: "blanktopia:rares/cobalt_drill"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -28,6 +27,7 @@ lore:
   - '<white>Hold <aqua>Sneak<white> to disable'
   - '<aqua>Silk Touch<white>.'
 enchantments:
+  blanktopia:soulbound: 1
   efficiency: 8
   silk_touch: 1
 attributes:

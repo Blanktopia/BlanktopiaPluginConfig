@@ -1,7 +1,9 @@
 alias: packing-tape
 name: "<#33876d>Portable Trash Can ⏹"
 item: stripped_warped_hyphae
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

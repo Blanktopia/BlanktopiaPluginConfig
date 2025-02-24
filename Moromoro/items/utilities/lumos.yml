@@ -3,7 +3,6 @@ name: "<transition:#fffcdb:#ffc272>Lumos"
 item: glowstone_dust
 custom-model-data: 1000
 model: "blanktopia:rares/lumos"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -14,6 +13,7 @@ lore:
   - '<aqua>Left-click<white> to remove nearby'
   - '<white>lights.'
 enchantments:
+  blanktopia:soulbound: 1
   infinity: 1
 triggers:
   right-click:

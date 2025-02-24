@@ -8,7 +8,10 @@ local disguise(name, skin, options = null) = {
     '<white>Disguises you as a <aqua>' + name + '<white>.',
   ],
 
-  soulbound: true,
+  enchantments: {
+    "blanktopia:soulbound": 1,
+  },
+  "enchantment-glint": false,
 
   // slot: "HEAD",
 

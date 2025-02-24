@@ -3,7 +3,9 @@ name: "<transition:#a46bff:#fa6bff>Block Zapper"
 item: wooden_hoe
 custom-model-data: 1005
 model: "minecraft:item/popped_chorus_fruit"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

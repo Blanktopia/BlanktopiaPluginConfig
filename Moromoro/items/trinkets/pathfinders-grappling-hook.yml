@@ -3,7 +3,9 @@ name: "<transition:#89c4c0:#d2e8e8>Pathfinder's Grappling Hook"
 item: wooden_hoe
 custom-model-data: 1009
 model: "blanktopia:rares/grappling_hook"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

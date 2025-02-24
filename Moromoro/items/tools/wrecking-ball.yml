@@ -3,7 +3,6 @@ name: "<gold>Wrecking Ball<red> ⛏"
 item: iron_pickaxe
 custom-model-data: 1
 model: "blanktopia:rares/wrecking_ball"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -11,6 +10,7 @@ lore:
   - ''
   - '<white>Mines in a <aqua>3x3<white> area.'
 enchantments:
+  blanktopia:soulbound: 1
   efficiency: 6
   silk_touch: 1
 triggers:

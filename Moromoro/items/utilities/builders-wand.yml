@@ -3,7 +3,9 @@ name: "<transition:#ffa5ee:#b6a5ff>Builder's Wand"
 item: wooden_hoe
 custom-model-data: 1003
 model: "blanktopia:rares/builders_wand"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

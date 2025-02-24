@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/d0299a2aae9a605b5dbd1945fc4368ccee88ae06e47dc90f953131e0d903b322",
+   "item": "player_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Bee<white>."
    ],
-   "item": "player_head",
    "name": "<gold>Bee Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

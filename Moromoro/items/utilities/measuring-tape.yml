@@ -3,7 +3,9 @@ name: "<transition:#6bffb5:#6bfff7>Measuring Tape"
 item: wooden_hoe
 custom-model-data: 1004
 model: "blanktopia:rares/measuring_tape"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

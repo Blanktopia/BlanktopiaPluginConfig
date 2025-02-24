@@ -3,7 +3,9 @@ name: "<transition:#d580fc:#ffbf0d>Horn of Plenty"
 item: bowl
 custom-model-data: 1
 model: "blanktopia:rares/horn_of_plenty"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

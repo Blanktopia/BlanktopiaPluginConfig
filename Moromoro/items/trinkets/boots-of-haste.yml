@@ -3,7 +3,9 @@ name: "<transition:#f4cf8b:#f79859>Boots of Haste"
 item: leather
 custom-model-data: 5
 model: "blanktopia:rares/boots_of_haste"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

@@ -3,7 +3,9 @@ name: "<transition:#f9c1ae:#f9e7e0>Parachute"
 item: feather
 custom-model-data: 2
 model: "blanktopia:rares/parachute"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

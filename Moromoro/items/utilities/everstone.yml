@@ -3,7 +3,9 @@ name: "<transition:#b1cde3:#afa7d9>Everstone"
 item: ender_eye
 custom-model-data: 1
 model: "blanktopia:rares/everstone"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unbreakable: true
 unenchantable: true
 unique: true

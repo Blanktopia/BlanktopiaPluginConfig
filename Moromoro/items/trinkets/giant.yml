@@ -3,7 +3,9 @@ name: "<transition:#41a65c:#91cc5e>Giant"
 item: paper
 # custom-model-data: 2
 # model: "blanktopia:rares/ambrosia"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

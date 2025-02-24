@@ -13,7 +13,6 @@ models:
   - item: bow
     predicate: {custom_model_data: 1, pulling: 1, pull: 0.9}
     model: "blanktopia:rares/anti_gravity_bow_pulling_2"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -22,6 +21,7 @@ lore:
   - '<white>Arrows fly in a straight line.'
   - '<white>Inflicts <aqua>Levitation<white> on targets.'
 enchantments:
+  blanktopia:soulbound: 1
   infinity: 1
   power: 5
 triggers:

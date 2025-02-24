@@ -1,7 +1,9 @@
 version: 1
 name: "Beginner's Axe"
 item: wooden_axe
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 lore:
   - ''

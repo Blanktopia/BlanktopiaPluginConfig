@@ -1,7 +1,9 @@
 version: 2
 name: "<transition:#fff0c1:#c1f6ff>Sandy's Helmet"
 item: white_stained_glass
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

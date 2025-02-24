@@ -3,7 +3,9 @@ name: "<transition:#f76c9d:#b5f9cb>Hummingbird"
 item: feather
 custom-model-data: 1
 model: "blanktopia:rares/hummingbird"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:

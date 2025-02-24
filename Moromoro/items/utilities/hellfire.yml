@@ -3,7 +3,6 @@ name: "<transition:#e71e02:#ffd729>Hellfire"
 item: wooden_hoe
 custom-model-data: 1007
 model: "minecraft:item/lava_bucket"
-soulbound: true
 unbreakable: true
 unenchantable: true
 unique: true
@@ -11,6 +10,7 @@ lore:
   - ''
   - '<white>Infinite lava bucket.'
 enchantments:
+  blanktopia:soulbound: 1
   infinity: 1
 triggers:
   right-click:

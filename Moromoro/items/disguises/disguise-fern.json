@@ -1,17 +1,21 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/null",
+   "item": "player_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Fern<white>."
    ],
-   "item": "fern",
+   "material": "FERN",
    "name": "<gold>Fern Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {
             "disguise": {
-               "material": "FERN",
+               "item": "fern",
                "type": "block"
             },
             "type": "disguise"

@@ -1,12 +1,15 @@
 {
+   "enchantment-glint": false,
+   "enchantments": {
+      "blanktopia:soulbound": 1
+   },
    "head": "http://textures.minecraft.net/texture/a662336d8ae092407e58f7cc80d20f20e7650357a454ce16e3307619a0110648",
+   "item": "player_head",
    "lore": [
       "",
       "<white>Disguises you as a <aqua>Baby Goat<white>."
    ],
-   "item": "player_head",
    "name": "<gold>Baby Goat Disguise<red> ☻",
-   "soulbound": true,
    "triggers": {
       "equip-head": [
          {

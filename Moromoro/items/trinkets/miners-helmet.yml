@@ -3,7 +3,9 @@ name: "<transition:#f7fc92:#fccf8a>Miner's Helmet"
 item: glowstone_dust
 custom-model-data: 1
 model: "blanktopia:hats/miners_helmet"
-soulbound: true
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
 unenchantable: true
 unique: true
 lore:
