@@ -42,29 +42,57 @@ triggers:
             not:
               type: is-sneaking
       then:
-        - type: add-attribute-modifier
-          attribute-modifiers:
-            - attribute: movement_speed
-              name: boots_of_haste
-              amount: 0.5
-              operation: ADD_SCALAR
-        - type: add-velocity
-          x: 0
-          y: 0
-          z: 0.7
-          max: 1
-        - type: repeat
-          count: 3
-          interval: 3
+        - type: delay
+          ticks: 10
           actions:
-            - type: spawn-particle
-              count: 2
-              y: 0.9
-              offset-x: 0.3
-              offset-y: 0.1
-              offset-z: 0.3
-              particle: CLOUD
-              extra: 0
+            - type: if
+              if:
+                type: is-sprinting
+              then:
+                - type: add-attribute-modifier
+                  attribute-modifiers:
+                    - attribute: movement_speed
+                      name: boots_of_haste
+                      amount: 0.15
+                      operation: ADD_SCALAR
+                - type: delay
+                  ticks: 10
+                  actions:
+                    - type: if
+                      if:
+                        type: is-sprinting
+                      then:
+                        - type: remove-attribute-modifier
+                          attribute-modifiers:
+                            - attribute: movement_speed
+                              name: boots_of_haste
+                              amount: 0.15
+                              operation: ADD_SCALAR
+                        - type: add-attribute-modifier
+                          attribute-modifiers:
+                            - attribute: movement_speed
+                              name: boots_of_haste
+                              amount: 0.3
+                              operation: ADD_SCALAR
+                        - type: delay
+                          ticks: 10
+                          actions:
+                            - type: if
+                              if:
+                                type: is-sprinting
+                              then:
+                                - type: remove-attribute-modifier
+                                  attribute-modifiers:
+                                    - attribute: movement_speed
+                                      name: boots_of_haste
+                                      amount: 0.3
+                                      operation: ADD_SCALAR
+                                - type: add-attribute-modifier
+                                  attribute-modifiers:
+                                    - attribute: movement_speed
+                                      name: boots_of_haste
+                                      amount: 0.5
+                                      operation: ADD_SCALAR
   unsprint:
     - type: remove-attribute-modifier
       attribute-modifiers:
