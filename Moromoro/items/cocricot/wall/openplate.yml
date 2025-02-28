@@ -2,6 +2,6 @@ name: Openplate
 item: paper
 custom-model-data: 6153
 model: 'cocricotmod:block/openplate'
-
 block:
   type: item
+  wall: true

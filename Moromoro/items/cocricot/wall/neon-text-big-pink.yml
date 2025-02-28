@@ -2,6 +2,6 @@ name: Neon Text Big Pink
 item: paper
 custom-model-data: 6149
 model: 'cocricotmod:block/neon_text_big_pink'
-
 block:
   type: item
+  wall: true

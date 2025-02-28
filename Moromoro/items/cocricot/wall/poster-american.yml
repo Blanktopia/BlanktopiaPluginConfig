@@ -2,6 +2,6 @@ name: Poster American
 item: paper
 custom-model-data: 6280
 model: 'cocricotmod:block/poster_american'
-
 block:
   type: item
+  wall: true

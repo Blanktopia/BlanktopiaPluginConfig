@@ -2,6 +2,6 @@ name: Menu Board White
 item: paper
 custom-model-data: 6109
 model: 'cocricotmod:block/menu_board_white'
-
 block:
   type: item
+  wall: true

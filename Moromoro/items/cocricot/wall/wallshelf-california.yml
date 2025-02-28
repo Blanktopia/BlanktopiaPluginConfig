@@ -2,6 +2,6 @@ name: Wallshelf California
 item: paper
 custom-model-data: 8482
 model: 'cocricotmod:block/wallshelf_california'
-
 block:
   type: item
+  wall: true

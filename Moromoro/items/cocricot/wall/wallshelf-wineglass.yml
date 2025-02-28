@@ -2,6 +2,6 @@ name: Wallshelf Wineglass
 item: paper
 custom-model-data: 8525
 model: 'cocricotmod:block/wallshelf_wineglass'
-
 block:
   type: item
+  wall: true

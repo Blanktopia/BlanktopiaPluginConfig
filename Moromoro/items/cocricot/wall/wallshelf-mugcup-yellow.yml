@@ -2,6 +2,6 @@ name: Wallshelf Mugcup Yellow
 item: paper
 custom-model-data: 8524
 model: 'cocricotmod:block/wallshelf_mugcup_yellow'
-
 block:
   type: item
+  wall: true

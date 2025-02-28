@@ -2,6 +2,6 @@ name: Clock Wall Antique
 item: paper
 custom-model-data: 3109
 model: 'cocricotmod:block/clock_wall_antique'
-
 block:
   type: item
+  wall: true

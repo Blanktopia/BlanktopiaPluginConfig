@@ -2,6 +2,6 @@ name: Captionplate Black
 item: paper
 custom-model-data: 2878
 model: 'cocricotmod:block/captionplate_black'
-
 block:
   type: item
+  wall: true

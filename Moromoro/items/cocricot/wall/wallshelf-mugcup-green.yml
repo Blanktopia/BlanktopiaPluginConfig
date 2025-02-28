@@ -2,6 +2,6 @@ name: Wallshelf Mugcup Green
 item: paper
 custom-model-data: 8521
 model: 'cocricotmod:block/wallshelf_mugcup_green'
-
 block:
   type: item
+  wall: true

@@ -2,6 +2,6 @@ name: Huntingtrophy Deer
 item: paper
 custom-model-data: 5822
 model: 'cocricotmod:block/huntingtrophy_deer'
-
 block:
   type: item
+  wall: true

@@ -2,6 +2,6 @@ name: Wallshelf Jar Long
 item: paper
 custom-model-data: 8519
 model: 'cocricotmod:block/wallshelf_jar_long'
-
 block:
   type: item
+  wall: true

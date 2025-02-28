@@ -2,6 +2,6 @@ name: Captionplate Green Upper
 item: paper
 custom-model-data: 2883
 model: 'cocricotmod:block/captionplate_green_upper'
-
 block:
   type: item
+  wall: true

@@ -2,6 +2,6 @@ name: Captionplate White
 item: paper
 custom-model-data: 2884
 model: 'cocricotmod:block/captionplate_white'
-
 block:
   type: item
+  wall: true

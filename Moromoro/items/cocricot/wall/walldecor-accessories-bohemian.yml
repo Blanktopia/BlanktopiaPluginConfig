@@ -2,6 +2,6 @@ name: Walldecor Accessories Bohemian
 item: paper
 custom-model-data: 8355
 model: 'cocricotmod:block/walldecor_accessories_bohemian'
-
 block:
   type: item
+  wall: true

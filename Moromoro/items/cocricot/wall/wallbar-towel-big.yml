@@ -2,6 +2,6 @@ name: Wallbar Towel Big
 item: paper
 custom-model-data: 8353
 model: 'cocricotmod:block/wallbar_towel_big'
-
 block:
   type: item
+  wall: true

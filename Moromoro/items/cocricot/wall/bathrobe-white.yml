@@ -2,6 +2,6 @@ name: Bathrobe White
 item: paper
 custom-model-data: 2380
 model: 'cocricotmod:block/bathrobe_white'
-
 block:
   type: item
+  wall: true

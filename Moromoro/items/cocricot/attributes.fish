@@ -19,3 +19,6 @@ end
 for file in bed/bed-{frame,mattress}*.yml
 	yq -y '.block.collision = true' $file | sponge $file
 end
+
+echo "Marking wall items as wall"
+yq -Y -i '.block.wall = true' wall/*.yml

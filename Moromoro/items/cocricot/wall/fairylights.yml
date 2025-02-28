@@ -2,6 +2,6 @@ name: Fairylights
 item: paper
 custom-model-data: 4667
 model: 'cocricotmod:block/fairylights'
-
 block:
   type: item
+  wall: true

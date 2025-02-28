@@ -2,6 +2,6 @@ name: Signboard Wall White
 item: paper
 custom-model-data: 7266
 model: 'cocricotmod:block/signboard_wall_white'
-
 block:
   type: item
+  wall: true

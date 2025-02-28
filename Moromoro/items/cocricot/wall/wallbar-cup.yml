@@ -2,6 +2,6 @@ name: Wallbar Cup
 item: paper
 custom-model-data: 8349
 model: 'cocricotmod:block/wallbar_cup'
-
 block:
   type: item
+  wall: true

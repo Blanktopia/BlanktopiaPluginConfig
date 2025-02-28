@@ -2,6 +2,6 @@ name: Captionplate Wood
 item: paper
 custom-model-data: 2887
 model: 'cocricotmod:block/captionplate_wood'
-
 block:
   type: item
+  wall: true

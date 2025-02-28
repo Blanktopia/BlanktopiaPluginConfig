@@ -2,6 +2,6 @@ name: Wallplate Sweet
 item: paper
 custom-model-data: 8384
 model: 'cocricotmod:block/wallplate_sweet'
-
 block:
   type: item
+  wall: true

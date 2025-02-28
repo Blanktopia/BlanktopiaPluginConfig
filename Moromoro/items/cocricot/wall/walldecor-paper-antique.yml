@@ -2,6 +2,6 @@ name: Walldecor Paper Antique
 item: paper
 custom-model-data: 8356
 model: 'cocricotmod:block/walldecor_paper_antique'
-
 block:
   type: item
+  wall: true

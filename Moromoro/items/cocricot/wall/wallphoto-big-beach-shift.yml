@@ -2,6 +2,6 @@ name: Wallphoto Big Beach Shift
 item: paper
 custom-model-data: 8383
 model: 'cocricotmod:block/wallphoto_big_beach_shift'
-
 block:
   type: item
+  wall: true

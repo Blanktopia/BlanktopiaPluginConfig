@@ -2,6 +2,6 @@ name: Poster Modern
 item: paper
 custom-model-data: 6281
 model: 'cocricotmod:block/poster_modern'
-
 block:
   type: item
+  wall: true

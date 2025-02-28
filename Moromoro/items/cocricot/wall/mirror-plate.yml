@@ -2,6 +2,6 @@ name: Mirror Plate
 item: paper
 custom-model-data: 6126
 model: 'cocricotmod:block/mirror_plate'
-
 block:
   type: item
+  wall: true

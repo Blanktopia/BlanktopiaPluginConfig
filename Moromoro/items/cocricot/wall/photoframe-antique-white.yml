@@ -2,6 +2,6 @@ name: Photoframe Antique White
 item: paper
 custom-model-data: 6241
 model: 'cocricotmod:block/photoframe_antique_white'
-
 block:
   type: item
+  wall: true

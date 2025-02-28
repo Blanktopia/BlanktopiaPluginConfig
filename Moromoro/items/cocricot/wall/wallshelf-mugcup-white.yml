@@ -2,6 +2,6 @@ name: Wallshelf Mugcup White
 item: paper
 custom-model-data: 8523
 model: 'cocricotmod:block/wallshelf_mugcup_white'
-
 block:
   type: item
+  wall: true

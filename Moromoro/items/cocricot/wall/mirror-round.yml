@@ -2,6 +2,6 @@ name: Mirror Round
 item: paper
 custom-model-data: 6128
 model: 'cocricotmod:block/mirror_round'
-
 block:
   type: item
+  wall: true

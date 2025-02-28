@@ -2,6 +2,6 @@ name: Neon Palmtree
 item: paper
 custom-model-data: 6148
 model: 'cocricotmod:block/neon_palmtree'
-
 block:
   type: item
+  wall: true
