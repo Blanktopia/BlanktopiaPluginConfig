@@ -1,0 +1,131 @@
+version: 2
+name: "<transition:#f4cf8b:#f79859>Dash"
+item: leather
+custom-model-data: 5
+model: "blanktopia:rares/boots_of_haste"
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
+unenchantable: true
+unique: true
+lore:
+  - ''
+  - '<white>Double tap any direction to dash'
+  - ''
+  - '<grey>Slot: <#ff4e1d>Trinket'
+slots:
+  - TRINKET
+cooldown-group: blanktopia:dash
+triggers:
+  key-down-forward:
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: item-cooldown
+          - type: last-pressed-key-within
+            key: forward
+            millis: 200
+      then:
+        - type: set-velocity
+          x: 0
+          y: 0
+          z: 0.9
+        - type: play-sound
+          pitch: 0.6
+          sound: entity.wind_charge.wind_burst
+          volume: 0.05
+        - type: spawn-particle
+          count: 2
+          y: 0.6
+          offset-x: 0.3
+          offset-y: 0.1
+          offset-z: 0.3
+          particle: CLOUD
+          extra: 0
+        - type: item-cooldown
+          ticks: 6
+  key-down-backward:
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: item-cooldown
+          - type: last-pressed-key-within
+            key: backward
+            millis: 200
+      then:
+        - type: set-velocity
+          x: 0
+          y: 0
+          z: -0.6
+        - type: play-sound
+          pitch: 0.6
+          sound: entity.wind_charge.wind_burst
+          volume: 0.05
+        - type: spawn-particle
+          count: 2
+          y: 0.6
+          offset-x: 0.3
+          offset-y: 0.1
+          offset-z: 0.3
+          particle: CLOUD
+          extra: 0
+        - type: item-cooldown
+          ticks: 6
+  key-down-left:
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: item-cooldown
+          - type: last-pressed-key-within
+            key: left
+            millis: 200
+      then:
+        - type: set-velocity
+          x: 0.6
+          y: 0
+          z: 0
+        - type: play-sound
+          pitch: 0.6
+          sound: entity.wind_charge.wind_burst
+          volume: 0.05
+        - type: spawn-particle
+          count: 2
+          y: 0.9
+          offset-x: 0.3
+          offset-y: 0.1
+          offset-z: 0.3
+          particle: CLOUD
+          extra: 0
+        - type: item-cooldown
+          ticks: 6
+  key-down-right:
+    - type: if
+      if:
+        type: all
+        actions:
+          - type: item-cooldown
+          - type: last-pressed-key-within
+            key: right
+            millis: 200
+      then:
+        - type: set-velocity
+          x: -0.9
+          y: 0
+          z: 0
+        - type: play-sound
+          pitch: 0.6
+          sound: entity.wind_charge.wind_burst
+          volume: 0.05
+        - type: spawn-particle
+          count: 2
+          y: 0.9
+          offset-x: 0.3
+          offset-y: 0.1
+          offset-z: 0.3
+          particle: CLOUD
+          extra: 0
+        - type: item-cooldown
+          ticks: 6
