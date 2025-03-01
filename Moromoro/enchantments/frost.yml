@@ -13,3 +13,4 @@ primary-items:
 exclusive-with:
   - fire_aspect
   - blanktopia:sting
+  - nova_structures:wither_coated

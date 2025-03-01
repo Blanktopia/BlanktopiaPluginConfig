@@ -13,4 +13,4 @@ primary-items:
 exclusive-with:
   - fire_aspect
   - blanktopia:frost
-
+  - nova_structures:wither_coated
