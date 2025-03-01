@@ -2,3 +2,4 @@ name: Final
 anvil-cost: 1
 max-level: 1
 weight: 1
+treasure: true

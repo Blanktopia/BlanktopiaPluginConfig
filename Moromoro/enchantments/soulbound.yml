@@ -6,3 +6,6 @@ maximum-cost-base: 50
 weight: 1
 primary-items:
   - "#enchantable/durability"
+treasure: true
+in-enchanting-table: true
+on-random-loot: true
