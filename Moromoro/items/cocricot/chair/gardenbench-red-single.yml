@@ -1,7 +1,14 @@
-name: Gardenbench Red Single
+name: Gardenbench Red
 item: paper
 custom-model-data: 4983
 model: cocricotmod:block/gardenbench_red_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-red-single
+      - gardenbench-red-left
+      - gardenbench-red-both
+      - gardenbench-red-right

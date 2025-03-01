@@ -2,6 +2,14 @@ name: Rug Shag Round Gray All
 item: paper
 custom-model-data: 6973
 model: 'cocricotmod:block/rug_shag_round_gray_all'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-gray-single
+      - rug-shag-round-gray-side
+      - rug-shag-round-gray-both
+      - rug-shag-round-gray-corner
+      - rug-shag-round-gray-three
+      - rug-shag-round-gray-all

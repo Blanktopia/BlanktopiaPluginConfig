@@ -1,7 +1,14 @@
-name: Sofa Midcentury Blue Single
+name: Sofa Midcentury Blue
 item: paper
 custom-model-data: 7372
 model: cocricotmod:block/sofa_midcentury_blue_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-blue-single
+      - sofa-midcentury-blue-left
+      - sofa-midcentury-blue-both
+      - sofa-midcentury-blue-right

@@ -1,7 +1,14 @@
-name: Gardenbench Black Single
+name: Gardenbench Black
 item: paper
 custom-model-data: 4941
 model: cocricotmod:block/gardenbench_black_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-black-single
+      - gardenbench-black-left
+      - gardenbench-black-both
+      - gardenbench-black-right

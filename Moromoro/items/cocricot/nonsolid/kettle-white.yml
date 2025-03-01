@@ -2,6 +2,9 @@ name: Kettle White
 item: paper
 custom-model-data: 5885
 model: 'cocricotmod:block/kettle_white'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

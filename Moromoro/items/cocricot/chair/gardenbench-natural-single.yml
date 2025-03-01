@@ -1,7 +1,14 @@
-name: Gardenbench Natural Single
+name: Gardenbench Natural
 item: paper
 custom-model-data: 4975
 model: cocricotmod:block/gardenbench_natural_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-natural-single
+      - gardenbench-natural-left
+      - gardenbench-natural-both
+      - gardenbench-natural-right

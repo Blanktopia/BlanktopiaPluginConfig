@@ -5,3 +5,11 @@ model: cocricotmod:block/bench_turnedleg_white_left
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - bench-turnedleg-white-single
+      - bench-turnedleg-white-left
+      - bench-turnedleg-white-both
+      - bench-turnedleg-white-right
+  yaw: 180

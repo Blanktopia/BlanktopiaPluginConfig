@@ -2,6 +2,9 @@ name: Kettle Green
 item: paper
 custom-model-data: 5876
 model: 'cocricotmod:block/kettle_green'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

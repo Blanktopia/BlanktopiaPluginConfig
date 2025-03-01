@@ -5,3 +5,10 @@ model: cocricotmod:block/desk_simple_black_both
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - desk-simple-black-single
+      - desk-simple-black-left
+      - desk-simple-black-both
+      - desk-simple-black-right

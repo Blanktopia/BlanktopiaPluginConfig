@@ -1,7 +1,0 @@
-name: Coffeetable Iron Dark Both
-item: paper
-custom-model-data: 3159
-model: 'cocricotmod:block/coffeetable_iron_dark_both'
-
-block:
-  type: item

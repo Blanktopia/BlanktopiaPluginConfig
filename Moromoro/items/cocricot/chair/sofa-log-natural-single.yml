@@ -1,7 +1,14 @@
-name: Sofa Log Natural Single
+name: Sofa Log Natural
 item: paper
 custom-model-data: 7362
 model: cocricotmod:block/sofa_log_natural_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-log-natural-single
+      - sofa-log-natural-left
+      - sofa-log-natural-both
+      - sofa-log-natural-right

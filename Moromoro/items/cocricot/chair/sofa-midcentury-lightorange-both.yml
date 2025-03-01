@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_midcentury_lightorange_both
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-lightorange-single
+      - sofa-midcentury-lightorange-left
+      - sofa-midcentury-lightorange-both
+      - sofa-midcentury-lightorange-right

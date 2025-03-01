@@ -1,7 +1,14 @@
-name: Gardenbench White Single
+name: Gardenbench White
 item: paper
 custom-model-data: 4993
 model: cocricotmod:block/gardenbench_white_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-white-single
+      - gardenbench-white-left
+      - gardenbench-white-both
+      - gardenbench-white-right

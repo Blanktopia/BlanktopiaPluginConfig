@@ -1,7 +1,14 @@
-name: Bench Turnedleg Shabby Single
+name: Bench Turnedleg Shabby
 item: paper
 custom-model-data: 2455
 model: cocricotmod:block/bench_turnedleg_shabby_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - bench-turnedleg-shabby-single
+      - bench-turnedleg-shabby-left
+      - bench-turnedleg-shabby-both
+      - bench-turnedleg-shabby-right

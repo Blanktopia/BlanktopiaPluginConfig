@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_simple_white_right
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-white-single
+      - sofa-simple-white-left
+      - sofa-simple-white-both
+      - sofa-simple-white-right

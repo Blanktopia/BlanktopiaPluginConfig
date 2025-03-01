@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_log_right
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-log-single
+      - sofa-log-left
+      - sofa-log-both
+      - sofa-log-right

@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_slipper_american_lightorange_inner
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-inner-outer
+    keys:
+      - sofa-slipper-american-lightorange
+      - sofa-slipper-american-lightorange-inner
+      - sofa-slipper-american-lightorange-outer
+  yaw: 90

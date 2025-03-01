@@ -2,6 +2,14 @@ name: Rug Shag Round Pink Three
 item: paper
 custom-model-data: 7049
 model: 'cocricotmod:block/rug_shag_round_pink_three'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-pink-single
+      - rug-shag-round-pink-side
+      - rug-shag-round-pink-both
+      - rug-shag-round-pink-corner
+      - rug-shag-round-pink-three
+      - rug-shag-round-pink-all

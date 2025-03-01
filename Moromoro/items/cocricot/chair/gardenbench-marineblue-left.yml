@@ -5,3 +5,10 @@ model: cocricotmod:block/gardenbench_marineblue_left
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-marineblue-single
+      - gardenbench-marineblue-left
+      - gardenbench-marineblue-both
+      - gardenbench-marineblue-right

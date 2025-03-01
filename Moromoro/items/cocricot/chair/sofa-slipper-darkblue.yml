@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_slipper_darkblue
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-inner-outer
+    keys:
+      - sofa-slipper-darkblue
+      - sofa-slipper-darkblue-inner
+      - sofa-slipper-darkblue-outer
+  yaw: 90

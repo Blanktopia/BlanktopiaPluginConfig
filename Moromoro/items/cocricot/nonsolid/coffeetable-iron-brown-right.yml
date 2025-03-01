@@ -1,7 +1,0 @@
-name: Coffeetable Iron Brown Right
-item: paper
-custom-model-data: 3157
-model: 'cocricotmod:block/coffeetable_iron_brown_right'
-
-block:
-  type: item

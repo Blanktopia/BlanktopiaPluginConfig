@@ -1,7 +1,14 @@
-name: Gardenbench Yellow Single
+name: Gardenbench Yellow
 item: paper
 custom-model-data: 4997
 model: cocricotmod:block/gardenbench_yellow_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-yellow-single
+      - gardenbench-yellow-left
+      - gardenbench-yellow-both
+      - gardenbench-yellow-right

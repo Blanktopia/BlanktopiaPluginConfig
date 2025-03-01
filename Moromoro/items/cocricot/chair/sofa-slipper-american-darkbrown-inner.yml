@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_slipper_american_darkbrown_inner
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-inner-outer
+    keys:
+      - sofa-slipper-american-darkbrown
+      - sofa-slipper-american-darkbrown-inner
+      - sofa-slipper-american-darkbrown-outer
+  yaw: 90

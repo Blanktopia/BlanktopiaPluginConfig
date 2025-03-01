@@ -1,7 +1,14 @@
-name: Coffeetable Iron Dark Single
+name: Coffeetable Iron Dark
 item: paper
 custom-model-data: 3162
 model: cocricotmod:block/coffeetable_iron_dark_single
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-iron-dark-single
+      - coffeetable-iron-dark-left
+      - coffeetable-iron-dark-both
+      - coffeetable-iron-dark-right

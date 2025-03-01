@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_simple_lightbrown_right
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-lightbrown-single
+      - sofa-simple-lightbrown-left
+      - sofa-simple-lightbrown-both
+      - sofa-simple-lightbrown-right

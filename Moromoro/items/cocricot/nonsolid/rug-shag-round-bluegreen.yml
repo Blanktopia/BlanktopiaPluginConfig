@@ -2,6 +2,14 @@ name: Rug Shag Round Bluegreen
 item: paper
 custom-model-data: 6948
 model: 'cocricotmod:block/rug_shag_round_bluegreen'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-bluegreen-single
+      - rug-shag-round-bluegreen-side
+      - rug-shag-round-bluegreen-both
+      - rug-shag-round-bluegreen-corner
+      - rug-shag-round-bluegreen-three
+      - rug-shag-round-bluegreen-all

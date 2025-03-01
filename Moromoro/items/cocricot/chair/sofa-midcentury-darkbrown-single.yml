@@ -1,7 +1,14 @@
-name: Sofa Midcentury Darkbrown Single
+name: Sofa Midcentury Darkbrown
 item: paper
 custom-model-data: 7380
 model: cocricotmod:block/sofa_midcentury_darkbrown_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-darkbrown-single
+      - sofa-midcentury-darkbrown-left
+      - sofa-midcentury-darkbrown-both
+      - sofa-midcentury-darkbrown-right

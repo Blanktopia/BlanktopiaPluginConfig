@@ -2,6 +2,14 @@ name: Rug Shag Round Lightgreen All
 item: paper
 custom-model-data: 7021
 model: 'cocricotmod:block/rug_shag_round_lightgreen_all'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-lightgreen-single
+      - rug-shag-round-lightgreen-side
+      - rug-shag-round-lightgreen-both
+      - rug-shag-round-lightgreen-corner
+      - rug-shag-round-lightgreen-three
+      - rug-shag-round-lightgreen-all

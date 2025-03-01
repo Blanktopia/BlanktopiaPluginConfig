@@ -1,7 +1,14 @@
-name: Gardenbench Pink Single
+name: Gardenbench Pink
 item: paper
 custom-model-data: 4979
 model: cocricotmod:block/gardenbench_pink_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-pink-single
+      - gardenbench-pink-left
+      - gardenbench-pink-both
+      - gardenbench-pink-right

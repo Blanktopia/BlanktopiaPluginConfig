@@ -5,3 +5,10 @@ model: cocricotmod:block/coffeetable_iron_seadrift_right
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-iron-seadrift-single
+      - coffeetable-iron-seadrift-left
+      - coffeetable-iron-seadrift-both
+      - coffeetable-iron-seadrift-right

@@ -2,6 +2,14 @@ name: Rug Shag Round Red
 item: paper
 custom-model-data: 7068
 model: 'cocricotmod:block/rug_shag_round_red'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-red-single
+      - rug-shag-round-red-side
+      - rug-shag-round-red-both
+      - rug-shag-round-red-corner
+      - rug-shag-round-red-three
+      - rug-shag-round-red-all

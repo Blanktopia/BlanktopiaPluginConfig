@@ -5,3 +5,10 @@ model: cocricotmod:block/parkbench_dark_both
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - parkbench-dark-single
+      - parkbench-dark-left
+      - parkbench-dark-both
+      - parkbench-dark-right

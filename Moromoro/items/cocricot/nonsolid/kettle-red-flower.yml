@@ -2,6 +2,9 @@ name: Kettle Red Flower
 item: paper
 custom-model-data: 5882
 model: 'cocricotmod:block/kettle_red_flower'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

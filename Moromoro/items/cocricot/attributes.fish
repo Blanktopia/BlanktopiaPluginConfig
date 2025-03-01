@@ -25,7 +25,10 @@ for color in {black, white}
 	yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.water.ambient\",volume:2},{type:\"toggle-custom-block\",key:\"bathtub-clawfoot-$color\"}]}" chair/bathtub-clawfoot-$color-rose.yml
 end
 
-echo "Sinks, showers, toilet"
+echo "Sound effects"
 yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"item.bucket.empty\"}]}" nonsolid/toilet*.yml
 yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.water.ambient\",volume:2}]}" solid/sink*.yml
 yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"entity.generic.splash\"}]}" chair/toilet{-black,-brown,-modern,}.yml
+yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.brewing_stand.brew\"}]}" {solid/espressomachine,nonsolid/kettle}*.yml
+yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.rooted_dirt.place\"}]}" {solid/coffeegrinder,nonsolid/coffeemill}*.yml
+yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.fire.ambient\"},{type:\"play-sound\",sound:\"entity.player.hurt_on_fire\"},{type:\"ignite\"}]}" solid/range-*.yml

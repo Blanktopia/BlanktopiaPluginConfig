@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_slipper_mintgreen
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-inner-outer
+    keys:
+      - sofa-slipper-mintgreen
+      - sofa-slipper-mintgreen-inner
+      - sofa-slipper-mintgreen-outer
+  yaw: 90

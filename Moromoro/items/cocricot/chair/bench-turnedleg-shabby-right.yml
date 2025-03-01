@@ -5,3 +5,11 @@ model: cocricotmod:block/bench_turnedleg_shabby_right
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - bench-turnedleg-shabby-single
+      - bench-turnedleg-shabby-left
+      - bench-turnedleg-shabby-both
+      - bench-turnedleg-shabby-right
+  yaw: 180

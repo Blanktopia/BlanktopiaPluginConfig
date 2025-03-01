@@ -5,3 +5,12 @@ model: cocricotmod:block/table_ironleg_seadrift
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - table-ironleg-seadrift
+      - table-ironleg-seadrift-side
+      - table-ironleg-seadrift-both
+      - table-ironleg-seadrift-corner
+      - table-ironleg-seadrift-three
+      - table-ironleg-seadrift-all

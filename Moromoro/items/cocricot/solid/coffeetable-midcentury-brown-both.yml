@@ -5,3 +5,10 @@ model: cocricotmod:block/coffeetable_midcentury_brown_both
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-midcentury-brown-single
+      - coffeetable-midcentury-brown-left
+      - coffeetable-midcentury-brown-both
+      - coffeetable-midcentury-brown-right

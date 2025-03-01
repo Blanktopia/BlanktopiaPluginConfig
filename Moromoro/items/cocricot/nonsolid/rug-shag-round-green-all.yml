@@ -2,6 +2,14 @@ name: Rug Shag Round Green All
 item: paper
 custom-model-data: 6985
 model: 'cocricotmod:block/rug_shag_round_green_all'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-green-single
+      - rug-shag-round-green-side
+      - rug-shag-round-green-both
+      - rug-shag-round-green-corner
+      - rug-shag-round-green-three
+      - rug-shag-round-green-all

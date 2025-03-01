@@ -1,7 +1,0 @@
-name: Coffeetable Glass White Left
-item: paper
-custom-model-data: 3151
-model: 'cocricotmod:block/coffeetable_glass_white_left'
-
-block:
-  type: item

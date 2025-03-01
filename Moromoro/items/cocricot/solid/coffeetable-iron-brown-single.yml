@@ -1,7 +1,14 @@
-name: Coffeetable Iron Brown Single
+name: Coffeetable Iron Brown
 item: paper
 custom-model-data: 3158
 model: cocricotmod:block/coffeetable_iron_brown_single
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-iron-brown-single
+      - coffeetable-iron-brown-left
+      - coffeetable-iron-brown-both
+      - coffeetable-iron-brown-right

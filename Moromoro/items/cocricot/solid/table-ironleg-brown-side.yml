@@ -5,3 +5,12 @@ model: cocricotmod:block/table_ironleg_brown_side
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - table-ironleg-brown
+      - table-ironleg-brown-side
+      - table-ironleg-brown-both
+      - table-ironleg-brown-corner
+      - table-ironleg-brown-three
+      - table-ironleg-brown-all

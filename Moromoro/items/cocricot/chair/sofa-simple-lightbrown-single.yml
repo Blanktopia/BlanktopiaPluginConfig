@@ -1,7 +1,14 @@
-name: Sofa Simple Lightbrown Single
+name: Sofa Simple Lightbrown
 item: paper
 custom-model-data: 7420
 model: cocricotmod:block/sofa_simple_lightbrown_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-lightbrown-single
+      - sofa-simple-lightbrown-left
+      - sofa-simple-lightbrown-both
+      - sofa-simple-lightbrown-right

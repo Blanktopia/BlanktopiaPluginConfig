@@ -5,3 +5,10 @@ model: cocricotmod:block/gardenbench_green_left
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-green-single
+      - gardenbench-green-left
+      - gardenbench-green-both
+      - gardenbench-green-right

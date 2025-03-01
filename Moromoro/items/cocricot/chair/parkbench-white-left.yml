@@ -5,3 +5,10 @@ model: cocricotmod:block/parkbench_white_left
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - parkbench-white-single
+      - parkbench-white-left
+      - parkbench-white-both
+      - parkbench-white-right

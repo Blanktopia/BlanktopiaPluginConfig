@@ -1,7 +1,14 @@
-name: Sofa Midcentury Brown Single
+name: Sofa Midcentury Brown
 item: paper
 custom-model-data: 7376
 model: cocricotmod:block/sofa_midcentury_brown_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-brown-single
+      - sofa-midcentury-brown-left
+      - sofa-midcentury-brown-both
+      - sofa-midcentury-brown-right

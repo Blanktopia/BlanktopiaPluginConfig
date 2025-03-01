@@ -1,7 +1,0 @@
-name: Coffeetable Glass White Both
-item: paper
-custom-model-data: 3150
-model: 'cocricotmod:block/coffeetable_glass_white_both'
-
-block:
-  type: item

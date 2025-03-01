@@ -2,6 +2,9 @@ name: Kettle Pink
 item: paper
 custom-model-data: 5880
 model: 'cocricotmod:block/kettle_pink'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

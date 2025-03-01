@@ -2,6 +2,9 @@ name: Kettle Red
 item: paper
 custom-model-data: 5881
 model: 'cocricotmod:block/kettle_red'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

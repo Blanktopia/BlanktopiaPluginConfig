@@ -5,3 +5,10 @@ model: cocricotmod:block/coffeetable_iron_natural_right
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-iron-natural-single
+      - coffeetable-iron-natural-left
+      - coffeetable-iron-natural-both
+      - coffeetable-iron-natural-right

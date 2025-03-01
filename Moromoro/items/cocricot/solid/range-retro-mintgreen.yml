@@ -5,3 +5,10 @@ model: cocricotmod:block/range_retro_mintgreen
 block:
   type: item
   collision: true
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.fire.ambient
+      - type: play-sound
+        sound: entity.player.hurt_on_fire
+      - type: ignite

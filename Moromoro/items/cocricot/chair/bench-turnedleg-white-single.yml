@@ -1,7 +1,14 @@
-name: Bench Turnedleg White Single
+name: Bench Turnedleg White
 item: paper
 custom-model-data: 2463
 model: cocricotmod:block/bench_turnedleg_white_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - bench-turnedleg-white-single
+      - bench-turnedleg-white-left
+      - bench-turnedleg-white-both
+      - bench-turnedleg-white-right

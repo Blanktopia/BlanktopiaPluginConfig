@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_simple_red_both
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-red-single
+      - sofa-simple-red-left
+      - sofa-simple-red-both
+      - sofa-simple-red-right

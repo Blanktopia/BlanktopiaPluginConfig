@@ -2,6 +2,14 @@ name: Rug Shag Round Lime Both
 item: paper
 custom-model-data: 7034
 model: 'cocricotmod:block/rug_shag_round_lime_both'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-lime-single
+      - rug-shag-round-lime-side
+      - rug-shag-round-lime-both
+      - rug-shag-round-lime-corner
+      - rug-shag-round-lime-three
+      - rug-shag-round-lime-all

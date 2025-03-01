@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_midcentury_gray_left
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-gray-single
+      - sofa-midcentury-gray-left
+      - sofa-midcentury-gray-both
+      - sofa-midcentury-gray-right

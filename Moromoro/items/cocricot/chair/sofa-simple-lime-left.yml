@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_simple_lime_left
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-lime-single
+      - sofa-simple-lime-left
+      - sofa-simple-lime-both
+      - sofa-simple-lime-right

@@ -5,3 +5,7 @@ model: cocricotmod:block/coffeegrinder_white
 block:
   type: item
   collision: true
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.rooted_dirt.place

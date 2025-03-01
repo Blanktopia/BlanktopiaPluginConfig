@@ -1,7 +1,14 @@
-name: Gardenbench Mintgreen Single
+name: Gardenbench Mintgreen
 item: paper
 custom-model-data: 4971
 model: cocricotmod:block/gardenbench_mintgreen_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-mintgreen-single
+      - gardenbench-mintgreen-left
+      - gardenbench-mintgreen-both
+      - gardenbench-mintgreen-right

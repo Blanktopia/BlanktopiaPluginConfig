@@ -1,7 +1,0 @@
-name: Coffeetable Modern Whitegold Three
-item: paper
-custom-model-data: 3191
-model: 'cocricotmod:block/coffeetable_modern_whitegold_three'
-
-block:
-  type: item

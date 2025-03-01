@@ -2,6 +2,14 @@ name: Rug Jute Round All
 item: paper
 custom-model-data: 6922
 model: 'cocricotmod:block/rug_jute_round_all'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-jute-round-single
+      - rug-jute-round-side
+      - rug-jute-round-both
+      - rug-jute-round-corner
+      - rug-jute-round-three
+      - rug-jute-round-all

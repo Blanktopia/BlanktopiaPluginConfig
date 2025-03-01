@@ -5,3 +5,10 @@ model: cocricotmod:block/coffeetable_iron_brown_right
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-iron-brown-single
+      - coffeetable-iron-brown-left
+      - coffeetable-iron-brown-both
+      - coffeetable-iron-brown-right

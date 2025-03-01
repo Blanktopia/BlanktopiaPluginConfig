@@ -2,6 +2,9 @@ name: Kettle Lightblue
 item: paper
 custom-model-data: 5877
 model: 'cocricotmod:block/kettle_lightblue'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

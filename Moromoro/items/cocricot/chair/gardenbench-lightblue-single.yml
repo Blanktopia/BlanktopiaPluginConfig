@@ -1,7 +1,14 @@
-name: Gardenbench Lightblue Single
+name: Gardenbench Lightblue
 item: paper
 custom-model-data: 4963
 model: cocricotmod:block/gardenbench_lightblue_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-lightblue-single
+      - gardenbench-lightblue-left
+      - gardenbench-lightblue-both
+      - gardenbench-lightblue-right

@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_midcentury_black_both
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-black-single
+      - sofa-midcentury-black-left
+      - sofa-midcentury-black-both
+      - sofa-midcentury-black-right

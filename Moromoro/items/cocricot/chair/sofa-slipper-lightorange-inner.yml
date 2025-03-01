@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_slipper_lightorange_inner
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-inner-outer
+    keys:
+      - sofa-slipper-lightorange
+      - sofa-slipper-lightorange-inner
+      - sofa-slipper-lightorange-outer
+  yaw: 90

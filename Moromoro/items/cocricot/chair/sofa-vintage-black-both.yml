@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_vintage_black_both
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-vintage-black-single
+      - sofa-vintage-black-left
+      - sofa-vintage-black-both
+      - sofa-vintage-black-right

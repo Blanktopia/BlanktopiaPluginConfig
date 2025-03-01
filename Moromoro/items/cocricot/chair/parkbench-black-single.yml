@@ -1,7 +1,14 @@
-name: Parkbench Black Single
+name: Parkbench Black
 item: paper
 custom-model-data: 6162
 model: cocricotmod:block/parkbench_black_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - parkbench-black-single
+      - parkbench-black-left
+      - parkbench-black-both
+      - parkbench-black-right

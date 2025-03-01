@@ -1,7 +1,14 @@
-name: Sofa Simple Red Single
+name: Sofa Simple Red
 item: paper
 custom-model-data: 7428
 model: cocricotmod:block/sofa_simple_red_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-red-single
+      - sofa-simple-red-left
+      - sofa-simple-red-both
+      - sofa-simple-red-right

@@ -1,7 +1,14 @@
-name: Sofa Midcentury Green Single
+name: Sofa Midcentury Green
 item: paper
 custom-model-data: 7388
 model: cocricotmod:block/sofa_midcentury_green_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-green-single
+      - sofa-midcentury-green-left
+      - sofa-midcentury-green-both
+      - sofa-midcentury-green-right

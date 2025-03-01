@@ -1,7 +1,0 @@
-name: Coffeetable Iron Natural Right
-item: paper
-custom-model-data: 3166
-model: 'cocricotmod:block/coffeetable_iron_natural_right'
-
-block:
-  type: item

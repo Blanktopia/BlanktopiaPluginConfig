@@ -2,6 +2,9 @@ name: Kettle Lightbrown
 item: paper
 custom-model-data: 5878
 model: 'cocricotmod:block/kettle_lightbrown'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

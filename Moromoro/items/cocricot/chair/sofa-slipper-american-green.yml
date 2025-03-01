@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_slipper_american_green
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-inner-outer
+    keys:
+      - sofa-slipper-american-green
+      - sofa-slipper-american-green-inner
+      - sofa-slipper-american-green-outer
+  yaw: 90

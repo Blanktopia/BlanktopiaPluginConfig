@@ -1,7 +1,14 @@
-name: Parkbench Light Single
+name: Parkbench Light
 item: paper
 custom-model-data: 6170
 model: cocricotmod:block/parkbench_light_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - parkbench-light-single
+      - parkbench-light-left
+      - parkbench-light-both
+      - parkbench-light-right

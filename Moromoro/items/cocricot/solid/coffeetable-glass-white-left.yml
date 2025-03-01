@@ -5,3 +5,10 @@ model: cocricotmod:block/coffeetable_glass_white_left
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-glass-white-single
+      - coffeetable-glass-white-left
+      - coffeetable-glass-white-both
+      - coffeetable-glass-white-right

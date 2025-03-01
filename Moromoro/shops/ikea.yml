@@ -144,27 +144,9 @@ categories:
   Tables:
     - item: desk-antique-single
       price: ruby
-    - item: desk-simple-black-both
-      price: ruby
-    - item: desk-simple-black-left
-      price: ruby
-    - item: desk-simple-black-right
-      price: ruby
     - item: desk-simple-black-single
       price: ruby
-    - item: desk-simple-brown-both
-      price: ruby
-    - item: desk-simple-brown-left
-      price: ruby
-    - item: desk-simple-brown-right
-      price: ruby
     - item: desk-simple-brown-single
-      price: ruby
-    - item: desk-simple-white-both
-      price: ruby
-    - item: desk-simple-white-left
-      price: ruby
-    - item: desk-simple-white-right
       price: ruby
     - item: desk-simple-white-single
       price: ruby
@@ -244,99 +226,19 @@ categories:
       price: ruby
     - item: table-ironleg-black
       price: ruby
-    - item: table-ironleg-black-all
-      price: ruby
-    - item: table-ironleg-black-both
-      price: ruby
-    - item: table-ironleg-black-corner
-      price: ruby
-    - item: table-ironleg-black-side
-      price: ruby
-    - item: table-ironleg-black-three
-      price: ruby
     - item: table-ironleg-brown
-      price: ruby
-    - item: table-ironleg-brown-all
-      price: ruby
-    - item: table-ironleg-brown-both
-      price: ruby
-    - item: table-ironleg-brown-corner
-      price: ruby
-    - item: table-ironleg-brown-side
-      price: ruby
-    - item: table-ironleg-brown-three
       price: ruby
     - item: table-ironleg-clear
       price: ruby
-    - item: table-ironleg-clear-all
-      price: ruby
-    - item: table-ironleg-clear-both
-      price: ruby
-    - item: table-ironleg-clear-corner
-      price: ruby
-    - item: table-ironleg-clear-side
-      price: ruby
-    - item: table-ironleg-clear-three
-      price: ruby
     - item: table-ironleg-dark
-      price: ruby
-    - item: table-ironleg-dark-all
-      price: ruby
-    - item: table-ironleg-dark-both
-      price: ruby
-    - item: table-ironleg-dark-corner
-      price: ruby
-    - item: table-ironleg-dark-side
-      price: ruby
-    - item: table-ironleg-dark-three
       price: ruby
     - item: table-ironleg-natural
       price: ruby
-    - item: table-ironleg-natural-all
-      price: ruby
-    - item: table-ironleg-natural-both
-      price: ruby
-    - item: table-ironleg-natural-corner
-      price: ruby
-    - item: table-ironleg-natural-side
-      price: ruby
-    - item: table-ironleg-natural-three
-      price: ruby
     - item: table-ironleg-seadrift
-      price: ruby
-    - item: table-ironleg-seadrift-all
-      price: ruby
-    - item: table-ironleg-seadrift-both
-      price: ruby
-    - item: table-ironleg-seadrift-corner
-      price: ruby
-    - item: table-ironleg-seadrift-side
-      price: ruby
-    - item: table-ironleg-seadrift-three
       price: ruby
     - item: table-ironleg-white
       price: ruby
-    - item: table-ironleg-white-all
-      price: ruby
-    - item: table-ironleg-white-both
-      price: ruby
-    - item: table-ironleg-white-corner
-      price: ruby
-    - item: table-ironleg-white-side
-      price: ruby
-    - item: table-ironleg-white-three
-      price: ruby
     - item: table-stainless
-      price: ruby
-    - item: table-stainless-all
-      price: ruby
-    - item: table-stainless-both
-      price: ruby
-    - item: table-stainless-corner
-      price: ruby
-    - item: table-stainless-side
-      price: ruby
-    - item: table-stainless-three
       price: ruby
     - item: table-wide-cloth-gingham-red
       price: ruby
@@ -376,433 +278,125 @@ categories:
       price: ruby
 
   Sofas:
-    - item: sofa-log-birch-natural-both
-      price: ruby
-    - item: sofa-log-birch-natural-left
-      price: ruby
-    - item: sofa-log-birch-natural-right
-      price: ruby
     - item: sofa-log-birch-natural-single
-      price: ruby
-    - item: sofa-log-birch-rustic-both
-      price: ruby
-    - item: sofa-log-birch-rustic-left
-      price: ruby
-    - item: sofa-log-birch-rustic-right
       price: ruby
     - item: sofa-log-birch-rustic-single
       price: ruby
-    - item: sofa-log-both
-      price: ruby
-    - item: sofa-log-left
-      price: ruby
-    - item: sofa-log-natural-both
-      price: ruby
-    - item: sofa-log-natural-left
-      price: ruby
-    - item: sofa-log-natural-right
-      price: ruby
     - item: sofa-log-natural-single
-      price: ruby
-    - item: sofa-log-right
       price: ruby
     - item: sofa-log-single
       price: ruby
-    - item: sofa-midcentury-black-both
-      price: ruby
-    - item: sofa-midcentury-black-left
-      price: ruby
-    - item: sofa-midcentury-black-right
-      price: ruby
     - item: sofa-midcentury-black-single
-      price: ruby
-    - item: sofa-midcentury-blue-both
-      price: ruby
-    - item: sofa-midcentury-blue-left
-      price: ruby
-    - item: sofa-midcentury-blue-right
       price: ruby
     - item: sofa-midcentury-blue-single
       price: ruby
-    - item: sofa-midcentury-brown-both
-      price: ruby
-    - item: sofa-midcentury-brown-left
-      price: ruby
-    - item: sofa-midcentury-brown-right
-      price: ruby
     - item: sofa-midcentury-brown-single
-      price: ruby
-    - item: sofa-midcentury-darkbrown-both
-      price: ruby
-    - item: sofa-midcentury-darkbrown-left
-      price: ruby
-    - item: sofa-midcentury-darkbrown-right
       price: ruby
     - item: sofa-midcentury-darkbrown-single
       price: ruby
-    - item: sofa-midcentury-gray-both
-      price: ruby
-    - item: sofa-midcentury-gray-left
-      price: ruby
-    - item: sofa-midcentury-gray-right
-      price: ruby
     - item: sofa-midcentury-gray-single
-      price: ruby
-    - item: sofa-midcentury-green-both
-      price: ruby
-    - item: sofa-midcentury-green-left
-      price: ruby
-    - item: sofa-midcentury-green-right
       price: ruby
     - item: sofa-midcentury-green-single
       price: ruby
-    - item: sofa-midcentury-lightbrown-both
-      price: ruby
-    - item: sofa-midcentury-lightbrown-left
-      price: ruby
-    - item: sofa-midcentury-lightbrown-right
-      price: ruby
     - item: sofa-midcentury-lightbrown-single
-      price: ruby
-    - item: sofa-midcentury-lightorange-both
-      price: ruby
-    - item: sofa-midcentury-lightorange-left
-      price: ruby
-    - item: sofa-midcentury-lightorange-right
       price: ruby
     - item: sofa-midcentury-lightorange-single
       price: ruby
-    - item: sofa-simple-black-both
-      price: ruby
-    - item: sofa-simple-black-left
-      price: ruby
-    - item: sofa-simple-black-right
-      price: ruby
     - item: sofa-simple-black-single
-      price: ruby
-    - item: sofa-simple-blue-both
-      price: ruby
-    - item: sofa-simple-blue-left
-      price: ruby
-    - item: sofa-simple-blue-right
       price: ruby
     - item: sofa-simple-blue-single
       price: ruby
-    - item: sofa-simple-gray-both
-      price: ruby
-    - item: sofa-simple-gray-left
-      price: ruby
-    - item: sofa-simple-gray-right
-      price: ruby
     - item: sofa-simple-gray-single
-      price: ruby
-    - item: sofa-simple-green-both
-      price: ruby
-    - item: sofa-simple-green-left
-      price: ruby
-    - item: sofa-simple-green-right
       price: ruby
     - item: sofa-simple-green-single
       price: ruby
-    - item: sofa-simple-lightbrown-both
-      price: ruby
-    - item: sofa-simple-lightbrown-left
-      price: ruby
-    - item: sofa-simple-lightbrown-right
-      price: ruby
     - item: sofa-simple-lightbrown-single
-      price: ruby
-    - item: sofa-simple-lime-both
-      price: ruby
-    - item: sofa-simple-lime-left
-      price: ruby
-    - item: sofa-simple-lime-right
       price: ruby
     - item: sofa-simple-lime-single
       price: ruby
-    - item: sofa-simple-red-both
-      price: ruby
-    - item: sofa-simple-red-left
-      price: ruby
-    - item: sofa-simple-red-right
-      price: ruby
     - item: sofa-simple-red-single
       price: ruby
-    - item: sofa-simple-white-both
-      price: ruby
-    - item: sofa-simple-white-left
-      price: ruby
-    - item: sofa-simple-white-right
-      price: ruby
     - item: sofa-simple-white-single
-      price: ruby
-    - item: sofa-simple-yellow-both
-      price: ruby
-    - item: sofa-simple-yellow-left
-      price: ruby
-    - item: sofa-simple-yellow-right
       price: ruby
     - item: sofa-simple-yellow-single
       price: ruby
     - item: sofa-slipper-american-black
       price: ruby
-    - item: sofa-slipper-american-black-inner
-      price: ruby
-    - item: sofa-slipper-american-black-outer
-      price: ruby
     - item: sofa-slipper-american-brown
-      price: ruby
-    - item: sofa-slipper-american-brown-inner
-      price: ruby
-    - item: sofa-slipper-american-brown-outer
       price: ruby
     - item: sofa-slipper-american-darkbrown
       price: ruby
-    - item: sofa-slipper-american-darkbrown-inner
-      price: ruby
-    - item: sofa-slipper-american-darkbrown-outer
-      price: ruby
     - item: sofa-slipper-american-green
-      price: ruby
-    - item: sofa-slipper-american-green-inner
-      price: ruby
-    - item: sofa-slipper-american-green-outer
       price: ruby
     - item: sofa-slipper-american-lightorange
       price: ruby
-    - item: sofa-slipper-american-lightorange-inner
-      price: ruby
-    - item: sofa-slipper-american-lightorange-outer
-      price: ruby
     - item: sofa-slipper-american-mintgreen
-      price: ruby
-    - item: sofa-slipper-american-mintgreen-inner
-      price: ruby
-    - item: sofa-slipper-american-mintgreen-outer
       price: ruby
     - item: sofa-slipper-american-pink
       price: ruby
-    - item: sofa-slipper-american-pink-inner
-      price: ruby
-    - item: sofa-slipper-american-pink-outer
-      price: ruby
     - item: sofa-slipper-american-red
-      price: ruby
-    - item: sofa-slipper-american-red-inner
-      price: ruby
-    - item: sofa-slipper-american-red-outer
       price: ruby
     - item: sofa-slipper-american-white
       price: ruby
-    - item: sofa-slipper-american-white-inner
-      price: ruby
-    - item: sofa-slipper-american-white-outer
-      price: ruby
     - item: sofa-slipper-american-yellow
-      price: ruby
-    - item: sofa-slipper-american-yellow-inner
-      price: ruby
-    - item: sofa-slipper-american-yellow-outer
       price: ruby
     - item: sofa-slipper-black
       price: ruby
-    - item: sofa-slipper-black-inner
-      price: ruby
-    - item: sofa-slipper-black-outer
-      price: ruby
     - item: sofa-slipper-blue
-      price: ruby
-    - item: sofa-slipper-blue-inner
-      price: ruby
-    - item: sofa-slipper-blue-outer
       price: ruby
     - item: sofa-slipper-brown
       price: ruby
-    - item: sofa-slipper-brown-inner
-      price: ruby
-    - item: sofa-slipper-brown-outer
-      price: ruby
     - item: sofa-slipper-darkblue
-      price: ruby
-    - item: sofa-slipper-darkblue-inner
-      price: ruby
-    - item: sofa-slipper-darkblue-outer
       price: ruby
     - item: sofa-slipper-darkbrown
       price: ruby
-    - item: sofa-slipper-darkbrown-inner
-      price: ruby
-    - item: sofa-slipper-darkbrown-outer
-      price: ruby
     - item: sofa-slipper-darkred
-      price: ruby
-    - item: sofa-slipper-darkred-inner
-      price: ruby
-    - item: sofa-slipper-darkred-outer
       price: ruby
     - item: sofa-slipper-gray
       price: ruby
-    - item: sofa-slipper-gray-inner
-      price: ruby
-    - item: sofa-slipper-gray-outer
-      price: ruby
     - item: sofa-slipper-green
-      price: ruby
-    - item: sofa-slipper-green-inner
-      price: ruby
-    - item: sofa-slipper-green-outer
       price: ruby
     - item: sofa-slipper-lightblue
       price: ruby
-    - item: sofa-slipper-lightblue-inner
-      price: ruby
-    - item: sofa-slipper-lightblue-outer
-      price: ruby
     - item: sofa-slipper-lightbrown
-      price: ruby
-    - item: sofa-slipper-lightbrown-inner
-      price: ruby
-    - item: sofa-slipper-lightbrown-outer
       price: ruby
     - item: sofa-slipper-lightorange
       price: ruby
-    - item: sofa-slipper-lightorange-inner
-      price: ruby
-    - item: sofa-slipper-lightorange-outer
-      price: ruby
     - item: sofa-slipper-lightpurple
-      price: ruby
-    - item: sofa-slipper-lightpurple-inner
-      price: ruby
-    - item: sofa-slipper-lightpurple-outer
       price: ruby
     - item: sofa-slipper-mintgreen
       price: ruby
-    - item: sofa-slipper-mintgreen-inner
-      price: ruby
-    - item: sofa-slipper-mintgreen-outer
-      price: ruby
     - item: sofa-slipper-pink
-      price: ruby
-    - item: sofa-slipper-pink-inner
-      price: ruby
-    - item: sofa-slipper-pink-outer
       price: ruby
     - item: sofa-slipper-purple
       price: ruby
-    - item: sofa-slipper-purple-inner
-      price: ruby
-    - item: sofa-slipper-purple-outer
-      price: ruby
     - item: sofa-slipper-red
-      price: ruby
-    - item: sofa-slipper-red-inner
-      price: ruby
-    - item: sofa-slipper-red-outer
       price: ruby
     - item: sofa-slipper-white
       price: ruby
-    - item: sofa-slipper-white-inner
-      price: ruby
-    - item: sofa-slipper-white-outer
-      price: ruby
     - item: sofa-slipper-yellow
       price: ruby
-    - item: sofa-slipper-yellow-inner
-      price: ruby
-    - item: sofa-slipper-yellow-outer
-      price: ruby
-    - item: sofa-vintage-black-both
-      price: ruby
-    - item: sofa-vintage-black-left
-      price: ruby
-    - item: sofa-vintage-black-right
-      price: ruby
     - item: sofa-vintage-black-single
-      price: ruby
-    - item: sofa-vintage-brown-both
-      price: ruby
-    - item: sofa-vintage-brown-left
-      price: ruby
-    - item: sofa-vintage-brown-right
       price: ruby
     - item: sofa-vintage-brown-single
       price: ruby
 
   "Coffee Tables":
-    - item: coffeetable-glass-black-both
-      price: ruby
-    - item: coffeetable-glass-black-left
-      price: ruby
-    - item: coffeetable-glass-black-right
-      price: ruby
     - item: coffeetable-glass-black-single
-      price: ruby
-    - item: coffeetable-glass-white-both
-      price: ruby
-    - item: coffeetable-glass-white-left
-      price: ruby
-    - item: coffeetable-glass-white-right
       price: ruby
     - item: coffeetable-glass-white-single
       price: ruby
-    - item: coffeetable-iron-brown-both
-      price: ruby
-    - item: coffeetable-iron-brown-left
-      price: ruby
-    - item: coffeetable-iron-brown-right
-      price: ruby
     - item: coffeetable-iron-brown-single
-      price: ruby
-    - item: coffeetable-iron-dark-both
-      price: ruby
-    - item: coffeetable-iron-dark-left
-      price: ruby
-    - item: coffeetable-iron-dark-right
       price: ruby
     - item: coffeetable-iron-dark-single
       price: ruby
-    - item: coffeetable-iron-natural-both
-      price: ruby
-    - item: coffeetable-iron-natural-left
-      price: ruby
-    - item: coffeetable-iron-natural-right
-      price: ruby
     - item: coffeetable-iron-natural-single
-      price: ruby
-    - item: coffeetable-iron-seadrift-both
-      price: ruby
-    - item: coffeetable-iron-seadrift-left
-      price: ruby
-    - item: coffeetable-iron-seadrift-right
       price: ruby
     - item: coffeetable-iron-seadrift-single
       price: ruby
-    - item: coffeetable-midcentury-brown-both
-      price: ruby
-    - item: coffeetable-midcentury-brown-left
-      price: ruby
-    - item: coffeetable-midcentury-brown-right
-      price: ruby
     - item: coffeetable-midcentury-brown-single
       price: ruby
-    - item: coffeetable-midcentury-dark-both
-      price: ruby
-    - item: coffeetable-midcentury-dark-left
-      price: ruby
-    - item: coffeetable-midcentury-dark-right
-      price: ruby
     - item: coffeetable-midcentury-dark-single
-      price: ruby
-    - item: coffeetable-modern-whitegold-all
-      price: ruby
-    - item: coffeetable-modern-whitegold-both
-      price: ruby
-    - item: coffeetable-modern-whitegold-corner
-      price: ruby
-    - item: coffeetable-modern-whitegold-side
-      price: ruby
-    - item: coffeetable-modern-whitegold-three
       price: ruby
     - item: coffeetable-modern-whitegold
       price: ruby
@@ -1029,12 +623,6 @@ categories:
     - item: bowl-pile
       price: ruby
     - item: cabinet-stainless
-      price: ruby
-    - item: cabinet-stainless-both
-      price: ruby
-    - item: cabinet-stainless-left
-      price: ruby
-    - item: cabinet-stainless-right
       price: ruby
     - item: coffeegrinder-black
       price: ruby
@@ -1712,10 +1300,6 @@ categories:
       price: ruby
     - item: signboard-square-lighting-down
       price: ruby
-    - item: signboard-square-lighting-side
-      price: ruby
-    - item: signboard-square-lighting-up
-      price: ruby
     - item: signboard-square-script-black
       price: ruby
     - item: signboard-square-script-white
@@ -1886,185 +1470,35 @@ categories:
       price: ruby
     - item: rug-jute-round
       price: ruby
-    - item: rug-jute-round-all
-      price: ruby
-    - item: rug-jute-round-both
-      price: ruby
-    - item: rug-jute-round-corner
-      price: ruby
-    - item: rug-jute-round-side
-      price: ruby
-    - item: rug-jute-round-three
-      price: ruby
     - item: rug-rustic
       price: ruby
     - item: rug-shag-round-black
       price: ruby
-    - item: rug-shag-round-black-all
-      price: ruby
-    - item: rug-shag-round-black-both
-      price: ruby
-    - item: rug-shag-round-black-corner
-      price: ruby
-    - item: rug-shag-round-black-side
-      price: ruby
-    - item: rug-shag-round-black-three
-      price: ruby
     - item: rug-shag-round-bluegreen
-      price: ruby
-    - item: rug-shag-round-bluegreen-all
-      price: ruby
-    - item: rug-shag-round-bluegreen-both
-      price: ruby
-    - item: rug-shag-round-bluegreen-corner
-      price: ruby
-    - item: rug-shag-round-bluegreen-side
-      price: ruby
-    - item: rug-shag-round-bluegreen-three
       price: ruby
     - item: rug-shag-round-darkblue
       price: ruby
-    - item: rug-shag-round-darkblue-all
-      price: ruby
-    - item: rug-shag-round-darkblue-both
-      price: ruby
-    - item: rug-shag-round-darkblue-corner
-      price: ruby
-    - item: rug-shag-round-darkblue-side
-      price: ruby
-    - item: rug-shag-round-darkblue-three
-      price: ruby
     - item: rug-shag-round-gray
-      price: ruby
-    - item: rug-shag-round-gray-all
-      price: ruby
-    - item: rug-shag-round-gray-both
-      price: ruby
-    - item: rug-shag-round-gray-corner
-      price: ruby
-    - item: rug-shag-round-gray-side
-      price: ruby
-    - item: rug-shag-round-gray-three
       price: ruby
     - item: rug-shag-round-green
       price: ruby
-    - item: rug-shag-round-green-all
-      price: ruby
-    - item: rug-shag-round-green-both
-      price: ruby
-    - item: rug-shag-round-green-corner
-      price: ruby
-    - item: rug-shag-round-green-side
-      price: ruby
-    - item: rug-shag-round-green-three
-      price: ruby
     - item: rug-shag-round-lightblue
-      price: ruby
-    - item: rug-shag-round-lightblue-all
-      price: ruby
-    - item: rug-shag-round-lightblue-both
-      price: ruby
-    - item: rug-shag-round-lightblue-corner
-      price: ruby
-    - item: rug-shag-round-lightblue-side
-      price: ruby
-    - item: rug-shag-round-lightblue-three
       price: ruby
     - item: rug-shag-round-lightbrown
       price: ruby
-    - item: rug-shag-round-lightbrown-all
-      price: ruby
-    - item: rug-shag-round-lightbrown-both
-      price: ruby
-    - item: rug-shag-round-lightbrown-corner
-      price: ruby
-    - item: rug-shag-round-lightbrown-side
-      price: ruby
-    - item: rug-shag-round-lightbrown-three
-      price: ruby
     - item: rug-shag-round-lightgreen
-      price: ruby
-    - item: rug-shag-round-lightgreen-all
-      price: ruby
-    - item: rug-shag-round-lightgreen-both
-      price: ruby
-    - item: rug-shag-round-lightgreen-corner
-      price: ruby
-    - item: rug-shag-round-lightgreen-side
-      price: ruby
-    - item: rug-shag-round-lightgreen-three
       price: ruby
     - item: rug-shag-round-lime
       price: ruby
-    - item: rug-shag-round-lime-all
-      price: ruby
-    - item: rug-shag-round-lime-both
-      price: ruby
-    - item: rug-shag-round-lime-corner
-      price: ruby
-    - item: rug-shag-round-lime-side
-      price: ruby
-    - item: rug-shag-round-lime-three
-      price: ruby
     - item: rug-shag-round-pink
-      price: ruby
-    - item: rug-shag-round-pink-all
-      price: ruby
-    - item: rug-shag-round-pink-both
-      price: ruby
-    - item: rug-shag-round-pink-corner
-      price: ruby
-    - item: rug-shag-round-pink-side
-      price: ruby
-    - item: rug-shag-round-pink-three
       price: ruby
     - item: rug-shag-round-purple
       price: ruby
-    - item: rug-shag-round-purple-all
-      price: ruby
-    - item: rug-shag-round-purple-both
-      price: ruby
-    - item: rug-shag-round-purple-corner
-      price: ruby
-    - item: rug-shag-round-purple-side
-      price: ruby
-    - item: rug-shag-round-purple-three
-      price: ruby
     - item: rug-shag-round-red
-      price: ruby
-    - item: rug-shag-round-red-all
-      price: ruby
-    - item: rug-shag-round-red-both
-      price: ruby
-    - item: rug-shag-round-red-corner
-      price: ruby
-    - item: rug-shag-round-red-side
-      price: ruby
-    - item: rug-shag-round-red-three
       price: ruby
     - item: rug-shag-round-white
       price: ruby
-    - item: rug-shag-round-white-all
-      price: ruby
-    - item: rug-shag-round-white-both
-      price: ruby
-    - item: rug-shag-round-white-corner
-      price: ruby
-    - item: rug-shag-round-white-side
-      price: ruby
-    - item: rug-shag-round-white-three
-      price: ruby
     - item: rug-shag-round-yellow
-      price: ruby
-    - item: rug-shag-round-yellow-all
-      price: ruby
-    - item: rug-shag-round-yellow-both
-      price: ruby
-    - item: rug-shag-round-yellow-corner
-      price: ruby
-    - item: rug-shag-round-yellow-side
-      price: ruby
-    - item: rug-shag-round-yellow-three
       price: ruby
 
   Plants:
@@ -2180,179 +1614,47 @@ categories:
       price: ruby
 
   Benches:
-    - item: bench-turnedleg-black-both
-      price: ruby
-    - item: bench-turnedleg-black-left
-      price: ruby
-    - item: bench-turnedleg-black-right
-      price: ruby
     - item: bench-turnedleg-black-single
-      price: ruby
-    - item: bench-turnedleg-shabby-both
-      price: ruby
-    - item: bench-turnedleg-shabby-left
-      price: ruby
-    - item: bench-turnedleg-shabby-right
       price: ruby
     - item: bench-turnedleg-shabby-single
       price: ruby
-    - item: bench-turnedleg-white-both
-      price: ruby
-    - item: bench-turnedleg-white-dark-both
-      price: ruby
-    - item: bench-turnedleg-white-dark-left
-      price: ruby
-    - item: bench-turnedleg-white-dark-right
-      price: ruby
     - item: bench-turnedleg-white-dark-single
-      price: ruby
-    - item: bench-turnedleg-white-left
-      price: ruby
-    - item: bench-turnedleg-white-right
       price: ruby
     - item: bench-turnedleg-white-single
       price: ruby
-    - item: gardenbench-black-both
-      price: ruby
-    - item: gardenbench-black-left
-      price: ruby
-    - item: gardenbench-black-right
-      price: ruby
     - item: gardenbench-black-single
-      price: ruby
-    - item: gardenbench-brown-both
-      price: ruby
-    - item: gardenbench-brown-left
-      price: ruby
-    - item: gardenbench-brown-right
       price: ruby
     - item: gardenbench-brown-single
       price: ruby
-    - item: gardenbench-clear-both
-      price: ruby
-    - item: gardenbench-clear-left
-      price: ruby
-    - item: gardenbench-clear-right
-      price: ruby
     - item: gardenbench-clear-single
-      price: ruby
-    - item: gardenbench-dark-both
-      price: ruby
-    - item: gardenbench-dark-left
-      price: ruby
-    - item: gardenbench-dark-right
       price: ruby
     - item: gardenbench-dark-single
       price: ruby
-    - item: gardenbench-green-both
-      price: ruby
-    - item: gardenbench-green-left
-      price: ruby
-    - item: gardenbench-green-right
-      price: ruby
     - item: gardenbench-green-single
-      price: ruby
-    - item: gardenbench-lightblue-both
-      price: ruby
-    - item: gardenbench-lightblue-left
-      price: ruby
-    - item: gardenbench-lightblue-right
       price: ruby
     - item: gardenbench-lightblue-single
       price: ruby
-    - item: gardenbench-marineblue-both
-      price: ruby
-    - item: gardenbench-marineblue-left
-      price: ruby
-    - item: gardenbench-marineblue-right
-      price: ruby
     - item: gardenbench-marineblue-single
-      price: ruby
-    - item: gardenbench-mintgreen-both
-      price: ruby
-    - item: gardenbench-mintgreen-left
-      price: ruby
-    - item: gardenbench-mintgreen-right
       price: ruby
     - item: gardenbench-mintgreen-single
       price: ruby
-    - item: gardenbench-natural-both
-      price: ruby
-    - item: gardenbench-natural-left
-      price: ruby
-    - item: gardenbench-natural-right
-      price: ruby
     - item: gardenbench-natural-single
-      price: ruby
-    - item: gardenbench-pink-both
-      price: ruby
-    - item: gardenbench-pink-left
-      price: ruby
-    - item: gardenbench-pink-right
       price: ruby
     - item: gardenbench-pink-single
       price: ruby
-    - item: gardenbench-red-both
-      price: ruby
-    - item: gardenbench-red-left
-      price: ruby
-    - item: gardenbench-red-right
-      price: ruby
     - item: gardenbench-red-single
-      price: ruby
-    - item: gardenbench-seadrift-both
-      price: ruby
-    - item: gardenbench-seadrift-left
-      price: ruby
-    - item: gardenbench-seadrift-right
       price: ruby
     - item: gardenbench-seadrift-single
       price: ruby
-    - item: gardenbench-white-both
-      price: ruby
-    - item: gardenbench-white-left
-      price: ruby
-    - item: gardenbench-white-right
-      price: ruby
     - item: gardenbench-white-single
-      price: ruby
-    - item: gardenbench-yellow-both
-      price: ruby
-    - item: gardenbench-yellow-left
-      price: ruby
-    - item: gardenbench-yellow-right
       price: ruby
     - item: gardenbench-yellow-single
       price: ruby
-    - item: parkbench-black-both
-      price: ruby
-    - item: parkbench-black-left
-      price: ruby
-    - item: parkbench-black-right
-      price: ruby
     - item: parkbench-black-single
-      price: ruby
-    - item: parkbench-dark-both
-      price: ruby
-    - item: parkbench-dark-left
-      price: ruby
-    - item: parkbench-dark-right
       price: ruby
     - item: parkbench-dark-single
       price: ruby
-    - item: parkbench-light-both
-      price: ruby
-    - item: parkbench-light-left
-      price: ruby
-    - item: parkbench-light-right
-      price: ruby
     - item: parkbench-light-single
-      price: ruby
-    - item: parkbench-white-both
-      price: ruby
-    - item: parkbench-white-left
-      price: ruby
-    - item: parkbench-white-right
       price: ruby
     - item: parkbench-white-single
       price: ruby
@@ -2370,12 +1672,6 @@ categories:
       price: ruby
     - item: ottoman-resort
       price: ruby
-    - item: sofa-resort-both
-      price: ruby
-    - item: sofa-resort-left
-      price: ruby
-    - item: sofa-resort-right
-      price: ruby
     - item: sofa-resort-single
       price: ruby
     - item: surfboard-stand-blue
@@ -2384,13 +1680,9 @@ categories:
       price: ruby
     - item: swimring-blue-water
       price: ruby
-    - item: swimring-blue1
-      price: ruby
     - item: swimring-donut
       price: ruby
     - item: swimring-donut-water
-      price: ruby
-    - item: swimring-donut1
       price: ruby
     - item: swimring-flamingo
       price: ruby
@@ -2400,8 +1692,6 @@ categories:
       price: ruby
     - item: swimring-red-water
       price: ruby
-    - item: swimring-red1
-      price: ruby
     - item: swimring-unicorn
       price: ruby
     - item: swimring-unicorn-water
@@ -2409,8 +1699,6 @@ categories:
     - item: swimring-yellow
       price: ruby
     - item: swimring-yellow-water
-      price: ruby
-    - item: swimring-yellow1
       price: ruby
 
   Wheels:

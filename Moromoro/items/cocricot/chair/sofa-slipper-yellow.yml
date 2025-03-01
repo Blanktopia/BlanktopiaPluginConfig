@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_slipper_yellow
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-inner-outer
+    keys:
+      - sofa-slipper-yellow
+      - sofa-slipper-yellow-inner
+      - sofa-slipper-yellow-outer
+  yaw: 90

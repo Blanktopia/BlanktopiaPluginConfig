@@ -1,7 +1,14 @@
-name: Sofa Midcentury Gray Single
+name: Sofa Midcentury Gray
 item: paper
 custom-model-data: 7384
 model: cocricotmod:block/sofa_midcentury_gray_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-midcentury-gray-single
+      - sofa-midcentury-gray-left
+      - sofa-midcentury-gray-both
+      - sofa-midcentury-gray-right

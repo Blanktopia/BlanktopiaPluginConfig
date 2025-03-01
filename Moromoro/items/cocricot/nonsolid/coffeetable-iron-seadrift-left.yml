@@ -1,7 +1,0 @@
-name: Coffeetable Iron Seadrift Left
-item: paper
-custom-model-data: 3170
-model: 'cocricotmod:block/coffeetable_iron_seadrift_left'
-
-block:
-  type: item

@@ -5,3 +5,10 @@ model: cocricotmod:block/sofa_resort_right
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-resort-single
+      - sofa-resort-left
+      - sofa-resort-both
+      - sofa-resort-right

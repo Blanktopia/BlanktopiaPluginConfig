@@ -2,6 +2,14 @@ name: Rug Shag Round White Both
 item: paper
 custom-model-data: 7082
 model: 'cocricotmod:block/rug_shag_round_white_both'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-white-single
+      - rug-shag-round-white-side
+      - rug-shag-round-white-both
+      - rug-shag-round-white-corner
+      - rug-shag-round-white-three
+      - rug-shag-round-white-all

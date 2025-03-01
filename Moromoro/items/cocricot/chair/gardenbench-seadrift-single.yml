@@ -1,7 +1,14 @@
-name: Gardenbench Seadrift Single
+name: Gardenbench Seadrift
 item: paper
 custom-model-data: 4988
 model: cocricotmod:block/gardenbench_seadrift_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - gardenbench-seadrift-single
+      - gardenbench-seadrift-left
+      - gardenbench-seadrift-both
+      - gardenbench-seadrift-right

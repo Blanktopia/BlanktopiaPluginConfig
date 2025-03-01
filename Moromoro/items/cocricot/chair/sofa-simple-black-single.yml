@@ -1,7 +1,14 @@
-name: Sofa Simple Black Single
+name: Sofa Simple Black
 item: paper
 custom-model-data: 7404
 model: cocricotmod:block/sofa_simple_black_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-black-single
+      - sofa-simple-black-left
+      - sofa-simple-black-both
+      - sofa-simple-black-right

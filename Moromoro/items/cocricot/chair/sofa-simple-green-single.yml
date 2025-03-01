@@ -1,7 +1,14 @@
-name: Sofa Simple Green Single
+name: Sofa Simple Green
 item: paper
 custom-model-data: 7416
 model: cocricotmod:block/sofa_simple_green_single
 block:
   type: item
   sit-height: 0.4375
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - sofa-simple-green-single
+      - sofa-simple-green-left
+      - sofa-simple-green-both
+      - sofa-simple-green-right

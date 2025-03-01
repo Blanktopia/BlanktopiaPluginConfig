@@ -5,3 +5,7 @@ model: cocricotmod:block/espressomachine_black
 block:
   type: item
   collision: true
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.brewing_stand.brew

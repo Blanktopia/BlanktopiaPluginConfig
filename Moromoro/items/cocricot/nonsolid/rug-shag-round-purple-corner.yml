@@ -2,6 +2,14 @@ name: Rug Shag Round Purple Corner
 item: paper
 custom-model-data: 7059
 model: 'cocricotmod:block/rug_shag_round_purple_corner'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-purple-single
+      - rug-shag-round-purple-side
+      - rug-shag-round-purple-both
+      - rug-shag-round-purple-corner
+      - rug-shag-round-purple-three
+      - rug-shag-round-purple-all

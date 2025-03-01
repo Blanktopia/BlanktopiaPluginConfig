@@ -2,6 +2,14 @@ name: Rug Shag Round Lightblue Side
 item: paper
 custom-model-data: 7000
 model: 'cocricotmod:block/rug_shag_round_lightblue_side'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-lightblue-single
+      - rug-shag-round-lightblue-side
+      - rug-shag-round-lightblue-both
+      - rug-shag-round-lightblue-corner
+      - rug-shag-round-lightblue-three
+      - rug-shag-round-lightblue-all

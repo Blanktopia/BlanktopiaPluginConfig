@@ -1,7 +1,14 @@
-name: Coffeetable Midcentury Brown Single
+name: Coffeetable Midcentury Brown
 item: paper
 custom-model-data: 3178
 model: cocricotmod:block/coffeetable_midcentury_brown_single
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-left-both-right
+    keys:
+      - coffeetable-midcentury-brown-single
+      - coffeetable-midcentury-brown-left
+      - coffeetable-midcentury-brown-both
+      - coffeetable-midcentury-brown-right

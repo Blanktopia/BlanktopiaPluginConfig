@@ -2,6 +2,14 @@ name: Rug Shag Round Black Side
 item: paper
 custom-model-data: 6940
 model: 'cocricotmod:block/rug_shag_round_black_side'
-
 block:
   type: item
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - rug-shag-round-black-single
+      - rug-shag-round-black-side
+      - rug-shag-round-black-both
+      - rug-shag-round-black-corner
+      - rug-shag-round-black-three
+      - rug-shag-round-black-all

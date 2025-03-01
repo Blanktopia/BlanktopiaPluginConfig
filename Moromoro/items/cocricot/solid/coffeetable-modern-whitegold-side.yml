@@ -5,3 +5,13 @@ model: cocricotmod:block/coffeetable_modern_whitegold_side
 block:
   type: item
   collision: true
+  auto-tile:
+    type: single-side-both-corner-three-all
+    keys:
+      - coffeetable-modern-whitegold
+      - coffeetable-modern-whitegold-side
+      - coffeetable-modern-whitegold-both
+      - coffeetable-modern-whitegold-corner
+      - coffeetable-modern-whitegold-three
+      - coffeetable-modern-whitegold-all
+  yaw: 180
