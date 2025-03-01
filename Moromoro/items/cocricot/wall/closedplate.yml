@@ -4,4 +4,4 @@ custom-model-data: 3116
 model: 'cocricotmod:block/closedplate'
 block:
   type: item
-  wall: true
+  pitch: -90

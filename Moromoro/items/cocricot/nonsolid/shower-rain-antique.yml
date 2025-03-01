@@ -2,6 +2,9 @@ name: Shower Rain Antique
 item: paper
 custom-model-data: 7235
 model: 'cocricotmod:block/shower_rain_antique'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient

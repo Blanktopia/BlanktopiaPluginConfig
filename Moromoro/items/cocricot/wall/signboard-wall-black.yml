@@ -4,4 +4,4 @@ custom-model-data: 7263
 model: 'cocricotmod:block/signboard_wall_black'
 block:
   type: item
-  wall: true
+  pitch: -90

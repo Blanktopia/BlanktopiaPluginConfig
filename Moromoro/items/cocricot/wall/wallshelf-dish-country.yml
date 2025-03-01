@@ -4,4 +4,4 @@ custom-model-data: 8499
 model: 'cocricotmod:block/wallshelf_dish_country'
 block:
   type: item
-  wall: true
+  pitch: -90

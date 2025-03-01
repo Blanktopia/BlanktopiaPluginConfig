@@ -6,3 +6,7 @@ block:
   type: item
   collision: true
   sit-height: 0.4375
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: entity.generic.splash

@@ -3,25 +3,29 @@
 set dependencies
 
 echo "Adding seats to chairs"
-for file in chair/**/*.yml
-	yq -y '.block["sit-height"] = 0.4375' $file | sponge $file
-end
+yq -Y -i '.block["sit-height"] = 0.4375' chair/**/*.yml
 
 echo "Adding seat rotate to stools"
-for file in chair/rotate/*.yml
-	yq -y '.block["sit-rotate"] = true' $file | sponge $file
-end
+yq -Y -i '.block["sit-rotate"] = true' chair/rotate/*.yml
 
 echo "Adding collision to solid blocks"
-for file in solid/*.yml
-	yq -y '.block.collision = true' $file | sponge $file
-end
-for file in bed/bed-{frame,mattress}*.yml
-	yq -y '.block.collision = true' $file | sponge $file
-end
+yq -Y -i '.block.collision = true' solid/*.yml
+yq -Y -i '.block.collision = true' bed/bed-{frame,mattress}*.yml
 
 echo "Marking wall items as wall"
 yq -Y -i '.block.pitch = -90' wall/*.yml
 
 echo "Rotating chairs"
 find chair/ -regextype sed -regex 'chair/chair-\(dining\|garden\|midcentury\|paris\|rocking\).*' -exec yq -Y -i '.block.yaw = 270' {} \;
+
+echo "Bathtubs"
+for color in {black, white}
+	yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.water.ambient\",volume:2},{type:\"toggle-custom-block\",key:\"bathtub-clawfoot-$color-water\"}]}" chair/bathtub-clawfoot-$color.yml
+	yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.water.ambient\",volume:2},{type:\"toggle-custom-block\",key:\"bathtub-clawfoot-$color-rose\"}]}" chair/bathtub-clawfoot-$color-water.yml
+	yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.water.ambient\",volume:2},{type:\"toggle-custom-block\",key:\"bathtub-clawfoot-$color\"}]}" chair/bathtub-clawfoot-$color-rose.yml
+end
+
+echo "Sinks, showers, toilet"
+yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"item.bucket.empty\"}]}" nonsolid/toilet*.yml
+yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"block.water.ambient\",volume:2}]}" solid/sink*.yml
+yq -Y -i ".block.triggers = {\"block-use\":[{type:\"play-sound\",sound:\"entity.generic.splash\"}]}" chair/toilet{-black,-brown,-modern,}.yml

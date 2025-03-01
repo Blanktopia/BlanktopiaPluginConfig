@@ -4,4 +4,4 @@ custom-model-data: 2378
 model: 'cocricotmod:block/bathrobe_pink'
 block:
   type: item
-  wall: true
+  pitch: -90

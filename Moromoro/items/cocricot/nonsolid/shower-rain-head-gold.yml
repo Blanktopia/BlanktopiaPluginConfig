@@ -2,6 +2,9 @@ name: Shower Rain Head Gold
 item: paper
 custom-model-data: 7240
 model: 'cocricotmod:block/shower_rain_head_gold'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient

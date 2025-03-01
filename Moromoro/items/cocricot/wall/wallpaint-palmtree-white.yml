@@ -4,4 +4,4 @@ custom-model-data: 8377
 model: 'cocricotmod:block/wallpaint_palmtree_white'
 block:
   type: item
-  wall: true
+  pitch: -90

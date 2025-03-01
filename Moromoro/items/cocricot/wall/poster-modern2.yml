@@ -4,4 +4,4 @@ custom-model-data: 6283
 model: 'cocricotmod:block/poster_modern2'
 block:
   type: item
-  wall: true
+  pitch: -90

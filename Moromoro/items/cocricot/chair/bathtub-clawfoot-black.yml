@@ -5,3 +5,10 @@ model: cocricotmod:block/bathtub_clawfoot_black
 block:
   type: item
   sit-height: 0.4375
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient
+        volume: 2
+      - type: toggle-custom-block
+        key: bathtub-clawfoot-black-water

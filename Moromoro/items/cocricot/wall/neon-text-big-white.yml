@@ -4,4 +4,4 @@ custom-model-data: 6150
 model: 'cocricotmod:block/neon_text_big_white'
 block:
   type: item
-  wall: true
+  pitch: -90

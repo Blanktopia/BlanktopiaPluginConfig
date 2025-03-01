@@ -4,4 +4,4 @@ custom-model-data: 2888
 model: 'cocricotmod:block/captionplate_wood_upper'
 block:
   type: item
-  wall: true
+  pitch: -90

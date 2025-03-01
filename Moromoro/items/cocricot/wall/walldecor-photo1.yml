@@ -4,4 +4,4 @@ custom-model-data: 8364
 model: 'cocricotmod:block/walldecor_photo1'
 block:
   type: item
-  wall: true
+  pitch: -90

@@ -2,6 +2,9 @@ name: Shower Rain Silver
 item: paper
 custom-model-data: 7242
 model: 'cocricotmod:block/shower_rain_silver'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient

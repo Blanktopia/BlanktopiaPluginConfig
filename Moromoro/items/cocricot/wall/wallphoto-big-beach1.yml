@@ -4,4 +4,4 @@ custom-model-data: 8379
 model: 'cocricotmod:block/wallphoto_big_beach1'
 block:
   type: item
-  wall: true
+  pitch: -90

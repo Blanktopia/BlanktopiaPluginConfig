@@ -2,6 +2,9 @@ name: Toilet Hightank White
 item: paper
 custom-model-data: 8317
 model: 'cocricotmod:block/toilet_hightank_white'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: item.bucket.empty

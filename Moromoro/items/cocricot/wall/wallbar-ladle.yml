@@ -4,4 +4,4 @@ custom-model-data: 8352
 model: 'cocricotmod:block/wallbar_ladle'
 block:
   type: item
-  wall: true
+  pitch: -90

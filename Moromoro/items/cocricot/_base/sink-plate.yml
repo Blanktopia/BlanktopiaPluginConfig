@@ -2,6 +2,9 @@ name: Sink Plate
 item: paper
 custom-model-data: 7314
 model: 'cocricotmod:block/sink_plate'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient

@@ -4,4 +4,4 @@ custom-model-data: 6108
 model: 'cocricotmod:block/menu_board_brown'
 block:
   type: item
-  wall: true
+  pitch: -90

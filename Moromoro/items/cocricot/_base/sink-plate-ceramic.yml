@@ -5,3 +5,7 @@ model: cocricotmod:block/sink_plate_ceramic
 block:
   type: item
   collision: true
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient

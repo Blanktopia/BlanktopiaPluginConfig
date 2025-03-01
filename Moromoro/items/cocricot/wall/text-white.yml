@@ -4,4 +4,4 @@ custom-model-data: 8262
 model: 'cocricotmod:block/text_white'
 block:
   type: item
-  wall: true
+  pitch: -90

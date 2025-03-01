@@ -4,4 +4,4 @@ custom-model-data: 8360
 model: 'cocricotmod:block/walldecor_paper_botanical'
 block:
   type: item
-  wall: true
+  pitch: -90

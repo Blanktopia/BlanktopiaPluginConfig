@@ -4,4 +4,4 @@ custom-model-data: 8518
 model: 'cocricotmod:block/wallshelf_jar'
 block:
   type: item
-  wall: true
+  pitch: -90

@@ -4,4 +4,4 @@ custom-model-data: 2380
 model: 'cocricotmod:block/bathrobe_white'
 block:
   type: item
-  wall: true
+  pitch: -90

@@ -4,4 +4,4 @@ custom-model-data: 3112
 model: 'cocricotmod:block/clock_wall_cuckoo'
 block:
   type: item
-  wall: true
+  pitch: -90

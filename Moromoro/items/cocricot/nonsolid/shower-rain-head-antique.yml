@@ -2,6 +2,9 @@ name: Shower Rain Head Antique
 item: paper
 custom-model-data: 7238
 model: 'cocricotmod:block/shower_rain_head_antique'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient

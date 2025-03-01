@@ -2,6 +2,9 @@ name: Shower Rain Head Silver
 item: paper
 custom-model-data: 7241
 model: 'cocricotmod:block/shower_rain_head_silver'
-
 block:
   type: item
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient

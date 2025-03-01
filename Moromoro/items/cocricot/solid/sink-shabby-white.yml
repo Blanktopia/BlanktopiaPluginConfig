@@ -5,3 +5,8 @@ model: cocricotmod:block/sink_shabby_white
 block:
   type: item
   collision: true
+  triggers:
+    block-use:
+      - type: play-sound
+        sound: block.water.ambient
+        volume: 2
