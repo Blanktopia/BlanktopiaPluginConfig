@@ -5,3 +5,4 @@ model: cocricotmod:block/chair_dining_windsor_dark
 block:
   type: item
   sit-height: 0.4375
+  yaw: 270

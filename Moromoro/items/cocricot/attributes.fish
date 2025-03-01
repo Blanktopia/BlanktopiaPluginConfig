@@ -21,4 +21,7 @@ for file in bed/bed-{frame,mattress}*.yml
 end
 
 echo "Marking wall items as wall"
-yq -Y -i '.block.wall = true' wall/*.yml
+yq -Y -i '.block.pitch = -90' wall/*.yml
+
+echo "Rotating chairs"
+find chair/ -regextype sed -regex 'chair/chair-\(dining\|garden\|midcentury\|paris\|rocking\).*' -exec yq -Y -i '.block.yaw = 270' {} \;
