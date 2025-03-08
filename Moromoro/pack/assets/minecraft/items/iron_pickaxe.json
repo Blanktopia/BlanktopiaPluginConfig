@@ -1,1 +1,1 @@
-{"model":{"entries":[{"threshold":1,"model":{"model":"blanktopia:rares/wrecking_ball","type":"model"}}],"fallback":{"model":"item/iron_pickaxe","type":"model"},"type":"range_dispatch","property":"custom_model_data"}}
+{"model":{"type":"minecraft:range_dispatch","property":"custom_model_data","entries":[{"threshold":1.0,"model":{"type":"minecraft:model","model":"blanktopia:rares/wrecking_ball"}}],"fallback":{"type":"minecraft:model","model":"minecraft:item/iron_pickaxe"}}}

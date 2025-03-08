@@ -1,1 +1,1 @@
-{"model":{"entries":[{"threshold":2,"model":{"model":"blanktopia:cosmetics/kitchen_knife","type":"model"}}],"fallback":{"model":"item/netherite_sword","type":"model"},"type":"range_dispatch","property":"custom_model_data"}}
+{"model":{"type":"minecraft:range_dispatch","property":"custom_model_data","entries":[{"threshold":2.0,"model":{"type":"minecraft:model","model":"blanktopia:cosmetics/kitchen_knife"}}],"fallback":{"type":"minecraft:model","model":"minecraft:item/netherite_sword"}}}

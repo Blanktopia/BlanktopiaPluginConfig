@@ -1,6 +1,6 @@
 {
   "parent": "item/bow",
   "textures": {
-    "layer0": "blanktopia:item/rares/anti_gravity_bow"
+    "layer0": "blanktopia:item/rares/anti_gravity_bow_pulling_1"
   }
 }

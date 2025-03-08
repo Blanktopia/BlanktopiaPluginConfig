@@ -3,16 +3,6 @@ name: "<transition:#1363d3:#5eeaf2>Cobalt Drill"
 item: netherite_pickaxe
 custom-model-data: 1
 model: "blanktopia:rares/cobalt_drill"
-models:
-  - item: netherite_shovel
-    predicate: {custom_model_data: 1}
-    model: "blanktopia:rares/cobalt_drill"
-  - item: netherite_axe
-    predicate: {custom_model_data: 1}
-    model: "blanktopia:rares/cobalt_drill"
-  - item: diamond_hoe
-    predicate: {custom_model_data: 1}
-    model: "blanktopia:rares/cobalt_drill"
 unbreakable: true
 unenchantable: true
 unique: true
@@ -26,6 +16,18 @@ lore:
   - ''
   - '<white>Hold <aqua>Sneak<white> to disable'
   - '<aqua>Silk Touch<white>.'
+tool:
+  default-mining-speed: 9.0
+  damage-per-block: 1
+  rules:
+    - blocks: '#mineable/pickaxe'
+      correct-for-drops: true
+    - blocks: '#mineable/shovel'
+      correct-for-drops: true
+    - blocks: '#mineable/axe'
+      correct-for-drops: true
+    - blocks: '#mineable/hoe'
+      correct-for-drops: true
 enchantments:
   blanktopia:soulbound: 1
   efficiency: 8
@@ -47,24 +49,12 @@ triggers:
       pitch: 0.5
       sound: ui.stonecutter.take_result
       volume: 0.3
-  right-click-block:
-    - type: multi-tool
-      tools:
-        - NETHERITE_PICKAXE
-        - NETHERITE_SHOVEL
-        - NETHERITE_AXE
-        - DIAMOND_HOE
+  right-click:
     - type: play-sound
       pitch: 0.5
       sound: ui.stonecutter.take_result
       volume: 0.3
   left-click-block:
-    - type: multi-tool
-      tools:
-        - NETHERITE_PICKAXE
-        - NETHERITE_SHOVEL
-        - NETHERITE_AXE
-        - DIAMOND_HOE
     - type: play-sound
       pitch: 0.5
       sound: ui.stonecutter.take_result

@@ -2,17 +2,37 @@ version: 4
 name: "<transition:#eba5ff:#c800fa>Anti-Gravity Bow"
 item: bow
 custom-model-data: 1
-model: "blanktopia:rares/anti_gravity_bow"
-models:
-  - item: bow
-    predicate: {custom_model_data: 1, pulling: 1}
-    model: "blanktopia:rares/anti_gravity_bow_pulling_0"
-  - item: bow
-    predicate: {custom_model_data: 1, pulling: 1, pull: 0.65}
-    model: "blanktopia:rares/anti_gravity_bow_pulling_1"
-  - item: bow
-    predicate: {custom_model_data: 1, pulling: 1, pull: 0.9}
-    model: "blanktopia:rares/anti_gravity_bow_pulling_2"
+custom-model: {
+    "type": "minecraft:range_dispatch",
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "blanktopia:rares/anti_gravity_bow_pulling_0"
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "blanktopia:rares/anti_gravity_bow_pulling_1"
+        },
+        "threshold": 13
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "blanktopia:rares/anti_gravity_bow_pulling_2"
+        },
+        "threshold": 18
+      }
+    ],
+    "property": "minecraft:use_duration",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "blanktopia:rares/anti_gravity_bow"
+    }
+  }
 unbreakable: true
 unenchantable: true
 unique: true

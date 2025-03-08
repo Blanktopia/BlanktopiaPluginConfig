@@ -2,23 +2,58 @@ version: 1
 name: "<transition:#ef4faa:#ef4f61>Chu Ko Nu"
 item: crossbow
 custom-model-data: 1
-model: "blanktopia:rares/chu_ko_nu"
-models:
-  - item: crossbow
-    predicate: {custom_model_data: 1, pulling: 1}
-    model: "blanktopia:rares/chu_ko_nu_pulling_0"
-  - item: crossbow
-    predicate: {custom_model_data: 1, pulling: 2}
-    model: "blanktopia:rares/chu_ko_nu_pulling_1"
-  - item: crossbow
-    predicate: {custom_model_data: 1, pulling: 3}
-    model: "blanktopia:rares/chu_ko_nu_pulling_2"
-  - item: crossbow
-    predicate: {custom_model_data: 1, charged: 1}
-    model: "blanktopia:rares/chu_ko_nu_arrow"
-  - item: crossbow
-    predicate: {custom_model_data: 1, charged: 1, firework: 1}
-    model: "blanktopia:rares/chu_ko_nu_firework"
+custom-model: {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:select",
+      "cases": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "blanktopia:rares/chu_ko_nu_arrow"
+          },
+          "when": "arrow"
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "blanktopia:rares/chu_ko_nu_firework"
+          },
+          "when": "rocket"
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "blanktopia:rares/chu_ko_nu"
+      },
+      "property": "minecraft:charge_type"
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "blanktopia:rares/chu_ko_nu_pulling_1"
+          },
+          "threshold": 0.58
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "blanktopia:rares/chu_ko_nu_pulling_2"
+          },
+          "threshold": 1.0
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "blanktopia:rares/chu_ko_nu_pulling_0"
+      },
+      "property": "minecraft:crossbow/pull"
+    },
+    "property": "minecraft:using_item"
+  }
 unbreakable: true
 unenchantable: true
 unique: true

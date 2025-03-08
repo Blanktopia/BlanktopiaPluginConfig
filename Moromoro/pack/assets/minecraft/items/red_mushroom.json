@@ -1,1 +1,1 @@
-{"model":{"entries":[{"threshold":1,"model":{"model":"blanktopia:hats/red_mushroom_hat","type":"model"}}],"fallback":{"model":"item/red_mushroom","type":"model"},"type":"range_dispatch","property":"custom_model_data"}}
+{"model":{"type":"minecraft:range_dispatch","property":"custom_model_data","entries":[{"threshold":1.0,"model":{"type":"minecraft:model","model":"blanktopia:hats/red_mushroom_hat"}}],"fallback":{"type":"minecraft:model","model":"minecraft:item/red_mushroom"}}}
