@@ -5,5 +5,17 @@
   },
   "meta": {
     "game_version": "1.21.4"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 46,
+        "directory": "sparkles"
+      },
+      {
+        "formats": 46,
+        "directory": "dnt"
+      }
+    ]
   }
 }
