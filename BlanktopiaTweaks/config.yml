@@ -52,8 +52,59 @@ pettable-entities:
   - WOLF
   - ZOGLIN
   - ZOMBIE_HORSE
+  - FROG
+  - CAMEL
+  - SNIFFER
+  - ARMADILLO
 
 void-keep-inventory: true
-suffocate-keep-inventory: true
 
-sakura-biome: false
+sakura-biome: true
+
+random-sized-entities:
+  - AXOLOTL
+  - BAT
+  - BEE
+  - CAT
+  - CHICKEN
+  - COD
+  - COW
+  - DOLPHIN
+  - DONKEY
+  - FOX
+  - GLOW_SQUID
+  - GOAT
+  - HOGLIN
+  - HORSE
+  - LLAMA
+  - MULE
+  - MUSHROOM_COW
+  - OCELOT
+  - PANDA
+  - PARROT
+  - PIG
+  - POLAR_BEAR
+  - PUFFERFISH
+  - RABBIT
+  - SALMON
+  - SHEEP
+  - SKELETON_HORSE
+  - SNOWMAN
+  - STRIDER
+  - TRADER_LLAMA
+  - TROPICAL_FISH
+  - TURTLE
+  - WOLF
+  - ZOGLIN
+  - FROG
+  - CAMEL
+  - SNIFFER
+  - ARMADILLO
+
+protect-named-entities: true
+no-drown-entities:
+  - DOLPHIN
+no-dryout-entities:
+  - DOLPHIN
+  - AXOLOTL
+no-suffocate-entities: []
