@@ -19,8 +19,20 @@ slots:
   - TRINKET
 triggers:
   tick-slow:
-    - type: set-hunger
-      hunger: 19
+    - type: if
+      if:
+        type: saturation
+        saturation: 19
+        comparison: <
+      then:
+        - type: set-hunger
+          hunger: 19
   equip-armor:
-    - type: set-hunger
-      hunger: 19
+    - type: if
+      if:
+        type: saturation
+        saturation: 19
+        comparison: <
+      then:
+        - type: set-hunger
+          hunger: 19
