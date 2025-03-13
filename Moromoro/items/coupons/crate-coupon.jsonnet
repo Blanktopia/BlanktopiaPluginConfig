@@ -21,7 +21,7 @@ local crateCoupon(name, crate) = {
     'right-click': [
       {
         type: 'console-command',
-        command: 'excellentcrates:crates key give * ' + std.asciiLower(crate) + ' 1',
+        command: 'excellentcrates:crates key giveall ' + std.asciiLower(crate) + ' 1',
       },
       {
         type: 'all-players',
@@ -38,7 +38,7 @@ local crateCoupon(name, crate) = {
       },
       {
         type: 'console-command',
-        command: 'broadcast <gold>%p<gold> has given everyone a ' + name + ' Crate Key.',
+        command: 'tellraw @a ["",{"text":"%p","color":"gold"},{"text":" has given everyone a key.","color":"gold"}]',
       },
       {
         type: 'remove-item'

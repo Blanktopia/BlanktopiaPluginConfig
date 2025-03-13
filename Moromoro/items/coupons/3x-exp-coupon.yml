@@ -16,8 +16,8 @@ triggers:
     - type: experience-boost
       multiplier: 3
       duration: 6000
-    - type: message
-      message: "<gold>Received <aqua>3x EXP<gold> buff for 5 minutes."
+    - type: console-command
+      command: tellraw %p ["",{"text":"Received 3x EXP buff for 5 minutes.","color":"gold"}]
     - type: play-sound
       sound: entity.experience_orb.pickup
     - type: play-sound

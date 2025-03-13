@@ -3,6 +3,7 @@
    "enchantments": {
       "blanktopia:final": 1
    },
+   "item": "paper",
    "lore": [
       "<dark_grey>-------------------------",
       "",
@@ -11,13 +12,12 @@
       "",
       "<dark_grey>-------------------------"
    ],
-   "item": "paper",
    "model": "blanktopia:misc/key_coupon",
    "name": "<gold>NATURE Crate Coupon",
    "triggers": {
       "right-click": [
          {
-            "command": "excellentcrates:crates key give * nature 1",
+            "command": "excellentcrates:crates key giveall nature 1",
             "type": "console-command"
          },
          {
@@ -34,7 +34,7 @@
             "type": "all-players"
          },
          {
-            "command": "broadcast <gold>%p<gold> has given everyone a NATURE Crate Key.",
+            "command": "tellraw @a [\"\",{\"text\":\"%p\",\"color\":\"gold\"},{\"text\":\" has given everyone a key.\",\"color\":\"gold\"}]",
             "type": "console-command"
          },
          {
