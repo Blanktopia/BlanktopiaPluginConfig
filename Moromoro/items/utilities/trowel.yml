@@ -1,0 +1,33 @@
+name: "<#7b9686>Trowel"
+item: paper
+item-model: blanktopia:rares/trowel
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
+unique: true
+lore:
+  - ''
+  - '<aqua>Right-click<white> to place a random'
+  - '<white>block from your hot bar.'
+triggers:
+  tick-slow:
+    - type: raycast
+      range: 20
+      actions:
+        - type: highlight-block
+          color: 1677725696
+  right-click:
+    - type: if
+      if:
+        type: item-cooldown
+      then:
+        - type: if
+          if:
+            type: raycast
+            range: 20
+            actions:
+              - type: place-random-block
+          then:
+            - type: item-cooldown
+              ticks: 1
+    - type: cancel

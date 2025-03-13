@@ -1,0 +1,28 @@
+name: "<transition:#33333b:#3b333a>Void Bundle"
+item: gray_bundle
+item-model: blanktopia:rares/void_bundle
+lore:
+  - ''
+  - '<white>Automatically empties its'
+  - '<white>contents into the void.'
+enchantments:
+  blanktopia:soulbound: 1
+enchantment-glint: false
+unique: true
+triggers:
+  left-click-on-other-inventory:
+    - type: if
+      if:
+        type: void-bundle
+      then:
+        - type: play-sound
+          sound: entity.player.teleport
+          pitch: 0.8
+  left-click-other-on-inventory:
+    - type: if
+      if:
+        type: void-bundle
+      then:
+        - type: play-sound
+          sound: entity.player.teleport
+          pitch: 0.8
