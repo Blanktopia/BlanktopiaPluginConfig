@@ -11,8 +11,7 @@ unique: true
 lore:
   - ''
   - '<white>Automatically refills your'
-  - '<white>hunger, but keeps your'
-  - '<white>saturation low.'
+  - '<white>hunger when low.'
   - ''
   - '<grey>Slot: <#ff4e1d>Trinket'
 slots:
@@ -21,8 +20,8 @@ triggers:
   tick-slow:
     - type: if
       if:
-        type: saturation
-        saturation: 19
+        type: hunger
+        hunger: 19
         comparison: <
       then:
         - type: set-hunger
@@ -30,8 +29,8 @@ triggers:
   equip-armor:
     - type: if
       if:
-        type: saturation
-        saturation: 19
+        type: hunger
+        hunger: 19
         comparison: <
       then:
         - type: set-hunger
