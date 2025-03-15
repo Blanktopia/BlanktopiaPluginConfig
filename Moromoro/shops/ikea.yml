@@ -874,6 +874,10 @@ categories:
       price: ruby
     - item: food-pancake-chocolate-berry
       price: ruby
+    - item: steak-ironplate
+      price: ruby
+    - item: steak-luxury
+      price: ruby
     - item: hamburger-american
       price: ruby
     - item: hamburger-fastfood
@@ -1297,6 +1301,8 @@ categories:
     - item: register-black
       price: ruby
     - item: register-white
+      price: ruby
+    - item: signboard-square-lighting-up
       price: ruby
     - item: signboard-square-lighting-down
       price: ruby
