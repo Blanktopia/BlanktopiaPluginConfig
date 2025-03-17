@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:range_dispatch","property":"custom_model_data","entries":[{"threshold":1.0,"model":{"type":"minecraft:model","model":"blanktopia:misc/key"}}],"fallback":{"type":"minecraft:model","model":"minecraft:item/tripwire_hook"}}}
+{"model":{"type":"minecraft:range_dispatch","property":"custom_model_data","entries":[{"threshold":1.0,"model":{"type":"minecraft:model","model":"blanktopia:misc/key"}}],"fallback":{"type":"minecraft:model","model":"item/tripwire_hook"}}}

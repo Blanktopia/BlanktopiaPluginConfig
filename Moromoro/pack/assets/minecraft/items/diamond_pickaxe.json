@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:range_dispatch","property":"custom_model_data","entries":[{"threshold":1450500.0,"model":{"type":"minecraft:model","model":"incendium:item/hefty"}}],"fallback":{"type":"minecraft:model","model":"item/diamond_pickaxe"}}}

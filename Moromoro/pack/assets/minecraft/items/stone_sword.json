@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:range_dispatch","property":"custom_model_data","entries":[{"threshold":1450607.0,"model":{"type":"minecraft:model","model":"incendium:item/piglin_slayer"}}],"fallback":{"type":"minecraft:model","model":"item/stone_sword"}}}
