@@ -1,0 +1,645 @@
+name: Building Blocks
+categories:
+  Colour:
+  # White:
+    - item: white_wool:64
+      price: ruby
+    - item: white_concrete:64
+      price: ruby
+    - item: white_concrete_powder:64
+      price: ruby
+    - item: white_glazed_terracotta:64
+      price: ruby
+    - item: white_stained_glass:64
+      price: ruby
+    - item: diorite:64
+      price: ruby
+    - item: birch_log:16
+      price: ruby
+    - item: quartz_block:64
+      price: ruby
+    - item: smooth_quartz:64
+      price: ruby
+    - item: white_terracotta:64
+      price: ruby
+
+  # Light Gray:
+    - item: light_gray_terracotta:64
+      price: ruby
+    - item: light_gray_wool:64
+      price: ruby
+    - item: light_gray_concrete_powder:64
+      price: ruby
+    - item: light_gray_concrete:64
+      price: ruby
+    - item: light_gray_glazed_terracotta:64
+      price: ruby
+    - item: light_gray_stained_glass:64
+      price: ruby
+    - item: acacia_log:16
+      price: ruby
+    - item: gravel:64
+      price: ruby
+    - item: andesite:64
+      price: ruby
+    - item: stone:64
+      price: ruby
+    - item: cobblestone:64
+      price: ruby
+    - item: mossy_cobblestone:64
+      price: ruby
+    - item: tuff:64
+      price: ruby
+
+  # Gray:
+    - item: deepslate:64
+      price: ruby
+    - item: cobbled_deepslate:64
+      price: ruby
+    - item: basalt:64
+      price: ruby
+    - item: polished_basalt:64
+      price: ruby
+    - item: smooth_basalt:64
+      price: ruby
+
+    - item: gray_wool:64
+      price: ruby
+    - item: gray_glazed_terracotta:64
+      price: ruby
+    - item: gray_concrete_powder:64
+      price: ruby
+    - item: gray_concrete:64
+      price: ruby
+    - item: mud:64
+      price: ruby
+    - item: pale_oak_log:16
+      price: ruby
+    - item: gray_stained_glass:64
+      price: ruby
+
+  # Black:
+    - item: blackstone:64
+      price: ruby
+    - item: black_wool:64
+      price: ruby
+    - item: black_concrete_powder:64
+      price: ruby
+    - item: black_concrete:64
+      price: ruby
+    - item: black_stained_glass:64
+      price: ruby
+
+  # Brown:
+    - item: black_terracotta:64
+      price: ruby
+    - item: gray_terracotta:64
+      price: ruby
+    - item: spruce_log:16
+      price: ruby
+    - item: dark_oak_log:16
+      price: ruby
+    - item: stripped_dark_oak_log:16
+      price: ruby
+    - item: soul_sand:64
+      price: ruby
+    - item: soul_soil:64
+      price: ruby
+    - item: brown_terracotta:64
+      price: ruby
+    - item: brown_concrete_powder:64
+      price: ruby
+    - item: brown_concrete:64
+      price: ruby
+    - item: brown_wool:64
+      price: ruby
+    - item: mangrove_log:16
+      price: ruby
+    - item: jungle_log:16
+      price: ruby
+    - item: oak_log:16
+      price: ruby
+    - item: stripped_spruce_log:16
+      price: ruby
+    - item: stripped_oak_log:16
+      price: ruby
+    - item: stripped_jungle_log:16
+      price: ruby
+    - item: stripped_birch_log:16
+      price: ruby
+    - item: brown_glazed_terracotta:64
+      price: ruby
+    - item: brown_stained_glass:64
+      price: ruby
+    - item: podzol:64
+      price: ruby
+    - item: coarse_dirt:64
+      price: ruby
+    - item: dirt:64
+      price: ruby
+    - item: rooted_dirt:64
+      price: ruby
+    - item: mud_bricks:48
+      price: ruby
+    - item: packed_mud:48
+      price: ruby
+    - item: brown_mushroom_block:48
+      price: ruby
+    - item: brown_mushroom_block:64
+      price: ruby
+
+  # Red:
+    - item: black_glazed_terracotta:64
+      price: ruby
+    - item: nether_bricks:64
+      price: ruby
+    - item: red_nether_bricks:64
+      price: ruby
+    - item: crimson_stem:64
+      price: ruby
+    - item: stripped_crimson_stem:64
+      price: ruby
+    - item: stripped_mangrove_log:16
+      price: ruby
+    - item: red_concrete:64
+      price: ruby
+    - item: red_concrete_powder:64
+      price: ruby
+    - item: red_wool:64
+      price: ruby
+    - item: weeping_vines:32
+      price: ruby
+    - item: crimson_roots:32
+      price: ruby
+    - item: crimson_nylium:64
+      price: ruby
+    - item: nether_wart_block:64
+      price: ruby
+    - item: red_mushroom_block:64
+      price: ruby
+    - item: red_glazed_terracotta:64
+      price: ruby
+    - item: red_stained_glass:64
+      price: ruby
+    - item: red_terracotta:64
+      price: ruby
+    - item: bricks:64
+      price: ruby
+    - item: granite:64
+      price: ruby
+    - item: terracotta:64
+      price: ruby
+
+  # Orange:
+    - item: orange_terracotta:64
+      price: ruby
+    - item: stripped_acacia_log:16
+      price: ruby
+    - item: red_sandstone:16
+      price: ruby
+    - item: red_sand:64
+      price: ruby
+    - item: orange_concrete_powder:64
+      price: ruby
+    - item: orange_concrete:64
+      price: ruby
+    - item: orange_wool:64
+      price: ruby
+    - item: orange_glazed_terracotta:64
+      price: ruby
+    - item: orange_stained_glass:64
+      price: ruby
+
+  # Yellow:
+    - item: yellow_terracotta:64
+      price: ruby
+    - item: yellow_concrete:64
+      price: ruby
+    - item: yellow_concrete_powder:64
+      price: ruby
+    - item: yellow_wool:64
+      price: ruby
+    - item: yellow_glazed_terracotta:64
+      price: ruby
+    - item: yellow_stained_glass:64
+      price: ruby
+    - item: stripped_bamboo_block:32
+      price: ruby
+    - item: endstone:64
+      price: ruby
+
+  # Lime:
+    - item: lime_glazed_terracotta:64
+      price: ruby
+    - item: lime_wool:64
+      price: ruby
+    - item: lime_concrete_powder:64
+      price: ruby
+    - item: lime_concrete:64
+      price: ruby
+    - item: lime_stained_glass:64
+      price: ruby
+    - item: bamboo_block:32
+      price: ruby
+    - item: lime_terracotta:64
+      price: ruby
+
+  # Green:
+    - item: green_glazed_terracotta:64
+      price: ruby
+    - item: green_wool:64
+      price: ruby
+    - item: moss:64
+      price: ruby
+    - item: green_concrete:64
+      price: ruby
+    - item: green_terracotta:64
+      price: ruby
+    - item: green_stained_glass:64
+      price: ruby
+    - item: vines:32
+      price: ruby
+
+  # Cyan:
+    - item: dark_prismarine:16
+      price: ruby
+    - item: prismarine_bricks:32
+      price: ruby
+    - item: prismarine:64
+      price: ruby
+    - item: twisting_vines:32
+      price: ruby
+    - item: warped_roots:32
+      price: ruby
+    - item: nether_sprouts:32
+      price: ruby
+    - item: glow_lichen:32
+      price: ruby
+    - item: cyan_glazed_terracotta:64
+      price: ruby
+    - item: cyan_concrete_powder:64
+      price: ruby
+    - item: cyan_wool:64
+      price: ruby
+    - item: cyan_concrete:64
+      price: ruby
+    - item: cyan_stained_glass:64
+      price: ruby
+    - item: cyan_terracotta:64
+      price: ruby
+    - item: warped_nylium:64
+      price: ruby
+    - item: warped_stem:16
+      price: ruby
+    - item: stripped_warped_stem:16
+      price: ruby
+    - item: warped_wart_block:64
+      price: ruby
+
+  # Light Blue:
+    - item: light_blue_concrete:64
+      price: ruby
+    - item: light_blue_concrete_powder:64
+      price: ruby
+    - item: light_blue_glazed_terracotta:64
+      price: ruby
+    - item: light_blue_wool:64
+      price: ruby
+    - item: light_blue_stained_glass:64
+      price: ruby
+    - item: ice:64
+      price: ruby
+    - item: light_blue_terracotta:64
+      price: ruby
+
+  # Blue:
+    - item: blue_concrete_powder:64
+      price: ruby
+    - item: blue_wool:64
+      price: ruby
+    - item: blue_concrete:64
+      price: ruby
+    - item: blue_glazed_terracotta:64
+      price: ruby
+    - item: blue_stained_glass:64
+      price: ruby
+
+  # Purple:
+    - item: blue_terracotta:64
+      price: ruby
+    - item: purple_concrete:64
+      price: ruby
+    - item: purple_glazed_terracotta:64
+      price: ruby
+    - item: purple_concrete_powder:64
+      price: ruby
+    - item: purple_wool:64
+      price: ruby
+    - item: purple_stained_glass:64
+      price: ruby
+    - item: purple_terracotta:64
+      price: ruby
+    - item: purpur_block:64
+      price: ruby
+
+  # Magenta:
+    - item: magenta_concrete:64
+      price: ruby
+    - item: magenta_glazed_terracotta:64
+      price: ruby
+    - item: magenta_concrete_powder:64
+      price: ruby
+    - item: magenta_wool:64
+      price: ruby
+    - item: magenta_stained_glass:64
+      price: ruby
+    - item: magenta_terracotta:64
+      price: ruby
+
+  # Pink:
+    - item: pink_terracotta:64
+      price: ruby
+    - item: pink_concrete:64
+      price: ruby
+    - item: pink_glazed_terracotta:64
+      price: ruby
+    - item: pink_concrete_powder:64
+      price: ruby
+    - item: pink_wool:64
+      price: ruby
+    - item: pink_stained_glass:64
+      price: ruby
+    - item: stripped_cherry_log:16
+      price: ruby
+    - item: cherry_log:16
+      price: ruby
+
+  Overworld:
+    - item: grass_block:64
+      price: ruby
+    - item: dirt:64
+      price: ruby
+    - item: coarse_dirt:64
+      price: ruby
+    - item: podzol:64
+      price: ruby
+    - item: rooted_dirt:64
+      price: ruby
+    - item: clay:64
+      price: ruby
+    - item: terracotta:64
+      price: ruby
+    - item: stone:64
+      price: ruby
+    - item: cobblestone:64
+      price: ruby
+    - item: mossy_cobblestone:64
+      price: ruby
+    - item: granite:64
+      price: ruby
+    - item: diorite:64
+      price: ruby
+    - item: andesite:64
+      price: ruby
+    - item: deepslate:64
+      price: ruby
+    - item: cobbled_deepslate:64
+      price: ruby
+    - item: tuff:64
+      price: ruby
+    - item: gravel:64
+      price: ruby
+    - item: sand:64
+      price: ruby
+    - item: sandstone:16
+      price: ruby
+    - item: red_sand:64
+      price: ruby
+    - item: red_sandstone:16
+      price: ruby
+    - item: glass:64
+      price: ruby
+    - item: bricks:64
+      price: ruby
+    - item: mud:64
+      price: ruby
+    - item: packed_mud:48
+      price: ruby
+    - item: mud_bricks:48
+      price: ruby
+    - item: white_concrete:64
+      price: ruby
+    - item: prismarine:64
+      price: ruby
+    - item: prismarine_bricks:32
+      price: ruby
+    - item: dark_prismarine:16
+      price: ruby
+    - item: sea_lantern:16
+      price: ruby
+    - item: resin_block:16
+      price: ruby
+
+  Nether:
+    - item: netherrack:64
+      price: ruby
+    - item: nether_bricks:64
+      price: ruby
+    - item: red_nether_bricks:64
+      price: ruby
+    - item: netherrack:64
+      price: ruby
+    - item: crimson_nylium:64
+      price: ruby
+    - item: warped_nylium:64
+      price: ruby
+    - item: nether_wart_block:64
+      price: ruby
+    - item: warped_wart_block:64
+      price: ruby
+    - item: shroomlight:64
+      price: ruby
+    - item: soul_sand:64
+      price: ruby
+    - item: soul_soil:64
+      price: ruby
+    - item: magma_block:64
+      price: ruby
+    - item: quartz_block:64
+      price: ruby
+    - item: smooth_quartz:64
+      price: ruby
+    - item: stripped_pale_oak_log:16
+      price: ruby
+    - item: basalt:64
+      price: ruby
+    - item: polished_basalt:64
+      price: ruby
+    - item: smooth_basalt:64
+      price: ruby
+    - item: blackstone:64
+      price: ruby
+
+  End:
+    - item: endstone:64
+      price: ruby
+    - item: purpur_block:64
+      price: ruby
+
+  Wood:
+    - item: oak_log:16
+      price: ruby
+    - item: stripped_oak_log:16
+      price: ruby
+    - item: spruce_log:16
+      price: ruby
+    - item: stripped_spruce_log:16
+      price: ruby
+    - item: birch_log:16
+      price: ruby
+    - item: stripped_birch_log:16
+      price: ruby
+    - item: jungle_log:16
+      price: ruby
+    - item: stripped_jungle_log:16
+      price: ruby
+    - item: acacia_log:16
+      price: ruby
+    - item: stripped_acacia_log:16
+      price: ruby
+    - item: dark_oak_log:16
+      price: ruby
+    - item: stripped_dark_oak_log:16
+      price: ruby
+    - item: mangrove_log:16
+      price: ruby
+    - item: stripped_mangrove_log:16
+      price: ruby
+    - item: bamboo_block:32
+      price: ruby
+    - item: stripped_bamboo_block:32
+      price: ruby
+    - item: cherry_log:16
+      price: ruby
+    - item: stripped_cherry_log:16
+      price: ruby
+    - item: pale_oak_log:16
+      price: ruby
+    - item: stripped_pale_oak_log:16
+      price: ruby
+    - item: crimson_stem:16
+      price: ruby
+    - item: stripped_crimson_stem:16
+      price: ruby
+    - item: warped_stem:16
+      price: ruby
+    - item: stripped_warped_stem:16
+      price: ruby
+    - item: brown_mushroom_block:64
+      price: ruby
+    - item: red_mushroom_block:64
+      price: ruby
+    - item: mushroom_stem:64
+      price: ruby
+
+  Plants:
+    - item: oak_leaves:64
+      price: ruby
+    - item: spruce_leaves:64
+      price: ruby
+    - item: birch_leaves:64
+      price: ruby
+    - item: jungle_leaves:64
+      price: ruby
+    - item: acacia_leaves:64
+      price: ruby
+    - item: dark_oak_leaves:64
+      price: ruby
+    - item: mangrove_leaves:64
+      price: ruby
+    - item: azalea_leaves:64
+      price: ruby
+    - item: flowering_azalea_leaves:64
+      price: ruby
+    - item: cherry_leaves:64
+      price: ruby
+    - item: pale_oak_leaves:64
+      price: ruby
+    - item: moss:64
+      price: ruby
+    - item: pale_moss_block:64
+      price: ruby
+    - item: vines:32
+      price: ruby
+    - item: glow_lichen:32
+      price: ruby
+    - item: pale_hanging_moss:32
+      price: ruby
+    - item: weeping_vines:32
+      price: ruby
+    - item: twisting_vines:32
+      price: ruby
+    - item: glow_berries:32
+      price: ruby
+    - item: hanging_roots:32
+      price: ruby
+    - item: crimson_roots:32
+      price: ruby
+    - item: warped_roots:32
+      price: ruby
+    - item: nether_sprouts:32
+      price: ruby
+    - item: azalea:16
+      price: ruby
+    - item: flowering_azalea:16
+      price: ruby
+    - item: short_grass:64
+      price: ruby
+    - item: fern:16
+      price: ruby
+    - item: dead_bush:8
+      price: ruby
+    - item: big_dripleaf:8
+      price: ruby
+    - item: small_dripleaf:8
+      price: ruby
+    - item: lily_pad:8
+      price: ruby
+    - item: shroomlight:32
+      price: ruby
+
+  Dyes:
+    - item: white_dye:32
+      price: ruby
+    - item: orange_dye:32
+      price: ruby
+    - item: magenta_dye:32
+      price: ruby
+    - item: light_blue_dye:32
+      price: ruby
+    - item: yellow_dye:32
+      price: ruby
+    - item: lime_dye:32
+      price: ruby
+    - item: pink_dye:32
+      price: ruby
+    - item: gray_dye:32
+      price: ruby
+    - item: light_gray_dye:32
+      price: ruby
+    - item: cyan_dye:32
+      price: ruby
+    - item: purple_dye:32
+      price: ruby
+    - item: blue_dye:32
+      price: ruby
+    - item: brown_dye:32
+      price: ruby
+    - item: green_dye:32
+      price: ruby
+    - item: red_dye:32
+      price: ruby
+    - item: black_dye:32
+      price: ruby
+
+  
