@@ -1,0 +1,30 @@
+version: 1
+name: "<transition:#258273:#8af1df>Wind Charge"
+item: wind_charge
+unbreakable: true
+unenchantable: true
+unique: true
+lore:
+  - ''
+  - '<aqua>Right-click<white> to launch a'
+  - '<white>wind charge.'
+enchantments:
+  blanktopia:soulbound: 1
+  infinity: 1
+triggers:
+  right-click:
+    - type: if
+      if:
+        type: item-cooldown
+      then:
+        - type: launch-entity
+          entity: ENDER_PEARL
+          magnitude: 1.5
+          pitch: 0
+        - type: play-sound
+          sound: entity.wind_charge.throw
+          pitch: 0.5
+          volume: 0.5
+        - type: item-cooldown
+          ticks: 10
+    - type: cancel
