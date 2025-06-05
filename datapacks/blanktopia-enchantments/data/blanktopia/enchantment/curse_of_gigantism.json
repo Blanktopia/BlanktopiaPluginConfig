@@ -1,0 +1,50 @@
+{
+  "description": "Curse of Gigantism",
+  "exclusive_set": [
+    "blanktopia:curse_of_dwarfism"
+  ],
+  "supported_items": "#minecraft:enchantable/armor",
+  "primary_items": "#minecraft:enchantable/armor",
+  "weight": 2,
+  "max_level": 1,
+  "min_cost": {
+      "base": 15,
+      "per_level_above_first": 0
+  },
+  "max_cost": {
+      "base": 50,
+      "per_level_above_first": 0
+  },
+  "anvil_cost": 2,
+  "slots": [
+      "armor"
+  ],
+  "effects": {
+      "minecraft:attributes": [
+        {
+            "attribute": "minecraft:scale",
+            "id": "blanktopia:curse_of_gigantism",
+            "amount": 0.2,
+            "operation": "add_multiplied_total"
+        },
+        {
+            "attribute": "minecraft:movement_speed",
+            "id": "blanktopia:curse_of_gigantism",
+            "amount": 0.15,
+            "operation": "add_multiplied_total"
+        },
+        {
+            "attribute": "minecraft:step_height",
+            "id": "blanktopia:curse_of_gigantism",
+            "amount": 0.15,
+            "operation": "add_multiplied_total"
+        },
+        {
+            "attribute": "minecraft:jump_strength",
+            "id": "blanktopia:curse_of_gigantism",
+            "amount": 0.15,
+            "operation": "add_multiplied_total"
+        }
+      ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "id": "blanktopia-ruby-ores",
+        "supported_formats": [
+            71
+        ],
+        "pack_format": 71,
+        "description": [
+            {
+                "text": "Ruby Ores",
+                "color": "#ffffff"
+            },
+            {
+                "text": "Blanktopia",
+                "color": "#ffffff"
+            }
+        ]
+    }
+}
