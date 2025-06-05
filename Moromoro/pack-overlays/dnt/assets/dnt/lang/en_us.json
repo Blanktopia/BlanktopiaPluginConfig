@@ -92,6 +92,10 @@
     "enchantment.dnt.multishot.desc": "Is just multishot but for bows.",
     "enchantment.dnt.spiteful": "Spiteful",
     "enchantment.dnt.spiteful.desc": "Extra damage at low health",
+    "enchantment.dnt.aerials_bane": "Aerial's Bane",
+    "enchantment.dnt.aerials_bane.desc": "Increased damage against mobs off the ground.",
+    "enchantment.dnt.postmortal_blow": "Postmortal Blow",
+    "enchantment.dnt.postmortal_blow.desc": "Mobs explode after they are defeated.",
 
     "item.dnt.citadel_boss_key": "Citadel Boss Key",
     "item.dnt.citadel_key": "Citadel Key",
@@ -106,8 +110,8 @@
     "item.dnt.shrine_key": "Shrine Key",
     "item.dnt.toxic_boss_key": "Toxic Boss Key",
     "item.dnt.toxic_key": "Toxic Key",
-    "item.dnt.trident_trial_boss_key": "Tident Trial Boss Key",
-    "item.dnt.trident_trial_key": "Tident Trial Key",
+    "item.dnt.trident_trial_boss_key": "Trident Trial Boss Key",
+    "item.dnt.trident_trial_key": "Trident Trial Key",
 
     "item.dnt.filled_map.traveler": "Traveler's Map",
     "item.dnt.filled_map.piglin_hamlet": "Piglin Hamlet Map",

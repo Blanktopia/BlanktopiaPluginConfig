@@ -90,6 +90,12 @@
     "enchantment.dnt.piercing.desc": "A les mêmes effets que Perforation mais pour les arcs",
     "enchantment.dnt.multishot": "Tir triple",
     "enchantment.dnt.multishot.desc": "A les mêmes effets que Tir multiple mais pour les arcs",
+    "enchantment.dnt.spiteful": "Spiteful",
+    "enchantment.dnt.spiteful.desc": "Extra damage at low health",
+    "enchantment.dnt.aerials_bane": "Aerial's Bane",
+    "enchantment.dnt.aerials_bane.desc": "Increased damage against mobs off the ground.",
+    "enchantment.dnt.postmortal_blow": "Postmortal Blow",
+    "enchantment.dnt.postmortal_blow.desc": "Mobs explode after they are defeated.",
 
     "item.dnt.citadel_boss_key": "Clé du Boss de la Citadelle",
     "item.dnt.citadel_key": "Clé de la Citadelle",

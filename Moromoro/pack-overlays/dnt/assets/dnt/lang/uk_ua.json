@@ -90,6 +90,12 @@
     "enchantment.dnt.piercing.desc": "Прострілює ціль наскрізь",
     "enchantment.dnt.multishot": "Потрійний вистріл",
     "enchantment.dnt.multishot.desc": "Вистрілює три стріли з лука",
+    "enchantment.dnt.spiteful": "Spiteful",
+    "enchantment.dnt.spiteful.desc": "Extra damage at low health",
+    "enchantment.dnt.aerials_bane": "Aerial's Bane",
+    "enchantment.dnt.aerials_bane.desc": "Increased damage against mobs off the ground.",
+    "enchantment.dnt.postmortal_blow": "Postmortal Blow",
+    "enchantment.dnt.postmortal_blow.desc": "Mobs explode after they are defeated.",
 
     "item.dnt.citadel_boss_key": "Ключ боса фортеці",
     "item.dnt.citadel_key": "Ключ фортеці",

@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:item/diamond_axe",
-  "textures": {
-    "layer0": "incendium:item/blazing"
-  }
+    "parent": "item/diamond_axe",
+    "textures": {
+        "layer0": "incendium:item/blazing"
+    }
 }

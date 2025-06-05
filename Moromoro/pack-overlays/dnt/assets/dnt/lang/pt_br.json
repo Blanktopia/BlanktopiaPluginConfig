@@ -90,6 +90,12 @@
     "enchantment.dnt.piercing.desc": "É só Perfuração só que para Arcos",
     "enchantment.dnt.multishot": "Tiro Triplo",
     "enchantment.dnt.multishot.desc": "É só Tiro Múltiplo só que para Arcos",
+    "enchantment.dnt.spiteful": "Spiteful",
+    "enchantment.dnt.spiteful.desc": "Extra damage at low health",
+    "enchantment.dnt.aerials_bane": "Aerial's Bane",
+    "enchantment.dnt.aerials_bane.desc": "Increased damage against mobs off the ground.",
+    "enchantment.dnt.postmortal_blow": "Postmortal Blow",
+    "enchantment.dnt.postmortal_blow.desc": "Mobs explode after they are defeated.",
 
     "item.dnt.citadel_boss_key": "Chave do Chefão da Cidadela",
     "item.dnt.citadel_key": "Chave da Cidadela",

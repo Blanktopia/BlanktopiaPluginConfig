@@ -92,6 +92,10 @@
     "enchantment.dnt.multishot.desc": "Gây nhiều phát bắt cho cung.",
     "enchantment.dnt.spiteful": "Cuồng bạo",
     "enchantment.dnt.spiteful.desc": "Gây thêm sát thương khi yếu máu.",
+    "enchantment.dnt.aerials_bane": "Aerial's Bane",
+    "enchantment.dnt.aerials_bane.desc": "Increased damage against mobs off the ground.",
+    "enchantment.dnt.postmortal_blow": "Postmortal Blow",
+    "enchantment.dnt.postmortal_blow.desc": "Mobs explode after they are defeated.",
 
     "item.dnt.citadel_boss_key": "Chìa khoá Boss Citadel",
     "item.dnt.citadel_key": "Chìa khoá Citadel",
