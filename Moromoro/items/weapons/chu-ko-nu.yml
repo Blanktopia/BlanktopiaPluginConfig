@@ -2,7 +2,8 @@ version: 1
 name: "<transition:#ef4faa:#ef4f61>Chu Ko Nu"
 item: crossbow
 custom-model-data: 1
-custom-model: {
+custom-model: |
+  {
     "type": "minecraft:condition",
     "on_false": {
       "type": "minecraft:select",
