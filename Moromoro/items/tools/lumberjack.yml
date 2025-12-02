@@ -1,4 +1,4 @@
-version: 2
+version: 3
 name: "<gold>Lumberjack<red> ⛏"
 item: iron_axe
 custom-model-data: 1
@@ -12,7 +12,6 @@ lore:
 enchantments:
   blanktopia:soulbound: 1
   efficiency: 6
-  silk_touch: 1
 triggers:
   break-block:
     - type: if
