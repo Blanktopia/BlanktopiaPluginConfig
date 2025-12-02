@@ -12,3 +12,5 @@ block:
       - sofa-slipper-american-black-inner
       - sofa-slipper-american-black-outer
   yaw: 90
+  drops:
+    - sofa-slipper-american-black

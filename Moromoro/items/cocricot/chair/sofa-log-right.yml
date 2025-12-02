@@ -12,3 +12,5 @@ block:
       - sofa-log-left
       - sofa-log-both
       - sofa-log-right
+  drops:
+    - sofa-log-single

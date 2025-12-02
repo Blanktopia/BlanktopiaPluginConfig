@@ -12,3 +12,5 @@ block:
       - gardenbench-marineblue-left
       - gardenbench-marineblue-both
       - gardenbench-marineblue-right
+  drops:
+    - gardenbench-marineblue-single

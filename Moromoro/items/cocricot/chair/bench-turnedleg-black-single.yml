@@ -12,3 +12,5 @@ block:
       - bench-turnedleg-black-left
       - bench-turnedleg-black-both
       - bench-turnedleg-black-right
+  drops:
+    - bench-turnedleg-black-single

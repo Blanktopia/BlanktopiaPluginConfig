@@ -12,3 +12,5 @@ block:
       - parkbench-black-left
       - parkbench-black-both
       - parkbench-black-right
+  drops:
+    - parkbench-black-single

@@ -7,9 +7,11 @@ block:
   auto-tile:
     type: single-side-both-corner-three-all
     keys:
-      - rug-shag-round-purple-single
+      - rug-shag-round-purple
       - rug-shag-round-purple-side
       - rug-shag-round-purple-both
       - rug-shag-round-purple-corner
       - rug-shag-round-purple-three
       - rug-shag-round-purple-all
+  drops:
+    - rug-shag-round-purple

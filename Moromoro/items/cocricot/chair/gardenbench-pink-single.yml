@@ -12,3 +12,5 @@ block:
       - gardenbench-pink-left
       - gardenbench-pink-both
       - gardenbench-pink-right
+  drops:
+    - gardenbench-pink-single

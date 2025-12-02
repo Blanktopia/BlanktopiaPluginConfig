@@ -12,3 +12,5 @@ block:
       - sofa-simple-lime-left
       - sofa-simple-lime-both
       - sofa-simple-lime-right
+  drops:
+    - sofa-simple-lime-single

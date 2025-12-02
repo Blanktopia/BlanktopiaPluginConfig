@@ -1,0 +1,7 @@
+name: Faucet Wall Gold
+item: paper
+custom-model-data: 4688
+model: 'cocricotmod:block/faucet_wall_gold'
+
+block:
+  type: item

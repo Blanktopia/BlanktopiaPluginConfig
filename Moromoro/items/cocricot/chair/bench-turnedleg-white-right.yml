@@ -13,3 +13,5 @@ block:
       - bench-turnedleg-white-both
       - bench-turnedleg-white-right
   yaw: 180
+  drops:
+    - bench-turnedleg-white-single

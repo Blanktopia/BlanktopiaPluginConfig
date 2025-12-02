@@ -12,3 +12,5 @@ block:
       - sofa-simple-green-left
       - sofa-simple-green-both
       - sofa-simple-green-right
+  drops:
+    - sofa-simple-green-single

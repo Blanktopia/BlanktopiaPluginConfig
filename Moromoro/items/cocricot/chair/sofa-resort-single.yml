@@ -12,3 +12,5 @@ block:
       - sofa-resort-left
       - sofa-resort-both
       - sofa-resort-right
+  drops:
+    - sofa-resort-single

@@ -12,3 +12,5 @@ block:
       - gardenbench-seadrift-left
       - gardenbench-seadrift-both
       - gardenbench-seadrift-right
+  drops:
+    - gardenbench-seadrift-single

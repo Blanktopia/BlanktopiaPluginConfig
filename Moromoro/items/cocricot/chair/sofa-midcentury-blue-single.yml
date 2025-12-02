@@ -12,3 +12,5 @@ block:
       - sofa-midcentury-blue-left
       - sofa-midcentury-blue-both
       - sofa-midcentury-blue-right
+  drops:
+    - sofa-midcentury-blue-single

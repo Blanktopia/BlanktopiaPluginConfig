@@ -12,3 +12,5 @@ block:
       - gardenbench-mintgreen-left
       - gardenbench-mintgreen-both
       - gardenbench-mintgreen-right
+  drops:
+    - gardenbench-mintgreen-single

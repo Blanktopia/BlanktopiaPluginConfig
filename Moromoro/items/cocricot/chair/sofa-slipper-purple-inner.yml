@@ -12,3 +12,5 @@ block:
       - sofa-slipper-purple-inner
       - sofa-slipper-purple-outer
   yaw: 90
+  drops:
+    - sofa-slipper-purple

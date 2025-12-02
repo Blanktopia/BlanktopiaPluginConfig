@@ -12,3 +12,5 @@ block:
       - bench-turnedleg-shabby-left
       - bench-turnedleg-shabby-both
       - bench-turnedleg-shabby-right
+  drops:
+    - bench-turnedleg-shabby-single

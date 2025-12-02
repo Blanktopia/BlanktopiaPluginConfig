@@ -12,3 +12,5 @@ block:
       - sofa-vintage-brown-left
       - sofa-vintage-brown-both
       - sofa-vintage-brown-right
+  drops:
+    - sofa-vintage-brown-single

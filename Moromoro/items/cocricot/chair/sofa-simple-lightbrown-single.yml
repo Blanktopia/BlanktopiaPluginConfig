@@ -12,3 +12,5 @@ block:
       - sofa-simple-lightbrown-left
       - sofa-simple-lightbrown-both
       - sofa-simple-lightbrown-right
+  drops:
+    - sofa-simple-lightbrown-single

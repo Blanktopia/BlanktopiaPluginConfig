@@ -7,9 +7,11 @@ block:
   auto-tile:
     type: single-side-both-corner-three-all
     keys:
-      - rug-shag-round-yellow-single
+      - rug-shag-round-yellow
       - rug-shag-round-yellow-side
       - rug-shag-round-yellow-both
       - rug-shag-round-yellow-corner
       - rug-shag-round-yellow-three
       - rug-shag-round-yellow-all
+  drops:
+    - rug-shag-round-yellow

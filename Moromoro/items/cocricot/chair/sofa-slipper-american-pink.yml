@@ -12,3 +12,5 @@ block:
       - sofa-slipper-american-pink-inner
       - sofa-slipper-american-pink-outer
   yaw: 90
+  drops:
+    - sofa-slipper-american-pink

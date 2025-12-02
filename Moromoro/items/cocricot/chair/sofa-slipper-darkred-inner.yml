@@ -12,3 +12,5 @@ block:
       - sofa-slipper-darkred-inner
       - sofa-slipper-darkred-outer
   yaw: 90
+  drops:
+    - sofa-slipper-darkred

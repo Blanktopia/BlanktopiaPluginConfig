@@ -7,9 +7,11 @@ block:
   auto-tile:
     type: single-side-both-corner-three-all
     keys:
-      - rug-shag-round-pink-single
+      - rug-shag-round-pink
       - rug-shag-round-pink-side
       - rug-shag-round-pink-both
       - rug-shag-round-pink-corner
       - rug-shag-round-pink-three
       - rug-shag-round-pink-all
+  drops:
+    - rug-shag-round-pink

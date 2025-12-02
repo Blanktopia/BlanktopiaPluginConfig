@@ -7,9 +7,11 @@ block:
   auto-tile:
     type: single-side-both-corner-three-all
     keys:
-      - rug-shag-round-lightbrown-single
+      - rug-shag-round-lightbrown
       - rug-shag-round-lightbrown-side
       - rug-shag-round-lightbrown-both
       - rug-shag-round-lightbrown-corner
       - rug-shag-round-lightbrown-three
       - rug-shag-round-lightbrown-all
+  drops:
+    - rug-shag-round-lightbrown

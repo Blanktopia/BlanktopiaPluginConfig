@@ -12,3 +12,5 @@ block:
       - parkbench-light-left
       - parkbench-light-both
       - parkbench-light-right
+  drops:
+    - parkbench-light-single

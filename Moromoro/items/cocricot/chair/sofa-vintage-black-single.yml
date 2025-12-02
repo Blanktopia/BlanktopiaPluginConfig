@@ -12,3 +12,5 @@ block:
       - sofa-vintage-black-left
       - sofa-vintage-black-both
       - sofa-vintage-black-right
+  drops:
+    - sofa-vintage-black-single

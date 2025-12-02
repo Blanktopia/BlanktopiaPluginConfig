@@ -12,3 +12,5 @@ block:
       - gardenbench-clear-left
       - gardenbench-clear-both
       - gardenbench-clear-right
+  drops:
+    - gardenbench-clear-single

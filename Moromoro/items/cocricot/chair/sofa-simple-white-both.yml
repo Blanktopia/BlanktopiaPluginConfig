@@ -12,3 +12,5 @@ block:
       - sofa-simple-white-left
       - sofa-simple-white-both
       - sofa-simple-white-right
+  drops:
+    - sofa-simple-white-single

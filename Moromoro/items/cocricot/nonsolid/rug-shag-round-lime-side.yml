@@ -7,9 +7,11 @@ block:
   auto-tile:
     type: single-side-both-corner-three-all
     keys:
-      - rug-shag-round-lime-single
+      - rug-shag-round-lime
       - rug-shag-round-lime-side
       - rug-shag-round-lime-both
       - rug-shag-round-lime-corner
       - rug-shag-round-lime-three
       - rug-shag-round-lime-all
+  drops:
+    - rug-shag-round-lime

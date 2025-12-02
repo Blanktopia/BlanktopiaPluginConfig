@@ -12,3 +12,5 @@ block:
       - sofa-midcentury-green-left
       - sofa-midcentury-green-both
       - sofa-midcentury-green-right
+  drops:
+    - sofa-midcentury-green-single

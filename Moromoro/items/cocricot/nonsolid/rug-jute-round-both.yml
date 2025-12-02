@@ -7,9 +7,11 @@ block:
   auto-tile:
     type: single-side-both-corner-three-all
     keys:
-      - rug-jute-round-single
+      - rug-jute-round
       - rug-jute-round-side
       - rug-jute-round-both
       - rug-jute-round-corner
       - rug-jute-round-three
       - rug-jute-round-all
+  drops:
+    - rug-jute-round

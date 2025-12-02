@@ -12,3 +12,5 @@ block:
       - sofa-slipper-lightblue-inner
       - sofa-slipper-lightblue-outer
   yaw: 90
+  drops:
+    - sofa-slipper-lightblue

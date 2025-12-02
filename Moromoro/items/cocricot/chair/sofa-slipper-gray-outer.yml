@@ -12,3 +12,5 @@ block:
       - sofa-slipper-gray-inner
       - sofa-slipper-gray-outer
   yaw: 90
+  drops:
+    - sofa-slipper-gray

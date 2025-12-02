@@ -7,9 +7,11 @@ block:
   auto-tile:
     type: single-side-both-corner-three-all
     keys:
-      - rug-shag-round-lightblue-single
+      - rug-shag-round-lightblue
       - rug-shag-round-lightblue-side
       - rug-shag-round-lightblue-both
       - rug-shag-round-lightblue-corner
       - rug-shag-round-lightblue-three
       - rug-shag-round-lightblue-all
+  drops:
+    - rug-shag-round-lightblue
