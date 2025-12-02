@@ -1,0 +1,83 @@
+name: Crate Items
+categories:
+
+  BUILDER's CRATE:
+    - item: hummingbird
+      price: sapphire:10
+    - item: builders-wand
+      price: sapphire:10
+    - item: wrench
+      price: sapphire:10
+    - item: paint-brush
+      price: sapphire:10
+    - item: block-zapper
+      price: sapphire:10
+    - item: measuring-tape
+      price: sapphire:10
+    - item: trowel
+      price: sapphire:10
+
+  NATURE's CRATE:
+    - item: biome-wand
+      price: sapphire:10
+    - item: boots-of-haste
+      price: sapphire:10
+    - item: horn-of-plenty
+      price: sapphire:10
+    - item: ambrosia
+      price: sapphire:10
+    - item: lumberjack
+      price: sapphire:10
+    - item: scythe
+      price: sapphire:10
+    - item: botanic-manipulator
+      price: sapphire:10
+
+  INFINITY CRATE:
+    - item: lumos
+      price: sapphire:10
+    - item: nile-water
+      price: sapphire:10
+    - item: hellfire
+      price: sapphire:10
+    - item: everstone
+      price: sapphire:10
+    - item: anti-gravity-bow
+      price: sapphire:10
+    - item: pokeball
+      price: sapphire:10
+    - item: void-bundle
+      price: sapphire:10
+
+  MINER's CRATE:
+    - item: cobalt-drill
+      price: sapphire:10
+    - item: wrecking-ball
+      price: sapphire:10
+    - item: excavator
+      price: sapphire:10
+    - item: ras-protection
+      price: sapphire:10
+    - item: miners-helmet
+      price: sapphire:10
+    - item: packing-tape
+      price: sapphire:10
+    - item: pocket-sponge
+      price: sapphire:10
+
+  EXPLORER's CRATE:
+    - item: venom
+      price: sapphire:10
+    - item: chu-ko-nu
+      price: sapphire:10
+    - item: pathfinders-grappling-hook
+      price: sapphire:10
+    - item: booster
+      price: sapphire:10
+    - item: parachute
+      price: sapphire:10
+    - item: climbing-gloves
+      price: sapphire:10
+    - item: minish-cap
+      price: sapphire:10
+
