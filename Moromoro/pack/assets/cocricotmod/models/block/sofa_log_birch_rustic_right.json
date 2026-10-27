@@ -1,1 +1,1 @@
-{"parent":"cocricotmod:block/sofa_log_right","textures":{"0":"cocricotmod:block/log_birch","1":"cocricotmod:block/sofa_log_birch_rustic","particle":"blocks/log_birch"}}
+{"parent":"cocricotmod:block/sofa_log_right","textures":{"0":"cocricotmod:block/log_birch","1":"cocricotmod:block/sofa_log_birch_rustic","particle":"block/birch_log"}}

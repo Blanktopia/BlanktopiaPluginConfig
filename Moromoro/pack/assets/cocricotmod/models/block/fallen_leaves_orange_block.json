@@ -1,1 +1,1 @@
-{"parent":"block/cube_bottom_top","textures":{"bottom":"blocks/dirt","top":"cocricotmod:block/fallen_leaves_orange_block","side":"cocricotmod:block/fallen_leaves_orange_block_side"}}
+{"parent":"block/cube_bottom_top","textures":{"bottom":"block/dirt","top":"cocricotmod:block/fallen_leaves_orange_block","side":"cocricotmod:block/fallen_leaves_orange_block_side"}}

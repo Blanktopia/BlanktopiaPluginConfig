@@ -2,7 +2,7 @@
   "parent": "cocricotmod:block/bed_frame_display",
   "ambientocclusion": false,
   "textures": {
-    "particle": "block/log_oak",
+    "particle": "block/oak_log",
     "0": "cocricotmod:block/log"
   },
   "elements": [

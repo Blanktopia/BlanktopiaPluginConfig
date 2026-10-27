@@ -1,7 +1,7 @@
 {
   "parent": "cocricotmod:block/bed_frame_log",
   "textures": {
-    "particle": "block/log_birch",
+    "particle": "block/birch_log",
     "0": "cocricotmod:block/log_birch"
   },
   "display": {
