@@ -1,19 +1,19 @@
 {
   "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
     "entries": [
       {
         "threshold": 1450007,
         "model": {
-          "type": "model",
+          "type": "minecraft:model",
           "model": "incendium:item/withersbane"
         }
       }
     ],
     "fallback": {
-      "type": "model",
-      "model": "item/golden_sword"
+      "type": "minecraft:model",
+      "model": "minecraft:item/golden_sword"
     }
   }
 }

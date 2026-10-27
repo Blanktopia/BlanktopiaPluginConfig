@@ -1,19 +1,19 @@
 {
     "model": {
-      "type": "range_dispatch",
-      "property": "custom_model_data",
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
       "entries": [
         {
           "threshold": 1450401,
           "model": {
-            "type": "model",
+            "type": "minecraft:model",
             "model": "incendium:item/powder"
           }
         }
       ],
       "fallback": {
-        "type": "model",
-        "model": "item/glowstone_dust"
+        "type": "minecraft:model",
+        "model": "minecraft:item/glowstone_dust"
       }
     }
   }

@@ -1,68 +1,68 @@
 {
     "model": {
-      "type": "range_dispatch",
-      "property": "custom_model_data",
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
       "entries": [
         {
           "threshold": 1450105,
           "model": {
-            "type": "condition",
-            "property": "using_item",
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
             "on_true": {
-              "type": "range_dispatch",
-              "property": "use_duration",
+              "type": "minecraft:range_dispatch",
+              "property": "minecraft:use_duration",
               "scale": 0.05,
               "entries": [
                 {
                   "threshold": 0.65,
                   "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "incendium:item/ragnarok/bow_pulling_1"
                   }
                 },
                 {
                   "threshold": 0.9,
                   "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "incendium:item/ragnarok/bow_pulling_2"
                   }
                 },
                 {
                   "threshold": 4,
                   "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "incendium:item/ragnarok/bow_pulling_3"
                   }
                 },
                 {
                   "threshold": 6,
                   "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "incendium:item/ragnarok/bow_pulling_4"
                   }
                 },
                 {
                   "threshold": 8,
                   "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "incendium:item/ragnarok/bow_pulling_5"
                   }
                 },
                 {
                   "threshold": 10,
                   "model": {
-                    "type": "model",
+                    "type": "minecraft:model",
                     "model": "incendium:item/ragnarok/bow_pulling_6"
                   }
                 }
               ],
               "fallback": {
-                "type": "model",
+                "type": "minecraft:model",
                 "model": "incendium:item/ragnarok/bow_pulling_0"
               }
             },
             "on_false": {
-              "type": "model",
+              "type": "minecraft:model",
               "model": "incendium:item/ragnarok/ragnarok"
             }
           }
@@ -70,99 +70,99 @@
         {
           "threshold": 1450104,
           "model": {
-            "type": "condition",
-            "property": "using_item",
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
             "on_true": {
-              "type": "range_dispatch",
-              "property": "use_duration",
+              "type": "minecraft:range_dispatch",
+              "property": "minecraft:use_duration",
               "scale": 0.05,
               "entries": [
                 {
                     "threshold": 0.65,
                     "model": {
-                      "type": "model",
+                      "type": "minecraft:model",
                       "model": "incendium:item/trailblazer/bow_pulling_1"
                     }
                   },
                   {
                     "threshold": 0.9,
                     "model": {
-                      "type": "model",
+                      "type": "minecraft:model",
                       "model": "incendium:item/trailblazer/bow_pulling_2"
                     }
                   },
                   {
                     "threshold": 1,
                     "model": {
-                      "type": "model",
+                      "type": "minecraft:model",
                       "model": "incendium:item/trailblazer/bow_pulling_3"
                     }
                   },
                   {
                     "threshold": 2,
                     "model": {
-                      "type": "model",
+                      "type": "minecraft:model",
                       "model": "incendium:item/trailblazer/bow_pulling_4"
                     }
                   },
                   {
                     "threshold": 3,
                     "model": {
-                      "type": "model",
+                      "type": "minecraft:model",
                       "model": "incendium:item/trailblazer/bow_pulling_5"
                     }
                   },
                   {
                     "threshold": 4,
                     "model": {
-                      "type": "model",
+                      "type": "minecraft:model",
                       "model": "incendium:item/trailblazer/bow_pulling_6"
                     }
                   }
               ],
               "fallback": {
-                "type": "model",
+                "type": "minecraft:model",
                 "model": "incendium:item/trailblazer/bow_pulling_0"
               }
             },
             "on_false": {
-              "type": "model",
+              "type": "minecraft:model",
               "model": "incendium:item/trailblazer/trailblazer"
             }
           }
         }
       ],
       "fallback": {
-        "type": "condition",
-        "property": "using_item",
+        "type": "minecraft:condition",
+        "property": "minecraft:using_item",
         "on_true": {
-          "type": "range_dispatch",
-          "property": "use_duration",
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:use_duration",
           "scale": 0.05,
           "entries": [
             {
               "threshold": 0.65,
               "model": {
-                "type": "model",
-                "model": "item/bow_pulling_1"
+                "type": "minecraft:model",
+                "model": "minecraft:item/bow_pulling_1"
               }
             },
             {
               "threshold": 0.9,
               "model": {
-                "type": "model",
-                "model": "item/bow_pulling_2"
+                "type": "minecraft:model",
+                "model": "minecraft:item/bow_pulling_2"
               }
             }
           ],
           "fallback": {
-            "type": "model",
-            "model": "item/bow_pulling_0"
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_0"
           }
         },
         "on_false": {
-          "type": "model",
-          "model": "item/bow"
+          "type": "minecraft:model",
+          "model": "minecraft:item/bow"
         }
       }
     }

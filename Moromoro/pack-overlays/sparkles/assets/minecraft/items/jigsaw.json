@@ -1,19 +1,19 @@
 {
   "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
     "entries": [
       {
         "threshold": 1450201,
         "model": {
-          "type": "model",
+          "type": "minecraft:model",
           "model": "incendium:item/infernal_feather"
         }
       }
     ],
     "fallback": {
-      "type": "model",
-      "model": "block/jigsaw"
+      "type": "minecraft:model",
+      "model": "minecraft:block/jigsaw"
     }
   }
 }

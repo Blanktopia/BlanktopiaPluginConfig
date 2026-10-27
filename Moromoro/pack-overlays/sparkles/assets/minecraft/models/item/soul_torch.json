@@ -1,7 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "block/soul_torch"
+    "layer0": "minecraft:block/soul_torch"
   },
   "overrides": [
   	{

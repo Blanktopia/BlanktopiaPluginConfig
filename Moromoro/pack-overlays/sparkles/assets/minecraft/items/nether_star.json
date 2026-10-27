@@ -1,19 +1,19 @@
 {
   "model": {
-    "type": "range_dispatch",
-    "property": "custom_model_data",
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
     "entries": [
       {
         "threshold": 1450704,
         "model": {
-          "type": "model",
+          "type": "minecraft:model",
           "model": "incendium:item/charm"
         }
       }
     ],
     "fallback": {
-      "type": "model",
-      "model": "item/nether_star"
+      "type": "minecraft:model",
+      "model": "minecraft:item/nether_star"
     }
   }
 }

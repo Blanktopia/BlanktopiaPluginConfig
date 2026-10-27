@@ -1,5 +1,5 @@
 {
-  "parent": "block/jigsaw",
+  "parent": "minecraft:block/jigsaw",
   "overrides": [
   	{
         "predicate": {
