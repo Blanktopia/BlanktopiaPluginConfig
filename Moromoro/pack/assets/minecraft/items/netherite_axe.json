@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1450002.0,"model":{"type":"model","model":"incendium:item/blazing"}}],"fallback":{"type":"minecraft:model","model":"item/netherite_axe"}}}

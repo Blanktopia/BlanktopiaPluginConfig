@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[],"fallback":{"type":"minecraft:model","model":"item/filled_map","tints":[{"type":"minecraft:constant","value":-1},{"type":"minecraft:map_color","default":4603950}]}}}

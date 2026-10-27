@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1450403.0,"model":{"type":"model","model":"incendium:item/scroll_of_returning"}}],"fallback":{"type":"minecraft:model","model":"item/map"}}}

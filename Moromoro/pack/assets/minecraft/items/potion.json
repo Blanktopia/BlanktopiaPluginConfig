@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1.0,"model":{"type":"model","model":"blanktopia:food/apple_cider"}},{"threshold":2.0,"model":{"type":"model","model":"blanktopia:food/vinegar"}}],"fallback":{"type":"minecraft:model","model":"item/potion","tints":[{"type":"minecraft:potion","default":-13083194}]}}}

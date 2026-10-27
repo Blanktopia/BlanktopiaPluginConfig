@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1450201.0,"model":{"type":"model","model":"incendium:item/infernal_feather"}}],"fallback":{"type":"minecraft:model","model":"block/jigsaw"}}}

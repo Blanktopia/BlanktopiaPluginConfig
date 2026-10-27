@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1450704.0,"model":{"type":"model","model":"incendium:item/charm"}}],"fallback":{"type":"minecraft:model","model":"item/nether_star"}}}

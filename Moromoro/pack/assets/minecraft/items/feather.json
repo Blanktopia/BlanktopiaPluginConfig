@@ -1,1 +1,0 @@
-{"model":{"type":"range_dispatch","property":"custom_model_data","entries":[{"threshold":1.0,"model":{"type":"model","model":"blanktopia:rares/hummingbird"}},{"threshold":2.0,"model":{"type":"model","model":"blanktopia:rares/parachute"}}],"fallback":{"type":"minecraft:model","model":"item/feather"}}}
