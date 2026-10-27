@@ -1,9 +1,9 @@
 {
   "pack": {
+    "description": "Blanktopia's custom resource pack (2026-10-28)",
     "pack_format": 55,
-    "description": "Blanktopia's custom resource pack (2025-07-20)"
-  },
-  "meta": {
-    "game_version": "1.21.5"
+    "supported_formats": [55, 97],
+    "min_format": 55,
+    "max_format": 97
   }
 }
