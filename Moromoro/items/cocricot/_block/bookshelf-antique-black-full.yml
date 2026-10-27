@@ -1,0 +1,7 @@
+name: Bookshelf Antique Black Full
+item: paper
+custom-model-data: 2504
+model: 'cocricotmod:block/bookshelf_antique_black_full'
+
+block:
+  type: item

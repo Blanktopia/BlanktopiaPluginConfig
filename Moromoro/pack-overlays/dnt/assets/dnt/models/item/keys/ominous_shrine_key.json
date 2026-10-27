@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/ominous_trial_key",
+  "parent": "item/ominous_trial_key",
   "textures": {
     "layer0": "dnt:item/keys/ominous_shrine_key"
   }

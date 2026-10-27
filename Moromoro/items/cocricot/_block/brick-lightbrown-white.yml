@@ -1,0 +1,7 @@
+name: Brick Lightbrown White
+item: paper
+custom-model-data: 2663
+model: 'cocricotmod:block/brick_lightbrown_white'
+
+block:
+  type: item

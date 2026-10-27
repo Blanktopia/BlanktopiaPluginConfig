@@ -1,0 +1,7 @@
+name: Brick Lightbrown White Arch
+item: paper
+custom-model-data: 2664
+model: 'cocricotmod:block/brick_lightbrown_white_arch'
+
+block:
+  type: item

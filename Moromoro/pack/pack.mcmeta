@@ -1,21 +1,9 @@
 {
   "pack": {
-    "pack_format": 46,
-    "description": "Blanktopia's custom resource pack (2024-02-16)"
+    "pack_format": 55,
+    "description": "Blanktopia's custom resource pack (2025-07-20)"
   },
   "meta": {
-    "game_version": "1.21.4"
-  },
-  "overlays": {
-    "entries": [
-      {
-        "formats": 46,
-        "directory": "sparkles"
-      },
-      {
-        "formats": 46,
-        "directory": "dnt"
-      }
-    ]
+    "game_version": "1.21.5"
   }
 }

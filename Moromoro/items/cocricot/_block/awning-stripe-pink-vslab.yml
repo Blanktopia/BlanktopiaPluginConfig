@@ -1,0 +1,7 @@
+name: Awning Stripe Pink Vslab
+item: paper
+custom-model-data: 2245
+model: 'cocricotmod:block/awning_stripe_pink_vslab'
+
+block:
+  type: item

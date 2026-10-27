@@ -12,3 +12,5 @@ block:
       - desk-simple-black-left
       - desk-simple-black-both
       - desk-simple-black-right
+  drops:
+    - desk-simple-black-single

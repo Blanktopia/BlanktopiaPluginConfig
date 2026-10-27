@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/trident_in_hand",
+    "parent": "item/trident_in_hand",
     "textures": {
       "particle": "incendium:item/voltaic",
       "layer0": "incendium:item/voltaic_3d"

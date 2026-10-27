@@ -1,0 +1,7 @@
+name: Brick White Arch
+item: paper
+custom-model-data: 2742
+model: 'cocricotmod:block/brick_white_arch'
+
+block:
+  type: item

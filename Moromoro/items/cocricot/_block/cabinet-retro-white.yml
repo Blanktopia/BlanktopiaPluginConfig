@@ -1,0 +1,7 @@
+name: Cabinet Retro White
+item: paper
+custom-model-data: 2818
+model: 'cocricotmod:block/cabinet_retro_white'
+
+block:
+  type: item

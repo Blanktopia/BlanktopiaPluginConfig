@@ -15,3 +15,5 @@ block:
       - coffeetable-modern-whitegold-three
       - coffeetable-modern-whitegold-all
   yaw: 180
+  drops:
+    - coffeetable-modern-whitegold

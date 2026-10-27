@@ -1,31 +1,31 @@
 {
     "model": {
-      "type": "minecraft:range_dispatch",
-      "property": "minecraft:custom_model_data",
+      "type": "range_dispatch",
+      "property": "custom_model_data",
       "entries": [
         {
           "threshold": 1450006,
           "model": {
-            "type": "minecraft:select",
-            "property": "minecraft:display_context",
+            "type": "select",
+            "property": "display_context",
             "cases": [
               {
                 "when": ["gui","ground","fixed"],
                 "model": {
-                  "type": "minecraft:model",
+                  "type": "model",
                   "model": "incendium:item/voltaic/voltaic"
                 }
               }
             ],
             "fallback": {
-              "type": "minecraft:condition",
-              "property": "minecraft:using_item",
+              "type": "condition",
+              "property": "using_item",
               "on_true": {
-                "type": "minecraft:model",
+                "type": "model",
                 "model": "incendium:item/voltaic/voltaic_throwing"
               },
               "on_false": {
-                "type": "minecraft:model",
+                "type": "model",
                 "model": "incendium:item/voltaic/voltaic_holding"
               }
             }
@@ -33,32 +33,32 @@
         }
       ],
       "fallback": {
-        "type": "minecraft:select",
-        "property": "minecraft:display_context",
+        "type": "select",
+        "property": "display_context",
         "cases": [
           {
             "when": ["gui","ground","fixed"],
             "model": {
-              "type": "minecraft:model",
-              "model": "minecraft:item/trident"
+              "type": "model",
+              "model": "item/trident"
             }
           }
         ],
         "fallback": {
-          "type": "minecraft:condition",
-          "property": "minecraft:using_item",
+          "type": "condition",
+          "property": "using_item",
           "on_true": {
-            "type": "minecraft:special",
-            "base": "minecraft:item/trident_throwing",
+            "type": "special",
+            "base": "item/trident_throwing",
             "model": {
-              "type": "minecraft:trident"
+              "type": "trident"
             }
           },
           "on_false": {
-            "type": "minecraft:special",
-            "base": "minecraft:item/trident_in_hand",
+            "type": "special",
+            "base": "item/trident_in_hand",
             "model": {
-              "type": "minecraft:trident"
+              "type": "trident"
             }
           }
         }

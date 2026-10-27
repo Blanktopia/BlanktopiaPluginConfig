@@ -3,13 +3,13 @@
 set models block/block
 set textures block/block
 
-set files {_base,chair,multi,nonsolid,solid,wall}/**/*.yml
+set files {_base,chair,multi,nonsolid,solid,wall,toggle}/**/*.yml
 
 for file in $files
 	set model (yq -r '.model' $file | sed 's/cocricotmod:block\///')
 	set json "../../pack/assets/cocricotmod/models/block/"$model".json"
 	set parent (jq -r '.parent' $json | sed 's/cocricotmod:block\///')
-	set texture (jq -r '.textures | .[]?' $json | sed 's/cocricotmod:blocks\///')
+	set texture (jq -r '.textures | .[]?' $json | sed 's/cocricotmod:block\///')
 
 	if not contains $textures $texture
 		set -a textures $texture
@@ -38,7 +38,7 @@ if test "$argv[1]" = "rm"
 		end
 	end
 
-	cd ../../textures/blocks
+	cd ../../textures/block
 	for file in *.png
 		set texture (echo $file | sed 's/\.png//')
 		if not contains $texture $textures

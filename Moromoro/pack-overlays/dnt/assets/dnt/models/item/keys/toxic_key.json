@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/trial_key",
+  "parent": "item/trial_key",
   "textures": {
     "layer0": "dnt:item/keys/toxic_key"
   }

@@ -1,0 +1,7 @@
+name: Cafetable Natural
+item: paper
+custom-model-data: 2843
+model: 'cocricotmod:block/cafetable_natural'
+
+block:
+  type: item

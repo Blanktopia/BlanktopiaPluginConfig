@@ -12,3 +12,5 @@ block:
       - coffeetable-iron-seadrift-left
       - coffeetable-iron-seadrift-both
       - coffeetable-iron-seadrift-right
+  drops:
+    - coffeetable-iron-seadrift-single

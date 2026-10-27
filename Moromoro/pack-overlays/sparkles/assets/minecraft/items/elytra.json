@@ -1,34 +1,34 @@
 {
     "model": {
-      "type": "minecraft:range_dispatch",
-      "property": "minecraft:custom_model_data",
+      "type": "range_dispatch",
+      "property": "custom_model_data",
       "entries": [
         {
           "threshold": 1450201,
           "model": {
-            "type": "minecraft:condition",
-            "property": "minecraft:broken",
+            "type": "condition",
+            "property": "broken",
             "on_true": {
-              "type": "minecraft:model",
+              "type": "model",
               "model": "incendium:item/infernal_elytra_broken"
             },
             "on_false": {
-              "type": "minecraft:model",
+              "type": "model",
               "model": "incendium:item/infernal_elytra"
             }
           }
         }
       ],
       "fallback": {
-        "type": "minecraft:condition",
-        "property": "minecraft:broken",
+        "type": "condition",
+        "property": "broken",
         "on_true": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/elytra_broken"
+          "type": "model",
+          "model": "item/elytra_broken"
         },
         "on_false": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/elytra"
+          "type": "model",
+          "model": "item/elytra"
         }
       }
     }

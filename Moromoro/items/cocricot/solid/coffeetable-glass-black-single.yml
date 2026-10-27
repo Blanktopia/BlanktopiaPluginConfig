@@ -12,3 +12,5 @@ block:
       - coffeetable-glass-black-left
       - coffeetable-glass-black-both
       - coffeetable-glass-black-right
+  drops:
+    - coffeetable-glass-black-single

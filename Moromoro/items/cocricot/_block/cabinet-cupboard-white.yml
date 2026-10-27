@@ -1,0 +1,7 @@
+name: Cabinet Cupboard White
+item: paper
+custom-model-data: 2774
+model: 'cocricotmod:block/cabinet_cupboard_white'
+
+block:
+  type: item

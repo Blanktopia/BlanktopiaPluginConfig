@@ -1,0 +1,7 @@
+name: Awning Gray Stairs Inner
+item: paper
+custom-model-data: 2052
+model: 'cocricotmod:block/awning_gray_stairs_inner'
+
+block:
+  type: item

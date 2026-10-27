@@ -1,0 +1,7 @@
+name: Cabinet Retro Green
+item: paper
+custom-model-data: 2811
+model: 'cocricotmod:block/cabinet_retro_green'
+
+block:
+  type: item

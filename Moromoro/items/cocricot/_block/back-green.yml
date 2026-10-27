@@ -1,0 +1,7 @@
+name: Back Green
+item: paper
+custom-model-data: 2293
+model: 'cocricotmod:block/back_green'
+
+block:
+  type: item

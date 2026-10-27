@@ -14,3 +14,5 @@ block:
       - table-ironleg-natural-corner
       - table-ironleg-natural-three
       - table-ironleg-natural-all
+  drops:
+    - table-ironleg-natural

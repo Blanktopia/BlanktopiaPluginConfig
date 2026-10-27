@@ -1,0 +1,7 @@
+name: Cabinet Color Red
+item: paper
+custom-model-data: 2767
+model: 'cocricotmod:block/cabinet_color_red'
+
+block:
+  type: item

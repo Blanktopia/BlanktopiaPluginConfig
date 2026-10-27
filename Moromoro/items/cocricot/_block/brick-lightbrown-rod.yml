@@ -1,0 +1,7 @@
+name: Brick Lightbrown Rod
+item: paper
+custom-model-data: 2655
+model: 'cocricotmod:block/brick_lightbrown_rod'
+
+block:
+  type: item

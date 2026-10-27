@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Black Brown Both
+item: paper
+custom-model-data: 3459
+model: 'cocricotmod:block/diningtable_turnedleg_black_brown_both'
+
+block:
+  type: item

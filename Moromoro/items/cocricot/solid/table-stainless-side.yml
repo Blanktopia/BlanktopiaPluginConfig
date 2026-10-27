@@ -14,3 +14,5 @@ block:
       - table-stainless-corner
       - table-stainless-three
       - table-stainless-all
+  drops:
+    - table-stainless

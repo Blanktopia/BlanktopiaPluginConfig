@@ -1,0 +1,7 @@
+name: Brick Painted White
+item: paper
+custom-model-data: 2691
+model: 'cocricotmod:block/brick_painted_white'
+
+block:
+  type: item

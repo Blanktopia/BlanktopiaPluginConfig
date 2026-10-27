@@ -1,0 +1,7 @@
+name: Awning Stripe Red Stairs
+item: paper
+custom-model-data: 2252
+model: 'cocricotmod:block/awning_stripe_red_stairs'
+
+block:
+  type: item

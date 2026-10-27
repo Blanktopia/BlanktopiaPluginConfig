@@ -12,3 +12,5 @@ block:
       - coffeetable-midcentury-brown-left
       - coffeetable-midcentury-brown-both
       - coffeetable-midcentury-brown-right
+  drops:
+    - coffeetable-midcentury-brown-single

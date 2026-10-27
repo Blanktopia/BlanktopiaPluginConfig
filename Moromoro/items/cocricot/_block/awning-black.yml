@@ -1,0 +1,7 @@
+name: Awning Black
+item: paper
+custom-model-data: 2010
+model: 'cocricotmod:block/awning_black'
+
+block:
+  type: item

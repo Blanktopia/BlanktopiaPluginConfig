@@ -1,0 +1,7 @@
+name: Cabinet Color Yellow Vslab
+item: paper
+custom-model-data: 2772
+model: 'cocricotmod:block/cabinet_color_yellow_vslab'
+
+block:
+  type: item

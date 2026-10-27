@@ -14,3 +14,5 @@ block:
       - coffeetable-modern-whitegold-corner
       - coffeetable-modern-whitegold-three
       - coffeetable-modern-whitegold-all
+  drops:
+    - coffeetable-modern-whitegold

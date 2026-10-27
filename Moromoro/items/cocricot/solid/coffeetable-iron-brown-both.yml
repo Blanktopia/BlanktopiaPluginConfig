@@ -12,3 +12,5 @@ block:
       - coffeetable-iron-brown-left
       - coffeetable-iron-brown-both
       - coffeetable-iron-brown-right
+  drops:
+    - coffeetable-iron-brown-single

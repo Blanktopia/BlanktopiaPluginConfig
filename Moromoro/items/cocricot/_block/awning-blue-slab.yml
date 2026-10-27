@@ -1,0 +1,7 @@
+name: Awning Blue Slab
+item: paper
+custom-model-data: 2027
+model: 'cocricotmod:block/awning_blue_slab'
+
+block:
+  type: item

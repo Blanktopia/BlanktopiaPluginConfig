@@ -14,3 +14,5 @@ block:
       - table-ironleg-black-corner
       - table-ironleg-black-three
       - table-ironleg-black-all
+  drops:
+    - table-ironleg-black

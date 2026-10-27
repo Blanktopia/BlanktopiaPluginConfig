@@ -1,0 +1,7 @@
+name: Diningtable Turnedleg Antique
+item: paper
+custom-model-data: 3448
+model: 'cocricotmod:block/diningtable_turnedleg_antique'
+
+block:
+  type: item

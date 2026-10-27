@@ -12,3 +12,5 @@ block:
       - desk-antique-left
       - desk-antique-both
       - desk-antique-right
+  drops:
+    - desk-antique-single

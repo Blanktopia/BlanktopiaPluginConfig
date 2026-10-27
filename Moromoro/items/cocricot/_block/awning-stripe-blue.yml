@@ -1,0 +1,7 @@
+name: Awning Stripe Blue
+item: paper
+custom-model-data: 2147
+model: 'cocricotmod:block/awning_stripe_blue'
+
+block:
+  type: item

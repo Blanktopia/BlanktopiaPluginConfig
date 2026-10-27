@@ -12,3 +12,5 @@ block:
       - coffeetable-iron-natural-left
       - coffeetable-iron-natural-both
       - coffeetable-iron-natural-right
+  drops:
+    - coffeetable-iron-natural-single

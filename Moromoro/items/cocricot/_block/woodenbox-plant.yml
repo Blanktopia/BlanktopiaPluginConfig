@@ -1,0 +1,7 @@
+name: Woodenbox Plant
+item: paper
+custom-model-data: 9924
+model: 'cocricotmod:block/woodenbox_plant'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Awning Stripe Orange
+item: paper
+custom-model-data: 2224
+model: 'cocricotmod:block/awning_stripe_orange'
+
+block:
+  type: item

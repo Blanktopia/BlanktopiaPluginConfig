@@ -1,0 +1,7 @@
+name: Brick White Plate
+item: paper
+custom-model-data: 2744
+model: 'cocricotmod:block/brick_white_plate'
+
+block:
+  type: item

@@ -1,0 +1,7 @@
+name: Cabinet Shabby Wood
+item: paper
+custom-model-data: 2828
+model: 'cocricotmod:block/cabinet_shabby_wood'
+
+block:
+  type: item
