@@ -4,7 +4,7 @@
     "0": "block/melon_side",
     "1": "block/melon_top",
     "2": "block/dandelion",
-    "3": "blanktopia:item/hats/melon_inside",
+    "3": "blanktopia:block/hats/melon_inside",
     "particle": "block/melon_side"
   },
   "elements": [
