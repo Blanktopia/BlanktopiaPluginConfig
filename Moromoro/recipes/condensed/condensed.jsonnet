@@ -12,7 +12,7 @@ local condensed(result, ingredient) = {
 };
 
 condensed("apple-crate", "APPLE") +
-condensed("bamboo-block", "BAMBOO") +
+condensed("bamboo-block-2", "BAMBOO") +
 condensed("beetroot-crate", "BEETROOT") +
 condensed("berries-sack", "SWEET_BERRIES") +
 condensed("cactus-block", "CACTUS") +

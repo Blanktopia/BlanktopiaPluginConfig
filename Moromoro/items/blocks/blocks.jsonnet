@@ -12,7 +12,7 @@ local block(name, customModelData, state, model, blockOptions = {}) = {
 
 {
     "apple-crate.json": block("Apple Crate", 1001, 1, "blanktopia:block/apple_crate"),
-    "bamboo-block.json": block("Bamboo Block", 1002, 2, "blanktopia:block/bamboo_block"),
+    "bamboo-block-2.json": block("Bamboo Block", 1002, 2, "blanktopia:block/bamboo_block"),
     "beetroot-crate.json": block("Beetroot Crate", 1003, 3, "blanktopia:block/beetroot_crate"),
     "berries-sack.json": block("Berries Sack", 1004, 4, "blanktopia:block/berry_sack"),
     "cactus-block.json": block("Cactus Block", 1005, 5, "blanktopia:block/cactus_block"),
