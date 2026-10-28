@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "textures": {
     "texture": "blanktopia:item/instruments/drskin",
-    "texture1": "blanktopia:item/instruments/bdwood"
+    "texture1": "blanktopia:item/instruments/bdwood",
+    "particle": "blanktopia:item/instruments/drskin"
   },
   "elements": [
     {

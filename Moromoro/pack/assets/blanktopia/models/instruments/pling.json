@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "textures": {
     "texture": "blanktopia:item/instruments/laptoppling",
-    "texture1": "blanktopia:item/instruments/laptopscreenpling"
+    "texture1": "blanktopia:item/instruments/laptopscreenpling",
+    "particle": "blanktopia:item/instruments/laptoppling"
   },
   "elements": [
     {

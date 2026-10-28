@@ -3,7 +3,8 @@
   "textures": {
     "texture": "blanktopia:item/instruments/dgb",
     "texture1": "blanktopia:item/instruments/dgh",
-    "texture2": "blanktopia:item/instruments/dgv"
+    "texture2": "blanktopia:item/instruments/dgv",
+    "particle": "blanktopia:item/instruments/dgb"
   },
   "elements": [
     {

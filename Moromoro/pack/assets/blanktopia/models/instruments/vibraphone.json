@@ -4,7 +4,8 @@
     "texture": "blanktopia:item/instruments/vibtopa",
     "texture1": "blanktopia:item/instruments/vibtopb",
     "texture2": "blanktopia:item/instruments/vibtopc",
-    "texture3": "blanktopia:item/instruments/xylowood"
+    "texture3": "blanktopia:item/instruments/xylowood",
+    "particle": "blanktopia:item/instruments/vibtopa"
   },
   "elements": [
     {

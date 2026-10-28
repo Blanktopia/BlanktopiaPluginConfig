@@ -1,7 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "texture": "blanktopia:item/instruments/bdwood"
+    "texture": "blanktopia:item/instruments/bdwood",
+    "particle": "blanktopia:item/instruments/bdwood"
   },
   "elements": [
     {

@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "textures": {
     "texture": "blanktopia:item/instruments/flutea",
-    "texture1": "blanktopia:item/instruments/fluteb"
+    "texture1": "blanktopia:item/instruments/fluteb",
+    "particle": "blanktopia:item/instruments/flutea"
   },
   "elements": [
     {

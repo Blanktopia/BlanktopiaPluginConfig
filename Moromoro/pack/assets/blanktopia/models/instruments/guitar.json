@@ -4,7 +4,8 @@
     "texture": "blanktopia:item/instruments/guitarbotfront",
     "texture1": "blanktopia:item/instruments/guitartopfront",
     "texture2": "blanktopia:item/instruments/guitarbotback",
-    "texture3": "blanktopia:item/instruments/guitartopback"
+    "texture3": "blanktopia:item/instruments/guitartopback",
+    "particle": "blanktopia:item/instruments/guitarbotfront"
   },
   "elements": [
     {

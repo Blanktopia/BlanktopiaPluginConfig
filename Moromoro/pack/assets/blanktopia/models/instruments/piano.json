@@ -1,7 +1,8 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "texture": "blanktopia:item/instruments/piano"
+    "texture": "blanktopia:item/instruments/piano",
+    "particle": "blanktopia:item/instruments/piano"
   },
   "elements": [
     {

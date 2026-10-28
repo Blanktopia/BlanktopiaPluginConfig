@@ -4,7 +4,8 @@
     "texture": "blanktopia:item/instruments/bassbotfront",
     "texture1": "blanktopia:item/instruments/basstopfront",
     "texture2": "blanktopia:item/instruments/bassbotback",
-    "texture3": "blanktopia:item/instruments/basstopback"
+    "texture3": "blanktopia:item/instruments/basstopback",
+    "particle": "blanktopia:item/instruments/bassbotfront"
   },
   "elements": [
     {

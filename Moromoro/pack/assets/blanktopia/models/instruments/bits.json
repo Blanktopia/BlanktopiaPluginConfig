@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "textures": {
     "texture": "blanktopia:item/instruments/bits",
-    "texture1": "blanktopia:item/instruments/knob"
+    "texture1": "blanktopia:item/instruments/knob",
+    "particle": "blanktopia:item/instruments/bits"
   },
   "elements": [
     {

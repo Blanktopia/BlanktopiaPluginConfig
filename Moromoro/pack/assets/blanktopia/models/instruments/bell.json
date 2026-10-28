@@ -2,7 +2,8 @@
   "credit": "Made with Blockbench",
   "ambientocclusion": false,
   "textures": {
-    "texture": "blanktopia:item/instruments/bellsidecrop"
+    "texture": "blanktopia:item/instruments/bellsidecrop",
+    "particle": "blanktopia:item/instruments/bellsidecrop"
   },
   "elements": [
     {

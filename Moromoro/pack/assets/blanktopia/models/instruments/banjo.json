@@ -3,7 +3,8 @@
   "textures": {
     "texture": "blanktopia:item/instruments/drskin",
     "texture1": "blanktopia:item/instruments/snwood",
-    "texture2": "blanktopia:item/instruments/basstopback"
+    "texture2": "blanktopia:item/instruments/basstopback",
+    "particle": "blanktopia:item/instruments/drskin"
   },
   "elements": [
     {
