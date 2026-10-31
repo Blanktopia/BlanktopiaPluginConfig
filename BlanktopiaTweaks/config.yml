@@ -33,7 +33,7 @@ pettable-entities:
   - IRON_GOLEM
   - LLAMA
   - MULE
-  - MUSHROOM_COW
+  - MOOSHROOM
   - OCELOT
   - PANDA
   - PARROT
@@ -44,7 +44,7 @@ pettable-entities:
   - SALMON
   - SHEEP
   - SKELETON_HORSE
-  - SNOWMAN
+  - SNOW_GOLEM
   - STRIDER
   - TRADER_LLAMA
   - TROPICAL_FISH
@@ -56,6 +56,14 @@ pettable-entities:
   - CAMEL
   - SNIFFER
   - ARMADILLO
+  - NAUTILUS
+  - ZOMBIE_NAUTILUS
+  - CAMEL_HUSK
+  - HAPPY_GHAST
+  - COPPER_GOLEM
+  - ALLAY
+  - SQUID
+  - TADPOLE
 
 void-keep-inventory: true
 
@@ -78,7 +86,7 @@ random-sized-entities:
   - HORSE
   - LLAMA
   - MULE
-  - MUSHROOM_COW
+  - MOOSHROOM
   - OCELOT
   - PANDA
   - PARROT
@@ -89,7 +97,7 @@ random-sized-entities:
   - SALMON
   - SHEEP
   - SKELETON_HORSE
-  - SNOWMAN
+  - SNOW_GOLEM
   - STRIDER
   - TRADER_LLAMA
   - TROPICAL_FISH
@@ -100,11 +108,13 @@ random-sized-entities:
   - CAMEL
   - SNIFFER
   - ARMADILLO
+  - NAUTILUS
+  - HAPPY_GHAST
 
 protect-named-entities: true
-no-drown-entities:
+no-drown-named-entities:
   - DOLPHIN
-no-dryout-entities:
+no-dryout-named-entities:
   - DOLPHIN
   - AXOLOTL
-no-suffocate-entities: []
+no-suffocate-named-entities: []
