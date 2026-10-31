@@ -118,3 +118,8 @@ no-dryout-named-entities:
   - DOLPHIN
   - AXOLOTL
 no-suffocate-named-entities: []
+
+server-links:
+  Vote: "https://minecraft-mp.com/server/247958/vote/?username={player}"
+  Discord: "https://discord.gg/XPUNkut"
+  Map: "https://map.blanktopia.com"

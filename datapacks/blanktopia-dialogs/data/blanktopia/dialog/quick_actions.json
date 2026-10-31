@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:multi_action",
+  "title": {"text": "Blanktopia"},
+  "external_title": {"text": "Blanktopia"},
+  "columns": 2,
+  "actions": [
+    {
+      "label": {"text": "Homes"},
+      "tooltip": {"text": "/home"},
+      "action": {"type": "run_command", "command": "home"}
+    },
+    {
+      "label": {"text": "Warps"},
+      "tooltip": {"text": "/warp"},
+      "action": {"type": "run_command", "command": "warp"}
+    },
+    {
+      "label": {"text": "Player Warps"},
+      "tooltip": {"text": "/pwarp"},
+      "action": {"type": "run_command", "command": "pwarp"}
+    },
+    {
+      "label": {"text": "Back"},
+      "tooltip": {"text": "/back: return to your last location"},
+      "action": {"type": "run_command", "command": "back"}
+    }
+  ]
+}
